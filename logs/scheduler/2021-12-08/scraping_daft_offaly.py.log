@@ -3120,3 +3120,45 @@
 [2021-12-08 12:14:43,510] {logging_mixin.py:109} INFO - [2021-12-08 12:14:43,510] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-08 12:14:43,540] {logging_mixin.py:109} INFO - [2021-12-08 12:14:43,540] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
 [2021-12-08 12:14:43,556] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.146 seconds
+[2021-12-08 12:15:13,792] {processor.py:163} INFO - Started process (PID=9685) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:13,794] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:15:13,796] {logging_mixin.py:109} INFO - [2021-12-08 12:15:13,796] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:13,873] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:13,889] {logging_mixin.py:109} INFO - [2021-12-08 12:15:13,889] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:13,932] {logging_mixin.py:109} INFO - [2021-12-08 12:15:13,932] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:15:13,954] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.167 seconds
+[2021-12-08 12:15:44,238] {processor.py:163} INFO - Started process (PID=9732) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:44,240] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:15:44,242] {logging_mixin.py:109} INFO - [2021-12-08 12:15:44,242] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:44,320] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:15:44,335] {logging_mixin.py:109} INFO - [2021-12-08 12:15:44,335] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:44,365] {logging_mixin.py:109} INFO - [2021-12-08 12:15:44,365] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:15:44,379] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.146 seconds
+[2021-12-08 12:16:14,615] {processor.py:163} INFO - Started process (PID=9780) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:14,618] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:16:14,619] {logging_mixin.py:109} INFO - [2021-12-08 12:16:14,619] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:14,694] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:14,709] {logging_mixin.py:109} INFO - [2021-12-08 12:16:14,709] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:14,752] {logging_mixin.py:109} INFO - [2021-12-08 12:16:14,752] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:16:14,781] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.172 seconds
+[2021-12-08 12:16:45,174] {processor.py:163} INFO - Started process (PID=9838) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:45,176] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:16:45,178] {logging_mixin.py:109} INFO - [2021-12-08 12:16:45,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:45,314] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:16:45,362] {logging_mixin.py:109} INFO - [2021-12-08 12:16:45,362] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:45,425] {logging_mixin.py:109} INFO - [2021-12-08 12:16:45,425] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:16:45,456] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.285 seconds
+[2021-12-08 12:17:15,558] {processor.py:163} INFO - Started process (PID=9886) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:15,575] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:17:15,577] {logging_mixin.py:109} INFO - [2021-12-08 12:17:15,577] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:15,662] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:15,678] {logging_mixin.py:109} INFO - [2021-12-08 12:17:15,677] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:15,713] {logging_mixin.py:109} INFO - [2021-12-08 12:17:15,713] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:17:15,728] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.175 seconds
+[2021-12-08 12:17:45,834] {processor.py:163} INFO - Started process (PID=9942) to work on /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:45,837] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_offaly.py for tasks to queue
+[2021-12-08 12:17:45,839] {logging_mixin.py:109} INFO - [2021-12-08 12:17:45,838] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:45,949] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_offaly']) retrieved from /opt/airflow/dags/scraping_daft_offaly.py
+[2021-12-08 12:17:45,967] {logging_mixin.py:109} INFO - [2021-12-08 12:17:45,967] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:46,006] {logging_mixin.py:109} INFO - [2021-12-08 12:17:46,006] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_offaly to 2021-12-08T04:45:00+00:00
+[2021-12-08 12:17:46,022] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_offaly.py took 0.194 seconds

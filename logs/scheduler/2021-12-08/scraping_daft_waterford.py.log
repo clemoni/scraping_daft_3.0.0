@@ -3134,3 +3134,52 @@
 [2021-12-08 12:14:40,873] {logging_mixin.py:109} INFO - [2021-12-08 12:14:40,873] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-08 12:14:40,908] {logging_mixin.py:109} INFO - [2021-12-08 12:14:40,907] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
 [2021-12-08 12:14:40,926] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.153 seconds
+[2021-12-08 12:15:11,365] {processor.py:163} INFO - Started process (PID=9669) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:11,367] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:15:11,369] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,369] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:11,463] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:11,484] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,484] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:11,524] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,524] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:15:11,545] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.184 seconds
+[2021-12-08 12:15:41,677] {processor.py:163} INFO - Started process (PID=9727) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:41,680] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:15:41,681] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,681] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:41,766] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:15:41,781] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,781] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:41,818] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,818] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:15:41,842] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.169 seconds
+[2021-12-08 12:16:12,211] {processor.py:163} INFO - Started process (PID=9775) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:12,213] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:16:12,214] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,214] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:12,308] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:12,326] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:12,368] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,368] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:16:12,399] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.192 seconds
+[2021-12-08 12:16:43,445] {processor.py:163} INFO - Started process (PID=9833) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:43,453] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:16:43,456] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,456] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:43,649] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:16:43,687] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:43,766] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,766] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:16:43,800] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.369 seconds
+[2021-12-08 12:17:13,847] {processor.py:163} INFO - Started process (PID=9881) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:13,850] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:17:13,852] {logging_mixin.py:109} INFO - [2021-12-08 12:17:13,852] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:13,927] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:13,942] {logging_mixin.py:109} INFO - [2021-12-08 12:17:13,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:13,973] {logging_mixin.py:109} INFO - [2021-12-08 12:17:13,973] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:17:13,988] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.145 seconds
+[2021-12-08 12:17:44,080] {processor.py:163} INFO - Started process (PID=9929) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:44,084] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:17:44,086] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,085] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:44,168] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:17:44,184] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:44,224] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,224] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:17:44,241] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.166 seconds
+[2021-12-08 12:18:14,466] {processor.py:163} INFO - Started process (PID=9988) to work on /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:18:14,469] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_waterford.py for tasks to queue
+[2021-12-08 12:18:14,471] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,470] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:18:14,547] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_waterford']) retrieved from /opt/airflow/dags/scraping_daft_waterford.py
+[2021-12-08 12:18:14,565] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,565] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:18:14,598] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,598] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_waterford to 2021-12-08T05:45:00+00:00
+[2021-12-08 12:18:14,614] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_waterford.py took 0.151 seconds

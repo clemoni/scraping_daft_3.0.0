@@ -3162,3 +3162,52 @@
 [2021-12-08 12:14:39,075] {logging_mixin.py:109} INFO - [2021-12-08 12:14:39,074] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-08 12:14:39,110] {logging_mixin.py:109} INFO - [2021-12-08 12:14:39,110] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
 [2021-12-08 12:14:39,128] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.159 seconds
+[2021-12-08 12:15:09,616] {processor.py:163} INFO - Started process (PID=9661) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:09,619] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:15:09,620] {logging_mixin.py:109} INFO - [2021-12-08 12:15:09,620] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:09,691] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:09,706] {logging_mixin.py:109} INFO - [2021-12-08 12:15:09,706] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:09,736] {logging_mixin.py:109} INFO - [2021-12-08 12:15:09,736] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:15:09,752] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.140 seconds
+[2021-12-08 12:15:39,997] {processor.py:163} INFO - Started process (PID=9719) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:40,000] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:15:40,002] {logging_mixin.py:109} INFO - [2021-12-08 12:15:40,002] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:40,088] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:15:40,103] {logging_mixin.py:109} INFO - [2021-12-08 12:15:40,103] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:40,136] {logging_mixin.py:109} INFO - [2021-12-08 12:15:40,136] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:15:40,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.160 seconds
+[2021-12-08 12:16:10,567] {processor.py:163} INFO - Started process (PID=9767) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:10,570] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:16:10,571] {logging_mixin.py:109} INFO - [2021-12-08 12:16:10,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:10,642] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:10,657] {logging_mixin.py:109} INFO - [2021-12-08 12:16:10,657] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:10,689] {logging_mixin.py:109} INFO - [2021-12-08 12:16:10,688] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:16:10,704] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.140 seconds
+[2021-12-08 12:16:41,180] {processor.py:163} INFO - Started process (PID=9825) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:41,184] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:16:41,187] {logging_mixin.py:109} INFO - [2021-12-08 12:16:41,187] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:41,331] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:16:41,360] {logging_mixin.py:109} INFO - [2021-12-08 12:16:41,360] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:41,401] {logging_mixin.py:109} INFO - [2021-12-08 12:16:41,401] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:16:41,431] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.258 seconds
+[2021-12-08 12:17:11,880] {processor.py:163} INFO - Started process (PID=9873) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:11,884] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:17:11,886] {logging_mixin.py:109} INFO - [2021-12-08 12:17:11,885] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:12,000] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:12,024] {logging_mixin.py:109} INFO - [2021-12-08 12:17:12,024] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:12,076] {logging_mixin.py:109} INFO - [2021-12-08 12:17:12,076] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:17:12,098] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.224 seconds
+[2021-12-08 12:17:42,190] {processor.py:163} INFO - Started process (PID=9921) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:42,193] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:17:42,194] {logging_mixin.py:109} INFO - [2021-12-08 12:17:42,194] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:42,275] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:17:42,291] {logging_mixin.py:109} INFO - [2021-12-08 12:17:42,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:42,322] {logging_mixin.py:109} INFO - [2021-12-08 12:17:42,321] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:17:42,336] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.151 seconds
+[2021-12-08 12:18:12,491] {processor.py:163} INFO - Started process (PID=9980) to work on /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:18:12,495] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_westmeath.py for tasks to queue
+[2021-12-08 12:18:12,497] {logging_mixin.py:109} INFO - [2021-12-08 12:18:12,497] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:18:12,600] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_westmeath']) retrieved from /opt/airflow/dags/scraping_daft_westmeath.py
+[2021-12-08 12:18:12,621] {logging_mixin.py:109} INFO - [2021-12-08 12:18:12,620] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:18:12,661] {logging_mixin.py:109} INFO - [2021-12-08 12:18:12,660] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_westmeath to 2021-12-08T06:00:00+00:00
+[2021-12-08 12:18:12,685] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_westmeath.py took 0.204 seconds

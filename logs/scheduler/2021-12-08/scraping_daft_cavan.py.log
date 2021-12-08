@@ -3134,3 +3134,52 @@
 [2021-12-08 12:14:41,092] {logging_mixin.py:109} INFO - [2021-12-08 12:14:41,092] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-08 12:14:41,144] {logging_mixin.py:109} INFO - [2021-12-08 12:14:41,144] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
 [2021-12-08 12:14:41,165] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.216 seconds
+[2021-12-08 12:15:11,376] {processor.py:163} INFO - Started process (PID=9670) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:11,379] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:15:11,381] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,380] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:11,477] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:11,497] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:11,541] {logging_mixin.py:109} INFO - [2021-12-08 12:15:11,540] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:15:11,570] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.199 seconds
+[2021-12-08 12:15:41,867] {processor.py:163} INFO - Started process (PID=9728) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:41,869] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:15:41,870] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,870] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:41,937] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:15:41,954] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:41,983] {logging_mixin.py:109} INFO - [2021-12-08 12:15:41,983] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:15:42,001] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.138 seconds
+[2021-12-08 12:16:12,217] {processor.py:163} INFO - Started process (PID=9776) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:12,219] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:16:12,221] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,221] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:12,303] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:12,322] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,322] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:12,368] {logging_mixin.py:109} INFO - [2021-12-08 12:16:12,368] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:16:12,397] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.184 seconds
+[2021-12-08 12:16:43,487] {processor.py:163} INFO - Started process (PID=9834) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:43,492] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:16:43,496] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,496] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:43,671] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:16:43,708] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,707] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:43,776] {logging_mixin.py:109} INFO - [2021-12-08 12:16:43,776] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:16:43,810] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.331 seconds
+[2021-12-08 12:17:14,011] {processor.py:163} INFO - Started process (PID=9882) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:14,014] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:17:14,015] {logging_mixin.py:109} INFO - [2021-12-08 12:17:14,015] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:14,084] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:14,101] {logging_mixin.py:109} INFO - [2021-12-08 12:17:14,100] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:14,139] {logging_mixin.py:109} INFO - [2021-12-08 12:17:14,139] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:17:14,157] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.149 seconds
+[2021-12-08 12:17:44,266] {processor.py:163} INFO - Started process (PID=9930) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:44,269] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:17:44,270] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,270] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:44,349] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:17:44,368] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,368] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:44,406] {logging_mixin.py:109} INFO - [2021-12-08 12:17:44,405] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:17:44,422] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.160 seconds
+[2021-12-08 12:18:14,636] {processor.py:163} INFO - Started process (PID=9989) to work on /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:18:14,639] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cavan.py for tasks to queue
+[2021-12-08 12:18:14,640] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,640] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:18:14,732] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cavan']) retrieved from /opt/airflow/dags/scraping_daft_cavan.py
+[2021-12-08 12:18:14,751] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,751] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:18:14,790] {logging_mixin.py:109} INFO - [2021-12-08 12:18:14,790] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cavan to 2021-12-08T00:30:00+00:00
+[2021-12-08 12:18:14,809] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cavan.py took 0.176 seconds

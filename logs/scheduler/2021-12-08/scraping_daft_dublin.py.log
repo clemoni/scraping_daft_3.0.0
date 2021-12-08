@@ -3120,3 +3120,45 @@
 [2021-12-08 12:14:44,524] {logging_mixin.py:109} INFO - [2021-12-08 12:14:44,523] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-08 12:14:44,562] {logging_mixin.py:109} INFO - [2021-12-08 12:14:44,561] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
 [2021-12-08 12:14:44,574] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.151 seconds
+[2021-12-08 12:15:14,960] {processor.py:163} INFO - Started process (PID=9686) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:14,964] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:15:14,965] {logging_mixin.py:109} INFO - [2021-12-08 12:15:14,965] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:15,069] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:15,087] {logging_mixin.py:109} INFO - [2021-12-08 12:15:15,087] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:15,122] {logging_mixin.py:109} INFO - [2021-12-08 12:15:15,122] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:15:15,136] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.180 seconds
+[2021-12-08 12:15:45,412] {processor.py:163} INFO - Started process (PID=9733) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:45,414] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:15:45,416] {logging_mixin.py:109} INFO - [2021-12-08 12:15:45,416] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:45,495] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:15:45,515] {logging_mixin.py:109} INFO - [2021-12-08 12:15:45,514] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:15:45,555] {logging_mixin.py:109} INFO - [2021-12-08 12:15:45,555] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:15:45,576] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.168 seconds
+[2021-12-08 12:16:15,816] {processor.py:163} INFO - Started process (PID=9791) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:15,819] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:16:15,821] {logging_mixin.py:109} INFO - [2021-12-08 12:16:15,821] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:15,910] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:15,928] {logging_mixin.py:109} INFO - [2021-12-08 12:16:15,928] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:15,969] {logging_mixin.py:109} INFO - [2021-12-08 12:16:15,969] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:16:15,991] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.180 seconds
+[2021-12-08 12:16:46,482] {processor.py:163} INFO - Started process (PID=9839) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:46,486] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:16:46,489] {logging_mixin.py:109} INFO - [2021-12-08 12:16:46,489] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:46,612] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:16:46,641] {logging_mixin.py:109} INFO - [2021-12-08 12:16:46,641] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:16:46,712] {logging_mixin.py:109} INFO - [2021-12-08 12:16:46,712] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:16:46,740] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.264 seconds
+[2021-12-08 12:17:17,766] {processor.py:163} INFO - Started process (PID=9887) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:17,769] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:17:17,770] {logging_mixin.py:109} INFO - [2021-12-08 12:17:17,770] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:17,865] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:17,885] {logging_mixin.py:109} INFO - [2021-12-08 12:17:17,885] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:17,931] {logging_mixin.py:109} INFO - [2021-12-08 12:17:17,930] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:17:17,957] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.194 seconds
+[2021-12-08 12:17:48,060] {processor.py:163} INFO - Started process (PID=9946) to work on /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:48,064] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_dublin.py for tasks to queue
+[2021-12-08 12:17:48,066] {logging_mixin.py:109} INFO - [2021-12-08 12:17:48,066] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:48,172] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_dublin']) retrieved from /opt/airflow/dags/scraping_daft_dublin.py
+[2021-12-08 12:17:48,205] {logging_mixin.py:109} INFO - [2021-12-08 12:17:48,205] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-08 12:17:48,247] {logging_mixin.py:109} INFO - [2021-12-08 12:17:48,247] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_dublin to 2021-12-08T01:30:00+00:00
+[2021-12-08 12:17:48,268] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_dublin.py took 0.214 seconds
