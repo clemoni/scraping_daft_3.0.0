@@ -1,0 +1,25 @@
+[2021-12-09 02:45:26,719] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_laois.waiting_for_file scheduled__2021-12-08T02:45:00+00:00 [queued]>
+[2021-12-09 02:45:26,736] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_laois.waiting_for_file scheduled__2021-12-08T02:45:00+00:00 [queued]>
+[2021-12-09 02:45:26,737] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-09 02:45:26,738] {taskinstance.py:1242} INFO - Starting attempt 1 of 3
+[2021-12-09 02:45:26,738] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-09 02:45:26,755] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-08 02:45:00+00:00
+[2021-12-09 02:45:26,766] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_laois', 'waiting_for_file', 'scheduled__2021-12-08T02:45:00+00:00', '--job-id', '803', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_laois.py', '--cfg-path', '/tmp/tmprbju8tse', '--error-file', '/tmp/tmpasihfoyh']
+[2021-12-09 02:45:26,768] {standard_task_runner.py:77} INFO - Job 803: Subtask waiting_for_file
+[2021-12-09 02:45:26,762] {standard_task_runner.py:52} INFO - Started process 53704 to run task
+[2021-12-09 02:45:26,866] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_laois.waiting_for_file scheduled__2021-12-08T02:45:00+00:00 [running]> on host 041e6f8654c3
+[2021-12-09 02:45:27,001] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***@example.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_laois
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-08T02:45:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-08T02:45:00+00:00
+[2021-12-09 02:45:27,045] {filesystem.py:59} INFO - Poking for file data/laois_rent.json
+[2021-12-09 02:45:27,047] {filesystem.py:65} INFO - Found File data/laois_rent.json last modified: 20211209024524
+[2021-12-09 02:45:27,048] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-09 02:45:27,083] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_laois, task_id=waiting_for_file, execution_date=20211208T024500, start_date=20211209T024526, end_date=20211209T024527
+[2021-12-09 02:45:27,108] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-09 02:45:27,210] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
