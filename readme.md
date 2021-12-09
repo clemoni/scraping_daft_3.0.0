@@ -12,7 +12,7 @@ My exasperation ran high and so did my incomprehension regarding these different
 
 It happens that almost all Ireland letting advertisement is centralised to one place, daft.com, a website owned by Distilled SCH. As it wasn't possible to access daft.com database, it had to create one. Hence, this project.
 
-This project runs on Docker, it uses Airflow to run Spark jobs. Basically, for each country, Airflow is used to schedule everyday tasks that consist of scraping a webpage and persisting the data in a database (Postgres). Every time, the data has been persisted in the database a notification is sent to a dedicated slack channel. In a later phase, the data would be used for analysis.
+This project runs on Docker, it uses Airflow to run Spark jobs. Basically, for each country, Airflow is used to schedule everyday tasks that consist of scraping a webpage and persisting the data in a database (Postgres). Every time, the data has been successfully persisted in the database a notification is sent to a dedicated slack channel. In a later phase, the data would be used for analysis.
 
 ## Running the Project
 
