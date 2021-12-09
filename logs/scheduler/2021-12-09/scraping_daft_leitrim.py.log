@@ -9721,3 +9721,31 @@
 [2021-12-09 11:48:41,870] {logging_mixin.py:109} INFO - [2021-12-09 11:48:41,870] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:48:41,901] {logging_mixin.py:109} INFO - [2021-12-09 11:48:41,901] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_leitrim to 2021-12-09T03:00:00+00:00
 [2021-12-09 11:48:41,919] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_leitrim.py took 0.161 seconds
+[2021-12-09 11:49:12,108] {processor.py:163} INFO - Started process (PID=35556) to work on /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:12,111] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_leitrim.py for tasks to queue
+[2021-12-09 11:49:12,113] {logging_mixin.py:109} INFO - [2021-12-09 11:49:12,113] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:12,204] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_leitrim']) retrieved from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:12,226] {logging_mixin.py:109} INFO - [2021-12-09 11:49:12,226] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:12,266] {logging_mixin.py:109} INFO - [2021-12-09 11:49:12,265] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_leitrim to 2021-12-09T03:00:00+00:00
+[2021-12-09 11:49:12,293] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_leitrim.py took 0.191 seconds
+[2021-12-09 11:49:42,674] {processor.py:163} INFO - Started process (PID=35614) to work on /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:42,677] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_leitrim.py for tasks to queue
+[2021-12-09 11:49:42,679] {logging_mixin.py:109} INFO - [2021-12-09 11:49:42,679] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:42,770] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_leitrim']) retrieved from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:49:42,787] {logging_mixin.py:109} INFO - [2021-12-09 11:49:42,787] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:42,820] {logging_mixin.py:109} INFO - [2021-12-09 11:49:42,819] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_leitrim to 2021-12-09T03:00:00+00:00
+[2021-12-09 11:49:42,834] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_leitrim.py took 0.167 seconds
+[2021-12-09 11:50:13,472] {processor.py:163} INFO - Started process (PID=35662) to work on /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:13,475] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_leitrim.py for tasks to queue
+[2021-12-09 11:50:13,476] {logging_mixin.py:109} INFO - [2021-12-09 11:50:13,476] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:13,556] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_leitrim']) retrieved from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:13,577] {logging_mixin.py:109} INFO - [2021-12-09 11:50:13,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:13,608] {logging_mixin.py:109} INFO - [2021-12-09 11:50:13,608] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_leitrim to 2021-12-09T03:00:00+00:00
+[2021-12-09 11:50:13,624] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_leitrim.py took 0.156 seconds
+[2021-12-09 11:50:43,860] {processor.py:163} INFO - Started process (PID=35720) to work on /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:43,862] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_leitrim.py for tasks to queue
+[2021-12-09 11:50:43,864] {logging_mixin.py:109} INFO - [2021-12-09 11:50:43,864] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:43,965] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_leitrim']) retrieved from /opt/airflow/dags/scraping_daft_leitrim.py
+[2021-12-09 11:50:43,986] {logging_mixin.py:109} INFO - [2021-12-09 11:50:43,985] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:44,027] {logging_mixin.py:109} INFO - [2021-12-09 11:50:44,027] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_leitrim to 2021-12-09T03:00:00+00:00
+[2021-12-09 11:50:44,048] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_leitrim.py took 0.194 seconds

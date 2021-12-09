@@ -9721,3 +9721,24 @@
 [2021-12-09 11:48:44,108] {logging_mixin.py:109} INFO - [2021-12-09 11:48:44,108] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:48:44,141] {logging_mixin.py:109} INFO - [2021-12-09 11:48:44,141] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kerry to 2021-12-09T02:00:00+00:00
 [2021-12-09 11:48:44,164] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kerry.py took 0.170 seconds
+[2021-12-09 11:49:14,304] {processor.py:163} INFO - Started process (PID=35561) to work on /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:14,307] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kerry.py for tasks to queue
+[2021-12-09 11:49:14,309] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,309] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:14,392] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kerry']) retrieved from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:14,411] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:14,446] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,446] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kerry to 2021-12-09T02:00:00+00:00
+[2021-12-09 11:49:14,476] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kerry.py took 0.176 seconds
+[2021-12-09 11:49:44,831] {processor.py:163} INFO - Started process (PID=35619) to work on /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:44,834] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kerry.py for tasks to queue
+[2021-12-09 11:49:44,837] {logging_mixin.py:109} INFO - [2021-12-09 11:49:44,836] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:44,933] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kerry']) retrieved from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:49:44,956] {logging_mixin.py:109} INFO - [2021-12-09 11:49:44,956] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:44,994] {logging_mixin.py:109} INFO - [2021-12-09 11:49:44,994] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kerry to 2021-12-09T02:00:00+00:00
+[2021-12-09 11:49:45,018] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kerry.py took 0.192 seconds
+[2021-12-09 11:50:15,684] {processor.py:163} INFO - Started process (PID=35667) to work on /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:50:15,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kerry.py for tasks to queue
+[2021-12-09 11:50:15,689] {logging_mixin.py:109} INFO - [2021-12-09 11:50:15,689] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:50:15,773] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kerry']) retrieved from /opt/airflow/dags/scraping_daft_kerry.py
+[2021-12-09 11:50:15,794] {logging_mixin.py:109} INFO - [2021-12-09 11:50:15,794] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:15,823] {logging_mixin.py:109} INFO - [2021-12-09 11:50:15,823] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kerry to 2021-12-09T02:00:00+00:00
+[2021-12-09 11:50:15,843] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kerry.py took 0.163 seconds

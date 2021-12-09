@@ -9714,3 +9714,24 @@
 [2021-12-09 11:48:44,516] {logging_mixin.py:109} INFO - [2021-12-09 11:48:44,516] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:48:44,548] {logging_mixin.py:109} INFO - [2021-12-09 11:48:44,548] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_tipperary to 2021-12-09T05:30:00+00:00
 [2021-12-09 11:48:44,563] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_tipperary.py took 0.162 seconds
+[2021-12-09 11:49:14,676] {processor.py:163} INFO - Started process (PID=35564) to work on /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:14,679] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_tipperary.py for tasks to queue
+[2021-12-09 11:49:14,680] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:14,724] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_tipperary']) retrieved from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:14,743] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:14,775] {logging_mixin.py:109} INFO - [2021-12-09 11:49:14,775] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_tipperary to 2021-12-09T05:30:00+00:00
+[2021-12-09 11:49:14,792] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_tipperary.py took 0.154 seconds
+[2021-12-09 11:49:45,308] {processor.py:163} INFO - Started process (PID=35622) to work on /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:45,315] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_tipperary.py for tasks to queue
+[2021-12-09 11:49:45,318] {logging_mixin.py:109} INFO - [2021-12-09 11:49:45,318] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:45,435] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_tipperary']) retrieved from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:49:45,464] {logging_mixin.py:109} INFO - [2021-12-09 11:49:45,464] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:45,507] {logging_mixin.py:109} INFO - [2021-12-09 11:49:45,506] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_tipperary to 2021-12-09T05:30:00+00:00
+[2021-12-09 11:49:45,530] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_tipperary.py took 0.229 seconds
+[2021-12-09 11:50:16,038] {processor.py:163} INFO - Started process (PID=35670) to work on /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:50:16,041] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_tipperary.py for tasks to queue
+[2021-12-09 11:50:16,042] {logging_mixin.py:109} INFO - [2021-12-09 11:50:16,042] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:50:16,119] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_tipperary']) retrieved from /opt/airflow/dags/scraping_daft_tipperary.py
+[2021-12-09 11:50:16,136] {logging_mixin.py:109} INFO - [2021-12-09 11:50:16,136] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:16,167] {logging_mixin.py:109} INFO - [2021-12-09 11:50:16,167] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_tipperary to 2021-12-09T05:30:00+00:00
+[2021-12-09 11:50:16,186] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_tipperary.py took 0.152 seconds

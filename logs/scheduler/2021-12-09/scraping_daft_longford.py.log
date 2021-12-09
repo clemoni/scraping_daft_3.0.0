@@ -9721,3 +9721,31 @@
 [2021-12-09 11:48:38,394] {logging_mixin.py:109} INFO - [2021-12-09 11:48:38,394] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:48:38,431] {logging_mixin.py:109} INFO - [2021-12-09 11:48:38,431] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_longford to 2021-12-09T03:30:00+00:00
 [2021-12-09 11:48:38,451] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_longford.py took 0.198 seconds
+[2021-12-09 11:49:08,794] {processor.py:163} INFO - Started process (PID=35543) to work on /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:08,797] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_longford.py for tasks to queue
+[2021-12-09 11:49:08,798] {logging_mixin.py:109} INFO - [2021-12-09 11:49:08,798] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:08,871] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_longford']) retrieved from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:08,888] {logging_mixin.py:109} INFO - [2021-12-09 11:49:08,888] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:08,917] {logging_mixin.py:109} INFO - [2021-12-09 11:49:08,916] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_longford to 2021-12-09T03:30:00+00:00
+[2021-12-09 11:49:08,935] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_longford.py took 0.146 seconds
+[2021-12-09 11:49:39,161] {processor.py:163} INFO - Started process (PID=35591) to work on /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:39,164] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_longford.py for tasks to queue
+[2021-12-09 11:49:39,165] {logging_mixin.py:109} INFO - [2021-12-09 11:49:39,165] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:39,239] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_longford']) retrieved from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:49:39,254] {logging_mixin.py:109} INFO - [2021-12-09 11:49:39,254] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:39,283] {logging_mixin.py:109} INFO - [2021-12-09 11:49:39,283] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_longford to 2021-12-09T03:30:00+00:00
+[2021-12-09 11:49:39,301] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_longford.py took 0.144 seconds
+[2021-12-09 11:50:10,073] {processor.py:163} INFO - Started process (PID=35649) to work on /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:10,076] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_longford.py for tasks to queue
+[2021-12-09 11:50:10,078] {logging_mixin.py:109} INFO - [2021-12-09 11:50:10,078] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:10,168] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_longford']) retrieved from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:10,186] {logging_mixin.py:109} INFO - [2021-12-09 11:50:10,186] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:10,219] {logging_mixin.py:109} INFO - [2021-12-09 11:50:10,219] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_longford to 2021-12-09T03:30:00+00:00
+[2021-12-09 11:50:10,238] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_longford.py took 0.171 seconds
+[2021-12-09 11:50:40,448] {processor.py:163} INFO - Started process (PID=35696) to work on /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:40,452] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_longford.py for tasks to queue
+[2021-12-09 11:50:40,454] {logging_mixin.py:109} INFO - [2021-12-09 11:50:40,454] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:40,555] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_longford']) retrieved from /opt/airflow/dags/scraping_daft_longford.py
+[2021-12-09 11:50:40,577] {logging_mixin.py:109} INFO - [2021-12-09 11:50:40,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:40,621] {logging_mixin.py:109} INFO - [2021-12-09 11:50:40,620] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_longford to 2021-12-09T03:30:00+00:00
+[2021-12-09 11:50:40,647] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_longford.py took 0.205 seconds

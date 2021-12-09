@@ -9728,3 +9728,24 @@
 [2021-12-09 11:49:00,833] {logging_mixin.py:109} INFO - [2021-12-09 11:49:00,833] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:49:00,874] {logging_mixin.py:109} INFO - [2021-12-09 11:49:00,874] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cork to 2021-12-09T01:00:00+00:00
 [2021-12-09 11:49:00,892] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cork.py took 0.174 seconds
+[2021-12-09 11:49:30,951] {processor.py:163} INFO - Started process (PID=35589) to work on /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:49:30,953] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cork.py for tasks to queue
+[2021-12-09 11:49:30,955] {logging_mixin.py:109} INFO - [2021-12-09 11:49:30,955] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:49:31,036] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cork']) retrieved from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:49:31,050] {logging_mixin.py:109} INFO - [2021-12-09 11:49:31,050] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:31,076] {logging_mixin.py:109} INFO - [2021-12-09 11:49:31,076] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cork to 2021-12-09T01:00:00+00:00
+[2021-12-09 11:49:31,090] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cork.py took 0.144 seconds
+[2021-12-09 11:50:01,854] {processor.py:163} INFO - Started process (PID=35636) to work on /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:01,858] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cork.py for tasks to queue
+[2021-12-09 11:50:01,860] {logging_mixin.py:109} INFO - [2021-12-09 11:50:01,860] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:01,937] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cork']) retrieved from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:01,951] {logging_mixin.py:109} INFO - [2021-12-09 11:50:01,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:01,978] {logging_mixin.py:109} INFO - [2021-12-09 11:50:01,978] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cork to 2021-12-09T01:00:00+00:00
+[2021-12-09 11:50:01,991] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cork.py took 0.142 seconds
+[2021-12-09 11:50:32,368] {processor.py:163} INFO - Started process (PID=35694) to work on /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:32,371] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_cork.py for tasks to queue
+[2021-12-09 11:50:32,373] {logging_mixin.py:109} INFO - [2021-12-09 11:50:32,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:32,476] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_cork']) retrieved from /opt/airflow/dags/scraping_daft_cork.py
+[2021-12-09 11:50:32,501] {logging_mixin.py:109} INFO - [2021-12-09 11:50:32,501] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:32,544] {logging_mixin.py:109} INFO - [2021-12-09 11:50:32,543] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_cork to 2021-12-09T01:00:00+00:00
+[2021-12-09 11:50:32,567] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_cork.py took 0.205 seconds

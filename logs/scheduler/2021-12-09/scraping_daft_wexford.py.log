@@ -9721,3 +9721,31 @@
 [2021-12-09 11:48:40,214] {logging_mixin.py:109} INFO - [2021-12-09 11:48:40,214] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-09 11:48:40,247] {logging_mixin.py:109} INFO - [2021-12-09 11:48:40,247] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wexford to 2021-12-09T06:15:00+00:00
 [2021-12-09 11:48:40,273] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wexford.py took 0.193 seconds
+[2021-12-09 11:49:10,337] {processor.py:163} INFO - Started process (PID=35550) to work on /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:10,339] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wexford.py for tasks to queue
+[2021-12-09 11:49:10,341] {logging_mixin.py:109} INFO - [2021-12-09 11:49:10,341] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:10,413] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wexford']) retrieved from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:10,432] {logging_mixin.py:109} INFO - [2021-12-09 11:49:10,432] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:10,461] {logging_mixin.py:109} INFO - [2021-12-09 11:49:10,461] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wexford to 2021-12-09T06:15:00+00:00
+[2021-12-09 11:49:10,480] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wexford.py took 0.147 seconds
+[2021-12-09 11:49:40,957] {processor.py:163} INFO - Started process (PID=35608) to work on /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:40,960] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wexford.py for tasks to queue
+[2021-12-09 11:49:40,962] {logging_mixin.py:109} INFO - [2021-12-09 11:49:40,962] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:41,045] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wexford']) retrieved from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:49:41,061] {logging_mixin.py:109} INFO - [2021-12-09 11:49:41,061] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:49:41,096] {logging_mixin.py:109} INFO - [2021-12-09 11:49:41,096] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wexford to 2021-12-09T06:15:00+00:00
+[2021-12-09 11:49:41,118] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wexford.py took 0.166 seconds
+[2021-12-09 11:50:11,703] {processor.py:163} INFO - Started process (PID=35656) to work on /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:11,706] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wexford.py for tasks to queue
+[2021-12-09 11:50:11,707] {logging_mixin.py:109} INFO - [2021-12-09 11:50:11,707] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:11,786] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wexford']) retrieved from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:11,805] {logging_mixin.py:109} INFO - [2021-12-09 11:50:11,805] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:11,838] {logging_mixin.py:109} INFO - [2021-12-09 11:50:11,838] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wexford to 2021-12-09T06:15:00+00:00
+[2021-12-09 11:50:11,868] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wexford.py took 0.169 seconds
+[2021-12-09 11:50:42,192] {processor.py:163} INFO - Started process (PID=35703) to work on /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:42,195] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wexford.py for tasks to queue
+[2021-12-09 11:50:42,198] {logging_mixin.py:109} INFO - [2021-12-09 11:50:42,197] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:42,286] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wexford']) retrieved from /opt/airflow/dags/scraping_daft_wexford.py
+[2021-12-09 11:50:42,304] {logging_mixin.py:109} INFO - [2021-12-09 11:50:42,304] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-09 11:50:42,352] {logging_mixin.py:109} INFO - [2021-12-09 11:50:42,351] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wexford to 2021-12-09T06:15:00+00:00
+[2021-12-09 11:50:42,381] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wexford.py took 0.195 seconds
