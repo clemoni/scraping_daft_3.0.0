@@ -1,0 +1,25 @@
+[2021-12-10 09:52:15,658] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_sligo.get_reporting manual__2021-12-10T09:51:43.777349+00:00 [queued]>
+[2021-12-10 09:52:15,684] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_sligo.get_reporting manual__2021-12-10T09:51:43.777349+00:00 [queued]>
+[2021-12-10 09:52:15,685] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-10 09:52:15,686] {taskinstance.py:1242} INFO - Starting attempt 1 of 3
+[2021-12-10 09:52:15,687] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-10 09:52:15,715] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): get_reporting> on 2021-12-10 09:51:43.777349+00:00
+[2021-12-10 09:52:15,733] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_sligo', 'get_reporting', 'manual__2021-12-10T09:51:43.777349+00:00', '--job-id', '1150', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_sligo.py', '--cfg-path', '/tmp/tmpgscqkotr', '--error-file', '/tmp/tmpzz8r4ii9']
+[2021-12-10 09:52:15,735] {standard_task_runner.py:77} INFO - Job 1150: Subtask get_reporting
+[2021-12-10 09:52:15,726] {standard_task_runner.py:52} INFO - Started process 13091 to run task
+[2021-12-10 09:52:15,860] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_sligo.get_reporting manual__2021-12-10T09:51:43.777349+00:00 [running]> on host b7c04404c5f3
+[2021-12-10 09:52:16,010] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***@example.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_sligo
+AIRFLOW_CTX_TASK_ID=get_reporting
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-10T09:51:43.777349+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-12-10T09:51:43.777349+00:00
+[2021-12-10 09:52:16,032] {logging_mixin.py:109} INFO - sligo
+[2021-12-10 09:52:16,054] {base.py:79} INFO - Using connection to: id: postgres_db. Host: postgres, Port: 5432, Schema: scraping_daft, Login: ***, Password: ***, extra: {}
+[2021-12-10 09:52:16,101] {python.py:152} INFO - Done. Returned value was: None
+[2021-12-10 09:52:16,139] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_sligo, task_id=get_reporting, execution_date=20211210T095143, start_date=20211210T095215, end_date=20211210T095216
+[2021-12-10 09:52:16,162] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-10 09:52:16,255] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
