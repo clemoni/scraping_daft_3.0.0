@@ -1,0 +1,18 @@
+[2021-12-14 06:56:28,812] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-13T04:30:00+00:00 [queued]>
+[2021-12-14 06:56:57,334] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-13T04:30:00+00:00 [queued]>
+[2021-12-14 06:56:57,348] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-14 06:56:57,354] {taskinstance.py:1242} INFO - Starting attempt 2 of 4
+[2021-12-14 06:56:57,363] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-14 06:57:15,294] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-13 04:30:00+00:00
+[2021-12-14 06:57:26,004] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_monaghan', 'run_init_county', 'scheduled__2021-12-13T04:30:00+00:00', '--job-id', '2094', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_monaghan.py', '--cfg-path', '/tmp/tmpjpzc3sd1', '--error-file', '/tmp/tmpoz1j8sl6']
+[2021-12-14 06:57:26,563] {standard_task_runner.py:77} INFO - Job 2094: Subtask run_init_county
+[2021-12-14 06:57:19,936] {standard_task_runner.py:52} INFO - Started process 33941 to run task
+[2021-12-14 06:58:11,705] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-13T04:30:00+00:00 [running]> on host c81f81825bc0
+[2021-12-14 06:58:37,108] {local_task_job.py:212} WARNING - State of this instance has been externally set to up_for_retry. Terminating instance.
+[2021-12-14 06:58:59,035] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 33941
+[2021-12-14 06:59:01,674] {taskinstance.py:1411} ERROR - Received SIGTERM. Terminating subprocesses.
+[2021-12-14 07:00:01,641] {process_utils.py:113} WARNING - process psutil.Process(pid=33941, name='airflow task ru', status='sleeping', started='06:57:18') did not respond to SIGTERM. Trying SIGKILL
+[2021-12-14 07:00:23,816] {process_utils.py:66} INFO - Process psutil.Process(pid=33941, name='airflow task ru', status='terminated', exitcode=<Negsignal.SIGKILL: -9>, started='06:57:18') (33941) terminated with exit code Negsignal.SIGKILL
+[2021-12-14 07:00:24,105] {standard_task_runner.py:135} ERROR - Job 2094 was killed before it finished (likely due to running out of memory)

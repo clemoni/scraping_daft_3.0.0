@@ -6,18 +6,18 @@ config_filepath = 'include/dag_config'
 
 def init_cron_interval():
     minutes = 0
-    hours = 0
+    hours = 9
 
     def get_cron():
         return f"{minutes} {hours} * * *"
 
     def increment():
         nonlocal minutes, hours
-        if minutes == 45:
+        if minutes == 55:
             minutes = 0
             hours += 1
         else:
-            minutes += 15
+            minutes += 5
 
     return get_cron, increment
 

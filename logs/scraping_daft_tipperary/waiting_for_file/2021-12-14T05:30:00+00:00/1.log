@@ -1,0 +1,26 @@
+[2021-12-15 08:56:37,371] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_tipperary.waiting_for_file scheduled__2021-12-14T05:30:00+00:00 [queued]>
+[2021-12-15 08:56:37,839] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_tipperary.waiting_for_file scheduled__2021-12-14T05:30:00+00:00 [queued]>
+[2021-12-15 08:56:37,847] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-15 08:56:37,859] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-15 08:56:37,868] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-15 08:56:38,039] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-14 05:30:00+00:00
+[2021-12-15 08:56:38,084] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_tipperary', 'waiting_for_file', 'scheduled__2021-12-14T05:30:00+00:00', '--job-id', '2323', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_tipperary.py', '--cfg-path', '/tmp/tmp51o40lz1', '--error-file', '/tmp/tmp5j5rgi97']
+[2021-12-15 08:56:38,093] {standard_task_runner.py:77} INFO - Job 2323: Subtask waiting_for_file
+[2021-12-15 08:56:38,061] {standard_task_runner.py:52} INFO - Started process 2730 to run task
+[2021-12-15 08:56:39,387] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_tipperary.waiting_for_file scheduled__2021-12-14T05:30:00+00:00 [running]> on host e2904d252e94
+[2021-12-15 08:56:43,274] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_tipperary
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-14T05:30:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-14T05:30:00+00:00
+[2021-12-15 08:56:44,007] {filesystem.py:59} INFO - Poking for file data/tipperary_rent.json
+[2021-12-15 08:56:44,053] {filesystem.py:65} INFO - Found File data/tipperary_rent.json last modified: 20211215085618
+[2021-12-15 08:56:44,097] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-15 08:56:44,764] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_tipperary, task_id=waiting_for_file, execution_date=20211214T053000, start_date=20211215T085637, end_date=20211215T085644
+[2021-12-15 08:56:45,071] {local_task_job.py:212} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2021-12-15 08:56:45,185] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 2730
+[2021-12-15 08:56:45,447] {process_utils.py:66} INFO - Process psutil.Process(pid=2730, status='terminated', exitcode=0, started='08:56:37') (2730) terminated with exit code 0

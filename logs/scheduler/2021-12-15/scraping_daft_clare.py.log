@@ -1,0 +1,602 @@
+[2021-12-15 08:51:20,503] {processor.py:163} INFO - Started process (PID=50) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:20,510] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:51:20,517] {logging_mixin.py:109} INFO - [2021-12-15 08:51:20,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:20,726] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:20,769] {logging_mixin.py:109} INFO - [2021-12-15 08:51:20,769] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:51:20,847] {logging_mixin.py:109} INFO - [2021-12-15 08:51:20,846] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:51:20,933] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.441 seconds
+[2021-12-15 08:51:51,554] {processor.py:163} INFO - Started process (PID=133) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:51,562] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:51:51,567] {logging_mixin.py:109} INFO - [2021-12-15 08:51:51,566] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:51,752] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:51:51,794] {logging_mixin.py:109} INFO - [2021-12-15 08:51:51,794] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:51:51,912] {logging_mixin.py:109} INFO - [2021-12-15 08:51:51,912] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:51:51,942] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.414 seconds
+[2021-12-15 08:52:22,071] {processor.py:163} INFO - Started process (PID=169) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:22,106] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:52:22,110] {logging_mixin.py:109} INFO - [2021-12-15 08:52:22,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:22,381] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:22,440] {logging_mixin.py:109} INFO - [2021-12-15 08:52:22,439] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:52:22,561] {logging_mixin.py:109} INFO - [2021-12-15 08:52:22,561] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:52:22,610] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.546 seconds
+[2021-12-15 08:52:53,243] {processor.py:163} INFO - Started process (PID=218) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:53,248] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:52:53,251] {logging_mixin.py:109} INFO - [2021-12-15 08:52:53,250] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:53,563] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:52:53,652] {logging_mixin.py:109} INFO - [2021-12-15 08:52:53,652] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:52:53,796] {logging_mixin.py:109} INFO - [2021-12-15 08:52:53,796] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:52:53,855] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.632 seconds
+[2021-12-15 08:54:10,003] {processor.py:163} INFO - Started process (PID=276) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:10,011] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:54:10,015] {logging_mixin.py:109} INFO - [2021-12-15 08:54:10,015] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:10,364] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:10,430] {logging_mixin.py:109} INFO - [2021-12-15 08:54:10,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:54:10,595] {logging_mixin.py:109} INFO - [2021-12-15 08:54:10,595] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:54:10,638] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.666 seconds
+[2021-12-15 08:54:54,007] {processor.py:163} INFO - Started process (PID=322) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:54,013] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:54:54,016] {logging_mixin.py:109} INFO - [2021-12-15 08:54:54,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:54,288] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:54:54,403] {logging_mixin.py:109} INFO - [2021-12-15 08:54:54,403] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:54:54,502] {logging_mixin.py:109} INFO - [2021-12-15 08:54:54,502] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:54:54,554] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.559 seconds
+[2021-12-15 08:55:30,452] {processor.py:163} INFO - Started process (PID=349) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:55:30,473] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:55:30,478] {logging_mixin.py:109} INFO - [2021-12-15 08:55:30,477] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:55:30,993] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:55:31,037] {logging_mixin.py:109} INFO - [2021-12-15 08:55:31,037] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:55:31,136] {logging_mixin.py:109} INFO - [2021-12-15 08:55:31,136] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:55:31,189] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.748 seconds
+[2021-12-15 08:56:02,692] {processor.py:163} INFO - Started process (PID=396) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:02,697] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:56:02,700] {logging_mixin.py:109} INFO - [2021-12-15 08:56:02,700] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:03,231] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:03,342] {logging_mixin.py:109} INFO - [2021-12-15 08:56:03,342] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:56:03,660] {logging_mixin.py:109} INFO - [2021-12-15 08:56:03,660] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:56:03,788] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.111 seconds
+[2021-12-15 08:56:37,285] {processor.py:163} INFO - Started process (PID=452) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:37,309] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:56:37,389] {logging_mixin.py:109} INFO - [2021-12-15 08:56:37,387] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:38,054] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:56:38,171] {logging_mixin.py:109} INFO - [2021-12-15 08:56:38,171] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:56:38,547] {logging_mixin.py:109} INFO - [2021-12-15 08:56:38,547] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:56:38,693] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.460 seconds
+[2021-12-15 08:57:10,000] {processor.py:163} INFO - Started process (PID=504) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:10,010] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:57:10,020] {logging_mixin.py:109} INFO - [2021-12-15 08:57:10,019] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:10,442] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:10,559] {logging_mixin.py:109} INFO - [2021-12-15 08:57:10,559] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:57:10,740] {logging_mixin.py:109} INFO - [2021-12-15 08:57:10,740] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:57:10,825] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.849 seconds
+[2021-12-15 08:57:41,318] {processor.py:163} INFO - Started process (PID=549) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:41,327] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:57:41,331] {logging_mixin.py:109} INFO - [2021-12-15 08:57:41,330] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:41,633] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:57:41,694] {logging_mixin.py:109} INFO - [2021-12-15 08:57:41,694] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:57:42,062] {logging_mixin.py:109} INFO - [2021-12-15 08:57:42,062] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:57:42,115] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.805 seconds
+[2021-12-15 08:58:12,417] {processor.py:163} INFO - Started process (PID=592) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:12,425] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:58:12,431] {logging_mixin.py:109} INFO - [2021-12-15 08:58:12,430] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:12,743] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:12,792] {logging_mixin.py:109} INFO - [2021-12-15 08:58:12,791] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:58:12,889] {logging_mixin.py:109} INFO - [2021-12-15 08:58:12,888] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:58:12,925] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.519 seconds
+[2021-12-15 08:58:43,623] {processor.py:163} INFO - Started process (PID=639) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:43,628] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:58:43,632] {logging_mixin.py:109} INFO - [2021-12-15 08:58:43,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:43,867] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:58:43,900] {logging_mixin.py:109} INFO - [2021-12-15 08:58:43,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:58:43,968] {logging_mixin.py:109} INFO - [2021-12-15 08:58:43,967] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:58:43,997] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.381 seconds
+[2021-12-15 08:59:15,964] {processor.py:163} INFO - Started process (PID=711) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:15,990] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:59:15,999] {logging_mixin.py:109} INFO - [2021-12-15 08:59:15,999] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:16,818] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:16,896] {logging_mixin.py:109} INFO - [2021-12-15 08:59:16,895] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:59:17,148] {logging_mixin.py:109} INFO - [2021-12-15 08:59:17,147] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:59:17,321] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.442 seconds
+[2021-12-15 08:59:48,082] {processor.py:163} INFO - Started process (PID=777) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:48,087] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 08:59:48,093] {logging_mixin.py:109} INFO - [2021-12-15 08:59:48,093] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:48,348] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 08:59:48,417] {logging_mixin.py:109} INFO - [2021-12-15 08:59:48,417] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:59:48,682] {logging_mixin.py:109} INFO - [2021-12-15 08:59:48,674] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 08:59:48,793] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.744 seconds
+[2021-12-15 09:00:18,994] {processor.py:163} INFO - Started process (PID=820) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:19,001] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:00:19,005] {logging_mixin.py:109} INFO - [2021-12-15 09:00:19,005] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:19,291] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:19,370] {logging_mixin.py:109} INFO - [2021-12-15 09:00:19,370] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:00:19,642] {logging_mixin.py:109} INFO - [2021-12-15 09:00:19,642] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:00:19,804] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.817 seconds
+[2021-12-15 09:00:50,100] {processor.py:163} INFO - Started process (PID=869) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:50,107] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:00:50,112] {logging_mixin.py:109} INFO - [2021-12-15 09:00:50,112] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:50,536] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:00:50,577] {logging_mixin.py:109} INFO - [2021-12-15 09:00:50,576] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:00:50,651] {logging_mixin.py:109} INFO - [2021-12-15 09:00:50,651] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:00:50,694] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.608 seconds
+[2021-12-15 09:01:20,896] {processor.py:163} INFO - Started process (PID=905) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:20,907] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:01:20,914] {logging_mixin.py:109} INFO - [2021-12-15 09:01:20,913] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:21,285] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:21,403] {logging_mixin.py:109} INFO - [2021-12-15 09:01:21,402] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:01:21,615] {logging_mixin.py:109} INFO - [2021-12-15 09:01:21,614] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:01:21,678] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.790 seconds
+[2021-12-15 09:01:51,822] {processor.py:163} INFO - Started process (PID=952) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:51,825] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:01:51,830] {logging_mixin.py:109} INFO - [2021-12-15 09:01:51,830] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:52,087] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:01:52,144] {logging_mixin.py:109} INFO - [2021-12-15 09:01:52,144] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:01:52,264] {logging_mixin.py:109} INFO - [2021-12-15 09:01:52,263] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:01:52,326] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.515 seconds
+[2021-12-15 09:02:22,817] {processor.py:163} INFO - Started process (PID=1000) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:22,824] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:02:22,828] {logging_mixin.py:109} INFO - [2021-12-15 09:02:22,828] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:23,204] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:23,243] {logging_mixin.py:109} INFO - [2021-12-15 09:02:23,243] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:02:23,351] {logging_mixin.py:109} INFO - [2021-12-15 09:02:23,351] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:02:23,389] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.580 seconds
+[2021-12-15 09:02:53,647] {processor.py:163} INFO - Started process (PID=1044) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:53,672] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:02:53,682] {logging_mixin.py:109} INFO - [2021-12-15 09:02:53,682] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:54,246] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:02:54,422] {logging_mixin.py:109} INFO - [2021-12-15 09:02:54,422] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:02:54,847] {logging_mixin.py:109} INFO - [2021-12-15 09:02:54,847] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:02:54,922] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.304 seconds
+[2021-12-15 09:03:25,170] {processor.py:163} INFO - Started process (PID=1089) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:25,175] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:03:25,178] {logging_mixin.py:109} INFO - [2021-12-15 09:03:25,177] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:25,358] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:25,395] {logging_mixin.py:109} INFO - [2021-12-15 09:03:25,394] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:03:25,457] {logging_mixin.py:109} INFO - [2021-12-15 09:03:25,457] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:03:25,482] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.320 seconds
+[2021-12-15 09:03:55,585] {processor.py:163} INFO - Started process (PID=1137) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:55,592] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:03:55,595] {logging_mixin.py:109} INFO - [2021-12-15 09:03:55,594] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:55,798] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:03:55,848] {logging_mixin.py:109} INFO - [2021-12-15 09:03:55,848] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:03:55,988] {logging_mixin.py:109} INFO - [2021-12-15 09:03:55,982] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:03:56,059] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.483 seconds
+[2021-12-15 09:04:26,341] {processor.py:163} INFO - Started process (PID=1187) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:26,348] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:04:26,353] {logging_mixin.py:109} INFO - [2021-12-15 09:04:26,352] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:26,646] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:26,700] {logging_mixin.py:109} INFO - [2021-12-15 09:04:26,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:04:26,821] {logging_mixin.py:109} INFO - [2021-12-15 09:04:26,821] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:04:26,868] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.539 seconds
+[2021-12-15 09:04:57,008] {processor.py:163} INFO - Started process (PID=1234) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:57,011] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:04:57,013] {logging_mixin.py:109} INFO - [2021-12-15 09:04:57,013] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:57,090] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:04:57,113] {logging_mixin.py:109} INFO - [2021-12-15 09:04:57,113] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:04:57,179] {logging_mixin.py:109} INFO - [2021-12-15 09:04:57,179] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:04:57,211] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.207 seconds
+[2021-12-15 09:05:27,523] {processor.py:163} INFO - Started process (PID=1291) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:27,529] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:05:27,537] {logging_mixin.py:109} INFO - [2021-12-15 09:05:27,536] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:27,711] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:27,740] {logging_mixin.py:109} INFO - [2021-12-15 09:05:27,739] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:05:27,793] {logging_mixin.py:109} INFO - [2021-12-15 09:05:27,792] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:05:27,817] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.304 seconds
+[2021-12-15 09:05:58,355] {processor.py:163} INFO - Started process (PID=1340) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:58,357] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:05:58,358] {logging_mixin.py:109} INFO - [2021-12-15 09:05:58,358] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:58,433] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:05:58,449] {logging_mixin.py:109} INFO - [2021-12-15 09:05:58,449] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:05:58,487] {logging_mixin.py:109} INFO - [2021-12-15 09:05:58,487] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:05:58,504] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.153 seconds
+[2021-12-15 09:06:28,758] {processor.py:163} INFO - Started process (PID=1393) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:28,762] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:06:28,764] {logging_mixin.py:109} INFO - [2021-12-15 09:06:28,764] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:28,848] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:28,865] {logging_mixin.py:109} INFO - [2021-12-15 09:06:28,865] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:06:28,912] {logging_mixin.py:109} INFO - [2021-12-15 09:06:28,912] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:06:28,931] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.179 seconds
+[2021-12-15 09:06:58,993] {processor.py:163} INFO - Started process (PID=1445) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:58,996] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:06:58,998] {logging_mixin.py:109} INFO - [2021-12-15 09:06:58,998] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:59,076] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:06:59,097] {logging_mixin.py:109} INFO - [2021-12-15 09:06:59,097] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:06:59,139] {logging_mixin.py:109} INFO - [2021-12-15 09:06:59,139] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:06:59,162] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.174 seconds
+[2021-12-15 09:07:29,301] {processor.py:163} INFO - Started process (PID=1493) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:29,303] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:07:29,305] {logging_mixin.py:109} INFO - [2021-12-15 09:07:29,305] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:29,371] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:29,387] {logging_mixin.py:109} INFO - [2021-12-15 09:07:29,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:07:29,418] {logging_mixin.py:109} INFO - [2021-12-15 09:07:29,417] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:07:29,431] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.133 seconds
+[2021-12-15 09:07:59,828] {processor.py:163} INFO - Started process (PID=1551) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:59,831] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:07:59,832] {logging_mixin.py:109} INFO - [2021-12-15 09:07:59,832] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:59,908] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:07:59,924] {logging_mixin.py:109} INFO - [2021-12-15 09:07:59,924] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:07:59,955] {logging_mixin.py:109} INFO - [2021-12-15 09:07:59,955] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:07:59,970] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.147 seconds
+[2021-12-15 09:08:30,222] {processor.py:163} INFO - Started process (PID=1600) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:08:30,224] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:08:30,225] {logging_mixin.py:109} INFO - [2021-12-15 09:08:30,225] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:08:30,311] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:08:30,325] {logging_mixin.py:109} INFO - [2021-12-15 09:08:30,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:08:30,358] {logging_mixin.py:109} INFO - [2021-12-15 09:08:30,358] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:08:30,378] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.160 seconds
+[2021-12-15 09:09:00,502] {processor.py:163} INFO - Started process (PID=1657) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:00,504] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:09:00,505] {logging_mixin.py:109} INFO - [2021-12-15 09:09:00,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:00,579] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:00,594] {logging_mixin.py:109} INFO - [2021-12-15 09:09:00,594] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:09:00,626] {logging_mixin.py:109} INFO - [2021-12-15 09:09:00,626] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:09:00,640] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.142 seconds
+[2021-12-15 09:09:30,740] {processor.py:163} INFO - Started process (PID=1705) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:30,742] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:09:30,743] {logging_mixin.py:109} INFO - [2021-12-15 09:09:30,743] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:30,831] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:09:30,847] {logging_mixin.py:109} INFO - [2021-12-15 09:09:30,847] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:09:30,883] {logging_mixin.py:109} INFO - [2021-12-15 09:09:30,883] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:09:30,902] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.165 seconds
+[2021-12-15 09:10:01,101] {processor.py:163} INFO - Started process (PID=1764) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:01,106] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:10:01,107] {logging_mixin.py:109} INFO - [2021-12-15 09:10:01,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:01,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:01,237] {logging_mixin.py:109} INFO - [2021-12-15 09:10:01,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:10:01,275] {logging_mixin.py:109} INFO - [2021-12-15 09:10:01,275] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:10:01,292] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.196 seconds
+[2021-12-15 09:10:31,751] {processor.py:163} INFO - Started process (PID=1813) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:31,756] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:10:31,758] {logging_mixin.py:109} INFO - [2021-12-15 09:10:31,757] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:31,859] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:10:31,882] {logging_mixin.py:109} INFO - [2021-12-15 09:10:31,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:10:31,926] {logging_mixin.py:109} INFO - [2021-12-15 09:10:31,926] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:10:31,951] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.204 seconds
+[2021-12-15 09:11:02,093] {processor.py:163} INFO - Started process (PID=1870) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:02,096] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:11:02,099] {logging_mixin.py:109} INFO - [2021-12-15 09:11:02,099] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:02,247] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:02,275] {logging_mixin.py:109} INFO - [2021-12-15 09:11:02,275] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:11:02,325] {logging_mixin.py:109} INFO - [2021-12-15 09:11:02,325] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:11:02,349] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.268 seconds
+[2021-12-15 09:11:32,487] {processor.py:163} INFO - Started process (PID=1919) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:32,490] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:11:32,492] {logging_mixin.py:109} INFO - [2021-12-15 09:11:32,492] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:32,568] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:11:32,583] {logging_mixin.py:109} INFO - [2021-12-15 09:11:32,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:11:32,613] {logging_mixin.py:109} INFO - [2021-12-15 09:11:32,613] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:11:32,628] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.145 seconds
+[2021-12-15 09:12:02,705] {processor.py:163} INFO - Started process (PID=1977) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:02,710] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:12:02,712] {logging_mixin.py:109} INFO - [2021-12-15 09:12:02,712] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:02,843] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:02,863] {logging_mixin.py:109} INFO - [2021-12-15 09:12:02,863] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:12:02,901] {logging_mixin.py:109} INFO - [2021-12-15 09:12:02,901] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:12:02,922] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.223 seconds
+[2021-12-15 09:12:33,090] {processor.py:163} INFO - Started process (PID=2024) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:33,092] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:12:33,093] {logging_mixin.py:109} INFO - [2021-12-15 09:12:33,093] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:33,163] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:12:33,178] {logging_mixin.py:109} INFO - [2021-12-15 09:12:33,178] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:12:33,207] {logging_mixin.py:109} INFO - [2021-12-15 09:12:33,207] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:12:33,222] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.136 seconds
+[2021-12-15 09:13:03,388] {processor.py:163} INFO - Started process (PID=2070) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:03,391] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:13:03,393] {logging_mixin.py:109} INFO - [2021-12-15 09:13:03,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:03,498] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:03,518] {logging_mixin.py:109} INFO - [2021-12-15 09:13:03,518] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:13:03,552] {logging_mixin.py:109} INFO - [2021-12-15 09:13:03,552] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:13:03,572] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.192 seconds
+[2021-12-15 09:13:33,709] {processor.py:163} INFO - Started process (PID=2129) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:33,712] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:13:33,714] {logging_mixin.py:109} INFO - [2021-12-15 09:13:33,714] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:33,790] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:13:33,805] {logging_mixin.py:109} INFO - [2021-12-15 09:13:33,805] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:13:33,836] {logging_mixin.py:109} INFO - [2021-12-15 09:13:33,835] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:13:33,850] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.145 seconds
+[2021-12-15 09:14:03,917] {processor.py:163} INFO - Started process (PID=2177) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:03,920] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:14:03,921] {logging_mixin.py:109} INFO - [2021-12-15 09:14:03,921] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:03,994] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:04,010] {logging_mixin.py:109} INFO - [2021-12-15 09:14:04,010] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:14:04,040] {logging_mixin.py:109} INFO - [2021-12-15 09:14:04,040] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:14:04,056] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.143 seconds
+[2021-12-15 09:14:34,386] {processor.py:163} INFO - Started process (PID=2235) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:34,389] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:14:34,390] {logging_mixin.py:109} INFO - [2021-12-15 09:14:34,390] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:34,467] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:14:34,483] {logging_mixin.py:109} INFO - [2021-12-15 09:14:34,483] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:14:34,517] {logging_mixin.py:109} INFO - [2021-12-15 09:14:34,517] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-14T09:15:00+00:00
+[2021-12-15 09:14:34,532] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.150 seconds
+[2021-12-15 09:15:04,777] {processor.py:163} INFO - Started process (PID=2282) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:04,779] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:15:04,781] {logging_mixin.py:109} INFO - [2021-12-15 09:15:04,780] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:04,866] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:04,889] {logging_mixin.py:109} INFO - [2021-12-15 09:15:04,889] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:15:04,949] {logging_mixin.py:109} INFO - [2021-12-15 09:15:04,949] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:15:04,975] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.203 seconds
+[2021-12-15 09:15:35,124] {processor.py:163} INFO - Started process (PID=2341) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:35,128] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:15:35,131] {logging_mixin.py:109} INFO - [2021-12-15 09:15:35,130] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:35,228] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:15:35,259] {logging_mixin.py:109} INFO - [2021-12-15 09:15:35,259] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:15:35,312] {logging_mixin.py:109} INFO - [2021-12-15 09:15:35,312] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:15:35,337] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.219 seconds
+[2021-12-15 09:16:05,517] {processor.py:163} INFO - Started process (PID=2388) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:05,520] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:16:05,521] {logging_mixin.py:109} INFO - [2021-12-15 09:16:05,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:07,001] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:07,113] {logging_mixin.py:109} INFO - [2021-12-15 09:16:07,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:16:07,262] {logging_mixin.py:109} INFO - [2021-12-15 09:16:07,262] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:16:07,373] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.861 seconds
+[2021-12-15 09:16:52,333] {processor.py:163} INFO - Started process (PID=2428) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:52,349] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:16:52,358] {logging_mixin.py:109} INFO - [2021-12-15 09:16:52,357] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:53,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:16:53,262] {logging_mixin.py:109} INFO - [2021-12-15 09:16:53,260] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:16:53,529] {logging_mixin.py:109} INFO - [2021-12-15 09:16:53,527] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:16:53,671] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.370 seconds
+[2021-12-15 09:17:24,245] {processor.py:163} INFO - Started process (PID=2464) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:17:24,249] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:17:24,252] {logging_mixin.py:109} INFO - [2021-12-15 09:17:24,252] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:17:24,588] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:17:24,645] {logging_mixin.py:109} INFO - [2021-12-15 09:17:24,645] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:17:24,881] {logging_mixin.py:109} INFO - [2021-12-15 09:17:24,881] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:17:25,052] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.816 seconds
+[2021-12-15 09:23:04,151] {processor.py:163} INFO - Started process (PID=2508) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:04,154] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:23:04,157] {logging_mixin.py:109} INFO - [2021-12-15 09:23:04,157] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:04,306] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:04,345] {logging_mixin.py:109} INFO - [2021-12-15 09:23:04,345] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:23:04,422] {logging_mixin.py:109} INFO - [2021-12-15 09:23:04,422] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:23:04,471] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.324 seconds
+[2021-12-15 09:23:34,526] {processor.py:163} INFO - Started process (PID=2556) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:34,528] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:23:34,532] {logging_mixin.py:109} INFO - [2021-12-15 09:23:34,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:34,632] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:23:34,649] {logging_mixin.py:109} INFO - [2021-12-15 09:23:34,648] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:23:34,687] {logging_mixin.py:109} INFO - [2021-12-15 09:23:34,687] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:23:34,711] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.191 seconds
+[2021-12-15 09:24:04,854] {processor.py:163} INFO - Started process (PID=2615) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:04,857] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:24:04,859] {logging_mixin.py:109} INFO - [2021-12-15 09:24:04,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:04,939] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:04,961] {logging_mixin.py:109} INFO - [2021-12-15 09:24:04,961] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:24:05,015] {logging_mixin.py:109} INFO - [2021-12-15 09:24:05,015] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:24:05,034] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.186 seconds
+[2021-12-15 09:24:35,845] {processor.py:163} INFO - Started process (PID=2663) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:35,848] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:24:35,850] {logging_mixin.py:109} INFO - [2021-12-15 09:24:35,850] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:35,962] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:24:35,983] {logging_mixin.py:109} INFO - [2021-12-15 09:24:35,983] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:24:36,022] {logging_mixin.py:109} INFO - [2021-12-15 09:24:36,022] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:24:36,039] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.200 seconds
+[2021-12-15 09:25:06,318] {processor.py:163} INFO - Started process (PID=2722) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:06,321] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:25:06,323] {logging_mixin.py:109} INFO - [2021-12-15 09:25:06,323] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:06,426] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:06,459] {logging_mixin.py:109} INFO - [2021-12-15 09:25:06,459] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:25:06,501] {logging_mixin.py:109} INFO - [2021-12-15 09:25:06,500] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:25:06,523] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.210 seconds
+[2021-12-15 09:25:36,719] {processor.py:163} INFO - Started process (PID=2770) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:36,722] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:25:36,723] {logging_mixin.py:109} INFO - [2021-12-15 09:25:36,723] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:36,835] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:25:36,858] {logging_mixin.py:109} INFO - [2021-12-15 09:25:36,857] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:25:36,907] {logging_mixin.py:109} INFO - [2021-12-15 09:25:36,907] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:25:36,929] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.215 seconds
+[2021-12-15 09:26:07,552] {processor.py:163} INFO - Started process (PID=2817) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:07,555] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:26:07,556] {logging_mixin.py:109} INFO - [2021-12-15 09:26:07,556] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:07,653] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:07,673] {logging_mixin.py:109} INFO - [2021-12-15 09:26:07,673] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:26:07,725] {logging_mixin.py:109} INFO - [2021-12-15 09:26:07,724] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:26:07,753] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.206 seconds
+[2021-12-15 09:26:37,989] {processor.py:163} INFO - Started process (PID=2875) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:37,993] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:26:37,996] {logging_mixin.py:109} INFO - [2021-12-15 09:26:37,995] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:38,121] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:26:38,141] {logging_mixin.py:109} INFO - [2021-12-15 09:26:38,141] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:26:38,186] {logging_mixin.py:109} INFO - [2021-12-15 09:26:38,186] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:26:38,215] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.236 seconds
+[2021-12-15 09:27:08,586] {processor.py:163} INFO - Started process (PID=2922) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:08,589] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:27:08,590] {logging_mixin.py:109} INFO - [2021-12-15 09:27:08,590] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:08,656] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:08,671] {logging_mixin.py:109} INFO - [2021-12-15 09:27:08,671] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:27:08,704] {logging_mixin.py:109} INFO - [2021-12-15 09:27:08,704] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:27:08,718] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.136 seconds
+[2021-12-15 09:27:39,295] {processor.py:163} INFO - Started process (PID=2980) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:39,297] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:27:39,299] {logging_mixin.py:109} INFO - [2021-12-15 09:27:39,298] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:39,369] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:27:39,385] {logging_mixin.py:109} INFO - [2021-12-15 09:27:39,384] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:27:39,416] {logging_mixin.py:109} INFO - [2021-12-15 09:27:39,416] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:27:39,432] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.142 seconds
+[2021-12-15 09:28:09,902] {processor.py:163} INFO - Started process (PID=3029) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:09,904] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:28:09,906] {logging_mixin.py:109} INFO - [2021-12-15 09:28:09,906] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:09,978] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:09,994] {logging_mixin.py:109} INFO - [2021-12-15 09:28:09,994] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:28:10,025] {logging_mixin.py:109} INFO - [2021-12-15 09:28:10,025] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:28:10,068] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.171 seconds
+[2021-12-15 09:28:40,813] {processor.py:163} INFO - Started process (PID=3087) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:40,816] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:28:40,818] {logging_mixin.py:109} INFO - [2021-12-15 09:28:40,818] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:40,928] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:28:40,961] {logging_mixin.py:109} INFO - [2021-12-15 09:28:40,961] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:28:40,999] {logging_mixin.py:109} INFO - [2021-12-15 09:28:40,999] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:28:41,013] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.205 seconds
+[2021-12-15 09:29:11,451] {processor.py:163} INFO - Started process (PID=3135) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:11,454] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:29:11,456] {logging_mixin.py:109} INFO - [2021-12-15 09:29:11,455] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:11,544] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:11,559] {logging_mixin.py:109} INFO - [2021-12-15 09:29:11,559] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:29:11,588] {logging_mixin.py:109} INFO - [2021-12-15 09:29:11,588] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:29:11,602] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.154 seconds
+[2021-12-15 09:29:42,043] {processor.py:163} INFO - Started process (PID=3193) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:42,045] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:29:42,047] {logging_mixin.py:109} INFO - [2021-12-15 09:29:42,047] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:42,118] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:29:42,134] {logging_mixin.py:109} INFO - [2021-12-15 09:29:42,134] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:29:42,168] {logging_mixin.py:109} INFO - [2021-12-15 09:29:42,168] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:29:42,187] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.148 seconds
+[2021-12-15 09:30:12,888] {processor.py:163} INFO - Started process (PID=3241) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:12,890] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:30:12,892] {logging_mixin.py:109} INFO - [2021-12-15 09:30:12,892] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:12,976] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:12,991] {logging_mixin.py:109} INFO - [2021-12-15 09:30:12,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:30:13,023] {logging_mixin.py:109} INFO - [2021-12-15 09:30:13,023] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:30:13,038] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.154 seconds
+[2021-12-15 09:30:43,644] {processor.py:163} INFO - Started process (PID=3298) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:43,646] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:30:43,647] {logging_mixin.py:109} INFO - [2021-12-15 09:30:43,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:43,736] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:30:43,751] {logging_mixin.py:109} INFO - [2021-12-15 09:30:43,751] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:30:43,791] {logging_mixin.py:109} INFO - [2021-12-15 09:30:43,791] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:30:43,811] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.171 seconds
+[2021-12-15 09:31:14,585] {processor.py:163} INFO - Started process (PID=3345) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:14,588] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:31:14,589] {logging_mixin.py:109} INFO - [2021-12-15 09:31:14,589] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:14,662] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:14,685] {logging_mixin.py:109} INFO - [2021-12-15 09:31:14,685] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:31:14,720] {logging_mixin.py:109} INFO - [2021-12-15 09:31:14,720] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:31:14,735] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.153 seconds
+[2021-12-15 09:31:45,257] {processor.py:163} INFO - Started process (PID=3403) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:45,259] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:31:45,261] {logging_mixin.py:109} INFO - [2021-12-15 09:31:45,261] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:45,349] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:31:45,367] {logging_mixin.py:109} INFO - [2021-12-15 09:31:45,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:31:45,399] {logging_mixin.py:109} INFO - [2021-12-15 09:31:45,399] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:31:45,413] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.159 seconds
+[2021-12-15 09:32:16,007] {processor.py:163} INFO - Started process (PID=3451) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:16,010] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:32:16,012] {logging_mixin.py:109} INFO - [2021-12-15 09:32:16,012] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:16,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:16,114] {logging_mixin.py:109} INFO - [2021-12-15 09:32:16,114] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:32:16,144] {logging_mixin.py:109} INFO - [2021-12-15 09:32:16,144] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:32:16,159] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.157 seconds
+[2021-12-15 09:32:46,790] {processor.py:163} INFO - Started process (PID=3510) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:46,792] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:32:46,794] {logging_mixin.py:109} INFO - [2021-12-15 09:32:46,794] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:46,871] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:32:46,887] {logging_mixin.py:109} INFO - [2021-12-15 09:32:46,887] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:32:46,934] {logging_mixin.py:109} INFO - [2021-12-15 09:32:46,933] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:32:46,951] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.165 seconds
+[2021-12-15 09:33:17,493] {processor.py:163} INFO - Started process (PID=3557) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:17,495] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:33:17,496] {logging_mixin.py:109} INFO - [2021-12-15 09:33:17,496] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:17,565] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:17,580] {logging_mixin.py:109} INFO - [2021-12-15 09:33:17,580] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:33:17,611] {logging_mixin.py:109} INFO - [2021-12-15 09:33:17,611] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:33:17,630] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.142 seconds
+[2021-12-15 09:33:48,570] {processor.py:163} INFO - Started process (PID=3614) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:48,573] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:33:48,574] {logging_mixin.py:109} INFO - [2021-12-15 09:33:48,574] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:48,670] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:33:48,686] {logging_mixin.py:109} INFO - [2021-12-15 09:33:48,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:33:48,723] {logging_mixin.py:109} INFO - [2021-12-15 09:33:48,723] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:33:48,740] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.174 seconds
+[2021-12-15 09:34:19,294] {processor.py:163} INFO - Started process (PID=3662) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:19,297] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:34:19,298] {logging_mixin.py:109} INFO - [2021-12-15 09:34:19,298] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:19,378] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:19,395] {logging_mixin.py:109} INFO - [2021-12-15 09:34:19,395] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:34:19,431] {logging_mixin.py:109} INFO - [2021-12-15 09:34:19,431] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:34:19,449] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.160 seconds
+[2021-12-15 09:34:50,086] {processor.py:163} INFO - Started process (PID=3720) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:50,093] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:34:50,096] {logging_mixin.py:109} INFO - [2021-12-15 09:34:50,095] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:50,187] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:34:50,206] {logging_mixin.py:109} INFO - [2021-12-15 09:34:50,206] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:34:50,242] {logging_mixin.py:109} INFO - [2021-12-15 09:34:50,242] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:34:50,262] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.188 seconds
+[2021-12-15 09:35:20,807] {processor.py:163} INFO - Started process (PID=3769) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:20,810] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:35:20,811] {logging_mixin.py:109} INFO - [2021-12-15 09:35:20,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:20,903] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:20,925] {logging_mixin.py:109} INFO - [2021-12-15 09:35:20,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:35:20,973] {logging_mixin.py:109} INFO - [2021-12-15 09:35:20,973] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:35:20,994] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.192 seconds
+[2021-12-15 09:35:51,706] {processor.py:163} INFO - Started process (PID=3825) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:51,709] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:35:51,711] {logging_mixin.py:109} INFO - [2021-12-15 09:35:51,711] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:51,787] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:35:51,805] {logging_mixin.py:109} INFO - [2021-12-15 09:35:51,805] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:35:51,856] {logging_mixin.py:109} INFO - [2021-12-15 09:35:51,856] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:35:51,874] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.172 seconds
+[2021-12-15 09:36:22,249] {processor.py:163} INFO - Started process (PID=3872) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:22,251] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:36:22,253] {logging_mixin.py:109} INFO - [2021-12-15 09:36:22,253] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:22,324] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:22,338] {logging_mixin.py:109} INFO - [2021-12-15 09:36:22,337] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:36:22,368] {logging_mixin.py:109} INFO - [2021-12-15 09:36:22,368] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:36:22,385] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.140 seconds
+[2021-12-15 09:36:53,345] {processor.py:163} INFO - Started process (PID=3929) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:53,347] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:36:53,349] {logging_mixin.py:109} INFO - [2021-12-15 09:36:53,349] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:53,443] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:36:53,461] {logging_mixin.py:109} INFO - [2021-12-15 09:36:53,461] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:36:53,500] {logging_mixin.py:109} INFO - [2021-12-15 09:36:53,499] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:36:53,520] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.180 seconds
+[2021-12-15 09:37:23,658] {processor.py:163} INFO - Started process (PID=3975) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:23,660] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:37:23,661] {logging_mixin.py:109} INFO - [2021-12-15 09:37:23,661] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:23,727] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:23,742] {logging_mixin.py:109} INFO - [2021-12-15 09:37:23,742] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:37:23,772] {logging_mixin.py:109} INFO - [2021-12-15 09:37:23,772] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:37:23,785] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.130 seconds
+[2021-12-15 09:37:54,525] {processor.py:163} INFO - Started process (PID=4032) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:54,528] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:37:54,531] {logging_mixin.py:109} INFO - [2021-12-15 09:37:54,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:54,610] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:37:54,628] {logging_mixin.py:109} INFO - [2021-12-15 09:37:54,628] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:37:54,664] {logging_mixin.py:109} INFO - [2021-12-15 09:37:54,664] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:37:54,680] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.159 seconds
+[2021-12-15 09:38:26,597] {processor.py:163} INFO - Started process (PID=4081) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:26,600] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:38:26,601] {logging_mixin.py:109} INFO - [2021-12-15 09:38:26,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:26,697] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:26,718] {logging_mixin.py:109} INFO - [2021-12-15 09:38:26,718] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:38:26,771] {logging_mixin.py:109} INFO - [2021-12-15 09:38:26,771] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:38:26,784] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.191 seconds
+[2021-12-15 09:38:59,105] {processor.py:163} INFO - Started process (PID=4140) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:59,122] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:38:59,137] {logging_mixin.py:109} INFO - [2021-12-15 09:38:59,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:59,777] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:38:59,927] {logging_mixin.py:109} INFO - [2021-12-15 09:38:59,926] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:39:00,252] {logging_mixin.py:109} INFO - [2021-12-15 09:39:00,251] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:39:00,378] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 1.331 seconds
+[2021-12-15 09:40:33,635] {processor.py:163} INFO - Started process (PID=4151) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:40:33,774] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:40:33,827] {logging_mixin.py:109} INFO - [2021-12-15 09:40:33,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:40:35,096] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:40:35,328] {logging_mixin.py:109} INFO - [2021-12-15 09:40:35,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:40:35,788] {logging_mixin.py:109} INFO - [2021-12-15 09:40:35,787] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:40:36,083] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 2.506 seconds
+[2021-12-15 09:41:06,432] {processor.py:163} INFO - Started process (PID=4201) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:41:06,435] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:41:06,437] {logging_mixin.py:109} INFO - [2021-12-15 09:41:06,437] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:41:06,529] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:41:06,552] {logging_mixin.py:109} INFO - [2021-12-15 09:41:06,551] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:41:06,590] {logging_mixin.py:109} INFO - [2021-12-15 09:41:06,590] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:41:06,610] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.191 seconds
+[2021-12-15 09:46:59,205] {processor.py:163} INFO - Started process (PID=4232) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:46:59,208] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:46:59,210] {logging_mixin.py:109} INFO - [2021-12-15 09:46:59,210] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:46:59,343] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:46:59,372] {logging_mixin.py:109} INFO - [2021-12-15 09:46:59,372] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:46:59,419] {logging_mixin.py:109} INFO - [2021-12-15 09:46:59,419] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:46:59,440] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.240 seconds
+[2021-12-15 09:47:30,090] {processor.py:163} INFO - Started process (PID=4289) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:30,093] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:47:30,096] {logging_mixin.py:109} INFO - [2021-12-15 09:47:30,095] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:30,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:30,235] {logging_mixin.py:109} INFO - [2021-12-15 09:47:30,235] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:47:30,272] {logging_mixin.py:109} INFO - [2021-12-15 09:47:30,272] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:47:30,289] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.203 seconds
+[2021-12-15 09:47:49,673] {processor.py:163} INFO - Started process (PID=4325) to work on /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:49,676] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_clare.py for tasks to queue
+[2021-12-15 09:47:49,678] {logging_mixin.py:109} INFO - [2021-12-15 09:47:49,678] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:49,766] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_clare']) retrieved from /opt/airflow/dags/scraping_daft_clare.py
+[2021-12-15 09:47:49,781] {logging_mixin.py:109} INFO - [2021-12-15 09:47:49,781] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:47:49,809] {logging_mixin.py:109} INFO - [2021-12-15 09:47:49,808] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_clare to 2021-12-15T09:15:00+00:00
+[2021-12-15 09:47:49,824] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_clare.py took 0.156 seconds

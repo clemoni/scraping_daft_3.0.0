@@ -9,10 +9,10 @@ from airflow import DAG
 DEFAULT_ARGS = {
     "owner": "clemoni",
     "depends_on_past": False,
-    "email": ["airflow@example.com"],
-    "email_on_failure": False,
+    "email": ["clement.liscoet@gmail.com"],
+    "email_on_failure": True,
     "email_on_retry": False,
-    "retries": 2,
+    "retries": 3,
     "retry_delay": timedelta(minutes=5),
     'start_date': datetime(2021, 1, 1),
 }
@@ -44,7 +44,7 @@ def get_reporting(ti=None):
 
 
 with DAG('scraping_daft_dublin',
-         schedule_interval='30 1 * * *',
+         schedule_interval='30 9 * * *',
          catchup=False, tags=['scraping daft'],
          default_args=DEFAULT_ARGS) as dag:
 

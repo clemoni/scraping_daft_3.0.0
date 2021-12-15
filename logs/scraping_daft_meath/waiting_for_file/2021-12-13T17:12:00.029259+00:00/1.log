@@ -1,0 +1,25 @@
+[2021-12-13 17:12:37,439] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_meath.waiting_for_file manual__2021-12-13T17:12:00.029259+00:00 [queued]>
+[2021-12-13 17:12:37,471] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_meath.waiting_for_file manual__2021-12-13T17:12:00.029259+00:00 [queued]>
+[2021-12-13 17:12:37,473] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-13 17:12:37,474] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-13 17:12:37,476] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-13 17:12:37,506] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-13 17:12:00.029259+00:00
+[2021-12-13 17:12:37,517] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_meath', 'waiting_for_file', 'manual__2021-12-13T17:12:00.029259+00:00', '--job-id', '1952', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_meath.py', '--cfg-path', '/tmp/tmpla8eza0d', '--error-file', '/tmp/tmpy84bhe8s']
+[2021-12-13 17:12:37,518] {standard_task_runner.py:77} INFO - Job 1952: Subtask waiting_for_file
+[2021-12-13 17:12:37,513] {standard_task_runner.py:52} INFO - Started process 20615 to run task
+[2021-12-13 17:12:37,621] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_meath.waiting_for_file manual__2021-12-13T17:12:00.029259+00:00 [running]> on host c81f81825bc0
+[2021-12-13 17:12:37,761] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_meath
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-13T17:12:00.029259+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-12-13T17:12:00.029259+00:00
+[2021-12-13 17:12:37,808] {filesystem.py:59} INFO - Poking for file data/meath_rent.json
+[2021-12-13 17:12:37,810] {filesystem.py:65} INFO - Found File data/meath_rent.json last modified: 20211213171235
+[2021-12-13 17:12:37,811] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-13 17:12:37,849] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_meath, task_id=waiting_for_file, execution_date=20211213T171200, start_date=20211213T171237, end_date=20211213T171237
+[2021-12-13 17:12:37,901] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-13 17:12:38,015] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

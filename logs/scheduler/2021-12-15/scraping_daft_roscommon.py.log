@@ -1,0 +1,588 @@
+[2021-12-15 08:51:23,454] {processor.py:163} INFO - Started process (PID=70) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:23,457] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:51:23,460] {logging_mixin.py:109} INFO - [2021-12-15 08:51:23,459] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:23,677] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:23,729] {logging_mixin.py:109} INFO - [2021-12-15 08:51:23,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:51:23,789] {logging_mixin.py:109} INFO - [2021-12-15 08:51:23,789] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:51:23,818] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.369 seconds
+[2021-12-15 08:51:54,420] {processor.py:163} INFO - Started process (PID=144) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:54,428] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:51:54,433] {logging_mixin.py:109} INFO - [2021-12-15 08:51:54,433] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:54,687] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:51:54,735] {logging_mixin.py:109} INFO - [2021-12-15 08:51:54,735] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:51:54,801] {logging_mixin.py:109} INFO - [2021-12-15 08:51:54,801] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:51:54,842] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.428 seconds
+[2021-12-15 08:52:25,701] {processor.py:163} INFO - Started process (PID=191) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:52:25,708] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:52:25,712] {logging_mixin.py:109} INFO - [2021-12-15 08:52:25,711] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:52:26,032] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:52:26,102] {logging_mixin.py:109} INFO - [2021-12-15 08:52:26,102] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:52:26,240] {logging_mixin.py:109} INFO - [2021-12-15 08:52:26,240] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:52:26,296] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.606 seconds
+[2021-12-15 08:52:58,974] {processor.py:163} INFO - Started process (PID=229) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:52:58,993] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:52:59,001] {logging_mixin.py:109} INFO - [2021-12-15 08:52:58,999] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:52:59,892] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:53:00,110] {logging_mixin.py:109} INFO - [2021-12-15 08:53:00,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:53:00,534] {logging_mixin.py:109} INFO - [2021-12-15 08:53:00,533] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:53:00,662] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 1.705 seconds
+[2021-12-15 08:54:17,336] {processor.py:163} INFO - Started process (PID=288) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:54:17,361] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:54:17,365] {logging_mixin.py:109} INFO - [2021-12-15 08:54:17,365] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:54:17,839] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:54:17,891] {logging_mixin.py:109} INFO - [2021-12-15 08:54:17,891] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:54:17,962] {logging_mixin.py:109} INFO - [2021-12-15 08:54:17,962] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:54:18,004] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.720 seconds
+[2021-12-15 08:55:00,364] {processor.py:163} INFO - Started process (PID=334) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:00,389] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:55:00,395] {logging_mixin.py:109} INFO - [2021-12-15 08:55:00,394] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:01,347] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:01,533] {logging_mixin.py:109} INFO - [2021-12-15 08:55:01,533] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:55:02,388] {logging_mixin.py:109} INFO - [2021-12-15 08:55:02,380] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:55:04,221] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 3.873 seconds
+[2021-12-15 08:55:35,237] {processor.py:163} INFO - Started process (PID=368) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:35,241] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:55:35,244] {logging_mixin.py:109} INFO - [2021-12-15 08:55:35,244] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:35,530] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:55:35,599] {logging_mixin.py:109} INFO - [2021-12-15 08:55:35,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:55:35,690] {logging_mixin.py:109} INFO - [2021-12-15 08:55:35,690] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:55:35,719] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.494 seconds
+[2021-12-15 08:56:07,634] {processor.py:163} INFO - Started process (PID=408) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:07,647] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:56:07,667] {logging_mixin.py:109} INFO - [2021-12-15 08:56:07,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:08,154] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:08,256] {logging_mixin.py:109} INFO - [2021-12-15 08:56:08,256] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:56:08,386] {logging_mixin.py:109} INFO - [2021-12-15 08:56:08,384] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:56:08,471] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.868 seconds
+[2021-12-15 08:56:48,976] {processor.py:163} INFO - Started process (PID=473) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:48,989] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:56:48,994] {logging_mixin.py:109} INFO - [2021-12-15 08:56:48,994] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:49,571] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:56:49,704] {logging_mixin.py:109} INFO - [2021-12-15 08:56:49,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:56:49,958] {logging_mixin.py:109} INFO - [2021-12-15 08:56:49,956] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:56:50,040] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 1.074 seconds
+[2021-12-15 08:57:20,335] {processor.py:163} INFO - Started process (PID=515) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:20,342] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:57:20,348] {logging_mixin.py:109} INFO - [2021-12-15 08:57:20,347] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:20,738] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:20,835] {logging_mixin.py:109} INFO - [2021-12-15 08:57:20,835] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:57:21,076] {logging_mixin.py:109} INFO - [2021-12-15 08:57:21,076] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:57:21,148] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.823 seconds
+[2021-12-15 08:57:55,740] {processor.py:163} INFO - Started process (PID=563) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:55,744] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:57:55,754] {logging_mixin.py:109} INFO - [2021-12-15 08:57:55,753] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:55,988] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:57:56,026] {logging_mixin.py:109} INFO - [2021-12-15 08:57:56,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:57:56,127] {logging_mixin.py:109} INFO - [2021-12-15 08:57:56,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:57:56,274] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.551 seconds
+[2021-12-15 08:58:26,543] {processor.py:163} INFO - Started process (PID=614) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:26,548] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:58:26,552] {logging_mixin.py:109} INFO - [2021-12-15 08:58:26,551] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:26,773] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:26,835] {logging_mixin.py:109} INFO - [2021-12-15 08:58:26,835] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:58:27,079] {logging_mixin.py:109} INFO - [2021-12-15 08:58:27,078] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:58:27,192] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.660 seconds
+[2021-12-15 08:58:57,457] {processor.py:163} INFO - Started process (PID=666) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:57,461] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:58:57,467] {logging_mixin.py:109} INFO - [2021-12-15 08:58:57,467] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:57,697] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:58:57,743] {logging_mixin.py:109} INFO - [2021-12-15 08:58:57,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:58:57,901] {logging_mixin.py:109} INFO - [2021-12-15 08:58:57,901] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:58:57,978] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.525 seconds
+[2021-12-15 08:59:28,647] {processor.py:163} INFO - Started process (PID=734) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:59:28,657] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 08:59:28,665] {logging_mixin.py:109} INFO - [2021-12-15 08:59:28,665] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:59:28,997] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 08:59:29,070] {logging_mixin.py:109} INFO - [2021-12-15 08:59:29,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 08:59:29,228] {logging_mixin.py:109} INFO - [2021-12-15 08:59:29,228] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 08:59:29,297] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.661 seconds
+[2021-12-15 09:00:01,334] {processor.py:163} INFO - Started process (PID=795) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:01,340] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:00:01,343] {logging_mixin.py:109} INFO - [2021-12-15 09:00:01,343] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:01,854] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:01,910] {logging_mixin.py:109} INFO - [2021-12-15 09:00:01,910] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:00:02,113] {logging_mixin.py:109} INFO - [2021-12-15 09:00:02,112] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:00:02,187] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.865 seconds
+[2021-12-15 09:00:32,668] {processor.py:163} INFO - Started process (PID=843) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:32,676] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:00:32,680] {logging_mixin.py:109} INFO - [2021-12-15 09:00:32,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:32,940] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:00:32,997] {logging_mixin.py:109} INFO - [2021-12-15 09:00:32,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:00:33,112] {logging_mixin.py:109} INFO - [2021-12-15 09:00:33,112] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:00:33,165] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.504 seconds
+[2021-12-15 09:01:03,719] {processor.py:163} INFO - Started process (PID=890) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:03,724] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:01:03,726] {logging_mixin.py:109} INFO - [2021-12-15 09:01:03,726] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:03,944] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:03,991] {logging_mixin.py:109} INFO - [2021-12-15 09:01:03,991] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:01:04,068] {logging_mixin.py:109} INFO - [2021-12-15 09:01:04,067] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:01:04,109] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.416 seconds
+[2021-12-15 09:01:36,306] {processor.py:163} INFO - Started process (PID=927) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:36,331] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:01:36,340] {logging_mixin.py:109} INFO - [2021-12-15 09:01:36,339] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:36,667] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:01:36,740] {logging_mixin.py:109} INFO - [2021-12-15 09:01:36,740] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:01:36,907] {logging_mixin.py:109} INFO - [2021-12-15 09:01:36,907] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:01:36,964] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.698 seconds
+[2021-12-15 09:02:07,205] {processor.py:163} INFO - Started process (PID=975) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:07,212] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:02:07,218] {logging_mixin.py:109} INFO - [2021-12-15 09:02:07,217] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:07,629] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:07,915] {logging_mixin.py:109} INFO - [2021-12-15 09:02:07,913] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:02:08,172] {logging_mixin.py:109} INFO - [2021-12-15 09:02:08,171] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:02:08,269] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 1.082 seconds
+[2021-12-15 09:02:38,926] {processor.py:163} INFO - Started process (PID=1022) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:38,930] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:02:38,932] {logging_mixin.py:109} INFO - [2021-12-15 09:02:38,932] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:39,064] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:02:39,131] {logging_mixin.py:109} INFO - [2021-12-15 09:02:39,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:02:39,294] {logging_mixin.py:109} INFO - [2021-12-15 09:02:39,293] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:02:39,352] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.431 seconds
+[2021-12-15 09:03:09,457] {processor.py:163} INFO - Started process (PID=1063) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:09,466] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:03:09,469] {logging_mixin.py:109} INFO - [2021-12-15 09:03:09,469] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:09,642] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:09,677] {logging_mixin.py:109} INFO - [2021-12-15 09:03:09,676] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:03:09,754] {logging_mixin.py:109} INFO - [2021-12-15 09:03:09,754] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:03:09,801] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.351 seconds
+[2021-12-15 09:03:40,156] {processor.py:163} INFO - Started process (PID=1111) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:40,161] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:03:40,171] {logging_mixin.py:109} INFO - [2021-12-15 09:03:40,171] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:40,610] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:03:40,696] {logging_mixin.py:109} INFO - [2021-12-15 09:03:40,695] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:03:40,850] {logging_mixin.py:109} INFO - [2021-12-15 09:03:40,849] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:03:40,929] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.796 seconds
+[2021-12-15 09:04:11,093] {processor.py:163} INFO - Started process (PID=1160) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:11,096] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:04:11,098] {logging_mixin.py:109} INFO - [2021-12-15 09:04:11,098] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:11,249] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:11,301] {logging_mixin.py:109} INFO - [2021-12-15 09:04:11,300] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:04:11,381] {logging_mixin.py:109} INFO - [2021-12-15 09:04:11,381] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:04:11,426] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.345 seconds
+[2021-12-15 09:04:41,821] {processor.py:163} INFO - Started process (PID=1209) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:41,824] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:04:41,827] {logging_mixin.py:109} INFO - [2021-12-15 09:04:41,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:41,926] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:04:41,945] {logging_mixin.py:109} INFO - [2021-12-15 09:04:41,945] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:04:41,992] {logging_mixin.py:109} INFO - [2021-12-15 09:04:41,992] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:04:42,010] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.194 seconds
+[2021-12-15 09:05:12,551] {processor.py:163} INFO - Started process (PID=1265) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:12,555] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:05:12,557] {logging_mixin.py:109} INFO - [2021-12-15 09:05:12,557] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:12,666] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:12,692] {logging_mixin.py:109} INFO - [2021-12-15 09:05:12,692] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:05:12,753] {logging_mixin.py:109} INFO - [2021-12-15 09:05:12,753] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:05:12,785] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.239 seconds
+[2021-12-15 09:05:43,054] {processor.py:163} INFO - Started process (PID=1313) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:43,058] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:05:43,061] {logging_mixin.py:109} INFO - [2021-12-15 09:05:43,061] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:43,245] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:05:43,278] {logging_mixin.py:109} INFO - [2021-12-15 09:05:43,278] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:05:43,356] {logging_mixin.py:109} INFO - [2021-12-15 09:05:43,356] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:05:43,390] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.341 seconds
+[2021-12-15 09:06:14,303] {processor.py:163} INFO - Started process (PID=1362) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:14,305] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:06:14,307] {logging_mixin.py:109} INFO - [2021-12-15 09:06:14,307] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:14,386] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:14,401] {logging_mixin.py:109} INFO - [2021-12-15 09:06:14,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:06:14,433] {logging_mixin.py:109} INFO - [2021-12-15 09:06:14,433] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:06:14,447] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.148 seconds
+[2021-12-15 09:06:44,802] {processor.py:163} INFO - Started process (PID=1419) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:44,804] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:06:44,806] {logging_mixin.py:109} INFO - [2021-12-15 09:06:44,806] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:44,878] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:06:44,895] {logging_mixin.py:109} INFO - [2021-12-15 09:06:44,895] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:06:44,935] {logging_mixin.py:109} INFO - [2021-12-15 09:06:44,935] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:06:44,959] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.161 seconds
+[2021-12-15 09:07:15,158] {processor.py:163} INFO - Started process (PID=1467) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:15,161] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:07:15,162] {logging_mixin.py:109} INFO - [2021-12-15 09:07:15,162] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:15,238] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:15,252] {logging_mixin.py:109} INFO - [2021-12-15 09:07:15,252] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:07:15,283] {logging_mixin.py:109} INFO - [2021-12-15 09:07:15,283] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:07:15,298] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.145 seconds
+[2021-12-15 09:07:45,672] {processor.py:163} INFO - Started process (PID=1525) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:45,675] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:07:45,676] {logging_mixin.py:109} INFO - [2021-12-15 09:07:45,676] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:45,749] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:07:45,766] {logging_mixin.py:109} INFO - [2021-12-15 09:07:45,765] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:07:45,796] {logging_mixin.py:109} INFO - [2021-12-15 09:07:45,796] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:07:45,811] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.142 seconds
+[2021-12-15 09:08:15,950] {processor.py:163} INFO - Started process (PID=1573) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:15,952] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:08:15,954] {logging_mixin.py:109} INFO - [2021-12-15 09:08:15,954] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:16,026] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:16,041] {logging_mixin.py:109} INFO - [2021-12-15 09:08:16,041] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:08:16,070] {logging_mixin.py:109} INFO - [2021-12-15 09:08:16,070] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:08:16,084] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.138 seconds
+[2021-12-15 09:08:46,199] {processor.py:163} INFO - Started process (PID=1631) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:46,202] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:08:46,204] {logging_mixin.py:109} INFO - [2021-12-15 09:08:46,204] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:46,277] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:08:46,296] {logging_mixin.py:109} INFO - [2021-12-15 09:08:46,296] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:08:46,327] {logging_mixin.py:109} INFO - [2021-12-15 09:08:46,326] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:08:46,340] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.145 seconds
+[2021-12-15 09:09:16,463] {processor.py:163} INFO - Started process (PID=1679) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:16,467] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:09:16,471] {logging_mixin.py:109} INFO - [2021-12-15 09:09:16,470] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:16,555] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:16,570] {logging_mixin.py:109} INFO - [2021-12-15 09:09:16,570] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:09:16,601] {logging_mixin.py:109} INFO - [2021-12-15 09:09:16,601] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:09:16,615] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.155 seconds
+[2021-12-15 09:09:46,851] {processor.py:163} INFO - Started process (PID=1738) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:46,854] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:09:46,856] {logging_mixin.py:109} INFO - [2021-12-15 09:09:46,856] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:46,931] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:09:46,947] {logging_mixin.py:109} INFO - [2021-12-15 09:09:46,947] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:09:46,977] {logging_mixin.py:109} INFO - [2021-12-15 09:09:46,976] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:09:46,990] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.143 seconds
+[2021-12-15 09:10:17,201] {processor.py:163} INFO - Started process (PID=1787) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:17,204] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:10:17,206] {logging_mixin.py:109} INFO - [2021-12-15 09:10:17,206] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:17,302] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:17,322] {logging_mixin.py:109} INFO - [2021-12-15 09:10:17,322] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:10:17,359] {logging_mixin.py:109} INFO - [2021-12-15 09:10:17,359] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:10:17,384] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.187 seconds
+[2021-12-15 09:10:47,851] {processor.py:163} INFO - Started process (PID=1834) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:47,854] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:10:47,856] {logging_mixin.py:109} INFO - [2021-12-15 09:10:47,855] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:47,936] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:10:47,956] {logging_mixin.py:109} INFO - [2021-12-15 09:10:47,956] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:10:47,990] {logging_mixin.py:109} INFO - [2021-12-15 09:10:47,990] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:10:48,005] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.157 seconds
+[2021-12-15 09:11:18,188] {processor.py:163} INFO - Started process (PID=1892) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:18,192] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:11:18,194] {logging_mixin.py:109} INFO - [2021-12-15 09:11:18,194] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:18,273] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:18,296] {logging_mixin.py:109} INFO - [2021-12-15 09:11:18,296] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:11:18,342] {logging_mixin.py:109} INFO - [2021-12-15 09:11:18,342] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:11:18,362] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.179 seconds
+[2021-12-15 09:11:48,440] {processor.py:163} INFO - Started process (PID=1941) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:48,442] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:11:48,444] {logging_mixin.py:109} INFO - [2021-12-15 09:11:48,444] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:48,516] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:11:48,531] {logging_mixin.py:109} INFO - [2021-12-15 09:11:48,531] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:11:48,560] {logging_mixin.py:109} INFO - [2021-12-15 09:11:48,560] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:11:48,574] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.138 seconds
+[2021-12-15 09:12:18,780] {processor.py:163} INFO - Started process (PID=1999) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:18,782] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:12:18,784] {logging_mixin.py:109} INFO - [2021-12-15 09:12:18,784] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:18,859] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:18,873] {logging_mixin.py:109} INFO - [2021-12-15 09:12:18,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:12:18,909] {logging_mixin.py:109} INFO - [2021-12-15 09:12:18,909] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:12:18,923] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.147 seconds
+[2021-12-15 09:12:49,030] {processor.py:163} INFO - Started process (PID=2045) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:49,032] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:12:49,034] {logging_mixin.py:109} INFO - [2021-12-15 09:12:49,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:49,114] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:12:49,130] {logging_mixin.py:109} INFO - [2021-12-15 09:12:49,130] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:12:49,164] {logging_mixin.py:109} INFO - [2021-12-15 09:12:49,164] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:12:49,178] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.153 seconds
+[2021-12-15 09:13:19,418] {processor.py:163} INFO - Started process (PID=2103) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:19,422] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:13:19,423] {logging_mixin.py:109} INFO - [2021-12-15 09:13:19,423] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:19,495] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:19,510] {logging_mixin.py:109} INFO - [2021-12-15 09:13:19,510] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:13:19,540] {logging_mixin.py:109} INFO - [2021-12-15 09:13:19,540] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:13:19,553] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.139 seconds
+[2021-12-15 09:13:49,789] {processor.py:163} INFO - Started process (PID=2151) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:49,792] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:13:49,793] {logging_mixin.py:109} INFO - [2021-12-15 09:13:49,793] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:49,881] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:13:49,899] {logging_mixin.py:109} INFO - [2021-12-15 09:13:49,898] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:13:49,936] {logging_mixin.py:109} INFO - [2021-12-15 09:13:49,936] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:13:49,954] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.168 seconds
+[2021-12-15 09:14:20,041] {processor.py:163} INFO - Started process (PID=2209) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:20,044] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:14:20,045] {logging_mixin.py:109} INFO - [2021-12-15 09:14:20,045] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:20,111] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:20,127] {logging_mixin.py:109} INFO - [2021-12-15 09:14:20,126] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:14:20,155] {logging_mixin.py:109} INFO - [2021-12-15 09:14:20,155] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:14:20,168] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.131 seconds
+[2021-12-15 09:14:50,352] {processor.py:163} INFO - Started process (PID=2257) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:50,356] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:14:50,357] {logging_mixin.py:109} INFO - [2021-12-15 09:14:50,357] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:50,435] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:14:50,449] {logging_mixin.py:109} INFO - [2021-12-15 09:14:50,449] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:14:50,479] {logging_mixin.py:109} INFO - [2021-12-15 09:14:50,479] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:14:50,500] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.152 seconds
+[2021-12-15 09:15:21,051] {processor.py:163} INFO - Started process (PID=2315) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:21,055] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:15:21,058] {logging_mixin.py:109} INFO - [2021-12-15 09:15:21,058] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:21,171] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:21,196] {logging_mixin.py:109} INFO - [2021-12-15 09:15:21,196] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:15:21,243] {logging_mixin.py:109} INFO - [2021-12-15 09:15:21,243] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:15:21,266] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.220 seconds
+[2021-12-15 09:15:51,304] {processor.py:163} INFO - Started process (PID=2362) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:51,307] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:15:51,309] {logging_mixin.py:109} INFO - [2021-12-15 09:15:51,309] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:51,383] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:15:51,397] {logging_mixin.py:109} INFO - [2021-12-15 09:15:51,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:15:51,426] {logging_mixin.py:109} INFO - [2021-12-15 09:15:51,426] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:15:51,440] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.141 seconds
+[2021-12-15 09:16:22,881] {processor.py:163} INFO - Started process (PID=2410) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:16:22,893] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:16:22,900] {logging_mixin.py:109} INFO - [2021-12-15 09:16:22,899] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:16:23,395] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:16:23,500] {logging_mixin.py:109} INFO - [2021-12-15 09:16:23,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:16:23,694] {logging_mixin.py:109} INFO - [2021-12-15 09:16:23,694] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:16:48,008] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.969 seconds
+[2021-12-15 09:17:19,741] {processor.py:163} INFO - Started process (PID=2457) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:17:19,753] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:17:19,775] {logging_mixin.py:109} INFO - [2021-12-15 09:17:19,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:17:20,521] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:17:22,099] {logging_mixin.py:109} INFO - [2021-12-15 09:17:22,098] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:17:22,742] {logging_mixin.py:109} INFO - [2021-12-15 09:17:22,741] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:17:22,803] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 3.141 seconds
+[2021-12-15 09:23:06,629] {processor.py:163} INFO - Started process (PID=2519) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:06,644] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:23:06,652] {logging_mixin.py:109} INFO - [2021-12-15 09:23:06,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:06,860] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:06,908] {logging_mixin.py:109} INFO - [2021-12-15 09:23:06,908] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:23:07,008] {logging_mixin.py:109} INFO - [2021-12-15 09:23:07,008] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:23:07,046] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.427 seconds
+[2021-12-15 09:23:37,581] {processor.py:163} INFO - Started process (PID=2567) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:37,585] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:23:37,587] {logging_mixin.py:109} INFO - [2021-12-15 09:23:37,587] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:37,700] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:23:37,730] {logging_mixin.py:109} INFO - [2021-12-15 09:23:37,729] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:23:37,781] {logging_mixin.py:109} INFO - [2021-12-15 09:23:37,781] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:23:37,809] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.233 seconds
+[2021-12-15 09:24:08,117] {processor.py:163} INFO - Started process (PID=2626) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:08,119] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:24:08,121] {logging_mixin.py:109} INFO - [2021-12-15 09:24:08,121] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:08,206] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:08,223] {logging_mixin.py:109} INFO - [2021-12-15 09:24:08,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:24:08,258] {logging_mixin.py:109} INFO - [2021-12-15 09:24:08,258] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:24:08,274] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.161 seconds
+[2021-12-15 09:24:38,791] {processor.py:163} INFO - Started process (PID=2674) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:38,793] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:24:38,795] {logging_mixin.py:109} INFO - [2021-12-15 09:24:38,795] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:38,883] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:24:38,921] {logging_mixin.py:109} INFO - [2021-12-15 09:24:38,921] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:24:38,971] {logging_mixin.py:109} INFO - [2021-12-15 09:24:38,970] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:24:38,986] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.200 seconds
+[2021-12-15 09:25:09,795] {processor.py:163} INFO - Started process (PID=2733) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:09,798] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:25:09,800] {logging_mixin.py:109} INFO - [2021-12-15 09:25:09,800] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:09,899] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:09,927] {logging_mixin.py:109} INFO - [2021-12-15 09:25:09,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:25:09,991] {logging_mixin.py:109} INFO - [2021-12-15 09:25:09,991] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:25:10,029] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.239 seconds
+[2021-12-15 09:25:40,431] {processor.py:163} INFO - Started process (PID=2781) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:40,435] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:25:40,438] {logging_mixin.py:109} INFO - [2021-12-15 09:25:40,437] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:40,638] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:25:40,683] {logging_mixin.py:109} INFO - [2021-12-15 09:25:40,683] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:25:40,760] {logging_mixin.py:109} INFO - [2021-12-15 09:25:40,760] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:25:40,797] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.386 seconds
+[2021-12-15 09:26:11,621] {processor.py:163} INFO - Started process (PID=2839) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:11,625] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:26:11,627] {logging_mixin.py:109} INFO - [2021-12-15 09:26:11,627] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:11,810] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:11,849] {logging_mixin.py:109} INFO - [2021-12-15 09:26:11,849] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:26:11,930] {logging_mixin.py:109} INFO - [2021-12-15 09:26:11,929] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:26:11,966] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.356 seconds
+[2021-12-15 09:26:42,215] {processor.py:163} INFO - Started process (PID=2886) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:42,217] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:26:42,219] {logging_mixin.py:109} INFO - [2021-12-15 09:26:42,218] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:42,287] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:26:42,305] {logging_mixin.py:109} INFO - [2021-12-15 09:26:42,305] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:26:42,343] {logging_mixin.py:109} INFO - [2021-12-15 09:26:42,343] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:26:42,359] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.148 seconds
+[2021-12-15 09:27:12,565] {processor.py:163} INFO - Started process (PID=2944) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:12,568] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:27:12,570] {logging_mixin.py:109} INFO - [2021-12-15 09:27:12,570] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:12,660] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:12,682] {logging_mixin.py:109} INFO - [2021-12-15 09:27:12,682] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:27:12,728] {logging_mixin.py:109} INFO - [2021-12-15 09:27:12,727] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:27:12,748] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.187 seconds
+[2021-12-15 09:27:43,313] {processor.py:163} INFO - Started process (PID=2991) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:43,315] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:27:43,317] {logging_mixin.py:109} INFO - [2021-12-15 09:27:43,317] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:43,391] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:27:43,406] {logging_mixin.py:109} INFO - [2021-12-15 09:27:43,406] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:27:43,436] {logging_mixin.py:109} INFO - [2021-12-15 09:27:43,436] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:27:43,449] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.140 seconds
+[2021-12-15 09:28:14,021] {processor.py:163} INFO - Started process (PID=3050) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:14,023] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:28:14,025] {logging_mixin.py:109} INFO - [2021-12-15 09:28:14,025] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:14,128] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:14,147] {logging_mixin.py:109} INFO - [2021-12-15 09:28:14,147] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:28:14,191] {logging_mixin.py:109} INFO - [2021-12-15 09:28:14,191] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:28:14,212] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.196 seconds
+[2021-12-15 09:28:44,855] {processor.py:163} INFO - Started process (PID=3098) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:44,857] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:28:44,859] {logging_mixin.py:109} INFO - [2021-12-15 09:28:44,858] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:44,928] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:28:44,943] {logging_mixin.py:109} INFO - [2021-12-15 09:28:44,943] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:28:44,977] {logging_mixin.py:109} INFO - [2021-12-15 09:28:44,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:28:44,991] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.140 seconds
+[2021-12-15 09:29:15,500] {processor.py:163} INFO - Started process (PID=3156) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:15,503] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:29:15,504] {logging_mixin.py:109} INFO - [2021-12-15 09:29:15,504] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:15,588] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:15,608] {logging_mixin.py:109} INFO - [2021-12-15 09:29:15,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:29:15,647] {logging_mixin.py:109} INFO - [2021-12-15 09:29:15,647] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:29:15,664] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.169 seconds
+[2021-12-15 09:29:46,222] {processor.py:163} INFO - Started process (PID=3204) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:46,224] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:29:46,226] {logging_mixin.py:109} INFO - [2021-12-15 09:29:46,226] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:46,309] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:29:46,325] {logging_mixin.py:109} INFO - [2021-12-15 09:29:46,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:29:46,361] {logging_mixin.py:109} INFO - [2021-12-15 09:29:46,361] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:29:46,379] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.161 seconds
+[2021-12-15 09:30:16,902] {processor.py:163} INFO - Started process (PID=3262) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:16,904] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:30:16,906] {logging_mixin.py:109} INFO - [2021-12-15 09:30:16,906] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:16,987] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:17,005] {logging_mixin.py:109} INFO - [2021-12-15 09:30:17,004] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:30:17,051] {logging_mixin.py:109} INFO - [2021-12-15 09:30:17,051] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:30:17,071] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.173 seconds
+[2021-12-15 09:30:47,758] {processor.py:163} INFO - Started process (PID=3309) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:47,761] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:30:47,763] {logging_mixin.py:109} INFO - [2021-12-15 09:30:47,762] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:47,835] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:30:47,850] {logging_mixin.py:109} INFO - [2021-12-15 09:30:47,850] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:30:47,884] {logging_mixin.py:109} INFO - [2021-12-15 09:30:47,884] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:30:47,901] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.148 seconds
+[2021-12-15 09:31:18,574] {processor.py:163} INFO - Started process (PID=3367) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:18,577] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:31:18,579] {logging_mixin.py:109} INFO - [2021-12-15 09:31:18,579] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:18,657] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:18,673] {logging_mixin.py:109} INFO - [2021-12-15 09:31:18,673] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:31:18,708] {logging_mixin.py:109} INFO - [2021-12-15 09:31:18,708] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:31:18,725] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.155 seconds
+[2021-12-15 09:31:49,183] {processor.py:163} INFO - Started process (PID=3414) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:49,186] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:31:49,188] {logging_mixin.py:109} INFO - [2021-12-15 09:31:49,188] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:49,273] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:31:49,289] {logging_mixin.py:109} INFO - [2021-12-15 09:31:49,288] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:31:49,320] {logging_mixin.py:109} INFO - [2021-12-15 09:31:49,320] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:31:49,338] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.162 seconds
+[2021-12-15 09:32:20,045] {processor.py:163} INFO - Started process (PID=3473) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:20,047] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:32:20,049] {logging_mixin.py:109} INFO - [2021-12-15 09:32:20,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:20,156] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:20,187] {logging_mixin.py:109} INFO - [2021-12-15 09:32:20,187] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:32:20,230] {logging_mixin.py:109} INFO - [2021-12-15 09:32:20,230] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:32:20,253] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.212 seconds
+[2021-12-15 09:32:50,871] {processor.py:163} INFO - Started process (PID=3521) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:50,874] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:32:50,877] {logging_mixin.py:109} INFO - [2021-12-15 09:32:50,876] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:50,991] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:32:51,027] {logging_mixin.py:109} INFO - [2021-12-15 09:32:51,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:32:51,081] {logging_mixin.py:109} INFO - [2021-12-15 09:32:51,081] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:32:51,110] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.247 seconds
+[2021-12-15 09:33:21,721] {processor.py:163} INFO - Started process (PID=3568) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:21,725] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:33:21,726] {logging_mixin.py:109} INFO - [2021-12-15 09:33:21,726] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:21,815] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:21,837] {logging_mixin.py:109} INFO - [2021-12-15 09:33:21,837] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:33:21,885] {logging_mixin.py:109} INFO - [2021-12-15 09:33:21,885] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:33:21,919] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.202 seconds
+[2021-12-15 09:33:52,652] {processor.py:163} INFO - Started process (PID=3625) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:52,654] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:33:52,656] {logging_mixin.py:109} INFO - [2021-12-15 09:33:52,656] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:52,733] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:33:52,750] {logging_mixin.py:109} INFO - [2021-12-15 09:33:52,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:33:52,789] {logging_mixin.py:109} INFO - [2021-12-15 09:33:52,789] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:33:52,805] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.157 seconds
+[2021-12-15 09:34:23,421] {processor.py:163} INFO - Started process (PID=3673) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:23,423] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:34:23,425] {logging_mixin.py:109} INFO - [2021-12-15 09:34:23,424] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:23,510] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:23,530] {logging_mixin.py:109} INFO - [2021-12-15 09:34:23,530] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:34:23,578] {logging_mixin.py:109} INFO - [2021-12-15 09:34:23,578] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:34:23,596] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.180 seconds
+[2021-12-15 09:34:54,126] {processor.py:163} INFO - Started process (PID=3731) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:54,128] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:34:54,130] {logging_mixin.py:109} INFO - [2021-12-15 09:34:54,130] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:54,211] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:34:54,231] {logging_mixin.py:109} INFO - [2021-12-15 09:34:54,231] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:34:54,273] {logging_mixin.py:109} INFO - [2021-12-15 09:34:54,272] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:34:54,293] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.171 seconds
+[2021-12-15 09:35:25,062] {processor.py:163} INFO - Started process (PID=3780) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:25,065] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:35:25,067] {logging_mixin.py:109} INFO - [2021-12-15 09:35:25,067] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:25,148] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:25,164] {logging_mixin.py:109} INFO - [2021-12-15 09:35:25,164] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:35:25,200] {logging_mixin.py:109} INFO - [2021-12-15 09:35:25,200] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:35:25,218] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.160 seconds
+[2021-12-15 09:35:55,797] {processor.py:163} INFO - Started process (PID=3836) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:55,799] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:35:55,801] {logging_mixin.py:109} INFO - [2021-12-15 09:35:55,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:55,873] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:35:55,889] {logging_mixin.py:109} INFO - [2021-12-15 09:35:55,889] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:35:55,935] {logging_mixin.py:109} INFO - [2021-12-15 09:35:55,934] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:35:55,953] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.160 seconds
+[2021-12-15 09:36:26,582] {processor.py:163} INFO - Started process (PID=3883) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:26,585] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:36:26,587] {logging_mixin.py:109} INFO - [2021-12-15 09:36:26,587] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:26,683] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:26,700] {logging_mixin.py:109} INFO - [2021-12-15 09:36:26,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:36:26,736] {logging_mixin.py:109} INFO - [2021-12-15 09:36:26,736] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:36:26,752] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.174 seconds
+[2021-12-15 09:36:57,564] {processor.py:163} INFO - Started process (PID=3940) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:57,566] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:36:57,568] {logging_mixin.py:109} INFO - [2021-12-15 09:36:57,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:57,663] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:36:57,684] {logging_mixin.py:109} INFO - [2021-12-15 09:36:57,684] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:36:57,727] {logging_mixin.py:109} INFO - [2021-12-15 09:36:57,726] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:36:57,748] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.190 seconds
+[2021-12-15 09:37:28,611] {processor.py:163} INFO - Started process (PID=3986) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:28,615] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:37:28,617] {logging_mixin.py:109} INFO - [2021-12-15 09:37:28,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:28,721] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:28,743] {logging_mixin.py:109} INFO - [2021-12-15 09:37:28,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:37:28,793] {logging_mixin.py:109} INFO - [2021-12-15 09:37:28,793] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:37:28,824] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.217 seconds
+[2021-12-15 09:37:59,504] {processor.py:163} INFO - Started process (PID=4044) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:59,507] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:37:59,510] {logging_mixin.py:109} INFO - [2021-12-15 09:37:59,510] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:59,592] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:37:59,611] {logging_mixin.py:109} INFO - [2021-12-15 09:37:59,611] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:37:59,644] {logging_mixin.py:109} INFO - [2021-12-15 09:37:59,644] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:37:59,659] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.160 seconds
+[2021-12-15 09:38:29,855] {processor.py:163} INFO - Started process (PID=4092) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:38:29,857] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:38:29,859] {logging_mixin.py:109} INFO - [2021-12-15 09:38:29,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:38:29,939] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:38:29,955] {logging_mixin.py:109} INFO - [2021-12-15 09:38:29,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:38:29,986] {logging_mixin.py:109} INFO - [2021-12-15 09:38:29,986] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:38:30,000] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.149 seconds
+[2021-12-15 09:40:47,066] {processor.py:163} INFO - Started process (PID=4173) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:40:47,088] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:40:47,106] {logging_mixin.py:109} INFO - [2021-12-15 09:40:47,105] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:40:48,561] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:40:48,821] {logging_mixin.py:109} INFO - [2021-12-15 09:40:48,819] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:40:49,211] {logging_mixin.py:109} INFO - [2021-12-15 09:40:49,210] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:40:49,357] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 2.349 seconds
+[2021-12-15 09:41:19,618] {processor.py:163} INFO - Started process (PID=4223) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:41:19,621] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:41:19,623] {logging_mixin.py:109} INFO - [2021-12-15 09:41:19,623] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:41:19,703] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:41:19,723] {logging_mixin.py:109} INFO - [2021-12-15 09:41:19,723] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:41:19,758] {logging_mixin.py:109} INFO - [2021-12-15 09:41:19,757] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:41:19,775] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.161 seconds
+[2021-12-15 09:47:01,233] {processor.py:163} INFO - Started process (PID=4242) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:01,242] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:47:01,247] {logging_mixin.py:109} INFO - [2021-12-15 09:47:01,246] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:01,514] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:01,571] {logging_mixin.py:109} INFO - [2021-12-15 09:47:01,571] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:47:01,632] {logging_mixin.py:109} INFO - [2021-12-15 09:47:01,632] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:47:01,664] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.439 seconds
+[2021-12-15 09:47:32,069] {processor.py:163} INFO - Started process (PID=4300) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:32,071] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:47:32,073] {logging_mixin.py:109} INFO - [2021-12-15 09:47:32,072] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:32,187] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:32,208] {logging_mixin.py:109} INFO - [2021-12-15 09:47:32,207] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:47:32,251] {logging_mixin.py:109} INFO - [2021-12-15 09:47:32,251] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:47:32,272] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.214 seconds
+[2021-12-15 09:47:51,550] {processor.py:163} INFO - Started process (PID=4336) to work on /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:51,554] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_roscommon.py for tasks to queue
+[2021-12-15 09:47:51,556] {logging_mixin.py:109} INFO - [2021-12-15 09:47:51,556] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:51,652] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_roscommon']) retrieved from /opt/airflow/dags/scraping_daft_roscommon.py
+[2021-12-15 09:47:51,944] {logging_mixin.py:109} INFO - [2021-12-15 09:47:51,944] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:47:51,979] {logging_mixin.py:109} INFO - [2021-12-15 09:47:51,979] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_roscommon to 2021-12-14T11:00:00+00:00
+[2021-12-15 09:47:52,007] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_roscommon.py took 0.462 seconds

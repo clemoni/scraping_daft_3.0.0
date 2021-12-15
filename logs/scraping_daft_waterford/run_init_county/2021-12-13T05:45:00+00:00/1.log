@@ -1,0 +1,24 @@
+[2021-12-14 07:17:15,976] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.run_init_county scheduled__2021-12-13T05:45:00+00:00 [queued]>
+[2021-12-14 07:18:25,807] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.run_init_county scheduled__2021-12-13T05:45:00+00:00 [queued]>
+[2021-12-14 07:18:25,842] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-14 07:18:25,859] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-14 07:18:25,934] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-14 07:18:56,770] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-13 05:45:00+00:00
+[2021-12-14 07:18:57,019] {standard_task_runner.py:52} INFO - Started process 34565 to run task
+[2021-12-14 07:18:59,808] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_waterford', 'run_init_county', 'scheduled__2021-12-13T05:45:00+00:00', '--job-id', '2100', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_waterford.py', '--cfg-path', '/tmp/tmp0qd2l00g', '--error-file', '/tmp/tmpk2cfmu2d']
+[2021-12-14 07:19:00,137] {standard_task_runner.py:77} INFO - Job 2100: Subtask run_init_county
+[2021-12-14 08:46:35,067] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_waterford.run_init_county scheduled__2021-12-13T05:45:00+00:00 [running]> on host c81f81825bc0
+[2021-12-14 08:50:09,139] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_waterford
+AIRFLOW_CTX_TASK_ID=run_init_county
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-13T05:45:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-13T05:45:00+00:00
+[2021-12-14 08:52:16,354] {python.py:152} INFO - Done. Returned value was: None
+[2021-12-14 08:58:40,965] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_waterford, task_id=run_init_county, execution_date=20211213T054500, start_date=20211214T071756, end_date=20211214T085838
+[2021-12-14 09:01:14,536] {local_task_job.py:212} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2021-12-14 09:01:26,664] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 34565
+[2021-12-14 09:01:29,519] {process_utils.py:66} INFO - Process psutil.Process(pid=34565, status='terminated', exitcode=0, started='07:18:56') (34565) terminated with exit code 0
