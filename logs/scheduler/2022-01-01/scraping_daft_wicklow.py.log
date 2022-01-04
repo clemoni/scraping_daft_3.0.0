@@ -1,0 +1,1169 @@
+[2022-01-01 12:28:34,813] {processor.py:163} INFO - Started process (PID=64) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:28:34,820] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:28:34,825] {logging_mixin.py:109} INFO - [2022-01-01 12:28:34,824] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:28:35,045] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:28:35,102] {logging_mixin.py:109} INFO - [2022-01-01 12:28:35,102] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:28:35,167] {logging_mixin.py:109} INFO - [2022-01-01 12:28:35,167] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2021-12-31T11:10:00+00:00
+[2022-01-01 12:28:35,200] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.406 seconds
+[2022-01-01 12:29:06,824] {processor.py:163} INFO - Started process (PID=149) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:06,839] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:29:06,844] {logging_mixin.py:109} INFO - [2022-01-01 12:29:06,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:07,174] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:07,272] {logging_mixin.py:109} INFO - [2022-01-01 12:29:07,272] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:29:07,436] {logging_mixin.py:109} INFO - [2022-01-01 12:29:07,436] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:29:07,486] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.678 seconds
+[2022-01-01 12:29:45,170] {processor.py:163} INFO - Started process (PID=197) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:45,189] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:29:45,194] {logging_mixin.py:109} INFO - [2022-01-01 12:29:45,194] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:46,043] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:29:46,153] {logging_mixin.py:109} INFO - [2022-01-01 12:29:46,153] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:29:46,363] {logging_mixin.py:109} INFO - [2022-01-01 12:29:46,360] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:29:46,454] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.305 seconds
+[2022-01-01 12:30:29,313] {processor.py:163} INFO - Started process (PID=245) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:30:29,322] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:30:29,331] {logging_mixin.py:109} INFO - [2022-01-01 12:30:29,331] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:30:29,667] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:30:29,775] {logging_mixin.py:109} INFO - [2022-01-01 12:30:29,775] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:30:29,897] {logging_mixin.py:109} INFO - [2022-01-01 12:30:29,897] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:30:29,973] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.669 seconds
+[2022-01-01 12:31:09,280] {processor.py:163} INFO - Started process (PID=291) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:09,293] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:31:09,304] {logging_mixin.py:109} INFO - [2022-01-01 12:31:09,303] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:09,713] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:09,828] {logging_mixin.py:109} INFO - [2022-01-01 12:31:09,828] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:31:10,024] {logging_mixin.py:109} INFO - [2022-01-01 12:31:10,022] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:31:10,115] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.857 seconds
+[2022-01-01 12:31:40,353] {processor.py:163} INFO - Started process (PID=338) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:40,357] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:31:40,360] {logging_mixin.py:109} INFO - [2022-01-01 12:31:40,360] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:40,666] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:31:40,735] {logging_mixin.py:109} INFO - [2022-01-01 12:31:40,735] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:31:40,879] {logging_mixin.py:109} INFO - [2022-01-01 12:31:40,879] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:31:40,944] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.599 seconds
+[2022-01-01 12:32:19,678] {processor.py:163} INFO - Started process (PID=384) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:19,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:32:19,690] {logging_mixin.py:109} INFO - [2022-01-01 12:32:19,690] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:20,042] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:20,099] {logging_mixin.py:109} INFO - [2022-01-01 12:32:20,099] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:32:20,208] {logging_mixin.py:109} INFO - [2022-01-01 12:32:20,208] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:32:20,317] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.647 seconds
+[2022-01-01 12:32:51,584] {processor.py:163} INFO - Started process (PID=423) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:51,595] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:32:51,627] {logging_mixin.py:109} INFO - [2022-01-01 12:32:51,627] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:52,319] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:32:52,389] {logging_mixin.py:109} INFO - [2022-01-01 12:32:52,389] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:32:52,556] {logging_mixin.py:109} INFO - [2022-01-01 12:32:52,555] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:32:52,606] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.035 seconds
+[2022-01-01 12:33:49,739] {processor.py:163} INFO - Started process (PID=479) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:33:49,759] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:33:49,770] {logging_mixin.py:109} INFO - [2022-01-01 12:33:49,768] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:33:50,975] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:33:51,453] {logging_mixin.py:109} INFO - [2022-01-01 12:33:51,430] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:33:58,571] {logging_mixin.py:109} INFO - [2022-01-01 12:33:58,571] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:33:58,685] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 9.015 seconds
+[2022-01-01 12:34:35,590] {processor.py:163} INFO - Started process (PID=533) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:34:36,787] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:34:39,166] {logging_mixin.py:109} INFO - [2022-01-01 12:34:39,165] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:34:40,256] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:34:40,571] {logging_mixin.py:109} INFO - [2022-01-01 12:34:40,571] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:34:40,813] {logging_mixin.py:109} INFO - [2022-01-01 12:34:40,812] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:34:41,032] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 6.907 seconds
+[2022-01-01 12:35:25,224] {processor.py:163} INFO - Started process (PID=593) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:35:25,230] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:35:25,240] {logging_mixin.py:109} INFO - [2022-01-01 12:35:25,233] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:35:25,622] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:35:25,780] {logging_mixin.py:109} INFO - [2022-01-01 12:35:25,779] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:35:25,949] {logging_mixin.py:109} INFO - [2022-01-01 12:35:25,948] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:35:26,029] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.839 seconds
+[2022-01-01 12:37:17,420] {processor.py:163} INFO - Started process (PID=657) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:17,445] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:37:17,463] {logging_mixin.py:109} INFO - [2022-01-01 12:37:17,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:18,122] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:18,323] {logging_mixin.py:109} INFO - [2022-01-01 12:37:18,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:37:18,634] {logging_mixin.py:109} INFO - [2022-01-01 12:37:18,634] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:37:18,799] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.448 seconds
+[2022-01-01 12:37:51,051] {processor.py:163} INFO - Started process (PID=695) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:51,060] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:37:51,070] {logging_mixin.py:109} INFO - [2022-01-01 12:37:51,069] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:51,685] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:37:51,830] {logging_mixin.py:109} INFO - [2022-01-01 12:37:51,829] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:37:51,967] {logging_mixin.py:109} INFO - [2022-01-01 12:37:51,967] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:37:52,051] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.025 seconds
+[2022-01-01 12:38:22,790] {processor.py:163} INFO - Started process (PID=742) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:22,812] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:38:22,816] {logging_mixin.py:109} INFO - [2022-01-01 12:38:22,815] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:23,147] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:23,235] {logging_mixin.py:109} INFO - [2022-01-01 12:38:23,234] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:38:23,474] {logging_mixin.py:109} INFO - [2022-01-01 12:38:23,473] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:38:23,597] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.822 seconds
+[2022-01-01 12:38:53,780] {processor.py:163} INFO - Started process (PID=799) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:53,784] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:38:53,792] {logging_mixin.py:109} INFO - [2022-01-01 12:38:53,791] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:54,096] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:38:54,178] {logging_mixin.py:109} INFO - [2022-01-01 12:38:54,178] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:38:54,253] {logging_mixin.py:109} INFO - [2022-01-01 12:38:54,252] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:38:54,361] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.598 seconds
+[2022-01-01 12:39:35,490] {processor.py:163} INFO - Started process (PID=853) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:39:35,497] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:39:35,509] {logging_mixin.py:109} INFO - [2022-01-01 12:39:35,504] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:39:36,204] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:39:36,359] {logging_mixin.py:109} INFO - [2022-01-01 12:39:36,358] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:39:36,630] {logging_mixin.py:109} INFO - [2022-01-01 12:39:36,629] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:39:36,827] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.378 seconds
+[2022-01-01 12:40:09,408] {processor.py:163} INFO - Started process (PID=891) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:09,432] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:40:09,440] {logging_mixin.py:109} INFO - [2022-01-01 12:40:09,440] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:10,814] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:10,960] {logging_mixin.py:109} INFO - [2022-01-01 12:40:10,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:40:11,126] {logging_mixin.py:109} INFO - [2022-01-01 12:40:11,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:40:11,225] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.858 seconds
+[2022-01-01 12:40:42,207] {processor.py:163} INFO - Started process (PID=939) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:42,213] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:40:42,216] {logging_mixin.py:109} INFO - [2022-01-01 12:40:42,215] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:42,551] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:40:42,626] {logging_mixin.py:109} INFO - [2022-01-01 12:40:42,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:40:42,728] {logging_mixin.py:109} INFO - [2022-01-01 12:40:42,728] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:40:42,770] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.579 seconds
+[2022-01-01 12:41:13,406] {processor.py:163} INFO - Started process (PID=984) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:13,413] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:41:13,417] {logging_mixin.py:109} INFO - [2022-01-01 12:41:13,417] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:13,856] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:13,966] {logging_mixin.py:109} INFO - [2022-01-01 12:41:13,966] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:41:14,167] {logging_mixin.py:109} INFO - [2022-01-01 12:41:14,167] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:41:14,227] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.836 seconds
+[2022-01-01 12:41:45,686] {processor.py:163} INFO - Started process (PID=1027) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:45,690] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:41:45,693] {logging_mixin.py:109} INFO - [2022-01-01 12:41:45,693] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:45,999] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:41:46,052] {logging_mixin.py:109} INFO - [2022-01-01 12:41:46,052] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:41:46,163] {logging_mixin.py:109} INFO - [2022-01-01 12:41:46,163] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:41:46,235] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.562 seconds
+[2022-01-01 12:42:16,559] {processor.py:163} INFO - Started process (PID=1075) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:16,568] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:42:16,571] {logging_mixin.py:109} INFO - [2022-01-01 12:42:16,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:16,805] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:16,870] {logging_mixin.py:109} INFO - [2022-01-01 12:42:16,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:42:17,111] {logging_mixin.py:109} INFO - [2022-01-01 12:42:17,111] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:42:17,160] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.619 seconds
+[2022-01-01 12:42:47,653] {processor.py:163} INFO - Started process (PID=1127) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:47,662] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:42:47,668] {logging_mixin.py:109} INFO - [2022-01-01 12:42:47,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:47,985] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:42:48,109] {logging_mixin.py:109} INFO - [2022-01-01 12:42:48,109] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:42:48,223] {logging_mixin.py:109} INFO - [2022-01-01 12:42:48,223] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:42:48,297] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.651 seconds
+[2022-01-01 12:43:18,567] {processor.py:163} INFO - Started process (PID=1185) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:18,575] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:43:18,593] {logging_mixin.py:109} INFO - [2022-01-01 12:43:18,592] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:18,906] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:19,031] {logging_mixin.py:109} INFO - [2022-01-01 12:43:19,031] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:43:19,110] {logging_mixin.py:109} INFO - [2022-01-01 12:43:19,109] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:43:19,154] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.602 seconds
+[2022-01-01 12:43:55,853] {processor.py:163} INFO - Started process (PID=1232) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:55,857] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:43:55,859] {logging_mixin.py:109} INFO - [2022-01-01 12:43:55,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:56,027] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:43:56,066] {logging_mixin.py:109} INFO - [2022-01-01 12:43:56,066] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:43:56,128] {logging_mixin.py:109} INFO - [2022-01-01 12:43:56,128] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:43:56,163] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.316 seconds
+[2022-01-01 12:44:32,027] {processor.py:163} INFO - Started process (PID=1262) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:44:32,045] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:44:32,057] {logging_mixin.py:109} INFO - [2022-01-01 12:44:32,055] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:44:32,798] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:44:32,913] {logging_mixin.py:109} INFO - [2022-01-01 12:44:32,912] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:44:33,133] {logging_mixin.py:109} INFO - [2022-01-01 12:44:33,132] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:44:33,272] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.289 seconds
+[2022-01-01 12:45:03,563] {processor.py:163} INFO - Started process (PID=1299) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:45:03,568] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:45:03,575] {logging_mixin.py:109} INFO - [2022-01-01 12:45:03,574] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:45:03,953] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:45:04,012] {logging_mixin.py:109} INFO - [2022-01-01 12:45:04,012] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:45:04,080] {logging_mixin.py:109} INFO - [2022-01-01 12:45:04,079] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:45:04,117] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.575 seconds
+[2022-01-01 12:46:28,324] {processor.py:163} INFO - Started process (PID=1355) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:46:28,332] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:46:28,335] {logging_mixin.py:109} INFO - [2022-01-01 12:46:28,334] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:46:28,799] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:46:29,154] {logging_mixin.py:109} INFO - [2022-01-01 12:46:29,154] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:46:29,382] {logging_mixin.py:109} INFO - [2022-01-01 12:46:29,379] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:46:29,489] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.201 seconds
+[2022-01-01 12:47:00,911] {processor.py:163} INFO - Started process (PID=1400) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:00,976] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:47:01,029] {logging_mixin.py:109} INFO - [2022-01-01 12:47:01,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:01,748] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:01,884] {logging_mixin.py:109} INFO - [2022-01-01 12:47:01,884] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:47:02,198] {logging_mixin.py:109} INFO - [2022-01-01 12:47:02,198] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:47:02,343] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.502 seconds
+[2022-01-01 12:47:38,754] {processor.py:163} INFO - Started process (PID=1440) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:38,798] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:47:38,817] {logging_mixin.py:109} INFO - [2022-01-01 12:47:38,816] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:40,723] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:47:41,259] {logging_mixin.py:109} INFO - [2022-01-01 12:47:41,258] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:47:43,893] {logging_mixin.py:109} INFO - [2022-01-01 12:47:43,892] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:47:44,048] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 5.339 seconds
+[2022-01-01 12:48:16,087] {processor.py:163} INFO - Started process (PID=1491) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:16,108] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:48:16,113] {logging_mixin.py:109} INFO - [2022-01-01 12:48:16,112] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:16,627] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:16,755] {logging_mixin.py:109} INFO - [2022-01-01 12:48:16,755] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:48:16,913] {logging_mixin.py:109} INFO - [2022-01-01 12:48:16,913] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:48:16,982] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.903 seconds
+[2022-01-01 12:48:47,091] {processor.py:163} INFO - Started process (PID=1547) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:47,117] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:48:47,122] {logging_mixin.py:109} INFO - [2022-01-01 12:48:47,122] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:47,416] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:48:47,469] {logging_mixin.py:109} INFO - [2022-01-01 12:48:47,469] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:48:47,626] {logging_mixin.py:109} INFO - [2022-01-01 12:48:47,626] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:48:47,736] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.652 seconds
+[2022-01-01 12:49:20,019] {processor.py:163} INFO - Started process (PID=1584) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:20,037] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:49:20,052] {logging_mixin.py:109} INFO - [2022-01-01 12:49:20,051] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:20,671] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:20,757] {logging_mixin.py:109} INFO - [2022-01-01 12:49:20,756] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:49:20,887] {logging_mixin.py:109} INFO - [2022-01-01 12:49:20,882] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:49:20,954] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.967 seconds
+[2022-01-01 12:49:53,347] {processor.py:163} INFO - Started process (PID=1635) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:53,360] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:49:53,377] {logging_mixin.py:109} INFO - [2022-01-01 12:49:53,377] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:54,817] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:49:54,992] {logging_mixin.py:109} INFO - [2022-01-01 12:49:54,992] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:49:55,260] {logging_mixin.py:109} INFO - [2022-01-01 12:49:55,259] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:49:55,419] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 2.117 seconds
+[2022-01-01 12:50:25,958] {processor.py:163} INFO - Started process (PID=1697) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:25,967] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:50:25,972] {logging_mixin.py:109} INFO - [2022-01-01 12:50:25,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:26,166] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:26,213] {logging_mixin.py:109} INFO - [2022-01-01 12:50:26,213] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:50:26,306] {logging_mixin.py:109} INFO - [2022-01-01 12:50:26,306] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:50:26,347] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.415 seconds
+[2022-01-01 12:50:56,754] {processor.py:163} INFO - Started process (PID=1736) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:56,762] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:50:56,765] {logging_mixin.py:109} INFO - [2022-01-01 12:50:56,764] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:56,979] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:50:57,019] {logging_mixin.py:109} INFO - [2022-01-01 12:50:57,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:50:57,087] {logging_mixin.py:109} INFO - [2022-01-01 12:50:57,087] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:50:57,133] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.391 seconds
+[2022-01-01 12:51:27,463] {processor.py:163} INFO - Started process (PID=1791) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:27,470] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:51:27,472] {logging_mixin.py:109} INFO - [2022-01-01 12:51:27,472] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:27,622] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:27,656] {logging_mixin.py:109} INFO - [2022-01-01 12:51:27,656] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:51:27,717] {logging_mixin.py:109} INFO - [2022-01-01 12:51:27,716] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:51:27,753] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.299 seconds
+[2022-01-01 12:51:57,977] {processor.py:163} INFO - Started process (PID=1837) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:57,981] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:51:57,985] {logging_mixin.py:109} INFO - [2022-01-01 12:51:57,985] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:58,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:51:58,267] {logging_mixin.py:109} INFO - [2022-01-01 12:51:58,267] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:51:58,340] {logging_mixin.py:109} INFO - [2022-01-01 12:51:58,339] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:51:58,373] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.409 seconds
+[2022-01-01 12:52:28,894] {processor.py:163} INFO - Started process (PID=1896) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:52:28,904] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:52:28,912] {logging_mixin.py:109} INFO - [2022-01-01 12:52:28,912] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:52:29,279] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:52:29,368] {logging_mixin.py:109} INFO - [2022-01-01 12:52:29,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:52:29,443] {logging_mixin.py:109} INFO - [2022-01-01 12:52:29,443] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:52:29,502] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.621 seconds
+[2022-01-01 12:52:59,638] {processor.py:163} INFO - Started process (PID=1941) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:52:59,646] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:52:59,655] {logging_mixin.py:109} INFO - [2022-01-01 12:52:59,655] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:52:59,947] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:53:00,022] {logging_mixin.py:109} INFO - [2022-01-01 12:53:00,021] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:53:00,207] {logging_mixin.py:109} INFO - [2022-01-01 12:53:00,207] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:53:00,308] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.678 seconds
+[2022-01-01 12:53:30,932] {processor.py:163} INFO - Started process (PID=1989) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:53:30,939] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:53:30,942] {logging_mixin.py:109} INFO - [2022-01-01 12:53:30,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:53:31,200] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:53:31,274] {logging_mixin.py:109} INFO - [2022-01-01 12:53:31,270] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:53:31,380] {logging_mixin.py:109} INFO - [2022-01-01 12:53:31,380] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:53:31,413] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.492 seconds
+[2022-01-01 12:54:01,606] {processor.py:163} INFO - Started process (PID=2040) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:01,611] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:54:01,622] {logging_mixin.py:109} INFO - [2022-01-01 12:54:01,620] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:01,914] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:02,007] {logging_mixin.py:109} INFO - [2022-01-01 12:54:02,007] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:54:02,117] {logging_mixin.py:109} INFO - [2022-01-01 12:54:02,117] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:54:02,162] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.588 seconds
+[2022-01-01 12:54:32,795] {processor.py:163} INFO - Started process (PID=2081) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:32,815] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:54:32,824] {logging_mixin.py:109} INFO - [2022-01-01 12:54:32,823] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:33,270] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:54:33,364] {logging_mixin.py:109} INFO - [2022-01-01 12:54:33,364] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:54:33,561] {logging_mixin.py:109} INFO - [2022-01-01 12:54:33,560] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:54:33,622] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.836 seconds
+[2022-01-01 12:55:04,536] {processor.py:163} INFO - Started process (PID=2128) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:04,543] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:55:04,551] {logging_mixin.py:109} INFO - [2022-01-01 12:55:04,550] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:04,784] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:04,854] {logging_mixin.py:109} INFO - [2022-01-01 12:55:04,850] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:55:04,958] {logging_mixin.py:109} INFO - [2022-01-01 12:55:04,957] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:55:05,009] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.486 seconds
+[2022-01-01 12:55:36,574] {processor.py:163} INFO - Started process (PID=2176) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:36,583] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:55:36,591] {logging_mixin.py:109} INFO - [2022-01-01 12:55:36,591] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:36,899] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:55:36,954] {logging_mixin.py:109} INFO - [2022-01-01 12:55:36,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:55:37,052] {logging_mixin.py:109} INFO - [2022-01-01 12:55:37,052] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:55:37,097] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.546 seconds
+[2022-01-01 12:56:07,529] {processor.py:163} INFO - Started process (PID=2225) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:07,531] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:56:07,535] {logging_mixin.py:109} INFO - [2022-01-01 12:56:07,535] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:07,691] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:07,713] {logging_mixin.py:109} INFO - [2022-01-01 12:56:07,712] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:56:07,756] {logging_mixin.py:109} INFO - [2022-01-01 12:56:07,756] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:56:07,782] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.257 seconds
+[2022-01-01 12:56:38,387] {processor.py:163} INFO - Started process (PID=2272) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:38,391] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:56:38,395] {logging_mixin.py:109} INFO - [2022-01-01 12:56:38,395] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:38,611] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:56:38,674] {logging_mixin.py:109} INFO - [2022-01-01 12:56:38,673] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:56:39,660] {logging_mixin.py:109} INFO - [2022-01-01 12:56:39,659] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:56:39,909] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 1.527 seconds
+[2022-01-01 12:57:10,333] {processor.py:163} INFO - Started process (PID=2320) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:10,336] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:57:10,338] {logging_mixin.py:109} INFO - [2022-01-01 12:57:10,338] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:10,478] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:10,510] {logging_mixin.py:109} INFO - [2022-01-01 12:57:10,510] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:57:10,574] {logging_mixin.py:109} INFO - [2022-01-01 12:57:10,573] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:57:10,608] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.282 seconds
+[2022-01-01 12:57:41,537] {processor.py:163} INFO - Started process (PID=2377) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:41,542] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:57:41,547] {logging_mixin.py:109} INFO - [2022-01-01 12:57:41,547] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:41,686] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:57:41,711] {logging_mixin.py:109} INFO - [2022-01-01 12:57:41,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:57:41,746] {logging_mixin.py:109} INFO - [2022-01-01 12:57:41,746] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:57:41,767] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.236 seconds
+[2022-01-01 12:58:12,061] {processor.py:163} INFO - Started process (PID=2425) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:12,065] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:58:12,067] {logging_mixin.py:109} INFO - [2022-01-01 12:58:12,067] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:12,205] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:12,238] {logging_mixin.py:109} INFO - [2022-01-01 12:58:12,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:58:12,301] {logging_mixin.py:109} INFO - [2022-01-01 12:58:12,301] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:58:12,330] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.277 seconds
+[2022-01-01 12:58:42,841] {processor.py:163} INFO - Started process (PID=2472) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:42,844] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:58:42,846] {logging_mixin.py:109} INFO - [2022-01-01 12:58:42,846] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:42,957] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:58:42,978] {logging_mixin.py:109} INFO - [2022-01-01 12:58:42,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:58:43,021] {logging_mixin.py:109} INFO - [2022-01-01 12:58:43,021] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:58:43,043] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.207 seconds
+[2022-01-01 12:59:13,186] {processor.py:163} INFO - Started process (PID=2520) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:13,189] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:59:13,191] {logging_mixin.py:109} INFO - [2022-01-01 12:59:13,190] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:13,282] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:13,302] {logging_mixin.py:109} INFO - [2022-01-01 12:59:13,302] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:59:13,340] {logging_mixin.py:109} INFO - [2022-01-01 12:59:13,340] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:59:13,366] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.186 seconds
+[2022-01-01 12:59:43,751] {processor.py:163} INFO - Started process (PID=2578) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:43,754] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 12:59:43,755] {logging_mixin.py:109} INFO - [2022-01-01 12:59:43,755] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:43,848] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 12:59:43,868] {logging_mixin.py:109} INFO - [2022-01-01 12:59:43,868] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 12:59:43,910] {logging_mixin.py:109} INFO - [2022-01-01 12:59:43,910] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 12:59:43,930] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.184 seconds
+[2022-01-01 13:00:14,749] {processor.py:163} INFO - Started process (PID=2626) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:14,754] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:00:14,756] {logging_mixin.py:109} INFO - [2022-01-01 13:00:14,756] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:14,911] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:14,949] {logging_mixin.py:109} INFO - [2022-01-01 13:00:14,948] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:00:15,007] {logging_mixin.py:109} INFO - [2022-01-01 13:00:15,007] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:00:15,037] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.296 seconds
+[2022-01-01 13:00:45,220] {processor.py:163} INFO - Started process (PID=2682) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:45,223] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:00:45,225] {logging_mixin.py:109} INFO - [2022-01-01 13:00:45,225] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:45,334] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:00:45,359] {logging_mixin.py:109} INFO - [2022-01-01 13:00:45,359] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:00:45,399] {logging_mixin.py:109} INFO - [2022-01-01 13:00:45,399] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:00:45,419] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.205 seconds
+[2022-01-01 13:01:15,824] {processor.py:163} INFO - Started process (PID=2731) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:15,827] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:01:15,828] {logging_mixin.py:109} INFO - [2022-01-01 13:01:15,828] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:15,916] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:15,936] {logging_mixin.py:109} INFO - [2022-01-01 13:01:15,936] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:01:15,973] {logging_mixin.py:109} INFO - [2022-01-01 13:01:15,973] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:01:15,996] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.177 seconds
+[2022-01-01 13:01:46,295] {processor.py:163} INFO - Started process (PID=2778) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:46,298] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:01:46,300] {logging_mixin.py:109} INFO - [2022-01-01 13:01:46,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:46,392] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:01:46,412] {logging_mixin.py:109} INFO - [2022-01-01 13:01:46,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:01:46,449] {logging_mixin.py:109} INFO - [2022-01-01 13:01:46,449] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:01:46,471] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:02:16,830] {processor.py:163} INFO - Started process (PID=2836) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:16,833] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:02:16,835] {logging_mixin.py:109} INFO - [2022-01-01 13:02:16,835] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:16,963] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:16,999] {logging_mixin.py:109} INFO - [2022-01-01 13:02:16,998] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:02:17,078] {logging_mixin.py:109} INFO - [2022-01-01 13:02:17,078] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:02:17,101] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.278 seconds
+[2022-01-01 13:02:48,040] {processor.py:163} INFO - Started process (PID=2884) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:48,048] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:02:48,052] {logging_mixin.py:109} INFO - [2022-01-01 13:02:48,051] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:48,284] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:02:48,321] {logging_mixin.py:109} INFO - [2022-01-01 13:02:48,321] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:02:48,373] {logging_mixin.py:109} INFO - [2022-01-01 13:02:48,372] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:02:48,398] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.373 seconds
+[2022-01-01 13:03:19,063] {processor.py:163} INFO - Started process (PID=2930) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:19,067] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:03:19,073] {logging_mixin.py:109} INFO - [2022-01-01 13:03:19,073] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:19,202] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:19,227] {logging_mixin.py:109} INFO - [2022-01-01 13:03:19,227] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:03:19,277] {logging_mixin.py:109} INFO - [2022-01-01 13:03:19,277] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:03:19,304] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.257 seconds
+[2022-01-01 13:03:49,450] {processor.py:163} INFO - Started process (PID=2990) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:49,455] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:03:49,458] {logging_mixin.py:109} INFO - [2022-01-01 13:03:49,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:49,604] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:03:49,635] {logging_mixin.py:109} INFO - [2022-01-01 13:03:49,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:03:49,692] {logging_mixin.py:109} INFO - [2022-01-01 13:03:49,691] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:03:49,722] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.280 seconds
+[2022-01-01 13:04:20,513] {processor.py:163} INFO - Started process (PID=3039) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:20,515] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:04:20,518] {logging_mixin.py:109} INFO - [2022-01-01 13:04:20,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:20,622] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:20,645] {logging_mixin.py:109} INFO - [2022-01-01 13:04:20,645] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:04:20,701] {logging_mixin.py:109} INFO - [2022-01-01 13:04:20,700] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:04:20,733] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.227 seconds
+[2022-01-01 13:04:50,820] {processor.py:163} INFO - Started process (PID=3096) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:50,823] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:04:50,825] {logging_mixin.py:109} INFO - [2022-01-01 13:04:50,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:50,936] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:04:50,969] {logging_mixin.py:109} INFO - [2022-01-01 13:04:50,969] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:04:51,015] {logging_mixin.py:109} INFO - [2022-01-01 13:04:51,015] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:04:51,038] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.222 seconds
+[2022-01-01 13:05:21,813] {processor.py:163} INFO - Started process (PID=3145) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:21,815] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:05:21,817] {logging_mixin.py:109} INFO - [2022-01-01 13:05:21,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:21,913] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:21,933] {logging_mixin.py:109} INFO - [2022-01-01 13:05:21,933] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:05:21,969] {logging_mixin.py:109} INFO - [2022-01-01 13:05:21,969] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:05:21,994] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.186 seconds
+[2022-01-01 13:05:52,891] {processor.py:163} INFO - Started process (PID=3194) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:52,893] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:05:52,895] {logging_mixin.py:109} INFO - [2022-01-01 13:05:52,895] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:52,982] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:05:53,003] {logging_mixin.py:109} INFO - [2022-01-01 13:05:53,003] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:05:53,042] {logging_mixin.py:109} INFO - [2022-01-01 13:05:53,041] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:05:53,064] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.178 seconds
+[2022-01-01 13:06:23,802] {processor.py:163} INFO - Started process (PID=3252) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:23,805] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:06:23,807] {logging_mixin.py:109} INFO - [2022-01-01 13:06:23,806] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:23,900] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:23,920] {logging_mixin.py:109} INFO - [2022-01-01 13:06:23,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:06:23,957] {logging_mixin.py:109} INFO - [2022-01-01 13:06:23,957] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:06:23,978] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.181 seconds
+[2022-01-01 13:06:54,664] {processor.py:163} INFO - Started process (PID=3299) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:54,667] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:06:54,669] {logging_mixin.py:109} INFO - [2022-01-01 13:06:54,669] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:54,761] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:06:54,781] {logging_mixin.py:109} INFO - [2022-01-01 13:06:54,781] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:06:54,818] {logging_mixin.py:109} INFO - [2022-01-01 13:06:54,818] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:06:54,840] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:07:25,018] {processor.py:163} INFO - Started process (PID=3359) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:25,024] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:07:25,026] {logging_mixin.py:109} INFO - [2022-01-01 13:07:25,026] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:25,124] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:25,150] {logging_mixin.py:109} INFO - [2022-01-01 13:07:25,150] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:07:25,193] {logging_mixin.py:109} INFO - [2022-01-01 13:07:25,193] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:07:25,220] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.207 seconds
+[2022-01-01 13:07:55,773] {processor.py:163} INFO - Started process (PID=3407) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:55,776] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:07:55,778] {logging_mixin.py:109} INFO - [2022-01-01 13:07:55,778] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:55,874] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:07:55,894] {logging_mixin.py:109} INFO - [2022-01-01 13:07:55,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:07:55,929] {logging_mixin.py:109} INFO - [2022-01-01 13:07:55,929] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:07:55,950] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:08:26,529] {processor.py:163} INFO - Started process (PID=3453) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:26,532] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:08:26,534] {logging_mixin.py:109} INFO - [2022-01-01 13:08:26,533] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:26,625] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:26,646] {logging_mixin.py:109} INFO - [2022-01-01 13:08:26,646] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:08:26,683] {logging_mixin.py:109} INFO - [2022-01-01 13:08:26,683] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:08:26,702] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.177 seconds
+[2022-01-01 13:08:57,180] {processor.py:163} INFO - Started process (PID=3512) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:57,183] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:08:57,185] {logging_mixin.py:109} INFO - [2022-01-01 13:08:57,185] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:57,278] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:08:57,300] {logging_mixin.py:109} INFO - [2022-01-01 13:08:57,300] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:08:57,337] {logging_mixin.py:109} INFO - [2022-01-01 13:08:57,337] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:08:57,357] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:09:27,948] {processor.py:163} INFO - Started process (PID=3559) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:27,950] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:09:27,952] {logging_mixin.py:109} INFO - [2022-01-01 13:09:27,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:28,042] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:28,061] {logging_mixin.py:109} INFO - [2022-01-01 13:09:28,061] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:09:28,088] {logging_mixin.py:109} INFO - [2022-01-01 13:09:28,088] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:09:28,104] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.161 seconds
+[2022-01-01 13:09:58,330] {processor.py:163} INFO - Started process (PID=3617) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:58,332] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:09:58,334] {logging_mixin.py:109} INFO - [2022-01-01 13:09:58,334] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:58,411] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:09:58,426] {logging_mixin.py:109} INFO - [2022-01-01 13:09:58,426] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:09:58,454] {logging_mixin.py:109} INFO - [2022-01-01 13:09:58,454] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:09:58,469] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.144 seconds
+[2022-01-01 13:10:28,633] {processor.py:163} INFO - Started process (PID=3665) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:28,636] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:10:28,638] {logging_mixin.py:109} INFO - [2022-01-01 13:10:28,637] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:28,714] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:28,729] {logging_mixin.py:109} INFO - [2022-01-01 13:10:28,729] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:10:28,759] {logging_mixin.py:109} INFO - [2022-01-01 13:10:28,759] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:10:28,776] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.148 seconds
+[2022-01-01 13:10:59,308] {processor.py:163} INFO - Started process (PID=3722) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:59,312] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:10:59,315] {logging_mixin.py:109} INFO - [2022-01-01 13:10:59,315] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:59,428] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:10:59,451] {logging_mixin.py:109} INFO - [2022-01-01 13:10:59,451] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:10:59,490] {logging_mixin.py:109} INFO - [2022-01-01 13:10:59,490] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:10:59,511] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.210 seconds
+[2022-01-01 13:11:29,960] {processor.py:163} INFO - Started process (PID=3769) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:11:29,963] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:11:29,965] {logging_mixin.py:109} INFO - [2022-01-01 13:11:29,965] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:11:30,058] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:11:30,080] {logging_mixin.py:109} INFO - [2022-01-01 13:11:30,080] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:11:30,120] {logging_mixin.py:109} INFO - [2022-01-01 13:11:30,120] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:11:30,143] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.188 seconds
+[2022-01-01 13:12:00,302] {processor.py:163} INFO - Started process (PID=3816) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:00,305] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:12:00,307] {logging_mixin.py:109} INFO - [2022-01-01 13:12:00,307] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:00,396] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:00,415] {logging_mixin.py:109} INFO - [2022-01-01 13:12:00,415] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:12:00,451] {logging_mixin.py:109} INFO - [2022-01-01 13:12:00,451] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:12:00,473] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.176 seconds
+[2022-01-01 13:12:30,506] {processor.py:163} INFO - Started process (PID=3875) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:30,508] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:12:30,509] {logging_mixin.py:109} INFO - [2022-01-01 13:12:30,509] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:30,597] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:12:30,620] {logging_mixin.py:109} INFO - [2022-01-01 13:12:30,620] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:12:30,661] {logging_mixin.py:109} INFO - [2022-01-01 13:12:30,661] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:12:30,684] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:13:00,885] {processor.py:163} INFO - Started process (PID=3922) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:00,889] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:13:00,890] {logging_mixin.py:109} INFO - [2022-01-01 13:13:00,890] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:00,978] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:00,997] {logging_mixin.py:109} INFO - [2022-01-01 13:13:00,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:13:01,033] {logging_mixin.py:109} INFO - [2022-01-01 13:13:01,033] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:13:01,054] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.175 seconds
+[2022-01-01 13:13:31,621] {processor.py:163} INFO - Started process (PID=3979) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:31,623] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:13:31,625] {logging_mixin.py:109} INFO - [2022-01-01 13:13:31,625] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:31,710] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:13:31,725] {logging_mixin.py:109} INFO - [2022-01-01 13:13:31,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:13:31,760] {logging_mixin.py:109} INFO - [2022-01-01 13:13:31,760] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:13:31,780] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.164 seconds
+[2022-01-01 13:14:02,315] {processor.py:163} INFO - Started process (PID=4027) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:02,317] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:14:02,319] {logging_mixin.py:109} INFO - [2022-01-01 13:14:02,319] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:02,416] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:02,443] {logging_mixin.py:109} INFO - [2022-01-01 13:14:02,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:14:02,495] {logging_mixin.py:109} INFO - [2022-01-01 13:14:02,495] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:14:02,520] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.210 seconds
+[2022-01-01 13:14:32,935] {processor.py:163} INFO - Started process (PID=4086) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:32,939] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:14:32,941] {logging_mixin.py:109} INFO - [2022-01-01 13:14:32,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:33,031] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:14:33,051] {logging_mixin.py:109} INFO - [2022-01-01 13:14:33,051] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:14:33,087] {logging_mixin.py:109} INFO - [2022-01-01 13:14:33,087] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:14:33,107] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.176 seconds
+[2022-01-01 13:15:03,479] {processor.py:163} INFO - Started process (PID=4133) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:03,482] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:15:03,484] {logging_mixin.py:109} INFO - [2022-01-01 13:15:03,484] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:03,578] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:03,597] {logging_mixin.py:109} INFO - [2022-01-01 13:15:03,597] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:15:03,633] {logging_mixin.py:109} INFO - [2022-01-01 13:15:03,633] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:15:03,656] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:15:34,001] {processor.py:163} INFO - Started process (PID=4180) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:34,004] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:15:34,005] {logging_mixin.py:109} INFO - [2022-01-01 13:15:34,005] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:34,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:15:34,119] {logging_mixin.py:109} INFO - [2022-01-01 13:15:34,119] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:15:34,159] {logging_mixin.py:109} INFO - [2022-01-01 13:15:34,159] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:15:34,181] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.185 seconds
+[2022-01-01 13:16:04,574] {processor.py:163} INFO - Started process (PID=4238) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:04,577] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:16:04,579] {logging_mixin.py:109} INFO - [2022-01-01 13:16:04,579] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:04,694] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:04,717] {logging_mixin.py:109} INFO - [2022-01-01 13:16:04,717] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:16:04,766] {logging_mixin.py:109} INFO - [2022-01-01 13:16:04,766] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:16:04,785] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.216 seconds
+[2022-01-01 13:16:35,547] {processor.py:163} INFO - Started process (PID=4285) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:35,550] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:16:35,552] {logging_mixin.py:109} INFO - [2022-01-01 13:16:35,552] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:35,647] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:16:35,668] {logging_mixin.py:109} INFO - [2022-01-01 13:16:35,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:16:35,703] {logging_mixin.py:109} INFO - [2022-01-01 13:16:35,703] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:16:35,724] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:17:06,395] {processor.py:163} INFO - Started process (PID=4343) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:06,398] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:17:06,401] {logging_mixin.py:109} INFO - [2022-01-01 13:17:06,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:06,513] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:06,538] {logging_mixin.py:109} INFO - [2022-01-01 13:17:06,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:17:06,583] {logging_mixin.py:109} INFO - [2022-01-01 13:17:06,583] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:17:06,608] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.219 seconds
+[2022-01-01 13:17:36,692] {processor.py:163} INFO - Started process (PID=4391) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:36,695] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:17:36,696] {logging_mixin.py:109} INFO - [2022-01-01 13:17:36,696] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:36,789] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:17:36,809] {logging_mixin.py:109} INFO - [2022-01-01 13:17:36,809] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:17:36,845] {logging_mixin.py:109} INFO - [2022-01-01 13:17:36,844] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:17:36,867] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.181 seconds
+[2022-01-01 13:18:07,153] {processor.py:163} INFO - Started process (PID=4439) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:07,157] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:18:07,160] {logging_mixin.py:109} INFO - [2022-01-01 13:18:07,160] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:07,283] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:07,351] {logging_mixin.py:109} INFO - [2022-01-01 13:18:07,351] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:18:07,412] {logging_mixin.py:109} INFO - [2022-01-01 13:18:07,412] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:18:07,444] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.296 seconds
+[2022-01-01 13:18:37,977] {processor.py:163} INFO - Started process (PID=4497) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:37,980] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:18:37,981] {logging_mixin.py:109} INFO - [2022-01-01 13:18:37,981] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:38,070] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:18:38,091] {logging_mixin.py:109} INFO - [2022-01-01 13:18:38,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:18:38,128] {logging_mixin.py:109} INFO - [2022-01-01 13:18:38,128] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:18:38,148] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.176 seconds
+[2022-01-01 13:19:08,426] {processor.py:163} INFO - Started process (PID=4544) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:08,429] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:19:08,432] {logging_mixin.py:109} INFO - [2022-01-01 13:19:08,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:08,519] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:08,538] {logging_mixin.py:109} INFO - [2022-01-01 13:19:08,538] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:19:08,572] {logging_mixin.py:109} INFO - [2022-01-01 13:19:08,571] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:19:08,595] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.174 seconds
+[2022-01-01 13:19:39,176] {processor.py:163} INFO - Started process (PID=4602) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:39,180] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:19:39,182] {logging_mixin.py:109} INFO - [2022-01-01 13:19:39,182] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:39,272] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:19:39,291] {logging_mixin.py:109} INFO - [2022-01-01 13:19:39,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:19:39,326] {logging_mixin.py:109} INFO - [2022-01-01 13:19:39,326] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:19:39,351] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:20:10,047] {processor.py:163} INFO - Started process (PID=4650) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:10,050] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:20:10,052] {logging_mixin.py:109} INFO - [2022-01-01 13:20:10,052] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:10,134] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:10,154] {logging_mixin.py:109} INFO - [2022-01-01 13:20:10,154] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:20:10,189] {logging_mixin.py:109} INFO - [2022-01-01 13:20:10,189] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:20:10,212] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.169 seconds
+[2022-01-01 13:20:40,443] {processor.py:163} INFO - Started process (PID=4708) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:40,445] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:20:40,446] {logging_mixin.py:109} INFO - [2022-01-01 13:20:40,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:40,523] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:20:40,543] {logging_mixin.py:109} INFO - [2022-01-01 13:20:40,543] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:20:40,585] {logging_mixin.py:109} INFO - [2022-01-01 13:20:40,585] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:20:40,616] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.177 seconds
+[2022-01-01 13:21:11,225] {processor.py:163} INFO - Started process (PID=4756) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:11,227] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:21:11,230] {logging_mixin.py:109} INFO - [2022-01-01 13:21:11,229] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:11,320] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:11,340] {logging_mixin.py:109} INFO - [2022-01-01 13:21:11,340] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:21:11,379] {logging_mixin.py:109} INFO - [2022-01-01 13:21:11,379] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:21:11,401] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.181 seconds
+[2022-01-01 13:21:42,014] {processor.py:163} INFO - Started process (PID=4804) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:42,017] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:21:42,019] {logging_mixin.py:109} INFO - [2022-01-01 13:21:42,019] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:42,109] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:21:42,129] {logging_mixin.py:109} INFO - [2022-01-01 13:21:42,129] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:21:42,163] {logging_mixin.py:109} INFO - [2022-01-01 13:21:42,163] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:21:42,182] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.173 seconds
+[2022-01-01 13:22:12,592] {processor.py:163} INFO - Started process (PID=4862) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:12,595] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:22:12,597] {logging_mixin.py:109} INFO - [2022-01-01 13:22:12,597] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:12,703] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:12,724] {logging_mixin.py:109} INFO - [2022-01-01 13:22:12,724] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:22:12,776] {logging_mixin.py:109} INFO - [2022-01-01 13:22:12,776] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:22:12,800] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.220 seconds
+[2022-01-01 13:22:43,368] {processor.py:163} INFO - Started process (PID=4911) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:43,371] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:22:43,373] {logging_mixin.py:109} INFO - [2022-01-01 13:22:43,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:43,464] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:22:43,484] {logging_mixin.py:109} INFO - [2022-01-01 13:22:43,483] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:22:43,519] {logging_mixin.py:109} INFO - [2022-01-01 13:22:43,519] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:22:43,537] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.175 seconds
+[2022-01-01 13:23:13,937] {processor.py:163} INFO - Started process (PID=4970) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:13,940] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:23:13,941] {logging_mixin.py:109} INFO - [2022-01-01 13:23:13,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:14,024] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:14,039] {logging_mixin.py:109} INFO - [2022-01-01 13:23:14,039] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:23:14,067] {logging_mixin.py:109} INFO - [2022-01-01 13:23:14,067] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:23:14,090] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.158 seconds
+[2022-01-01 13:23:44,334] {processor.py:163} INFO - Started process (PID=5018) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:44,337] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:23:44,339] {logging_mixin.py:109} INFO - [2022-01-01 13:23:44,339] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:44,417] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:23:44,432] {logging_mixin.py:109} INFO - [2022-01-01 13:23:44,432] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:23:44,461] {logging_mixin.py:109} INFO - [2022-01-01 13:23:44,461] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:23:44,478] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.149 seconds
+[2022-01-01 13:24:14,565] {processor.py:163} INFO - Started process (PID=5076) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:14,568] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:24:14,570] {logging_mixin.py:109} INFO - [2022-01-01 13:24:14,570] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:14,651] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:14,669] {logging_mixin.py:109} INFO - [2022-01-01 13:24:14,669] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:24:14,703] {logging_mixin.py:109} INFO - [2022-01-01 13:24:14,703] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:24:14,724] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.163 seconds
+[2022-01-01 13:24:44,940] {processor.py:163} INFO - Started process (PID=5124) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:44,944] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:24:44,947] {logging_mixin.py:109} INFO - [2022-01-01 13:24:44,947] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:45,031] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:24:45,055] {logging_mixin.py:109} INFO - [2022-01-01 13:24:45,054] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:24:45,101] {logging_mixin.py:109} INFO - [2022-01-01 13:24:45,101] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:24:45,127] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.194 seconds
+[2022-01-01 13:25:15,248] {processor.py:163} INFO - Started process (PID=5183) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:15,251] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:25:15,254] {logging_mixin.py:109} INFO - [2022-01-01 13:25:15,253] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:15,336] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:15,352] {logging_mixin.py:109} INFO - [2022-01-01 13:25:15,352] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:25:15,394] {logging_mixin.py:109} INFO - [2022-01-01 13:25:15,394] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:25:15,424] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.179 seconds
+[2022-01-01 13:25:45,844] {processor.py:163} INFO - Started process (PID=5233) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:45,846] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:25:45,848] {logging_mixin.py:109} INFO - [2022-01-01 13:25:45,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:45,928] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:25:45,943] {logging_mixin.py:109} INFO - [2022-01-01 13:25:45,943] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:25:45,971] {logging_mixin.py:109} INFO - [2022-01-01 13:25:45,971] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:25:45,985] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.146 seconds
+[2022-01-01 13:26:16,776] {processor.py:163} INFO - Started process (PID=5280) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:16,780] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:26:16,781] {logging_mixin.py:109} INFO - [2022-01-01 13:26:16,781] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:16,863] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:16,878] {logging_mixin.py:109} INFO - [2022-01-01 13:26:16,878] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:26:16,909] {logging_mixin.py:109} INFO - [2022-01-01 13:26:16,909] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:26:16,925] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.153 seconds
+[2022-01-01 13:26:47,193] {processor.py:163} INFO - Started process (PID=5338) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:47,196] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:26:47,198] {logging_mixin.py:109} INFO - [2022-01-01 13:26:47,198] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:47,276] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:26:47,292] {logging_mixin.py:109} INFO - [2022-01-01 13:26:47,292] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:26:47,323] {logging_mixin.py:109} INFO - [2022-01-01 13:26:47,323] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:26:47,341] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.152 seconds
+[2022-01-01 13:27:17,396] {processor.py:163} INFO - Started process (PID=5386) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:17,399] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:27:17,401] {logging_mixin.py:109} INFO - [2022-01-01 13:27:17,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:17,493] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:17,518] {logging_mixin.py:109} INFO - [2022-01-01 13:27:17,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:27:17,553] {logging_mixin.py:109} INFO - [2022-01-01 13:27:17,553] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:27:17,573] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.181 seconds
+[2022-01-01 13:27:47,936] {processor.py:163} INFO - Started process (PID=5445) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:47,939] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:27:47,941] {logging_mixin.py:109} INFO - [2022-01-01 13:27:47,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:48,026] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:27:48,042] {logging_mixin.py:109} INFO - [2022-01-01 13:27:48,042] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:27:48,072] {logging_mixin.py:109} INFO - [2022-01-01 13:27:48,072] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:27:48,087] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.156 seconds
+[2022-01-01 13:28:18,563] {processor.py:163} INFO - Started process (PID=5493) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:18,566] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:28:18,568] {logging_mixin.py:109} INFO - [2022-01-01 13:28:18,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:18,656] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:18,675] {logging_mixin.py:109} INFO - [2022-01-01 13:28:18,674] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:28:18,712] {logging_mixin.py:109} INFO - [2022-01-01 13:28:18,711] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:28:18,733] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.175 seconds
+[2022-01-01 13:28:48,985] {processor.py:163} INFO - Started process (PID=5553) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:48,988] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:28:48,989] {logging_mixin.py:109} INFO - [2022-01-01 13:28:48,989] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:49,084] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:28:49,106] {logging_mixin.py:109} INFO - [2022-01-01 13:28:49,105] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:28:49,148] {logging_mixin.py:109} INFO - [2022-01-01 13:28:49,148] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:28:49,167] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.188 seconds
+[2022-01-01 13:29:19,370] {processor.py:163} INFO - Started process (PID=5600) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:19,378] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:29:19,380] {logging_mixin.py:109} INFO - [2022-01-01 13:29:19,379] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:19,468] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:19,487] {logging_mixin.py:109} INFO - [2022-01-01 13:29:19,487] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:29:19,526] {logging_mixin.py:109} INFO - [2022-01-01 13:29:19,526] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:29:19,550] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.187 seconds
+[2022-01-01 13:29:50,219] {processor.py:163} INFO - Started process (PID=5657) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:50,222] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:29:50,224] {logging_mixin.py:109} INFO - [2022-01-01 13:29:50,224] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:50,320] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:29:50,343] {logging_mixin.py:109} INFO - [2022-01-01 13:29:50,343] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:29:50,389] {logging_mixin.py:109} INFO - [2022-01-01 13:29:50,389] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:29:50,418] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.203 seconds
+[2022-01-01 13:30:20,899] {processor.py:163} INFO - Started process (PID=5704) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:20,902] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:30:20,903] {logging_mixin.py:109} INFO - [2022-01-01 13:30:20,903] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:20,997] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:21,019] {logging_mixin.py:109} INFO - [2022-01-01 13:30:21,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:30:21,054] {logging_mixin.py:109} INFO - [2022-01-01 13:30:21,054] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:30:21,074] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:30:51,731] {processor.py:163} INFO - Started process (PID=5751) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:51,735] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:30:51,738] {logging_mixin.py:109} INFO - [2022-01-01 13:30:51,738] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:51,852] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:30:51,875] {logging_mixin.py:109} INFO - [2022-01-01 13:30:51,875] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:30:51,913] {logging_mixin.py:109} INFO - [2022-01-01 13:30:51,912] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:30:51,932] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.205 seconds
+[2022-01-01 13:31:22,663] {processor.py:163} INFO - Started process (PID=5807) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:22,666] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:31:22,668] {logging_mixin.py:109} INFO - [2022-01-01 13:31:22,667] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:22,758] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:22,778] {logging_mixin.py:109} INFO - [2022-01-01 13:31:22,778] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:31:22,814] {logging_mixin.py:109} INFO - [2022-01-01 13:31:22,814] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:31:22,834] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.175 seconds
+[2022-01-01 13:31:53,476] {processor.py:163} INFO - Started process (PID=5854) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:53,479] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:31:53,481] {logging_mixin.py:109} INFO - [2022-01-01 13:31:53,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:53,587] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:31:53,609] {logging_mixin.py:109} INFO - [2022-01-01 13:31:53,609] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:31:53,646] {logging_mixin.py:109} INFO - [2022-01-01 13:31:53,646] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:31:53,670] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.199 seconds
+[2022-01-01 13:32:24,227] {processor.py:163} INFO - Started process (PID=5913) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:24,230] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:32:24,232] {logging_mixin.py:109} INFO - [2022-01-01 13:32:24,232] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:24,352] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:24,377] {logging_mixin.py:109} INFO - [2022-01-01 13:32:24,376] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:32:24,419] {logging_mixin.py:109} INFO - [2022-01-01 13:32:24,419] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:32:24,444] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.226 seconds
+[2022-01-01 13:32:55,012] {processor.py:163} INFO - Started process (PID=5961) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:55,015] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:32:55,017] {logging_mixin.py:109} INFO - [2022-01-01 13:32:55,017] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:55,114] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:32:55,136] {logging_mixin.py:109} INFO - [2022-01-01 13:32:55,135] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:32:55,179] {logging_mixin.py:109} INFO - [2022-01-01 13:32:55,179] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:32:55,207] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.200 seconds
+[2022-01-01 13:33:25,769] {processor.py:163} INFO - Started process (PID=6021) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:25,772] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:33:25,774] {logging_mixin.py:109} INFO - [2022-01-01 13:33:25,774] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:25,879] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:25,901] {logging_mixin.py:109} INFO - [2022-01-01 13:33:25,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:33:25,940] {logging_mixin.py:109} INFO - [2022-01-01 13:33:25,940] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:33:25,970] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.209 seconds
+[2022-01-01 13:33:56,341] {processor.py:163} INFO - Started process (PID=6069) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:56,343] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:33:56,345] {logging_mixin.py:109} INFO - [2022-01-01 13:33:56,345] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:56,433] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:33:56,453] {logging_mixin.py:109} INFO - [2022-01-01 13:33:56,453] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:33:56,495] {logging_mixin.py:109} INFO - [2022-01-01 13:33:56,494] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:33:56,521] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.187 seconds
+[2022-01-01 13:34:27,103] {processor.py:163} INFO - Started process (PID=6116) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:27,107] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:34:27,110] {logging_mixin.py:109} INFO - [2022-01-01 13:34:27,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:27,200] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:27,221] {logging_mixin.py:109} INFO - [2022-01-01 13:34:27,221] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:34:27,257] {logging_mixin.py:109} INFO - [2022-01-01 13:34:27,257] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:34:27,280] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.181 seconds
+[2022-01-01 13:34:57,708] {processor.py:163} INFO - Started process (PID=6173) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:57,711] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:34:57,713] {logging_mixin.py:109} INFO - [2022-01-01 13:34:57,713] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:57,809] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:34:57,827] {logging_mixin.py:109} INFO - [2022-01-01 13:34:57,827] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:34:57,866] {logging_mixin.py:109} INFO - [2022-01-01 13:34:57,866] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:34:57,887] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.185 seconds
+[2022-01-01 13:35:28,359] {processor.py:163} INFO - Started process (PID=6221) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:28,361] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:35:28,363] {logging_mixin.py:109} INFO - [2022-01-01 13:35:28,362] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:28,454] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:28,475] {logging_mixin.py:109} INFO - [2022-01-01 13:35:28,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:35:28,512] {logging_mixin.py:109} INFO - [2022-01-01 13:35:28,512] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:35:28,533] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:35:59,187] {processor.py:163} INFO - Started process (PID=6279) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:59,191] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:35:59,193] {logging_mixin.py:109} INFO - [2022-01-01 13:35:59,193] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:59,304] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:35:59,327] {logging_mixin.py:109} INFO - [2022-01-01 13:35:59,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:35:59,365] {logging_mixin.py:109} INFO - [2022-01-01 13:35:59,365] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:35:59,387] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.205 seconds
+[2022-01-01 13:36:29,871] {processor.py:163} INFO - Started process (PID=6326) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:36:29,874] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:36:29,876] {logging_mixin.py:109} INFO - [2022-01-01 13:36:29,876] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:36:29,969] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:36:29,989] {logging_mixin.py:109} INFO - [2022-01-01 13:36:29,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:36:30,025] {logging_mixin.py:109} INFO - [2022-01-01 13:36:30,024] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:36:30,045] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.179 seconds
+[2022-01-01 13:37:00,415] {processor.py:163} INFO - Started process (PID=6380) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:00,418] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:37:00,420] {logging_mixin.py:109} INFO - [2022-01-01 13:37:00,420] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:00,529] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:00,552] {logging_mixin.py:109} INFO - [2022-01-01 13:37:00,552] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:37:00,591] {logging_mixin.py:109} INFO - [2022-01-01 13:37:00,590] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:37:00,615] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.204 seconds
+[2022-01-01 13:37:31,203] {processor.py:163} INFO - Started process (PID=6431) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:31,207] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:37:31,209] {logging_mixin.py:109} INFO - [2022-01-01 13:37:31,209] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:31,297] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:37:31,317] {logging_mixin.py:109} INFO - [2022-01-01 13:37:31,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:37:31,353] {logging_mixin.py:109} INFO - [2022-01-01 13:37:31,353] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:37:31,373] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.175 seconds
+[2022-01-01 13:38:01,854] {processor.py:163} INFO - Started process (PID=6479) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:01,857] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:38:01,859] {logging_mixin.py:109} INFO - [2022-01-01 13:38:01,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:01,950] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:01,969] {logging_mixin.py:109} INFO - [2022-01-01 13:38:01,969] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:38:02,008] {logging_mixin.py:109} INFO - [2022-01-01 13:38:02,008] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:38:02,028] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:38:32,389] {processor.py:163} INFO - Started process (PID=6537) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:32,392] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:38:32,394] {logging_mixin.py:109} INFO - [2022-01-01 13:38:32,394] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:32,488] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:38:32,508] {logging_mixin.py:109} INFO - [2022-01-01 13:38:32,507] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:38:32,543] {logging_mixin.py:109} INFO - [2022-01-01 13:38:32,543] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:38:32,563] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.180 seconds
+[2022-01-01 13:39:03,305] {processor.py:163} INFO - Started process (PID=6585) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:03,308] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:39:03,310] {logging_mixin.py:109} INFO - [2022-01-01 13:39:03,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:03,398] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:03,419] {logging_mixin.py:109} INFO - [2022-01-01 13:39:03,419] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:39:03,455] {logging_mixin.py:109} INFO - [2022-01-01 13:39:03,455] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:39:03,478] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.177 seconds
+[2022-01-01 13:39:33,691] {processor.py:163} INFO - Started process (PID=6643) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:33,694] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:39:33,697] {logging_mixin.py:109} INFO - [2022-01-01 13:39:33,696] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:33,786] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:39:33,810] {logging_mixin.py:109} INFO - [2022-01-01 13:39:33,810] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:39:33,868] {logging_mixin.py:109} INFO - [2022-01-01 13:39:33,868] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:39:33,893] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.241 seconds
+[2022-01-01 13:40:04,268] {processor.py:163} INFO - Started process (PID=6691) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:04,271] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:40:04,273] {logging_mixin.py:109} INFO - [2022-01-01 13:40:04,273] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:04,360] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:04,375] {logging_mixin.py:109} INFO - [2022-01-01 13:40:04,375] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:40:04,413] {logging_mixin.py:109} INFO - [2022-01-01 13:40:04,413] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:40:04,433] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.169 seconds
+[2022-01-01 13:40:34,794] {processor.py:163} INFO - Started process (PID=6737) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:34,797] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:40:34,799] {logging_mixin.py:109} INFO - [2022-01-01 13:40:34,799] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:34,908] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:40:34,933] {logging_mixin.py:109} INFO - [2022-01-01 13:40:34,933] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:40:34,990] {logging_mixin.py:109} INFO - [2022-01-01 13:40:34,990] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:40:35,018] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.229 seconds
+[2022-01-01 13:41:05,192] {processor.py:163} INFO - Started process (PID=6795) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:05,199] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:41:05,201] {logging_mixin.py:109} INFO - [2022-01-01 13:41:05,200] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:05,288] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:05,307] {logging_mixin.py:109} INFO - [2022-01-01 13:41:05,307] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:41:05,348] {logging_mixin.py:109} INFO - [2022-01-01 13:41:05,348] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:41:05,370] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:41:35,557] {processor.py:163} INFO - Started process (PID=6843) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:35,559] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:41:35,561] {logging_mixin.py:109} INFO - [2022-01-01 13:41:35,561] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:35,656] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:41:35,675] {logging_mixin.py:109} INFO - [2022-01-01 13:41:35,675] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:41:35,712] {logging_mixin.py:109} INFO - [2022-01-01 13:41:35,712] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:41:35,731] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.179 seconds
+[2022-01-01 13:42:06,202] {processor.py:163} INFO - Started process (PID=6902) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:06,204] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:42:06,206] {logging_mixin.py:109} INFO - [2022-01-01 13:42:06,206] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:06,296] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:06,316] {logging_mixin.py:109} INFO - [2022-01-01 13:42:06,315] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:42:06,357] {logging_mixin.py:109} INFO - [2022-01-01 13:42:06,357] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:42:06,385] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.189 seconds
+[2022-01-01 13:42:37,134] {processor.py:163} INFO - Started process (PID=6948) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:37,137] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:42:37,139] {logging_mixin.py:109} INFO - [2022-01-01 13:42:37,139] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:37,252] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:42:37,276] {logging_mixin.py:109} INFO - [2022-01-01 13:42:37,276] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:42:37,312] {logging_mixin.py:109} INFO - [2022-01-01 13:42:37,312] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:42:37,335] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.206 seconds
+[2022-01-01 13:43:07,709] {processor.py:163} INFO - Started process (PID=6995) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:07,713] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:43:07,715] {logging_mixin.py:109} INFO - [2022-01-01 13:43:07,715] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:07,814] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:07,838] {logging_mixin.py:109} INFO - [2022-01-01 13:43:07,838] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:43:07,876] {logging_mixin.py:109} INFO - [2022-01-01 13:43:07,876] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:43:07,895] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.192 seconds
+[2022-01-01 13:43:38,060] {processor.py:163} INFO - Started process (PID=7053) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:38,063] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:43:38,065] {logging_mixin.py:109} INFO - [2022-01-01 13:43:38,065] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:38,158] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:43:38,179] {logging_mixin.py:109} INFO - [2022-01-01 13:43:38,178] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:43:38,232] {logging_mixin.py:109} INFO - [2022-01-01 13:43:38,231] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:43:38,251] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.197 seconds
+[2022-01-01 13:44:08,813] {processor.py:163} INFO - Started process (PID=7100) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:08,816] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:44:08,817] {logging_mixin.py:109} INFO - [2022-01-01 13:44:08,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:08,921] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:08,943] {logging_mixin.py:109} INFO - [2022-01-01 13:44:08,943] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:44:08,987] {logging_mixin.py:109} INFO - [2022-01-01 13:44:08,987] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:44:09,007] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.200 seconds
+[2022-01-01 13:44:39,496] {processor.py:163} INFO - Started process (PID=7159) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:39,498] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:44:39,500] {logging_mixin.py:109} INFO - [2022-01-01 13:44:39,500] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:39,583] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:44:39,604] {logging_mixin.py:109} INFO - [2022-01-01 13:44:39,604] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:44:39,644] {logging_mixin.py:109} INFO - [2022-01-01 13:44:39,644] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:44:39,663] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.172 seconds
+[2022-01-01 13:45:09,990] {processor.py:163} INFO - Started process (PID=7206) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:09,993] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:45:09,996] {logging_mixin.py:109} INFO - [2022-01-01 13:45:09,995] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:10,091] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:10,110] {logging_mixin.py:109} INFO - [2022-01-01 13:45:10,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:45:10,144] {logging_mixin.py:109} INFO - [2022-01-01 13:45:10,144] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:45:10,168] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.182 seconds
+[2022-01-01 13:45:40,397] {processor.py:163} INFO - Started process (PID=7262) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:40,399] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:45:40,401] {logging_mixin.py:109} INFO - [2022-01-01 13:45:40,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:40,500] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:45:40,525] {logging_mixin.py:109} INFO - [2022-01-01 13:45:40,525] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:45:40,580] {logging_mixin.py:109} INFO - [2022-01-01 13:45:40,580] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:45:40,604] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.214 seconds
+[2022-01-01 13:46:10,953] {processor.py:163} INFO - Started process (PID=7311) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:10,956] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:46:10,958] {logging_mixin.py:109} INFO - [2022-01-01 13:46:10,957] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:11,057] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:11,077] {logging_mixin.py:109} INFO - [2022-01-01 13:46:11,077] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:46:11,123] {logging_mixin.py:109} INFO - [2022-01-01 13:46:11,123] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:46:11,145] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.197 seconds
+[2022-01-01 13:46:41,583] {processor.py:163} INFO - Started process (PID=7358) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:41,586] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:46:41,588] {logging_mixin.py:109} INFO - [2022-01-01 13:46:41,588] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:41,690] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:46:41,710] {logging_mixin.py:109} INFO - [2022-01-01 13:46:41,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:46:41,752] {logging_mixin.py:109} INFO - [2022-01-01 13:46:41,752] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:46:41,773] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.195 seconds
+[2022-01-01 13:47:12,123] {processor.py:163} INFO - Started process (PID=7415) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:12,126] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:47:12,128] {logging_mixin.py:109} INFO - [2022-01-01 13:47:12,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:12,241] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:12,263] {logging_mixin.py:109} INFO - [2022-01-01 13:47:12,263] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:47:12,301] {logging_mixin.py:109} INFO - [2022-01-01 13:47:12,300] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:47:12,322] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.203 seconds
+[2022-01-01 13:47:42,693] {processor.py:163} INFO - Started process (PID=7463) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:42,696] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:47:42,698] {logging_mixin.py:109} INFO - [2022-01-01 13:47:42,698] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:42,801] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:47:42,824] {logging_mixin.py:109} INFO - [2022-01-01 13:47:42,824] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:47:42,863] {logging_mixin.py:109} INFO - [2022-01-01 13:47:42,862] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:47:42,883] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.196 seconds
+[2022-01-01 13:48:13,213] {processor.py:163} INFO - Started process (PID=7521) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:13,218] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:48:13,220] {logging_mixin.py:109} INFO - [2022-01-01 13:48:13,219] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:13,339] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:13,368] {logging_mixin.py:109} INFO - [2022-01-01 13:48:13,368] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:48:13,427] {logging_mixin.py:109} INFO - [2022-01-01 13:48:13,427] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:48:13,450] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.244 seconds
+[2022-01-01 13:48:43,820] {processor.py:163} INFO - Started process (PID=7567) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:43,823] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:48:43,824] {logging_mixin.py:109} INFO - [2022-01-01 13:48:43,824] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:43,924] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:48:43,947] {logging_mixin.py:109} INFO - [2022-01-01 13:48:43,947] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:48:43,988] {logging_mixin.py:109} INFO - [2022-01-01 13:48:43,988] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:48:44,017] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.201 seconds
+[2022-01-01 13:49:14,161] {processor.py:163} INFO - Started process (PID=7613) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:14,164] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:49:14,166] {logging_mixin.py:109} INFO - [2022-01-01 13:49:14,166] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:14,264] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:14,287] {logging_mixin.py:109} INFO - [2022-01-01 13:49:14,287] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:49:14,330] {logging_mixin.py:109} INFO - [2022-01-01 13:49:14,329] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:49:14,353] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.197 seconds
+[2022-01-01 13:49:44,923] {processor.py:163} INFO - Started process (PID=7672) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:44,925] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:49:44,927] {logging_mixin.py:109} INFO - [2022-01-01 13:49:44,927] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:45,042] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:49:45,061] {logging_mixin.py:109} INFO - [2022-01-01 13:49:45,061] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:49:45,104] {logging_mixin.py:109} INFO - [2022-01-01 13:49:45,104] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:49:45,126] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.208 seconds
+[2022-01-01 13:50:15,704] {processor.py:163} INFO - Started process (PID=7719) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:15,708] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:50:15,709] {logging_mixin.py:109} INFO - [2022-01-01 13:50:15,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:15,809] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:15,833] {logging_mixin.py:109} INFO - [2022-01-01 13:50:15,833] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:50:15,870] {logging_mixin.py:109} INFO - [2022-01-01 13:50:15,870] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:50:15,893] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.193 seconds
+[2022-01-01 13:50:46,179] {processor.py:163} INFO - Started process (PID=7775) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:46,184] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:50:46,188] {logging_mixin.py:109} INFO - [2022-01-01 13:50:46,188] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:46,293] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:50:46,324] {logging_mixin.py:109} INFO - [2022-01-01 13:50:46,324] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:50:46,372] {logging_mixin.py:109} INFO - [2022-01-01 13:50:46,372] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:50:46,401] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.227 seconds
+[2022-01-01 13:51:16,658] {processor.py:163} INFO - Started process (PID=7822) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:16,661] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:51:16,663] {logging_mixin.py:109} INFO - [2022-01-01 13:51:16,663] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:16,770] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:16,791] {logging_mixin.py:109} INFO - [2022-01-01 13:51:16,791] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:51:16,832] {logging_mixin.py:109} INFO - [2022-01-01 13:51:16,831] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:51:16,856] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.204 seconds
+[2022-01-01 13:51:47,142] {processor.py:163} INFO - Started process (PID=7869) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:47,145] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:51:47,147] {logging_mixin.py:109} INFO - [2022-01-01 13:51:47,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:47,240] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:51:47,260] {logging_mixin.py:109} INFO - [2022-01-01 13:51:47,260] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:51:47,296] {logging_mixin.py:109} INFO - [2022-01-01 13:51:47,296] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:51:47,325] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.187 seconds
+[2022-01-01 13:52:17,859] {processor.py:163} INFO - Started process (PID=7928) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:17,884] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:52:17,887] {logging_mixin.py:109} INFO - [2022-01-01 13:52:17,887] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:17,999] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:18,028] {logging_mixin.py:109} INFO - [2022-01-01 13:52:18,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:52:18,077] {logging_mixin.py:109} INFO - [2022-01-01 13:52:18,077] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:52:18,106] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.254 seconds
+[2022-01-01 13:52:48,516] {processor.py:163} INFO - Started process (PID=7976) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:48,520] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:52:48,521] {logging_mixin.py:109} INFO - [2022-01-01 13:52:48,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:48,629] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:52:48,652] {logging_mixin.py:109} INFO - [2022-01-01 13:52:48,652] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:52:48,695] {logging_mixin.py:109} INFO - [2022-01-01 13:52:48,695] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:52:48,719] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.209 seconds
+[2022-01-01 13:53:19,237] {processor.py:163} INFO - Started process (PID=8033) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:19,240] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:53:19,242] {logging_mixin.py:109} INFO - [2022-01-01 13:53:19,242] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:19,334] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:19,353] {logging_mixin.py:109} INFO - [2022-01-01 13:53:19,353] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:53:19,390] {logging_mixin.py:109} INFO - [2022-01-01 13:53:19,390] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:53:19,410] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.178 seconds
+[2022-01-01 13:53:49,557] {processor.py:163} INFO - Started process (PID=8080) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:49,560] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:53:49,562] {logging_mixin.py:109} INFO - [2022-01-01 13:53:49,561] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:49,670] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:53:49,693] {logging_mixin.py:109} INFO - [2022-01-01 13:53:49,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:53:49,735] {logging_mixin.py:109} INFO - [2022-01-01 13:53:49,735] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:53:49,759] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.207 seconds
+[2022-01-01 13:54:20,294] {processor.py:163} INFO - Started process (PID=8138) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:20,297] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:54:20,299] {logging_mixin.py:109} INFO - [2022-01-01 13:54:20,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:20,382] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:20,401] {logging_mixin.py:109} INFO - [2022-01-01 13:54:20,401] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:54:20,437] {logging_mixin.py:109} INFO - [2022-01-01 13:54:20,437] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:54:20,460] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.170 seconds
+[2022-01-01 13:54:50,646] {processor.py:163} INFO - Started process (PID=8186) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:50,649] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:54:50,651] {logging_mixin.py:109} INFO - [2022-01-01 13:54:50,650] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:50,760] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:54:50,788] {logging_mixin.py:109} INFO - [2022-01-01 13:54:50,788] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:54:50,834] {logging_mixin.py:109} INFO - [2022-01-01 13:54:50,834] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:54:50,855] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.215 seconds
+[2022-01-01 13:55:21,103] {processor.py:163} INFO - Started process (PID=8233) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:21,106] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:55:21,108] {logging_mixin.py:109} INFO - [2022-01-01 13:55:21,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:21,209] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:21,231] {logging_mixin.py:109} INFO - [2022-01-01 13:55:21,230] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:55:21,269] {logging_mixin.py:109} INFO - [2022-01-01 13:55:21,268] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:55:21,295] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.196 seconds
+[2022-01-01 13:55:51,811] {processor.py:163} INFO - Started process (PID=8292) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:51,813] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:55:51,815] {logging_mixin.py:109} INFO - [2022-01-01 13:55:51,815] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:51,912] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:55:51,935] {logging_mixin.py:109} INFO - [2022-01-01 13:55:51,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:55:51,979] {logging_mixin.py:109} INFO - [2022-01-01 13:55:51,979] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:55:52,006] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.200 seconds
+[2022-01-01 13:56:22,312] {processor.py:163} INFO - Started process (PID=8339) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:22,316] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:56:22,318] {logging_mixin.py:109} INFO - [2022-01-01 13:56:22,318] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:22,406] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:22,419] {logging_mixin.py:109} INFO - [2022-01-01 13:56:22,419] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:56:22,447] {logging_mixin.py:109} INFO - [2022-01-01 13:56:22,447] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:56:22,464] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.157 seconds
+[2022-01-01 13:56:52,612] {processor.py:163} INFO - Started process (PID=8387) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:52,615] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:56:52,617] {logging_mixin.py:109} INFO - [2022-01-01 13:56:52,616] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:52,700] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:56:52,715] {logging_mixin.py:109} INFO - [2022-01-01 13:56:52,715] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:56:52,743] {logging_mixin.py:109} INFO - [2022-01-01 13:56:52,743] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:56:52,759] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.152 seconds
+[2022-01-01 13:57:23,161] {processor.py:163} INFO - Started process (PID=8446) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:23,165] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:57:23,168] {logging_mixin.py:109} INFO - [2022-01-01 13:57:23,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:23,342] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:23,383] {logging_mixin.py:109} INFO - [2022-01-01 13:57:23,383] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:57:23,438] {logging_mixin.py:109} INFO - [2022-01-01 13:57:23,437] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:57:23,482] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.328 seconds
+[2022-01-01 13:57:54,108] {processor.py:163} INFO - Started process (PID=8492) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:54,113] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:57:54,116] {logging_mixin.py:109} INFO - [2022-01-01 13:57:54,115] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:54,279] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:57:54,313] {logging_mixin.py:109} INFO - [2022-01-01 13:57:54,312] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:57:54,402] {logging_mixin.py:109} INFO - [2022-01-01 13:57:54,402] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:57:54,443] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.340 seconds
+[2022-01-01 13:58:24,577] {processor.py:163} INFO - Started process (PID=8540) to work on /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:58:24,589] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_wicklow.py for tasks to queue
+[2022-01-01 13:58:24,595] {logging_mixin.py:109} INFO - [2022-01-01 13:58:24,594] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:58:24,746] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_wicklow']) retrieved from /opt/airflow/dags/scraping_daft_wicklow.py
+[2022-01-01 13:58:24,775] {logging_mixin.py:109} INFO - [2022-01-01 13:58:24,775] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-01 13:58:24,826] {logging_mixin.py:109} INFO - [2022-01-01 13:58:24,826] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_wicklow to 2022-01-01T11:10:00+00:00
+[2022-01-01 13:58:24,859] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_wicklow.py took 0.317 seconds

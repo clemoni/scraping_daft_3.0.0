@@ -1,0 +1,23 @@
+[2021-12-24 10:24:14,493] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_laois.run_init_county scheduled__2021-12-23T09:55:00+00:00 [queued]>
+[2021-12-24 10:24:14,590] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_laois.run_init_county scheduled__2021-12-23T09:55:00+00:00 [queued]>
+[2021-12-24 10:24:14,598] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-24 10:24:14,604] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-24 10:24:14,609] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-24 10:24:14,818] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-23 09:55:00+00:00
+[2021-12-24 10:24:14,874] {standard_task_runner.py:52} INFO - Started process 100 to run task
+[2021-12-24 10:24:14,966] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_laois', 'run_init_county', 'scheduled__2021-12-23T09:55:00+00:00', '--job-id', '4177', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_laois.py', '--cfg-path', '/tmp/tmpnqq9jv_t', '--error-file', '/tmp/tmpq7ir2t0t']
+[2021-12-24 10:24:14,986] {standard_task_runner.py:77} INFO - Job 4177: Subtask run_init_county
+[2021-12-24 10:24:16,051] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_laois.run_init_county scheduled__2021-12-23T09:55:00+00:00 [running]> on host dd6c6a1cba03
+[2021-12-24 10:24:17,225] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_laois
+AIRFLOW_CTX_TASK_ID=run_init_county
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-23T09:55:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-23T09:55:00+00:00
+[2021-12-24 10:24:17,481] {python.py:152} INFO - Done. Returned value was: None
+[2021-12-24 10:24:17,936] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_laois, task_id=run_init_county, execution_date=20211223T095500, start_date=20211224T102414, end_date=20211224T102417
+[2021-12-24 10:24:18,203] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-24 10:24:19,725] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,2 @@
+[2021-12-25 12:22:18,994] {taskinstance.py:1029} INFO - Dependencies not met for <TaskInstance: scraping_daft_louth.scrap_data scheduled__2021-12-24T10:15:00+00:00 [queued]>, dependency 'Trigger Rule' FAILED: Task's trigger rule 'all_success' requires all upstream tasks to have succeeded, but found 1 non-success(es). upstream_tasks_state={'total': 1, 'successes': 0, 'skipped': 0, 'failed': 0, 'upstream_failed': 0, 'done': 0}, upstream_task_ids={'run_init_county'}
+[2021-12-25 12:22:19,108] {local_task_job.py:99} INFO - Task is not able to be run

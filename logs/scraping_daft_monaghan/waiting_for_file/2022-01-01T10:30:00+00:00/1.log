@@ -1,0 +1,25 @@
+[2022-01-02 12:19:24,707] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.waiting_for_file scheduled__2022-01-01T10:30:00+00:00 [queued]>
+[2022-01-02 12:19:24,858] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.waiting_for_file scheduled__2022-01-01T10:30:00+00:00 [queued]>
+[2022-01-02 12:19:24,861] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:19:24,862] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2022-01-02 12:19:24,865] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:19:24,947] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2022-01-01 10:30:00+00:00
+[2022-01-02 12:19:24,956] {standard_task_runner.py:52} INFO - Started process 3760 to run task
+[2022-01-02 12:19:25,023] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_monaghan', 'waiting_for_file', 'scheduled__2022-01-01T10:30:00+00:00', '--job-id', '6130', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_monaghan.py', '--cfg-path', '/tmp/tmp_x_gily3', '--error-file', '/tmp/tmp_vo9ppc0']
+[2022-01-02 12:19:25,026] {standard_task_runner.py:77} INFO - Job 6130: Subtask waiting_for_file
+[2022-01-02 12:19:25,690] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_monaghan.waiting_for_file scheduled__2022-01-01T10:30:00+00:00 [running]> on host bbddfc72aeab
+[2022-01-02 12:19:26,573] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_monaghan
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-01T10:30:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-01T10:30:00+00:00
+[2022-01-02 12:19:26,735] {filesystem.py:59} INFO - Poking for file data/monaghan_rent.json
+[2022-01-02 12:19:26,740] {filesystem.py:65} INFO - Found File data/monaghan_rent.json last modified: 20220102121751
+[2022-01-02 12:19:26,743] {base.py:249} INFO - Success criteria met. Exiting.
+[2022-01-02 12:19:27,214] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_monaghan, task_id=waiting_for_file, execution_date=20220101T103000, start_date=20220102T121924, end_date=20220102T121927
+[2022-01-02 12:19:27,535] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-02 12:19:28,426] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

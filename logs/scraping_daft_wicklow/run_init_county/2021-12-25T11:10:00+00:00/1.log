@@ -1,0 +1,8 @@
+[2021-12-26 11:56:42,433] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_wicklow.run_init_county scheduled__2021-12-25T11:10:00+00:00 [queued]>
+[2021-12-26 12:22:49,475] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_wicklow.run_init_county scheduled__2021-12-25T11:10:00+00:00 [queued]>
+[2021-12-26 12:22:50,372] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-26 12:22:50,573] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-26 12:22:50,592] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-26 13:03:59,497] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-25 11:10:00+00:00

@@ -1,0 +1,36 @@
+[2021-12-29 12:48:39,263] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.scrap_data scheduled__2021-12-28T10:55:00+00:00 [queued]>
+[2021-12-29 12:48:41,113] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.scrap_data scheduled__2021-12-28T10:55:00+00:00 [queued]>
+[2021-12-29 12:48:41,123] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 12:48:41,135] {taskinstance.py:1242} INFO - Starting attempt 3 of 4
+[2021-12-29 12:48:41,145] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 12:48:41,519] {taskinstance.py:1262} INFO - Executing <Task(SparkSubmitOperator): scrap_data> on 2021-12-28 10:55:00+00:00
+[2021-12-29 12:48:41,875] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_waterford', 'scrap_data', 'scheduled__2021-12-28T10:55:00+00:00', '--job-id', '5385', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_waterford.py', '--cfg-path', '/tmp/tmp15x3dlf9', '--error-file', '/tmp/tmpj2bd3fjn']
+[2021-12-29 12:48:41,946] {standard_task_runner.py:77} INFO - Job 5385: Subtask scrap_data
+[2021-12-29 12:48:41,736] {standard_task_runner.py:52} INFO - Started process 33730 to run task
+[2021-12-29 12:48:52,113] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_waterford.scrap_data scheduled__2021-12-28T10:55:00+00:00 [running]> on host 6bdda4c19a85
+[2021-12-29 12:49:02,942] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_waterford
+AIRFLOW_CTX_TASK_ID=scrap_data
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-28T10:55:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-28T10:55:00+00:00
+[2021-12-29 12:49:04,817] {base.py:79} INFO - Using connection to: id: spark_default. Host: spark://spark:7077, Port: None, Schema: , Login: ***, Password: ***, extra: {}
+[2021-12-29 12:49:05,586] {spark_submit.py:360} INFO - Spark-Submit cmd: spark-submit --master spark://spark:7077 --conf spark.master=spark://spark:7077 --name scrap data --verbose /opt/***/jobs/get_ads_per_county.py waterford
+[2021-12-29 13:00:32,289] {spark_submit.py:514} INFO - Using properties file: null
+[2021-12-29 13:01:55,291] {spark_submit.py:514} INFO - WARNING: An illegal reflective access operation has occurred
+[2021-12-29 13:01:55,300] {spark_submit.py:514} INFO - WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/***/.local/lib/python3.6/site-packages/pyspark/jars/spark-unsafe_2.12-3.2.0.jar) to constructor java.nio.DirectByteBuffer(long,int)
+[2021-12-29 13:01:55,306] {spark_submit.py:514} INFO - WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+[2021-12-29 13:01:55,311] {spark_submit.py:514} INFO - WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+[2021-12-29 13:01:55,794] {spark_submit.py:514} INFO - WARNING: All illegal access operations will be denied in a future release
+[2021-12-29 13:15:42,652] {local_task_job.py:142} ERROR - Heartbeat time limit exceeded!
+[2021-12-29 13:26:37,084] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 33730
+[2021-12-29 13:27:22,080] {taskinstance.py:1411} ERROR - Received SIGTERM. Terminating subprocesses.
+[2021-12-29 13:28:22,431] {spark_submit.py:644} INFO - Sending kill signal to spark-submit
+[2021-12-29 13:28:21,207] {process_utils.py:113} WARNING - process psutil.Process(pid=33748, name='java', status='zombie', started='12:49:05') did not respond to SIGTERM. Trying SIGKILL
+[2021-12-29 13:35:46,333] {process_utils.py:113} WARNING - process psutil.Process(pid=33730, name='airflow task ru', status='running', started='12:48:41') did not respond to SIGTERM. Trying SIGKILL
+[2021-12-29 13:38:00,977] {process_utils.py:124} ERROR - Process psutil.Process(pid=33748, name='java', status='zombie', started='12:49:05') (33748) could not be killed. Giving up.
+[2021-12-29 13:38:38,761] {process_utils.py:124} ERROR - Process psutil.Process(pid=33730, name='airflow task ru', status='running', started='12:48:41') (33730) could not be killed. Giving up.
+[2021-12-29 13:39:16,871] {standard_task_runner.py:135} ERROR - Job 5385 was killed before it finished (likely due to running out of memory)

@@ -1,0 +1,24 @@
+[2021-12-22 10:10:19,322] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_limerick.run_init_county scheduled__2021-12-21T10:05:00+00:00 [queued]>
+[2021-12-22 10:10:22,276] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_limerick.run_init_county scheduled__2021-12-21T10:05:00+00:00 [queued]>
+[2021-12-22 10:10:22,279] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-22 10:10:22,281] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-22 10:10:22,283] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-22 10:10:23,127] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-21 10:05:00+00:00
+[2021-12-22 10:10:23,756] {standard_task_runner.py:52} INFO - Started process 2838 to run task
+[2021-12-22 10:10:24,175] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_limerick', 'run_init_county', 'scheduled__2021-12-21T10:05:00+00:00', '--job-id', '3810', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_limerick.py', '--cfg-path', '/tmp/tmpzcnw9jrl', '--error-file', '/tmp/tmpunt8ku3l']
+[2021-12-22 10:10:24,360] {standard_task_runner.py:77} INFO - Job 3810: Subtask run_init_county
+[2021-12-22 10:10:27,320] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_limerick.run_init_county scheduled__2021-12-21T10:05:00+00:00 [running]> on host bb1be648e8f2
+[2021-12-22 10:10:37,219] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_limerick
+AIRFLOW_CTX_TASK_ID=run_init_county
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-21T10:05:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-21T10:05:00+00:00
+[2021-12-22 10:10:37,803] {python.py:152} INFO - Done. Returned value was: None
+[2021-12-22 10:10:43,543] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_limerick, task_id=run_init_county, execution_date=20211221T100500, start_date=20211222T101021, end_date=20211222T101043
+[2021-12-22 10:10:44,437] {local_task_job.py:212} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2021-12-22 10:10:44,784] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 2838
+[2021-12-22 10:10:44,825] {process_utils.py:66} INFO - Process psutil.Process(pid=2838, status='terminated', exitcode=0, started='10:10:23') (2838) terminated with exit code 0

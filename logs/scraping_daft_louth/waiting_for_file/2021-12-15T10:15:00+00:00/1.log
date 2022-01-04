@@ -1,0 +1,25 @@
+[2021-12-16 11:03:57,845] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_louth.waiting_for_file scheduled__2021-12-15T10:15:00+00:00 [queued]>
+[2021-12-16 11:03:57,913] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_louth.waiting_for_file scheduled__2021-12-15T10:15:00+00:00 [queued]>
+[2021-12-16 11:03:57,926] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-16 11:03:57,935] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-16 11:03:57,938] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-16 11:03:57,998] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-15 10:15:00+00:00
+[2021-12-16 11:03:58,019] {standard_task_runner.py:52} INFO - Started process 12727 to run task
+[2021-12-16 11:03:58,049] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_louth', 'waiting_for_file', 'scheduled__2021-12-15T10:15:00+00:00', '--job-id', '2726', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_louth.py', '--cfg-path', '/tmp/tmpx1zpt2_b', '--error-file', '/tmp/tmpcfoqew5a']
+[2021-12-16 11:03:58,076] {standard_task_runner.py:77} INFO - Job 2726: Subtask waiting_for_file
+[2021-12-16 11:03:58,435] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_louth.waiting_for_file scheduled__2021-12-15T10:15:00+00:00 [running]> on host 10035bfec3db
+[2021-12-16 11:03:59,158] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_louth
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-15T10:15:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-15T10:15:00+00:00
+[2021-12-16 11:03:59,314] {filesystem.py:59} INFO - Poking for file data/louth_rent.json
+[2021-12-16 11:03:59,321] {filesystem.py:65} INFO - Found File data/louth_rent.json last modified: 20211216110350
+[2021-12-16 11:03:59,325] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-16 11:03:59,478] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_louth, task_id=waiting_for_file, execution_date=20211215T101500, start_date=20211216T110357, end_date=20211216T110359
+[2021-12-16 11:04:00,031] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-16 11:04:01,321] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

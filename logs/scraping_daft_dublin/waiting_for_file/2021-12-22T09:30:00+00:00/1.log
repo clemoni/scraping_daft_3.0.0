@@ -1,0 +1,25 @@
+[2021-12-23 13:22:06,128] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_dublin.waiting_for_file scheduled__2021-12-22T09:30:00+00:00 [queued]>
+[2021-12-23 13:22:06,155] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_dublin.waiting_for_file scheduled__2021-12-22T09:30:00+00:00 [queued]>
+[2021-12-23 13:22:06,157] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-23 13:22:06,158] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-23 13:22:06,159] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-23 13:22:06,186] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-22 09:30:00+00:00
+[2021-12-23 13:22:06,203] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_dublin', 'waiting_for_file', 'scheduled__2021-12-22T09:30:00+00:00', '--job-id', '4167', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_dublin.py', '--cfg-path', '/tmp/tmpqufevfec', '--error-file', '/tmp/tmp8p7idzsn']
+[2021-12-23 13:22:06,205] {standard_task_runner.py:77} INFO - Job 4167: Subtask waiting_for_file
+[2021-12-23 13:22:06,197] {standard_task_runner.py:52} INFO - Started process 16295 to run task
+[2021-12-23 13:22:06,311] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_dublin.waiting_for_file scheduled__2021-12-22T09:30:00+00:00 [running]> on host eecc602ed8f2
+[2021-12-23 13:22:06,485] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_dublin
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-22T09:30:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-22T09:30:00+00:00
+[2021-12-23 13:22:06,543] {filesystem.py:59} INFO - Poking for file data/dublin_rent.json
+[2021-12-23 13:22:06,546] {filesystem.py:65} INFO - Found File data/dublin_rent.json last modified: 20211223132203
+[2021-12-23 13:22:06,547] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-23 13:22:06,599] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_dublin, task_id=waiting_for_file, execution_date=20211222T093000, start_date=20211223T132206, end_date=20211223T132206
+[2021-12-23 13:22:06,674] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-23 13:22:06,855] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

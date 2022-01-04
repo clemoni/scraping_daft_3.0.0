@@ -1,0 +1,25 @@
+[2021-12-29 14:21:39,953] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_galway.waiting_for_file scheduled__2021-12-28T09:35:00+00:00 [queued]>
+[2021-12-29 14:21:39,974] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_galway.waiting_for_file scheduled__2021-12-28T09:35:00+00:00 [queued]>
+[2021-12-29 14:21:39,975] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 14:21:39,976] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-29 14:21:39,977] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 14:21:39,998] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-28 09:35:00+00:00
+[2021-12-29 14:21:40,008] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_galway', 'waiting_for_file', 'scheduled__2021-12-28T09:35:00+00:00', '--job-id', '5430', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_galway.py', '--cfg-path', '/tmp/tmp4c2mdx4k', '--error-file', '/tmp/tmp4q8z3rnm']
+[2021-12-29 14:21:40,010] {standard_task_runner.py:77} INFO - Job 5430: Subtask waiting_for_file
+[2021-12-29 14:21:40,005] {standard_task_runner.py:52} INFO - Started process 2898 to run task
+[2021-12-29 14:21:40,121] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_galway.waiting_for_file scheduled__2021-12-28T09:35:00+00:00 [running]> on host bb41737934b2
+[2021-12-29 14:21:40,261] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_galway
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-28T09:35:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-28T09:35:00+00:00
+[2021-12-29 14:21:40,333] {filesystem.py:59} INFO - Poking for file data/galway_rent.json
+[2021-12-29 14:21:40,336] {filesystem.py:65} INFO - Found File data/galway_rent.json last modified: 20211229142138
+[2021-12-29 14:21:40,337] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-29 14:21:40,406] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_galway, task_id=waiting_for_file, execution_date=20211228T093500, start_date=20211229T142139, end_date=20211229T142140
+[2021-12-29 14:21:40,471] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-29 14:21:40,579] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

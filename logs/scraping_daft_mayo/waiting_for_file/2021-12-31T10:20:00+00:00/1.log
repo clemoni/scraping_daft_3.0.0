@@ -1,0 +1,25 @@
+[2022-01-01 12:43:23,703] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_mayo.waiting_for_file scheduled__2021-12-31T10:20:00+00:00 [queued]>
+[2022-01-01 12:43:23,819] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_mayo.waiting_for_file scheduled__2021-12-31T10:20:00+00:00 [queued]>
+[2022-01-01 12:43:23,825] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-01 12:43:23,826] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2022-01-01 12:43:23,829] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-01 12:43:23,981] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-31 10:20:00+00:00
+[2022-01-01 12:43:24,073] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_mayo', 'waiting_for_file', 'scheduled__2021-12-31T10:20:00+00:00', '--job-id', '5966', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_mayo.py', '--cfg-path', '/tmp/tmp7gtc53zg', '--error-file', '/tmp/tmpgfbxym4d']
+[2022-01-01 12:43:24,110] {standard_task_runner.py:77} INFO - Job 5966: Subtask waiting_for_file
+[2022-01-01 12:43:24,001] {standard_task_runner.py:52} INFO - Started process 6368 to run task
+[2022-01-01 12:43:25,340] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_mayo.waiting_for_file scheduled__2021-12-31T10:20:00+00:00 [running]> on host 33b99c52f92c
+[2022-01-01 12:43:26,271] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_mayo
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-31T10:20:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-31T10:20:00+00:00
+[2022-01-01 12:43:26,426] {filesystem.py:59} INFO - Poking for file data/mayo_rent.json
+[2022-01-01 12:43:26,430] {filesystem.py:65} INFO - Found File data/mayo_rent.json last modified: 20220101124229
+[2022-01-01 12:43:26,431] {base.py:249} INFO - Success criteria met. Exiting.
+[2022-01-01 12:43:26,544] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_mayo, task_id=waiting_for_file, execution_date=20211231T102000, start_date=20220101T124323, end_date=20220101T124326
+[2022-01-01 12:43:26,662] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-01 12:43:28,139] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

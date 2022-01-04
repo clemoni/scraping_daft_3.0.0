@@ -1,0 +1,135 @@
+[2022-01-02 12:27:42,611] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.remove_file scheduled__2022-01-01T10:30:00+00:00 [queued]>
+[2022-01-02 12:27:42,808] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.remove_file scheduled__2022-01-01T10:30:00+00:00 [queued]>
+[2022-01-02 12:27:42,811] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:27:42,813] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2022-01-02 12:27:42,815] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:27:42,930] {taskinstance.py:1262} INFO - Executing <Task(SparkSubmitOperator): remove_file> on 2022-01-01 10:30:00+00:00
+[2022-01-02 12:27:43,174] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_monaghan', 'remove_file', 'scheduled__2022-01-01T10:30:00+00:00', '--job-id', '6180', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_monaghan.py', '--cfg-path', '/tmp/tmprza8ats8', '--error-file', '/tmp/tmp7gy3pie5']
+[2022-01-02 12:27:43,192] {standard_task_runner.py:77} INFO - Job 6180: Subtask remove_file
+[2022-01-02 12:27:43,017] {standard_task_runner.py:52} INFO - Started process 8395 to run task
+[2022-01-02 12:27:44,438] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_monaghan.remove_file scheduled__2022-01-01T10:30:00+00:00 [running]> on host bbddfc72aeab
+[2022-01-02 12:27:46,084] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_monaghan
+AIRFLOW_CTX_TASK_ID=remove_file
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-01T10:30:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-01T10:30:00+00:00
+[2022-01-02 12:27:46,521] {base.py:79} INFO - Using connection to: id: spark_default. Host: spark://spark:7077, Port: None, Schema: , Login: ***, Password: ***, extra: {}
+[2022-01-02 12:27:46,780] {spark_submit.py:360} INFO - Spark-Submit cmd: spark-submit --master spark://spark:7077 --conf spark.master=spark://spark:7077 --name remove file --verbose /opt/***/jobs/remove_file.py monaghan
+[2022-01-02 12:28:11,657] {spark_submit.py:514} INFO - Using properties file: null
+[2022-01-02 12:28:14,384] {spark_submit.py:514} INFO - WARNING: An illegal reflective access operation has occurred
+[2022-01-02 12:28:14,385] {spark_submit.py:514} INFO - WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/***/.local/lib/python3.6/site-packages/pyspark/jars/spark-unsafe_2.12-3.2.0.jar) to constructor java.nio.DirectByteBuffer(long,int)
+[2022-01-02 12:28:14,387] {spark_submit.py:514} INFO - WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+[2022-01-02 12:28:14,389] {spark_submit.py:514} INFO - WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+[2022-01-02 12:28:14,391] {spark_submit.py:514} INFO - WARNING: All illegal access operations will be denied in a future release
+[2022-01-02 12:28:16,499] {spark_submit.py:514} INFO - Parsed arguments:
+[2022-01-02 12:28:16,501] {spark_submit.py:514} INFO - master                  spark://spark:7077
+[2022-01-02 12:28:16,504] {spark_submit.py:514} INFO - deployMode              null
+[2022-01-02 12:28:16,506] {spark_submit.py:514} INFO - executorMemory          null
+[2022-01-02 12:28:16,509] {spark_submit.py:514} INFO - executorCores           null
+[2022-01-02 12:28:16,514] {spark_submit.py:514} INFO - totalExecutorCores      null
+[2022-01-02 12:28:16,516] {spark_submit.py:514} INFO - propertiesFile          null
+[2022-01-02 12:28:16,526] {spark_submit.py:514} INFO - driverMemory            null
+[2022-01-02 12:28:16,527] {spark_submit.py:514} INFO - driverCores             null
+[2022-01-02 12:28:16,528] {spark_submit.py:514} INFO - driverExtraClassPath    null
+[2022-01-02 12:28:16,529] {spark_submit.py:514} INFO - driverExtraLibraryPath  null
+[2022-01-02 12:28:16,534] {spark_submit.py:514} INFO - driverExtraJavaOptions  null
+[2022-01-02 12:28:16,545] {spark_submit.py:514} INFO - supervise               false
+[2022-01-02 12:28:16,549] {spark_submit.py:514} INFO - queue                   null
+[2022-01-02 12:28:16,551] {spark_submit.py:514} INFO - numExecutors            null
+[2022-01-02 12:28:16,556] {spark_submit.py:514} INFO - files                   null
+[2022-01-02 12:28:16,557] {spark_submit.py:514} INFO - pyFiles                 null
+[2022-01-02 12:28:16,560] {spark_submit.py:514} INFO - archives                null
+[2022-01-02 12:28:16,562] {spark_submit.py:514} INFO - mainClass               null
+[2022-01-02 12:28:16,564] {spark_submit.py:514} INFO - primaryResource         file:/opt/***/jobs/remove_file.py
+[2022-01-02 12:28:16,566] {spark_submit.py:514} INFO - name                    remove file
+[2022-01-02 12:28:16,567] {spark_submit.py:514} INFO - childArgs               [monaghan]
+[2022-01-02 12:28:16,569] {spark_submit.py:514} INFO - jars                    null
+[2022-01-02 12:28:16,572] {spark_submit.py:514} INFO - packages                null
+[2022-01-02 12:28:16,574] {spark_submit.py:514} INFO - packagesExclusions      null
+[2022-01-02 12:28:16,575] {spark_submit.py:514} INFO - repositories            null
+[2022-01-02 12:28:16,579] {spark_submit.py:514} INFO - verbose                 true
+[2022-01-02 12:28:16,582] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:16,584] {spark_submit.py:514} INFO - Spark properties used, including those specified through
+[2022-01-02 12:28:16,586] {spark_submit.py:514} INFO - --conf and those from the properties file null:
+[2022-01-02 12:28:16,588] {spark_submit.py:514} INFO - (spark.master,spark://spark:7077)
+[2022-01-02 12:28:16,590] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:16,591] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:22,875] {spark_submit.py:514} INFO - Main class:
+[2022-01-02 12:28:22,876] {spark_submit.py:514} INFO - org.apache.spark.deploy.PythonRunner
+[2022-01-02 12:28:22,879] {spark_submit.py:514} INFO - Arguments:
+[2022-01-02 12:28:22,881] {spark_submit.py:514} INFO - file:/opt/***/jobs/remove_file.py
+[2022-01-02 12:28:22,882] {spark_submit.py:514} INFO - null
+[2022-01-02 12:28:22,884] {spark_submit.py:514} INFO - monaghan
+[2022-01-02 12:28:22,886] {spark_submit.py:514} INFO - --verbose
+[2022-01-02 12:28:22,897] {spark_submit.py:514} INFO - Spark config:
+[2022-01-02 12:28:22,900] {spark_submit.py:514} INFO - (spark.app.name,remove file)
+[2022-01-02 12:28:22,902] {spark_submit.py:514} INFO - (spark.master,spark://spark:7077)
+[2022-01-02 12:28:22,903] {spark_submit.py:514} INFO - (spark.submit.pyFiles,)
+[2022-01-02 12:28:22,906] {spark_submit.py:514} INFO - (spark.submit.deployMode,client)
+[2022-01-02 12:28:22,912] {spark_submit.py:514} INFO - Classpath elements:
+[2022-01-02 12:28:22,914] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:22,916] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:22,917] {spark_submit.py:514} INFO - 
+[2022-01-02 12:28:38,081] {spark_submit.py:514} INFO - Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+[2022-01-02 12:28:38,553] {spark_submit.py:514} INFO - 22/01/02 12:28:38 INFO SparkContext: Running Spark version 3.2.0
+[2022-01-02 12:28:40,407] {spark_submit.py:514} INFO - 22/01/02 12:28:40 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2022-01-02 12:28:42,681] {spark_submit.py:514} INFO - 22/01/02 12:28:42 INFO ResourceUtils: ==============================================================
+[2022-01-02 12:28:42,685] {spark_submit.py:514} INFO - 22/01/02 12:28:42 INFO ResourceUtils: No custom resources configured for spark.driver.
+[2022-01-02 12:28:42,710] {spark_submit.py:514} INFO - 22/01/02 12:28:42 INFO ResourceUtils: ==============================================================
+[2022-01-02 12:28:42,715] {spark_submit.py:514} INFO - 22/01/02 12:28:42 INFO SparkContext: Submitted application: Remove file
+[2022-01-02 12:28:43,491] {spark_submit.py:514} INFO - 22/01/02 12:28:43 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+[2022-01-02 12:28:43,820] {spark_submit.py:514} INFO - 22/01/02 12:28:43 INFO ResourceProfile: Limiting resource is cpu
+[2022-01-02 12:28:43,858] {spark_submit.py:514} INFO - 22/01/02 12:28:43 INFO ResourceProfileManager: Added ResourceProfile id: 0
+[2022-01-02 12:28:44,792] {spark_submit.py:514} INFO - 22/01/02 12:28:44 INFO SecurityManager: Changing view acls to: ***
+[2022-01-02 12:28:44,796] {spark_submit.py:514} INFO - 22/01/02 12:28:44 INFO SecurityManager: Changing modify acls to: ***
+[2022-01-02 12:28:44,800] {spark_submit.py:514} INFO - 22/01/02 12:28:44 INFO SecurityManager: Changing view acls groups to:
+[2022-01-02 12:28:44,814] {spark_submit.py:514} INFO - 22/01/02 12:28:44 INFO SecurityManager: Changing modify acls groups to:
+[2022-01-02 12:28:44,819] {spark_submit.py:514} INFO - 22/01/02 12:28:44 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(***); groups with view permissions: Set(); users  with modify permissions: Set(***); groups with modify permissions: Set()
+[2022-01-02 12:28:52,653] {spark_submit.py:514} INFO - 22/01/02 12:28:52 INFO Utils: Successfully started service 'sparkDriver' on port 40077.
+[2022-01-02 12:28:52,903] {spark_submit.py:514} INFO - 22/01/02 12:28:52 INFO SparkEnv: Registering MapOutputTracker
+[2022-01-02 12:28:53,304] {spark_submit.py:514} INFO - 22/01/02 12:28:53 INFO SparkEnv: Registering BlockManagerMaster
+[2022-01-02 12:28:55,015] {spark_submit.py:514} INFO - 22/01/02 12:28:55 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+[2022-01-02 12:28:55,115] {spark_submit.py:514} INFO - 22/01/02 12:28:55 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+[2022-01-02 12:28:55,774] {spark_submit.py:514} INFO - 22/01/02 12:28:55 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+[2022-01-02 12:28:56,289] {spark_submit.py:514} INFO - 22/01/02 12:28:56 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-a2e34fe8-d369-42f5-af54-b4cd81d17bae
+[2022-01-02 12:28:56,461] {spark_submit.py:514} INFO - 22/01/02 12:28:56 INFO MemoryStore: MemoryStore started with capacity 434.4 MiB
+[2022-01-02 12:28:56,709] {spark_submit.py:514} INFO - 22/01/02 12:28:56 INFO SparkEnv: Registering OutputCommitCoordinator
+[2022-01-02 12:29:05,165] {spark_submit.py:514} INFO - 22/01/02 12:29:05 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+[2022-01-02 12:29:06,277] {spark_submit.py:514} INFO - 22/01/02 12:29:06 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://bbddfc72aeab:4040
+[2022-01-02 12:29:11,977] {spark_submit.py:514} INFO - 22/01/02 12:29:11 INFO StandaloneAppClient$ClientEndpoint: Connecting to master spark://spark:7077...
+[2022-01-02 12:29:13,710] {spark_submit.py:514} INFO - 22/01/02 12:29:13 INFO TransportClientFactory: Successfully created connection to spark/172.22.0.4:7077 after 1289 ms (0 ms spent in bootstraps)
+[2022-01-02 12:29:15,412] {spark_submit.py:514} INFO - 22/01/02 12:29:15 INFO StandaloneSchedulerBackend: Connected to Spark cluster with app ID app-20220102122915-0054
+[2022-01-02 12:29:15,508] {spark_submit.py:514} INFO - 22/01/02 12:29:15 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40993.
+[2022-01-02 12:29:15,509] {spark_submit.py:514} INFO - 22/01/02 12:29:15 INFO NettyBlockTransferService: Server created on bbddfc72aeab:40993
+[2022-01-02 12:29:15,604] {spark_submit.py:514} INFO - 22/01/02 12:29:15 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+[2022-01-02 12:29:15,972] {spark_submit.py:514} INFO - 22/01/02 12:29:15 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, bbddfc72aeab, 40993, None)
+[2022-01-02 12:29:16,006] {spark_submit.py:514} INFO - 22/01/02 12:29:16 INFO BlockManagerMasterEndpoint: Registering block manager bbddfc72aeab:40993 with 434.4 MiB RAM, BlockManagerId(driver, bbddfc72aeab, 40993, None)
+[2022-01-02 12:29:16,028] {spark_submit.py:514} INFO - 22/01/02 12:29:16 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, bbddfc72aeab, 40993, None)
+[2022-01-02 12:29:16,045] {spark_submit.py:514} INFO - 22/01/02 12:29:16 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, bbddfc72aeab, 40993, None)
+[2022-01-02 12:29:19,069] {spark_submit.py:514} INFO - 22/01/02 12:29:19 INFO StandaloneSchedulerBackend: SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: 0.0
+[2022-01-02 12:29:20,932] {spark_submit.py:514} INFO - /home/***/.local/lib/python3.6/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py:238: FutureWarning: Python 3.6 support is deprecated in Spark 3.2.
+[2022-01-02 12:29:20,946] {spark_submit.py:514} INFO - FutureWarning
+[2022-01-02 12:29:26,885] {spark_submit.py:514} INFO - 22/01/02 12:29:26 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir.
+[2022-01-02 12:29:28,050] {spark_submit.py:514} INFO - 22/01/02 12:29:28 INFO SharedState: Warehouse path is 'file:/opt/***/spark-warehouse'.
+[2022-01-02 12:29:46,043] {spark_submit.py:514} INFO - file: monaghan_rent.json deleted
+[2022-01-02 12:29:47,364] {spark_submit.py:514} INFO - 22/01/02 12:29:47 INFO SparkContext: Invoking stop() from shutdown hook
+[2022-01-02 12:29:47,549] {spark_submit.py:514} INFO - 22/01/02 12:29:47 INFO SparkUI: Stopped Spark web UI at http://bbddfc72aeab:4040
+[2022-01-02 12:29:47,696] {spark_submit.py:514} INFO - 22/01/02 12:29:47 INFO StandaloneSchedulerBackend: Shutting down all executors
+[2022-01-02 12:29:47,853] {spark_submit.py:514} INFO - 22/01/02 12:29:47 INFO CoarseGrainedSchedulerBackend$DriverEndpoint: Asking each executor to shut down
+[2022-01-02 12:29:48,021] {spark_submit.py:514} INFO - 22/01/02 12:29:48 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+[2022-01-02 12:29:48,872] {spark_submit.py:514} INFO - 22/01/02 12:29:48 INFO MemoryStore: MemoryStore cleared
+[2022-01-02 12:29:48,924] {spark_submit.py:514} INFO - 22/01/02 12:29:48 INFO BlockManager: BlockManager stopped
+[2022-01-02 12:29:49,117] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO BlockManagerMaster: BlockManagerMaster stopped
+[2022-01-02 12:29:49,145] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+[2022-01-02 12:29:49,568] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO SparkContext: Successfully stopped SparkContext
+[2022-01-02 12:29:49,573] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO ShutdownHookManager: Shutdown hook called
+[2022-01-02 12:29:49,608] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO ShutdownHookManager: Deleting directory /tmp/spark-d58d6f9a-2694-4610-a549-a13a634e0ae0/pyspark-786fed04-c3a4-4d73-8ee9-5c8df08e3015
+[2022-01-02 12:29:49,663] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO ShutdownHookManager: Deleting directory /tmp/spark-d58d6f9a-2694-4610-a549-a13a634e0ae0
+[2022-01-02 12:29:49,692] {spark_submit.py:514} INFO - 22/01/02 12:29:49 INFO ShutdownHookManager: Deleting directory /tmp/spark-7eed8846-358e-4468-8d9d-3faa02ca8cd1
+[2022-01-02 12:29:50,895] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_monaghan, task_id=remove_file, execution_date=20220101T103000, start_date=20220102T122742, end_date=20220102T122950
+[2022-01-02 12:29:51,370] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-02 12:29:53,744] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

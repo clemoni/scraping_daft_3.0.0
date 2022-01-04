@@ -1,0 +1,25 @@
+[2021-12-29 15:56:07,055] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_westmeath.waiting_for_file scheduled__2021-12-28T11:00:00+00:00 [queued]>
+[2021-12-29 15:56:07,196] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_westmeath.waiting_for_file scheduled__2021-12-28T11:00:00+00:00 [queued]>
+[2021-12-29 15:56:07,288] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 15:56:07,300] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-29 15:56:07,308] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 15:56:07,628] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-28 11:00:00+00:00
+[2021-12-29 15:56:07,724] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_westmeath', 'waiting_for_file', 'scheduled__2021-12-28T11:00:00+00:00', '--job-id', '5463', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_westmeath.py', '--cfg-path', '/tmp/tmp5zax3lva', '--error-file', '/tmp/tmp0ks6v60s']
+[2021-12-29 15:56:07,748] {standard_task_runner.py:77} INFO - Job 5463: Subtask waiting_for_file
+[2021-12-29 15:56:07,695] {standard_task_runner.py:52} INFO - Started process 9367 to run task
+[2021-12-29 15:56:08,387] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_westmeath.waiting_for_file scheduled__2021-12-28T11:00:00+00:00 [running]> on host bb41737934b2
+[2021-12-29 15:56:09,524] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_westmeath
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-28T11:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-28T11:00:00+00:00
+[2021-12-29 15:56:09,663] {filesystem.py:59} INFO - Poking for file data/westmeath_rent.json
+[2021-12-29 15:56:09,668] {filesystem.py:65} INFO - Found File data/westmeath_rent.json last modified: 20211229155557
+[2021-12-29 15:56:09,677] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-29 15:56:10,010] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_westmeath, task_id=waiting_for_file, execution_date=20211228T110000, start_date=20211229T155607, end_date=20211229T155610
+[2021-12-29 15:56:10,224] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-29 15:56:10,575] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

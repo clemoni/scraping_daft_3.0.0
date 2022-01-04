@@ -1,0 +1,1330 @@
+[2021-12-31 13:20:53,486] {processor.py:163} INFO - Started process (PID=70) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:20:53,491] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:20:53,494] {logging_mixin.py:109} INFO - [2021-12-31 13:20:53,494] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:20:53,696] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:20:53,755] {logging_mixin.py:109} INFO - [2021-12-31 13:20:53,755] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:20:53,869] {logging_mixin.py:109} INFO - [2021-12-31 13:20:53,869] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:20:53,926] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.456 seconds
+[2021-12-31 13:21:24,904] {processor.py:163} INFO - Started process (PID=161) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:24,909] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:21:24,917] {logging_mixin.py:109} INFO - [2021-12-31 13:21:24,916] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:25,236] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:25,309] {logging_mixin.py:109} INFO - [2021-12-31 13:21:25,309] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:21:25,496] {logging_mixin.py:109} INFO - [2021-12-31 13:21:25,496] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:21:25,580] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.683 seconds
+[2021-12-31 13:21:55,713] {processor.py:163} INFO - Started process (PID=209) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:55,716] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:21:55,721] {logging_mixin.py:109} INFO - [2021-12-31 13:21:55,721] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:55,915] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:21:55,970] {logging_mixin.py:109} INFO - [2021-12-31 13:21:55,970] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:21:56,068] {logging_mixin.py:109} INFO - [2021-12-31 13:21:56,067] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:21:56,093] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.388 seconds
+[2021-12-31 13:22:29,163] {processor.py:163} INFO - Started process (PID=256) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:22:29,171] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:22:29,177] {logging_mixin.py:109} INFO - [2021-12-31 13:22:29,177] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:22:29,826] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:22:29,926] {logging_mixin.py:109} INFO - [2021-12-31 13:22:29,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:22:30,130] {logging_mixin.py:109} INFO - [2021-12-31 13:22:30,130] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:22:30,217] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.063 seconds
+[2021-12-31 13:23:13,428] {processor.py:163} INFO - Started process (PID=302) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:13,447] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:23:13,473] {logging_mixin.py:109} INFO - [2021-12-31 13:23:13,472] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:16,615] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:17,157] {logging_mixin.py:109} INFO - [2021-12-31 13:23:17,156] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:23:18,943] {logging_mixin.py:109} INFO - [2021-12-31 13:23:18,941] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:23:19,192] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.850 seconds
+[2021-12-31 13:23:51,724] {processor.py:163} INFO - Started process (PID=350) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:51,758] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:23:51,777] {logging_mixin.py:109} INFO - [2021-12-31 13:23:51,776] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:59,421] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:23:59,546] {logging_mixin.py:109} INFO - [2021-12-31 13:23:59,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:23:59,884] {logging_mixin.py:109} INFO - [2021-12-31 13:23:59,884] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:24:00,080] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 8.481 seconds
+[2021-12-31 13:24:32,711] {processor.py:163} INFO - Started process (PID=377) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:24:32,715] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:24:32,719] {logging_mixin.py:109} INFO - [2021-12-31 13:24:32,718] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:24:32,979] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:24:33,018] {logging_mixin.py:109} INFO - [2021-12-31 13:24:33,018] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:24:33,126] {logging_mixin.py:109} INFO - [2021-12-31 13:24:33,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:24:33,190] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.493 seconds
+[2021-12-31 13:25:04,814] {processor.py:163} INFO - Started process (PID=425) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:04,828] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:25:04,837] {logging_mixin.py:109} INFO - [2021-12-31 13:25:04,836] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:05,243] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:05,305] {logging_mixin.py:109} INFO - [2021-12-31 13:25:05,305] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:25:05,457] {logging_mixin.py:109} INFO - [2021-12-31 13:25:05,457] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:25:05,502] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.697 seconds
+[2021-12-31 13:25:37,623] {processor.py:163} INFO - Started process (PID=462) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:37,628] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:25:37,631] {logging_mixin.py:109} INFO - [2021-12-31 13:25:37,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:37,830] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:25:37,876] {logging_mixin.py:109} INFO - [2021-12-31 13:25:37,876] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:25:37,966] {logging_mixin.py:109} INFO - [2021-12-31 13:25:37,963] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:25:38,034] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.420 seconds
+[2021-12-31 13:26:10,913] {processor.py:163} INFO - Started process (PID=510) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:26:10,927] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:26:10,935] {logging_mixin.py:109} INFO - [2021-12-31 13:26:10,935] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:26:11,440] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:26:11,626] {logging_mixin.py:109} INFO - [2021-12-31 13:26:11,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:26:11,811] {logging_mixin.py:109} INFO - [2021-12-31 13:26:11,811] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:26:11,938] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.129 seconds
+[2021-12-31 13:27:15,208] {processor.py:163} INFO - Started process (PID=564) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:15,215] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:27:15,229] {logging_mixin.py:109} INFO - [2021-12-31 13:27:15,228] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:15,795] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:15,883] {logging_mixin.py:109} INFO - [2021-12-31 13:27:15,883] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:27:16,064] {logging_mixin.py:109} INFO - [2021-12-31 13:27:16,064] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:27:16,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.965 seconds
+[2021-12-31 13:27:48,342] {processor.py:163} INFO - Started process (PID=613) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:48,351] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:27:48,364] {logging_mixin.py:109} INFO - [2021-12-31 13:27:48,363] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:48,931] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:27:49,013] {logging_mixin.py:109} INFO - [2021-12-31 13:27:49,013] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:27:49,157] {logging_mixin.py:109} INFO - [2021-12-31 13:27:49,156] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:27:49,203] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.880 seconds
+[2021-12-31 13:28:23,865] {processor.py:163} INFO - Started process (PID=659) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:23,869] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:28:23,872] {logging_mixin.py:109} INFO - [2021-12-31 13:28:23,871] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:24,216] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:24,298] {logging_mixin.py:109} INFO - [2021-12-31 13:28:24,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:28:25,438] {logging_mixin.py:109} INFO - [2021-12-31 13:28:25,438] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:28:25,585] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.809 seconds
+[2021-12-31 13:28:56,619] {processor.py:163} INFO - Started process (PID=704) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:56,627] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:28:56,632] {logging_mixin.py:109} INFO - [2021-12-31 13:28:56,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:56,817] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:28:56,850] {logging_mixin.py:109} INFO - [2021-12-31 13:28:56,849] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:28:56,912] {logging_mixin.py:109} INFO - [2021-12-31 13:28:56,911] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:28:56,939] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.326 seconds
+[2021-12-31 13:29:41,073] {processor.py:163} INFO - Started process (PID=750) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:29:41,096] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:29:41,102] {logging_mixin.py:109} INFO - [2021-12-31 13:29:41,102] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:29:41,446] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:29:41,534] {logging_mixin.py:109} INFO - [2021-12-31 13:29:41,534] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:29:41,678] {logging_mixin.py:109} INFO - [2021-12-31 13:29:41,678] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:29:41,772] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.717 seconds
+[2021-12-31 13:30:12,867] {processor.py:163} INFO - Started process (PID=801) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:12,871] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:30:12,873] {logging_mixin.py:109} INFO - [2021-12-31 13:30:12,873] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:13,184] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:13,245] {logging_mixin.py:109} INFO - [2021-12-31 13:30:13,244] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:30:13,347] {logging_mixin.py:109} INFO - [2021-12-31 13:30:13,346] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:30:13,400] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.561 seconds
+[2021-12-31 13:30:47,863] {processor.py:163} INFO - Started process (PID=853) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:47,874] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:30:47,885] {logging_mixin.py:109} INFO - [2021-12-31 13:30:47,884] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:48,136] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:30:48,208] {logging_mixin.py:109} INFO - [2021-12-31 13:30:48,207] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:30:48,304] {logging_mixin.py:109} INFO - [2021-12-31 13:30:48,304] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:30:48,363] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.510 seconds
+[2021-12-31 13:31:19,166] {processor.py:163} INFO - Started process (PID=896) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:19,188] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:31:19,205] {logging_mixin.py:109} INFO - [2021-12-31 13:31:19,204] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:19,666] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:19,756] {logging_mixin.py:109} INFO - [2021-12-31 13:31:19,756] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:31:19,906] {logging_mixin.py:109} INFO - [2021-12-31 13:31:19,906] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:31:20,002] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.849 seconds
+[2021-12-31 13:31:50,490] {processor.py:163} INFO - Started process (PID=967) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:50,497] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:31:50,502] {logging_mixin.py:109} INFO - [2021-12-31 13:31:50,502] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:50,821] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:31:50,884] {logging_mixin.py:109} INFO - [2021-12-31 13:31:50,884] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:31:50,977] {logging_mixin.py:109} INFO - [2021-12-31 13:31:50,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:31:51,047] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.566 seconds
+[2021-12-31 13:32:21,432] {processor.py:163} INFO - Started process (PID=1016) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:21,439] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:32:21,442] {logging_mixin.py:109} INFO - [2021-12-31 13:32:21,442] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:21,828] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:21,895] {logging_mixin.py:109} INFO - [2021-12-31 13:32:21,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:32:22,023] {logging_mixin.py:109} INFO - [2021-12-31 13:32:22,023] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:32:22,074] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.660 seconds
+[2021-12-31 13:32:52,227] {processor.py:163} INFO - Started process (PID=1053) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:52,233] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:32:52,236] {logging_mixin.py:109} INFO - [2021-12-31 13:32:52,236] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:52,414] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:32:52,459] {logging_mixin.py:109} INFO - [2021-12-31 13:32:52,459] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:32:52,535] {logging_mixin.py:109} INFO - [2021-12-31 13:32:52,535] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:32:52,571] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.349 seconds
+[2021-12-31 13:33:26,543] {processor.py:163} INFO - Started process (PID=1101) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:33:26,547] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:33:26,549] {logging_mixin.py:109} INFO - [2021-12-31 13:33:26,549] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:33:55,995] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:33:56,630] {logging_mixin.py:109} INFO - [2021-12-31 13:33:56,626] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:33:57,799] {logging_mixin.py:109} INFO - [2021-12-31 13:33:57,771] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:33:58,099] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 35.080 seconds
+[2021-12-31 13:34:28,836] {processor.py:163} INFO - Started process (PID=1138) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:34:28,848] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:34:28,852] {logging_mixin.py:109} INFO - [2021-12-31 13:34:28,852] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:34:30,431] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:34:30,683] {logging_mixin.py:109} INFO - [2021-12-31 13:34:30,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:34:31,439] {logging_mixin.py:109} INFO - [2021-12-31 13:34:31,438] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:34:31,799] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.992 seconds
+[2021-12-31 13:35:02,103] {processor.py:163} INFO - Started process (PID=1199) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:02,118] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:35:02,137] {logging_mixin.py:109} INFO - [2021-12-31 13:35:02,125] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:02,700] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:02,788] {logging_mixin.py:109} INFO - [2021-12-31 13:35:02,788] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:35:02,975] {logging_mixin.py:109} INFO - [2021-12-31 13:35:02,975] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:35:03,040] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.950 seconds
+[2021-12-31 13:35:33,452] {processor.py:163} INFO - Started process (PID=1263) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:33,513] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:35:33,521] {logging_mixin.py:109} INFO - [2021-12-31 13:35:33,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:33,881] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:35:33,980] {logging_mixin.py:109} INFO - [2021-12-31 13:35:33,980] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:35:34,142] {logging_mixin.py:109} INFO - [2021-12-31 13:35:34,141] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:35:34,199] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.759 seconds
+[2021-12-31 13:36:04,477] {processor.py:163} INFO - Started process (PID=1305) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:04,487] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:36:04,500] {logging_mixin.py:109} INFO - [2021-12-31 13:36:04,500] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:04,928] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:04,989] {logging_mixin.py:109} INFO - [2021-12-31 13:36:04,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:36:05,088] {logging_mixin.py:109} INFO - [2021-12-31 13:36:05,088] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:36:05,137] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.675 seconds
+[2021-12-31 13:36:35,910] {processor.py:163} INFO - Started process (PID=1358) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:35,925] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:36:35,939] {logging_mixin.py:109} INFO - [2021-12-31 13:36:35,937] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:36,290] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:36:36,324] {logging_mixin.py:109} INFO - [2021-12-31 13:36:36,324] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:36:36,411] {logging_mixin.py:109} INFO - [2021-12-31 13:36:36,410] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:36:36,481] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.600 seconds
+[2021-12-31 13:37:06,872] {processor.py:163} INFO - Started process (PID=1405) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:06,876] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:37:06,881] {logging_mixin.py:109} INFO - [2021-12-31 13:37:06,881] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:07,254] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:07,308] {logging_mixin.py:109} INFO - [2021-12-31 13:37:07,308] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:37:07,453] {logging_mixin.py:109} INFO - [2021-12-31 13:37:07,453] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:37:07,495] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.641 seconds
+[2021-12-31 13:37:37,939] {processor.py:163} INFO - Started process (PID=1446) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:37,946] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:37:37,951] {logging_mixin.py:109} INFO - [2021-12-31 13:37:37,951] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:38,176] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:37:38,214] {logging_mixin.py:109} INFO - [2021-12-31 13:37:38,213] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:37:38,356] {logging_mixin.py:109} INFO - [2021-12-31 13:37:38,351] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:37:38,424] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.496 seconds
+[2021-12-31 13:38:11,962] {processor.py:163} INFO - Started process (PID=1497) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:11,974] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:38:11,984] {logging_mixin.py:109} INFO - [2021-12-31 13:38:11,983] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:12,400] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:12,494] {logging_mixin.py:109} INFO - [2021-12-31 13:38:12,493] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:38:12,619] {logging_mixin.py:109} INFO - [2021-12-31 13:38:12,618] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:38:12,705] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.771 seconds
+[2021-12-31 13:38:42,861] {processor.py:163} INFO - Started process (PID=1545) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:42,870] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:38:42,875] {logging_mixin.py:109} INFO - [2021-12-31 13:38:42,875] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:43,106] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:38:43,173] {logging_mixin.py:109} INFO - [2021-12-31 13:38:43,173] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:38:43,323] {logging_mixin.py:109} INFO - [2021-12-31 13:38:43,323] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:38:43,374] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.525 seconds
+[2021-12-31 13:39:14,136] {processor.py:163} INFO - Started process (PID=1594) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:14,156] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:39:14,169] {logging_mixin.py:109} INFO - [2021-12-31 13:39:14,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:14,719] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:14,822] {logging_mixin.py:109} INFO - [2021-12-31 13:39:14,821] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:39:15,020] {logging_mixin.py:109} INFO - [2021-12-31 13:39:15,019] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:39:15,101] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.986 seconds
+[2021-12-31 13:39:45,252] {processor.py:163} INFO - Started process (PID=1632) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:45,256] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:39:45,262] {logging_mixin.py:109} INFO - [2021-12-31 13:39:45,262] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:45,528] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:39:45,567] {logging_mixin.py:109} INFO - [2021-12-31 13:39:45,567] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:39:45,694] {logging_mixin.py:109} INFO - [2021-12-31 13:39:45,694] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:39:45,729] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.492 seconds
+[2021-12-31 13:40:15,942] {processor.py:163} INFO - Started process (PID=1680) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:15,946] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:40:15,950] {logging_mixin.py:109} INFO - [2021-12-31 13:40:15,950] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:16,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:16,141] {logging_mixin.py:109} INFO - [2021-12-31 13:40:16,141] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:40:16,208] {logging_mixin.py:109} INFO - [2021-12-31 13:40:16,208] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:40:16,238] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.303 seconds
+[2021-12-31 13:40:46,840] {processor.py:163} INFO - Started process (PID=1728) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:46,845] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:40:46,847] {logging_mixin.py:109} INFO - [2021-12-31 13:40:46,847] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:47,016] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:40:47,072] {logging_mixin.py:109} INFO - [2021-12-31 13:40:47,071] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:40:47,160] {logging_mixin.py:109} INFO - [2021-12-31 13:40:47,160] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:40:47,198] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.372 seconds
+[2021-12-31 13:41:17,635] {processor.py:163} INFO - Started process (PID=1776) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:17,638] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:41:17,641] {logging_mixin.py:109} INFO - [2021-12-31 13:41:17,641] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:17,761] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:17,783] {logging_mixin.py:109} INFO - [2021-12-31 13:41:17,783] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:41:17,821] {logging_mixin.py:109} INFO - [2021-12-31 13:41:17,821] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:41:17,841] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.211 seconds
+[2021-12-31 13:41:48,057] {processor.py:163} INFO - Started process (PID=1823) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:48,059] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:41:48,061] {logging_mixin.py:109} INFO - [2021-12-31 13:41:48,061] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:48,141] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:41:48,169] {logging_mixin.py:109} INFO - [2021-12-31 13:41:48,169] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:41:48,218] {logging_mixin.py:109} INFO - [2021-12-31 13:41:48,218] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:41:48,241] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.188 seconds
+[2021-12-31 13:42:20,708] {processor.py:163} INFO - Started process (PID=1880) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:20,713] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:42:20,717] {logging_mixin.py:109} INFO - [2021-12-31 13:42:20,716] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:21,202] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:21,356] {logging_mixin.py:109} INFO - [2021-12-31 13:42:21,356] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:42:21,568] {logging_mixin.py:109} INFO - [2021-12-31 13:42:21,568] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:42:21,640] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.940 seconds
+[2021-12-31 13:42:52,078] {processor.py:163} INFO - Started process (PID=1928) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:52,081] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:42:52,083] {logging_mixin.py:109} INFO - [2021-12-31 13:42:52,083] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:52,180] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:42:52,204] {logging_mixin.py:109} INFO - [2021-12-31 13:42:52,204] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:42:52,254] {logging_mixin.py:109} INFO - [2021-12-31 13:42:52,254] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:42:52,280] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.207 seconds
+[2021-12-31 13:43:22,936] {processor.py:163} INFO - Started process (PID=1975) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:22,938] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:43:22,939] {logging_mixin.py:109} INFO - [2021-12-31 13:43:22,939] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:23,022] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:23,041] {logging_mixin.py:109} INFO - [2021-12-31 13:43:23,041] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:43:23,078] {logging_mixin.py:109} INFO - [2021-12-31 13:43:23,078] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:43:23,095] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.163 seconds
+[2021-12-31 13:43:53,466] {processor.py:163} INFO - Started process (PID=2033) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:53,469] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:43:53,471] {logging_mixin.py:109} INFO - [2021-12-31 13:43:53,470] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:53,574] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:43:53,600] {logging_mixin.py:109} INFO - [2021-12-31 13:43:53,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:43:53,651] {logging_mixin.py:109} INFO - [2021-12-31 13:43:53,651] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:43:53,672] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.212 seconds
+[2021-12-31 13:44:24,447] {processor.py:163} INFO - Started process (PID=2080) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:24,450] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:44:24,452] {logging_mixin.py:109} INFO - [2021-12-31 13:44:24,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:24,540] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:24,558] {logging_mixin.py:109} INFO - [2021-12-31 13:44:24,558] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:44:24,596] {logging_mixin.py:109} INFO - [2021-12-31 13:44:24,596] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:44:24,616] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.175 seconds
+[2021-12-31 13:44:54,962] {processor.py:163} INFO - Started process (PID=2142) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:54,965] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:44:54,967] {logging_mixin.py:109} INFO - [2021-12-31 13:44:54,966] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:55,067] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:44:55,087] {logging_mixin.py:109} INFO - [2021-12-31 13:44:55,087] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:44:55,126] {logging_mixin.py:109} INFO - [2021-12-31 13:44:55,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:44:55,147] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.190 seconds
+[2021-12-31 13:45:25,240] {processor.py:163} INFO - Started process (PID=2189) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:25,244] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:45:25,246] {logging_mixin.py:109} INFO - [2021-12-31 13:45:25,246] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:25,409] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:25,448] {logging_mixin.py:109} INFO - [2021-12-31 13:45:25,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:45:25,529] {logging_mixin.py:109} INFO - [2021-12-31 13:45:25,529] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:45:25,567] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.334 seconds
+[2021-12-31 13:45:55,635] {processor.py:163} INFO - Started process (PID=2236) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:55,638] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:45:55,639] {logging_mixin.py:109} INFO - [2021-12-31 13:45:55,639] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:55,732] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:45:55,753] {logging_mixin.py:109} INFO - [2021-12-31 13:45:55,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:45:55,797] {logging_mixin.py:109} INFO - [2021-12-31 13:45:55,797] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:45:55,820] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.189 seconds
+[2021-12-31 13:46:26,425] {processor.py:163} INFO - Started process (PID=2297) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:26,427] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:46:26,429] {logging_mixin.py:109} INFO - [2021-12-31 13:46:26,429] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:26,499] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:26,517] {logging_mixin.py:109} INFO - [2021-12-31 13:46:26,517] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:46:26,568] {logging_mixin.py:109} INFO - [2021-12-31 13:46:26,567] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:46:26,597] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.177 seconds
+[2021-12-31 13:46:56,770] {processor.py:163} INFO - Started process (PID=2346) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:56,773] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:46:56,775] {logging_mixin.py:109} INFO - [2021-12-31 13:46:56,775] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:56,855] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:46:56,870] {logging_mixin.py:109} INFO - [2021-12-31 13:46:56,870] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:46:56,903] {logging_mixin.py:109} INFO - [2021-12-31 13:46:56,903] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:46:56,920] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.155 seconds
+[2021-12-31 13:47:27,318] {processor.py:163} INFO - Started process (PID=2406) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:27,321] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:47:27,324] {logging_mixin.py:109} INFO - [2021-12-31 13:47:27,323] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:27,435] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:27,465] {logging_mixin.py:109} INFO - [2021-12-31 13:47:27,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:47:27,538] {logging_mixin.py:109} INFO - [2021-12-31 13:47:27,538] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:47:27,561] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.252 seconds
+[2021-12-31 13:47:58,014] {processor.py:163} INFO - Started process (PID=2453) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:58,016] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:47:58,019] {logging_mixin.py:109} INFO - [2021-12-31 13:47:58,018] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:58,107] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:47:58,128] {logging_mixin.py:109} INFO - [2021-12-31 13:47:58,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:47:58,177] {logging_mixin.py:109} INFO - [2021-12-31 13:47:58,177] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:47:58,198] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.188 seconds
+[2021-12-31 13:48:28,721] {processor.py:163} INFO - Started process (PID=2511) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:28,723] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:48:28,725] {logging_mixin.py:109} INFO - [2021-12-31 13:48:28,725] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:28,850] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:28,870] {logging_mixin.py:109} INFO - [2021-12-31 13:48:28,870] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:48:28,940] {logging_mixin.py:109} INFO - [2021-12-31 13:48:28,939] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:48:28,971] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.254 seconds
+[2021-12-31 13:48:59,071] {processor.py:163} INFO - Started process (PID=2559) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:59,073] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:48:59,074] {logging_mixin.py:109} INFO - [2021-12-31 13:48:59,074] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:59,158] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:48:59,181] {logging_mixin.py:109} INFO - [2021-12-31 13:48:59,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:48:59,225] {logging_mixin.py:109} INFO - [2021-12-31 13:48:59,225] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:48:59,241] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.174 seconds
+[2021-12-31 13:49:29,418] {processor.py:163} INFO - Started process (PID=2605) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:49:29,420] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:49:29,422] {logging_mixin.py:109} INFO - [2021-12-31 13:49:29,422] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:49:29,504] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:49:29,521] {logging_mixin.py:109} INFO - [2021-12-31 13:49:29,520] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:49:29,562] {logging_mixin.py:109} INFO - [2021-12-31 13:49:29,561] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:49:29,592] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.179 seconds
+[2021-12-31 13:50:00,085] {processor.py:163} INFO - Started process (PID=2663) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:00,087] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:50:00,089] {logging_mixin.py:109} INFO - [2021-12-31 13:50:00,089] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:00,170] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:00,187] {logging_mixin.py:109} INFO - [2021-12-31 13:50:00,187] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:50:00,226] {logging_mixin.py:109} INFO - [2021-12-31 13:50:00,225] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:50:00,251] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.170 seconds
+[2021-12-31 13:50:30,753] {processor.py:163} INFO - Started process (PID=2710) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:30,756] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:50:30,758] {logging_mixin.py:109} INFO - [2021-12-31 13:50:30,758] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:30,845] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:50:30,864] {logging_mixin.py:109} INFO - [2021-12-31 13:50:30,864] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:50:30,907] {logging_mixin.py:109} INFO - [2021-12-31 13:50:30,907] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:50:30,928] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.180 seconds
+[2021-12-31 13:51:01,209] {processor.py:163} INFO - Started process (PID=2770) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:01,211] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:51:01,212] {logging_mixin.py:109} INFO - [2021-12-31 13:51:01,212] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:01,318] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:01,342] {logging_mixin.py:109} INFO - [2021-12-31 13:51:01,342] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:51:01,386] {logging_mixin.py:109} INFO - [2021-12-31 13:51:01,386] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:51:01,410] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.206 seconds
+[2021-12-31 13:51:31,801] {processor.py:163} INFO - Started process (PID=2818) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:31,804] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:51:31,805] {logging_mixin.py:109} INFO - [2021-12-31 13:51:31,805] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:31,876] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:51:31,891] {logging_mixin.py:109} INFO - [2021-12-31 13:51:31,891] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:51:31,923] {logging_mixin.py:109} INFO - [2021-12-31 13:51:31,922] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:51:31,937] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.140 seconds
+[2021-12-31 13:52:02,404] {processor.py:163} INFO - Started process (PID=2876) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:02,406] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:52:02,407] {logging_mixin.py:109} INFO - [2021-12-31 13:52:02,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:02,484] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:02,507] {logging_mixin.py:109} INFO - [2021-12-31 13:52:02,507] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:52:02,545] {logging_mixin.py:109} INFO - [2021-12-31 13:52:02,545] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:52:02,565] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.166 seconds
+[2021-12-31 13:52:33,916] {processor.py:163} INFO - Started process (PID=2924) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:33,919] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:52:33,920] {logging_mixin.py:109} INFO - [2021-12-31 13:52:33,920] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:34,005] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:52:34,025] {logging_mixin.py:109} INFO - [2021-12-31 13:52:34,025] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:52:34,075] {logging_mixin.py:109} INFO - [2021-12-31 13:52:34,075] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:52:34,095] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.184 seconds
+[2021-12-31 13:53:04,300] {processor.py:163} INFO - Started process (PID=2983) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:04,305] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:53:04,307] {logging_mixin.py:109} INFO - [2021-12-31 13:53:04,306] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:04,404] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:04,423] {logging_mixin.py:109} INFO - [2021-12-31 13:53:04,423] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:53:04,460] {logging_mixin.py:109} INFO - [2021-12-31 13:53:04,460] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:53:04,475] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.180 seconds
+[2021-12-31 13:53:34,917] {processor.py:163} INFO - Started process (PID=3030) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:34,919] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:53:34,921] {logging_mixin.py:109} INFO - [2021-12-31 13:53:34,921] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:35,010] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:53:35,029] {logging_mixin.py:109} INFO - [2021-12-31 13:53:35,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:53:35,069] {logging_mixin.py:109} INFO - [2021-12-31 13:53:35,069] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:53:35,091] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.178 seconds
+[2021-12-31 13:54:05,630] {processor.py:163} INFO - Started process (PID=3077) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:05,634] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:54:05,637] {logging_mixin.py:109} INFO - [2021-12-31 13:54:05,637] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:05,802] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:05,843] {logging_mixin.py:109} INFO - [2021-12-31 13:54:05,842] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:54:05,931] {logging_mixin.py:109} INFO - [2021-12-31 13:54:05,930] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:54:05,972] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.353 seconds
+[2021-12-31 13:54:36,773] {processor.py:163} INFO - Started process (PID=3135) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:36,775] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:54:36,777] {logging_mixin.py:109} INFO - [2021-12-31 13:54:36,777] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:36,888] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:54:36,917] {logging_mixin.py:109} INFO - [2021-12-31 13:54:36,917] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:54:36,965] {logging_mixin.py:109} INFO - [2021-12-31 13:54:36,965] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:54:36,992] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.224 seconds
+[2021-12-31 13:55:07,099] {processor.py:163} INFO - Started process (PID=3182) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:07,101] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:55:07,103] {logging_mixin.py:109} INFO - [2021-12-31 13:55:07,103] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:07,173] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:07,188] {logging_mixin.py:109} INFO - [2021-12-31 13:55:07,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:55:07,218] {logging_mixin.py:109} INFO - [2021-12-31 13:55:07,218] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:55:07,234] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.139 seconds
+[2021-12-31 13:55:37,796] {processor.py:163} INFO - Started process (PID=3240) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:37,799] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:55:37,801] {logging_mixin.py:109} INFO - [2021-12-31 13:55:37,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:37,897] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:55:37,921] {logging_mixin.py:109} INFO - [2021-12-31 13:55:37,921] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:55:37,977] {logging_mixin.py:109} INFO - [2021-12-31 13:55:37,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:55:38,018] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.226 seconds
+[2021-12-31 13:56:08,205] {processor.py:163} INFO - Started process (PID=3288) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:08,207] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:56:08,208] {logging_mixin.py:109} INFO - [2021-12-31 13:56:08,208] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:08,286] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:08,307] {logging_mixin.py:109} INFO - [2021-12-31 13:56:08,306] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:56:08,340] {logging_mixin.py:109} INFO - [2021-12-31 13:56:08,340] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:56:08,354] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.153 seconds
+[2021-12-31 13:56:38,987] {processor.py:163} INFO - Started process (PID=3345) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:38,990] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:56:38,992] {logging_mixin.py:109} INFO - [2021-12-31 13:56:38,992] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:39,074] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:56:39,090] {logging_mixin.py:109} INFO - [2021-12-31 13:56:39,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:56:39,134] {logging_mixin.py:109} INFO - [2021-12-31 13:56:39,134] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:56:39,151] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.169 seconds
+[2021-12-31 13:57:09,665] {processor.py:163} INFO - Started process (PID=3392) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:09,667] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:57:09,668] {logging_mixin.py:109} INFO - [2021-12-31 13:57:09,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:09,741] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:09,757] {logging_mixin.py:109} INFO - [2021-12-31 13:57:09,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:57:09,798] {logging_mixin.py:109} INFO - [2021-12-31 13:57:09,798] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:57:09,817] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.157 seconds
+[2021-12-31 13:57:40,150] {processor.py:163} INFO - Started process (PID=3450) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:40,152] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:57:40,154] {logging_mixin.py:109} INFO - [2021-12-31 13:57:40,154] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:40,244] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:57:40,262] {logging_mixin.py:109} INFO - [2021-12-31 13:57:40,262] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:57:40,303] {logging_mixin.py:109} INFO - [2021-12-31 13:57:40,302] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:57:40,321] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.175 seconds
+[2021-12-31 13:58:11,070] {processor.py:163} INFO - Started process (PID=3496) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:11,073] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:58:11,076] {logging_mixin.py:109} INFO - [2021-12-31 13:58:11,075] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:11,177] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:11,200] {logging_mixin.py:109} INFO - [2021-12-31 13:58:11,200] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:58:11,245] {logging_mixin.py:109} INFO - [2021-12-31 13:58:11,245] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:58:11,266] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.200 seconds
+[2021-12-31 13:58:42,194] {processor.py:163} INFO - Started process (PID=3552) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:42,196] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 13:58:42,198] {logging_mixin.py:109} INFO - [2021-12-31 13:58:42,198] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:42,295] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 13:58:42,313] {logging_mixin.py:109} INFO - [2021-12-31 13:58:42,313] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 13:58:42,354] {logging_mixin.py:109} INFO - [2021-12-31 13:58:42,354] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 13:58:42,377] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.187 seconds
+[2021-12-31 14:32:19,306] {processor.py:163} INFO - Started process (PID=3623) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:32:19,441] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:32:19,512] {logging_mixin.py:109} INFO - [2021-12-31 14:32:19,511] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:32:22,897] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:32:23,592] {logging_mixin.py:109} INFO - [2021-12-31 14:32:23,581] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:32:25,293] {logging_mixin.py:109} INFO - [2021-12-31 14:32:25,292] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:32:25,658] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 6.579 seconds
+[2021-12-31 14:34:05,449] {processor.py:163} INFO - Started process (PID=3706) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:34:05,549] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:34:05,596] {logging_mixin.py:109} INFO - [2021-12-31 14:34:05,577] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:34:09,011] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:34:09,698] {logging_mixin.py:109} INFO - [2021-12-31 14:34:09,697] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:34:10,924] {logging_mixin.py:109} INFO - [2021-12-31 14:34:10,886] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:34:11,512] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 6.273 seconds
+[2021-12-31 14:35:31,553] {processor.py:163} INFO - Started process (PID=3786) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:35:31,614] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:35:31,666] {logging_mixin.py:109} INFO - [2021-12-31 14:35:31,665] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:35:34,874] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:35:35,337] {logging_mixin.py:109} INFO - [2021-12-31 14:35:35,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:35:36,125] {logging_mixin.py:109} INFO - [2021-12-31 14:35:36,125] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:35:36,480] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.210 seconds
+[2021-12-31 14:36:56,063] {processor.py:163} INFO - Started process (PID=3863) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:36:56,227] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:36:56,297] {logging_mixin.py:109} INFO - [2021-12-31 14:36:56,296] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:36:59,191] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:36:59,917] {logging_mixin.py:109} INFO - [2021-12-31 14:36:59,915] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:37:00,654] {logging_mixin.py:109} INFO - [2021-12-31 14:37:00,653] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:37:00,960] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.157 seconds
+[2021-12-31 14:38:03,903] {processor.py:163} INFO - Started process (PID=3923) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:38:03,940] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:38:03,969] {logging_mixin.py:109} INFO - [2021-12-31 14:38:03,967] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:38:07,222] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:38:07,735] {logging_mixin.py:109} INFO - [2021-12-31 14:38:07,734] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:38:08,326] {logging_mixin.py:109} INFO - [2021-12-31 14:38:08,325] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:38:08,531] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.681 seconds
+[2021-12-31 14:39:24,597] {processor.py:163} INFO - Started process (PID=3992) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:39:24,734] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:39:24,804] {logging_mixin.py:109} INFO - [2021-12-31 14:39:24,803] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:39:27,631] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:39:28,167] {logging_mixin.py:109} INFO - [2021-12-31 14:39:28,166] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:39:28,902] {logging_mixin.py:109} INFO - [2021-12-31 14:39:28,901] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:39:29,399] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.022 seconds
+[2021-12-31 14:40:46,616] {processor.py:163} INFO - Started process (PID=4061) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:40:46,693] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:40:46,737] {logging_mixin.py:109} INFO - [2021-12-31 14:40:46,709] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:40:49,336] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:40:50,539] {logging_mixin.py:109} INFO - [2021-12-31 14:40:50,538] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:40:51,669] {logging_mixin.py:109} INFO - [2021-12-31 14:40:51,653] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:40:52,129] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.710 seconds
+[2021-12-31 14:42:10,468] {processor.py:163} INFO - Started process (PID=4137) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:42:10,507] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:42:10,553] {logging_mixin.py:109} INFO - [2021-12-31 14:42:10,544] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:42:12,776] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:42:13,404] {logging_mixin.py:109} INFO - [2021-12-31 14:42:13,404] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:42:14,678] {logging_mixin.py:109} INFO - [2021-12-31 14:42:14,677] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:42:15,309] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.945 seconds
+[2021-12-31 14:43:33,922] {processor.py:163} INFO - Started process (PID=4209) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:43:33,949] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:43:33,975] {logging_mixin.py:109} INFO - [2021-12-31 14:43:33,973] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:43:35,902] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:43:36,327] {logging_mixin.py:109} INFO - [2021-12-31 14:43:36,320] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:43:37,038] {logging_mixin.py:109} INFO - [2021-12-31 14:43:37,008] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:43:37,238] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.352 seconds
+[2021-12-31 14:44:44,077] {processor.py:163} INFO - Started process (PID=4269) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:44:44,150] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:44:44,193] {logging_mixin.py:109} INFO - [2021-12-31 14:44:44,192] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:44:46,697] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:44:47,403] {logging_mixin.py:109} INFO - [2021-12-31 14:44:47,402] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:44:48,603] {logging_mixin.py:109} INFO - [2021-12-31 14:44:48,572] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:44:49,213] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.541 seconds
+[2021-12-31 14:45:59,491] {processor.py:163} INFO - Started process (PID=4338) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:45:59,524] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:45:59,601] {logging_mixin.py:109} INFO - [2021-12-31 14:45:59,554] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:46:02,475] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:46:03,016] {logging_mixin.py:109} INFO - [2021-12-31 14:46:03,015] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:46:03,784] {logging_mixin.py:109} INFO - [2021-12-31 14:46:03,782] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:46:04,156] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.819 seconds
+[2021-12-31 14:47:05,335] {processor.py:163} INFO - Started process (PID=4394) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:47:05,421] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:47:05,455] {logging_mixin.py:109} INFO - [2021-12-31 14:47:05,453] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:47:07,272] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:47:07,843] {logging_mixin.py:109} INFO - [2021-12-31 14:47:07,842] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:47:08,261] {logging_mixin.py:109} INFO - [2021-12-31 14:47:08,260] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:47:08,587] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.457 seconds
+[2021-12-31 14:48:01,390] {processor.py:163} INFO - Started process (PID=4449) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:48:01,540] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:48:01,596] {logging_mixin.py:109} INFO - [2021-12-31 14:48:01,594] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:48:04,389] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:48:04,758] {logging_mixin.py:109} INFO - [2021-12-31 14:48:04,758] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:48:05,753] {logging_mixin.py:109} INFO - [2021-12-31 14:48:05,752] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:48:05,990] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.880 seconds
+[2021-12-31 14:49:02,936] {processor.py:163} INFO - Started process (PID=4503) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:49:02,965] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:49:03,001] {logging_mixin.py:109} INFO - [2021-12-31 14:49:02,989] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:49:04,182] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:49:04,627] {logging_mixin.py:109} INFO - [2021-12-31 14:49:04,626] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:49:05,195] {logging_mixin.py:109} INFO - [2021-12-31 14:49:05,194] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:49:05,443] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.541 seconds
+[2021-12-31 14:50:04,497] {processor.py:163} INFO - Started process (PID=4559) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:50:04,537] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:50:04,563] {logging_mixin.py:109} INFO - [2021-12-31 14:50:04,560] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:50:06,436] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:50:07,070] {logging_mixin.py:109} INFO - [2021-12-31 14:50:07,069] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:50:08,022] {logging_mixin.py:109} INFO - [2021-12-31 14:50:08,010] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:50:08,469] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.384 seconds
+[2021-12-31 14:51:06,165] {processor.py:163} INFO - Started process (PID=4617) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:51:06,207] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:51:06,234] {logging_mixin.py:109} INFO - [2021-12-31 14:51:06,220] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:51:08,200] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:51:08,882] {logging_mixin.py:109} INFO - [2021-12-31 14:51:08,872] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:51:09,781] {logging_mixin.py:109} INFO - [2021-12-31 14:51:09,781] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:51:10,135] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.108 seconds
+[2021-12-31 14:52:17,858] {processor.py:163} INFO - Started process (PID=4692) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:52:17,901] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:52:17,915] {logging_mixin.py:109} INFO - [2021-12-31 14:52:17,914] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:52:20,261] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:52:21,343] {logging_mixin.py:109} INFO - [2021-12-31 14:52:21,342] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:52:22,001] {logging_mixin.py:109} INFO - [2021-12-31 14:52:22,000] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:52:22,287] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.512 seconds
+[2021-12-31 14:53:16,247] {processor.py:163} INFO - Started process (PID=4751) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:53:16,317] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:53:16,351] {logging_mixin.py:109} INFO - [2021-12-31 14:53:16,350] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:53:18,159] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:53:18,566] {logging_mixin.py:109} INFO - [2021-12-31 14:53:18,565] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:53:19,179] {logging_mixin.py:109} INFO - [2021-12-31 14:53:19,178] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:53:19,382] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.230 seconds
+[2021-12-31 14:54:13,953] {processor.py:163} INFO - Started process (PID=4809) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:54:14,022] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:54:14,056] {logging_mixin.py:109} INFO - [2021-12-31 14:54:14,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:54:16,320] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:54:16,683] {logging_mixin.py:109} INFO - [2021-12-31 14:54:16,681] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:54:17,355] {logging_mixin.py:109} INFO - [2021-12-31 14:54:17,345] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:54:17,574] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.788 seconds
+[2021-12-31 14:55:13,160] {processor.py:163} INFO - Started process (PID=4871) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:55:13,179] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:55:13,190] {logging_mixin.py:109} INFO - [2021-12-31 14:55:13,188] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:55:15,047] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:55:15,918] {logging_mixin.py:109} INFO - [2021-12-31 14:55:15,889] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:55:16,627] {logging_mixin.py:109} INFO - [2021-12-31 14:55:16,626] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:55:16,906] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.798 seconds
+[2021-12-31 14:56:05,491] {processor.py:163} INFO - Started process (PID=4922) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:05,557] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:56:05,616] {logging_mixin.py:109} INFO - [2021-12-31 14:56:05,606] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:06,650] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:07,012] {logging_mixin.py:109} INFO - [2021-12-31 14:56:07,011] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:56:07,486] {logging_mixin.py:109} INFO - [2021-12-31 14:56:07,473] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:56:07,828] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.512 seconds
+[2021-12-31 14:56:54,549] {processor.py:163} INFO - Started process (PID=4976) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:54,606] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:56:54,648] {logging_mixin.py:109} INFO - [2021-12-31 14:56:54,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:55,966] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:56:56,478] {logging_mixin.py:109} INFO - [2021-12-31 14:56:56,477] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:56:57,081] {logging_mixin.py:109} INFO - [2021-12-31 14:56:57,076] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:56:57,337] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.842 seconds
+[2021-12-31 14:57:47,329] {processor.py:163} INFO - Started process (PID=5027) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:57:47,382] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:57:47,405] {logging_mixin.py:109} INFO - [2021-12-31 14:57:47,402] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:57:48,903] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:57:49,449] {logging_mixin.py:109} INFO - [2021-12-31 14:57:49,448] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:57:50,147] {logging_mixin.py:109} INFO - [2021-12-31 14:57:50,131] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:57:50,469] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.276 seconds
+[2021-12-31 14:58:40,814] {processor.py:163} INFO - Started process (PID=5084) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:58:40,877] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:58:40,911] {logging_mixin.py:109} INFO - [2021-12-31 14:58:40,910] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:58:42,311] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:58:42,759] {logging_mixin.py:109} INFO - [2021-12-31 14:58:42,758] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:58:43,406] {logging_mixin.py:109} INFO - [2021-12-31 14:58:43,405] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:58:43,600] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.013 seconds
+[2021-12-31 14:59:44,909] {processor.py:163} INFO - Started process (PID=5147) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:59:44,962] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 14:59:44,995] {logging_mixin.py:109} INFO - [2021-12-31 14:59:44,980] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:59:46,560] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 14:59:47,002] {logging_mixin.py:109} INFO - [2021-12-31 14:59:47,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 14:59:47,516] {logging_mixin.py:109} INFO - [2021-12-31 14:59:47,500] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 14:59:47,896] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.206 seconds
+[2021-12-31 15:00:41,632] {processor.py:163} INFO - Started process (PID=5206) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:00:41,671] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:00:41,686] {logging_mixin.py:109} INFO - [2021-12-31 15:00:41,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:00:43,269] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:00:43,431] {logging_mixin.py:109} INFO - [2021-12-31 15:00:43,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:00:43,762] {logging_mixin.py:109} INFO - [2021-12-31 15:00:43,761] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:00:43,908] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.465 seconds
+[2021-12-31 15:01:36,585] {processor.py:163} INFO - Started process (PID=5267) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:01:36,639] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:01:36,660] {logging_mixin.py:109} INFO - [2021-12-31 15:01:36,659] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:01:38,851] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:01:39,292] {logging_mixin.py:109} INFO - [2021-12-31 15:01:39,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:01:39,702] {logging_mixin.py:109} INFO - [2021-12-31 15:01:39,701] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:01:40,104] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.617 seconds
+[2021-12-31 15:02:27,261] {processor.py:163} INFO - Started process (PID=5315) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:02:27,320] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:02:27,353] {logging_mixin.py:109} INFO - [2021-12-31 15:02:27,347] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:02:28,412] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:02:28,661] {logging_mixin.py:109} INFO - [2021-12-31 15:02:28,660] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:02:29,515] {logging_mixin.py:109} INFO - [2021-12-31 15:02:29,514] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:02:29,941] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.882 seconds
+[2021-12-31 15:03:22,336] {processor.py:163} INFO - Started process (PID=5376) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:03:22,392] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:03:22,431] {logging_mixin.py:109} INFO - [2021-12-31 15:03:22,430] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:03:23,630] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:03:24,069] {logging_mixin.py:109} INFO - [2021-12-31 15:03:24,068] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:03:24,917] {logging_mixin.py:109} INFO - [2021-12-31 15:03:24,910] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:03:25,200] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.935 seconds
+[2021-12-31 15:04:11,911] {processor.py:163} INFO - Started process (PID=5429) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:04:11,965] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:04:11,984] {logging_mixin.py:109} INFO - [2021-12-31 15:04:11,982] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:04:13,510] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:04:14,126] {logging_mixin.py:109} INFO - [2021-12-31 15:04:14,115] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:04:14,926] {logging_mixin.py:109} INFO - [2021-12-31 15:04:14,926] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:04:15,285] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.614 seconds
+[2021-12-31 15:05:04,583] {processor.py:163} INFO - Started process (PID=5480) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:04,657] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:05:04,695] {logging_mixin.py:109} INFO - [2021-12-31 15:05:04,684] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:06,394] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:06,582] {logging_mixin.py:109} INFO - [2021-12-31 15:05:06,581] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:05:07,052] {logging_mixin.py:109} INFO - [2021-12-31 15:05:07,021] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:05:07,355] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.961 seconds
+[2021-12-31 15:05:56,061] {processor.py:163} INFO - Started process (PID=5535) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:56,067] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:05:56,072] {logging_mixin.py:109} INFO - [2021-12-31 15:05:56,072] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:56,737] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:05:56,935] {logging_mixin.py:109} INFO - [2021-12-31 15:05:56,934] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:05:57,150] {logging_mixin.py:109} INFO - [2021-12-31 15:05:57,150] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:05:57,242] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.217 seconds
+[2021-12-31 15:26:10,995] {processor.py:163} INFO - Started process (PID=5585) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:26:11,051] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:26:11,083] {logging_mixin.py:109} INFO - [2021-12-31 15:26:11,066] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:26:13,718] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:26:14,103] {logging_mixin.py:109} INFO - [2021-12-31 15:26:14,102] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:26:15,127] {logging_mixin.py:109} INFO - [2021-12-31 15:26:15,117] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:26:15,551] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.796 seconds
+[2021-12-31 15:27:20,516] {processor.py:163} INFO - Started process (PID=5645) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:27:20,593] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:27:20,623] {logging_mixin.py:109} INFO - [2021-12-31 15:27:20,622] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:27:23,802] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:27:24,728] {logging_mixin.py:109} INFO - [2021-12-31 15:27:24,727] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:27:25,812] {logging_mixin.py:109} INFO - [2021-12-31 15:27:25,811] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:27:26,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.774 seconds
+[2021-12-31 15:28:37,419] {processor.py:163} INFO - Started process (PID=5715) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:28:37,498] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:28:37,528] {logging_mixin.py:109} INFO - [2021-12-31 15:28:37,527] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:28:39,680] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:28:40,392] {logging_mixin.py:109} INFO - [2021-12-31 15:28:40,391] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:28:41,127] {logging_mixin.py:109} INFO - [2021-12-31 15:28:41,111] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:28:41,741] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.615 seconds
+[2021-12-31 15:29:46,594] {processor.py:163} INFO - Started process (PID=5772) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:29:46,615] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:29:46,631] {logging_mixin.py:109} INFO - [2021-12-31 15:29:46,630] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:29:48,593] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:29:49,570] {logging_mixin.py:109} INFO - [2021-12-31 15:29:49,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:29:50,259] {logging_mixin.py:109} INFO - [2021-12-31 15:29:50,258] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:29:50,453] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.941 seconds
+[2021-12-31 15:30:58,462] {processor.py:163} INFO - Started process (PID=5841) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:30:58,536] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:30:58,573] {logging_mixin.py:109} INFO - [2021-12-31 15:30:58,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:31:01,132] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:31:01,812] {logging_mixin.py:109} INFO - [2021-12-31 15:31:01,803] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:31:02,872] {logging_mixin.py:109} INFO - [2021-12-31 15:31:02,847] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:31:03,343] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.088 seconds
+[2021-12-31 15:32:01,154] {processor.py:163} INFO - Started process (PID=5898) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:01,169] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:32:01,181] {logging_mixin.py:109} INFO - [2021-12-31 15:32:01,180] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:02,900] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:03,489] {logging_mixin.py:109} INFO - [2021-12-31 15:32:03,488] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:32:04,661] {logging_mixin.py:109} INFO - [2021-12-31 15:32:04,660] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:32:05,133] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.016 seconds
+[2021-12-31 15:32:57,003] {processor.py:163} INFO - Started process (PID=5957) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:57,072] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:32:57,121] {logging_mixin.py:109} INFO - [2021-12-31 15:32:57,110] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:59,684] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:32:59,910] {logging_mixin.py:109} INFO - [2021-12-31 15:32:59,910] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:33:00,836] {logging_mixin.py:109} INFO - [2021-12-31 15:33:00,825] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:33:01,220] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.365 seconds
+[2021-12-31 15:34:02,067] {processor.py:163} INFO - Started process (PID=6019) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:34:02,097] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:34:02,111] {logging_mixin.py:109} INFO - [2021-12-31 15:34:02,110] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:34:04,097] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:34:04,636] {logging_mixin.py:109} INFO - [2021-12-31 15:34:04,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:34:05,200] {logging_mixin.py:109} INFO - [2021-12-31 15:34:05,199] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:34:05,445] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.448 seconds
+[2021-12-31 15:35:00,221] {processor.py:163} INFO - Started process (PID=6081) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:35:00,249] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:35:00,264] {logging_mixin.py:109} INFO - [2021-12-31 15:35:00,264] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:35:00,716] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:35:00,821] {logging_mixin.py:109} INFO - [2021-12-31 15:35:00,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:35:00,923] {logging_mixin.py:109} INFO - [2021-12-31 15:35:00,923] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:35:00,982] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.781 seconds
+[2021-12-31 15:44:28,377] {processor.py:163} INFO - Started process (PID=6133) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:44:28,421] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:44:28,436] {logging_mixin.py:109} INFO - [2021-12-31 15:44:28,435] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:44:30,211] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:44:30,516] {logging_mixin.py:109} INFO - [2021-12-31 15:44:30,515] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:44:31,137] {logging_mixin.py:109} INFO - [2021-12-31 15:44:31,098] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:44:31,496] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.215 seconds
+[2021-12-31 15:45:20,652] {processor.py:163} INFO - Started process (PID=6191) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:20,678] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:45:20,707] {logging_mixin.py:109} INFO - [2021-12-31 15:45:20,699] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:22,958] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:23,411] {logging_mixin.py:109} INFO - [2021-12-31 15:45:23,410] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:45:24,215] {logging_mixin.py:109} INFO - [2021-12-31 15:45:24,203] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:45:24,594] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 4.015 seconds
+[2021-12-31 15:45:55,325] {processor.py:163} INFO - Started process (PID=6239) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:55,330] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 15:45:55,334] {logging_mixin.py:109} INFO - [2021-12-31 15:45:55,333] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:55,648] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 15:45:55,705] {logging_mixin.py:109} INFO - [2021-12-31 15:45:55,705] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 15:45:55,812] {logging_mixin.py:109} INFO - [2021-12-31 15:45:55,812] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 15:45:55,937] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.628 seconds
+[2021-12-31 16:02:51,185] {processor.py:163} INFO - Started process (PID=6281) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:02:51,398] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:02:51,471] {logging_mixin.py:109} INFO - [2021-12-31 16:02:51,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:02:55,391] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:02:55,880] {logging_mixin.py:109} INFO - [2021-12-31 16:02:55,877] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:02:56,595] {logging_mixin.py:109} INFO - [2021-12-31 16:02:56,595] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:02:56,755] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 5.993 seconds
+[2021-12-31 16:03:51,839] {processor.py:163} INFO - Started process (PID=6340) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:03:51,863] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:03:51,884] {logging_mixin.py:109} INFO - [2021-12-31 16:03:51,881] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:03:54,592] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:03:54,858] {logging_mixin.py:109} INFO - [2021-12-31 16:03:54,857] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:03:55,437] {logging_mixin.py:109} INFO - [2021-12-31 16:03:55,423] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:03:55,625] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 3.866 seconds
+[2021-12-31 16:04:26,240] {processor.py:163} INFO - Started process (PID=6388) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:04:26,271] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:04:26,324] {logging_mixin.py:109} INFO - [2021-12-31 16:04:26,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:04:27,186] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:04:27,582] {logging_mixin.py:109} INFO - [2021-12-31 16:04:27,581] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:04:28,091] {logging_mixin.py:109} INFO - [2021-12-31 16:04:28,090] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:04:28,279] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.102 seconds
+[2021-12-31 16:04:59,708] {processor.py:163} INFO - Started process (PID=6434) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:04:59,716] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:04:59,720] {logging_mixin.py:109} INFO - [2021-12-31 16:04:59,720] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:05:00,246] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:05:00,454] {logging_mixin.py:109} INFO - [2021-12-31 16:05:00,453] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:05:00,544] {logging_mixin.py:109} INFO - [2021-12-31 16:05:00,543] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:05:00,650] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.950 seconds
+[2021-12-31 16:22:13,834] {processor.py:163} INFO - Started process (PID=6453) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:22:13,838] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:22:13,841] {logging_mixin.py:109} INFO - [2021-12-31 16:22:13,840] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:22:13,966] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:22:14,003] {logging_mixin.py:109} INFO - [2021-12-31 16:22:14,003] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:22:14,067] {logging_mixin.py:109} INFO - [2021-12-31 16:22:14,067] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:22:14,116] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.293 seconds
+[2021-12-31 16:23:01,171] {processor.py:163} INFO - Started process (PID=6510) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:01,205] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:23:01,225] {logging_mixin.py:109} INFO - [2021-12-31 16:23:01,220] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:02,534] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:02,805] {logging_mixin.py:109} INFO - [2021-12-31 16:23:02,804] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:23:03,198] {logging_mixin.py:109} INFO - [2021-12-31 16:23:03,194] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:23:03,396] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.300 seconds
+[2021-12-31 16:23:35,039] {processor.py:163} INFO - Started process (PID=6550) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:35,077] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:23:35,087] {logging_mixin.py:109} INFO - [2021-12-31 16:23:35,086] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:35,964] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:23:36,162] {logging_mixin.py:109} INFO - [2021-12-31 16:23:36,161] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:23:36,548] {logging_mixin.py:109} INFO - [2021-12-31 16:23:36,546] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:23:36,778] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.795 seconds
+[2021-12-31 16:24:07,609] {processor.py:163} INFO - Started process (PID=6598) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:07,636] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:24:07,656] {logging_mixin.py:109} INFO - [2021-12-31 16:24:07,654] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:08,724] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:08,843] {logging_mixin.py:109} INFO - [2021-12-31 16:24:08,842] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:24:09,225] {logging_mixin.py:109} INFO - [2021-12-31 16:24:09,224] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:24:09,383] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.821 seconds
+[2021-12-31 16:24:40,377] {processor.py:163} INFO - Started process (PID=6642) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:40,395] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:24:40,406] {logging_mixin.py:109} INFO - [2021-12-31 16:24:40,405] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:41,055] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:24:41,209] {logging_mixin.py:109} INFO - [2021-12-31 16:24:41,208] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:24:41,663] {logging_mixin.py:109} INFO - [2021-12-31 16:24:41,662] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:24:41,910] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.597 seconds
+[2021-12-31 16:25:12,647] {processor.py:163} INFO - Started process (PID=6682) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:12,661] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:25:12,671] {logging_mixin.py:109} INFO - [2021-12-31 16:25:12,670] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:13,431] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:13,603] {logging_mixin.py:109} INFO - [2021-12-31 16:25:13,602] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:25:13,857] {logging_mixin.py:109} INFO - [2021-12-31 16:25:13,856] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:25:13,950] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.343 seconds
+[2021-12-31 16:25:44,432] {processor.py:163} INFO - Started process (PID=6730) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:44,446] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:25:44,459] {logging_mixin.py:109} INFO - [2021-12-31 16:25:44,458] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:45,052] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:25:45,202] {logging_mixin.py:109} INFO - [2021-12-31 16:25:45,202] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:25:45,421] {logging_mixin.py:109} INFO - [2021-12-31 16:25:45,421] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:25:45,560] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.151 seconds
+[2021-12-31 16:26:16,553] {processor.py:163} INFO - Started process (PID=6767) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:16,575] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:26:16,598] {logging_mixin.py:109} INFO - [2021-12-31 16:26:16,597] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:17,200] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:17,318] {logging_mixin.py:109} INFO - [2021-12-31 16:26:17,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:26:17,545] {logging_mixin.py:109} INFO - [2021-12-31 16:26:17,544] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:26:17,669] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.162 seconds
+[2021-12-31 16:26:48,023] {processor.py:163} INFO - Started process (PID=6814) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:48,051] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:26:48,063] {logging_mixin.py:109} INFO - [2021-12-31 16:26:48,062] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:48,799] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:26:48,956] {logging_mixin.py:109} INFO - [2021-12-31 16:26:48,955] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:26:49,190] {logging_mixin.py:109} INFO - [2021-12-31 16:26:49,190] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:26:49,328] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.339 seconds
+[2021-12-31 16:27:19,573] {processor.py:163} INFO - Started process (PID=6859) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:19,588] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:27:19,599] {logging_mixin.py:109} INFO - [2021-12-31 16:27:19,598] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:20,260] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:20,393] {logging_mixin.py:109} INFO - [2021-12-31 16:27:20,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:27:20,723] {logging_mixin.py:109} INFO - [2021-12-31 16:27:20,722] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:27:20,888] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.356 seconds
+[2021-12-31 16:27:51,229] {processor.py:163} INFO - Started process (PID=6900) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:51,246] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:27:51,264] {logging_mixin.py:109} INFO - [2021-12-31 16:27:51,262] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:51,981] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:27:52,218] {logging_mixin.py:109} INFO - [2021-12-31 16:27:52,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:27:52,518] {logging_mixin.py:109} INFO - [2021-12-31 16:27:52,517] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:27:52,672] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.476 seconds
+[2021-12-31 16:28:22,993] {processor.py:163} INFO - Started process (PID=6948) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:23,022] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:28:23,035] {logging_mixin.py:109} INFO - [2021-12-31 16:28:23,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:23,817] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:23,975] {logging_mixin.py:109} INFO - [2021-12-31 16:28:23,974] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:28:24,246] {logging_mixin.py:109} INFO - [2021-12-31 16:28:24,245] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:28:24,394] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.458 seconds
+[2021-12-31 16:28:54,624] {processor.py:163} INFO - Started process (PID=6985) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:54,652] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:28:54,684] {logging_mixin.py:109} INFO - [2021-12-31 16:28:54,664] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:55,254] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:28:55,391] {logging_mixin.py:109} INFO - [2021-12-31 16:28:55,391] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:28:55,618] {logging_mixin.py:109} INFO - [2021-12-31 16:28:55,617] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:28:55,743] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.171 seconds
+[2021-12-31 16:29:26,490] {processor.py:163} INFO - Started process (PID=7031) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:29:26,511] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:29:26,530] {logging_mixin.py:109} INFO - [2021-12-31 16:29:26,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:29:27,830] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:29:28,103] {logging_mixin.py:109} INFO - [2021-12-31 16:29:28,102] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:29:28,534] {logging_mixin.py:109} INFO - [2021-12-31 16:29:28,533] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:29:28,726] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.275 seconds
+[2021-12-31 16:29:59,548] {processor.py:163} INFO - Started process (PID=7076) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:29:59,595] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:29:59,609] {logging_mixin.py:109} INFO - [2021-12-31 16:29:59,608] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:30:00,530] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:30:00,671] {logging_mixin.py:109} INFO - [2021-12-31 16:30:00,670] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:30:00,997] {logging_mixin.py:109} INFO - [2021-12-31 16:30:00,997] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:30:01,163] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.703 seconds
+[2021-12-31 16:30:32,105] {processor.py:163} INFO - Started process (PID=7117) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:30:32,136] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:30:32,161] {logging_mixin.py:109} INFO - [2021-12-31 16:30:32,160] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:30:32,828] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:30:33,001] {logging_mixin.py:109} INFO - [2021-12-31 16:30:33,000] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:30:33,406] {logging_mixin.py:109} INFO - [2021-12-31 16:30:33,404] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:30:33,605] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.564 seconds
+[2021-12-31 16:31:04,150] {processor.py:163} INFO - Started process (PID=7164) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:04,169] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:31:04,179] {logging_mixin.py:109} INFO - [2021-12-31 16:31:04,178] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:04,864] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:05,003] {logging_mixin.py:109} INFO - [2021-12-31 16:31:05,002] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:31:05,304] {logging_mixin.py:109} INFO - [2021-12-31 16:31:05,303] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:31:05,428] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.337 seconds
+[2021-12-31 16:31:36,458] {processor.py:163} INFO - Started process (PID=7200) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:36,473] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:31:36,482] {logging_mixin.py:109} INFO - [2021-12-31 16:31:36,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:37,329] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:31:37,568] {logging_mixin.py:109} INFO - [2021-12-31 16:31:37,567] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:31:37,935] {logging_mixin.py:109} INFO - [2021-12-31 16:31:37,933] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:31:38,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.753 seconds
+[2021-12-31 16:32:08,534] {processor.py:163} INFO - Started process (PID=7246) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:08,563] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:32:08,585] {logging_mixin.py:109} INFO - [2021-12-31 16:32:08,583] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:09,386] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:09,600] {logging_mixin.py:109} INFO - [2021-12-31 16:32:09,599] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:32:09,915] {logging_mixin.py:109} INFO - [2021-12-31 16:32:09,914] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:32:10,112] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.610 seconds
+[2021-12-31 16:32:40,635] {processor.py:163} INFO - Started process (PID=7291) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:40,651] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:32:40,661] {logging_mixin.py:109} INFO - [2021-12-31 16:32:40,659] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:41,245] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:32:41,564] {logging_mixin.py:109} INFO - [2021-12-31 16:32:41,564] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:32:42,210] {logging_mixin.py:109} INFO - [2021-12-31 16:32:42,208] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:32:42,461] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.857 seconds
+[2021-12-31 16:33:14,751] {processor.py:163} INFO - Started process (PID=7333) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:14,771] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:33:14,784] {logging_mixin.py:109} INFO - [2021-12-31 16:33:14,783] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:15,354] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:15,499] {logging_mixin.py:109} INFO - [2021-12-31 16:33:15,498] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:33:15,771] {logging_mixin.py:109} INFO - [2021-12-31 16:33:15,770] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:33:15,944] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.227 seconds
+[2021-12-31 16:33:47,796] {processor.py:163} INFO - Started process (PID=7383) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:47,837] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:33:47,863] {logging_mixin.py:109} INFO - [2021-12-31 16:33:47,861] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:48,604] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:33:48,808] {logging_mixin.py:109} INFO - [2021-12-31 16:33:48,806] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:33:49,151] {logging_mixin.py:109} INFO - [2021-12-31 16:33:49,151] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:33:49,325] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.603 seconds
+[2021-12-31 16:34:19,685] {processor.py:163} INFO - Started process (PID=7426) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:19,706] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:34:19,717] {logging_mixin.py:109} INFO - [2021-12-31 16:34:19,715] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:20,587] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:20,705] {logging_mixin.py:109} INFO - [2021-12-31 16:34:20,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:34:20,990] {logging_mixin.py:109} INFO - [2021-12-31 16:34:20,990] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:34:21,113] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.468 seconds
+[2021-12-31 16:34:51,547] {processor.py:163} INFO - Started process (PID=7465) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:51,568] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:34:51,581] {logging_mixin.py:109} INFO - [2021-12-31 16:34:51,579] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:52,525] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:34:52,722] {logging_mixin.py:109} INFO - [2021-12-31 16:34:52,721] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:34:53,045] {logging_mixin.py:109} INFO - [2021-12-31 16:34:53,044] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:34:53,214] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.699 seconds
+[2021-12-31 16:35:24,801] {processor.py:163} INFO - Started process (PID=7511) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:24,818] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:35:24,827] {logging_mixin.py:109} INFO - [2021-12-31 16:35:24,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:25,418] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:25,562] {logging_mixin.py:109} INFO - [2021-12-31 16:35:25,561] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:35:25,850] {logging_mixin.py:109} INFO - [2021-12-31 16:35:25,849] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:35:26,032] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.254 seconds
+[2021-12-31 16:35:58,741] {processor.py:163} INFO - Started process (PID=7549) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:58,760] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:35:58,771] {logging_mixin.py:109} INFO - [2021-12-31 16:35:58,770] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:59,443] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:35:59,585] {logging_mixin.py:109} INFO - [2021-12-31 16:35:59,584] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:35:59,876] {logging_mixin.py:109} INFO - [2021-12-31 16:35:59,875] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:36:00,033] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.335 seconds
+[2021-12-31 16:36:31,018] {processor.py:163} INFO - Started process (PID=7596) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:36:31,033] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:36:31,044] {logging_mixin.py:109} INFO - [2021-12-31 16:36:31,042] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:36:31,743] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:36:32,020] {logging_mixin.py:109} INFO - [2021-12-31 16:36:32,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:36:32,347] {logging_mixin.py:109} INFO - [2021-12-31 16:36:32,346] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:36:32,507] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.540 seconds
+[2021-12-31 16:37:03,670] {processor.py:163} INFO - Started process (PID=7642) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:03,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:37:03,698] {logging_mixin.py:109} INFO - [2021-12-31 16:37:03,697] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:04,293] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:04,455] {logging_mixin.py:109} INFO - [2021-12-31 16:37:04,454] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:37:04,757] {logging_mixin.py:109} INFO - [2021-12-31 16:37:04,757] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:37:04,919] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.281 seconds
+[2021-12-31 16:37:35,247] {processor.py:163} INFO - Started process (PID=7678) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:35,276] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:37:35,293] {logging_mixin.py:109} INFO - [2021-12-31 16:37:35,291] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:35,903] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:37:36,028] {logging_mixin.py:109} INFO - [2021-12-31 16:37:36,027] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:37:36,301] {logging_mixin.py:109} INFO - [2021-12-31 16:37:36,301] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:37:36,403] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.197 seconds
+[2021-12-31 16:38:07,442] {processor.py:163} INFO - Started process (PID=7725) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:07,463] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:38:07,473] {logging_mixin.py:109} INFO - [2021-12-31 16:38:07,472] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:08,449] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:08,711] {logging_mixin.py:109} INFO - [2021-12-31 16:38:08,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:38:09,083] {logging_mixin.py:109} INFO - [2021-12-31 16:38:09,081] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:38:09,332] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.939 seconds
+[2021-12-31 16:38:39,714] {processor.py:163} INFO - Started process (PID=7770) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:39,725] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:38:39,734] {logging_mixin.py:109} INFO - [2021-12-31 16:38:39,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:40,578] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:38:40,729] {logging_mixin.py:109} INFO - [2021-12-31 16:38:40,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:38:40,948] {logging_mixin.py:109} INFO - [2021-12-31 16:38:40,948] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:38:41,058] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.390 seconds
+[2021-12-31 16:39:11,355] {processor.py:163} INFO - Started process (PID=7810) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:11,379] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:39:11,387] {logging_mixin.py:109} INFO - [2021-12-31 16:39:11,386] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:12,161] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:12,505] {logging_mixin.py:109} INFO - [2021-12-31 16:39:12,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:39:12,982] {logging_mixin.py:109} INFO - [2021-12-31 16:39:12,981] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:39:13,225] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.906 seconds
+[2021-12-31 16:39:43,618] {processor.py:163} INFO - Started process (PID=7859) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:43,634] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:39:43,646] {logging_mixin.py:109} INFO - [2021-12-31 16:39:43,644] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:44,279] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:39:44,489] {logging_mixin.py:109} INFO - [2021-12-31 16:39:44,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:39:44,934] {logging_mixin.py:109} INFO - [2021-12-31 16:39:44,933] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:39:45,168] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.586 seconds
+[2021-12-31 16:40:15,545] {processor.py:163} INFO - Started process (PID=7897) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:15,562] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:40:15,570] {logging_mixin.py:109} INFO - [2021-12-31 16:40:15,569] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:16,279] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:16,493] {logging_mixin.py:109} INFO - [2021-12-31 16:40:16,492] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:40:16,739] {logging_mixin.py:109} INFO - [2021-12-31 16:40:16,736] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:40:16,927] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.411 seconds
+[2021-12-31 16:40:47,564] {processor.py:163} INFO - Started process (PID=7943) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:47,587] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:40:47,607] {logging_mixin.py:109} INFO - [2021-12-31 16:40:47,605] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:48,715] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:40:48,884] {logging_mixin.py:109} INFO - [2021-12-31 16:40:48,883] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:40:49,212] {logging_mixin.py:109} INFO - [2021-12-31 16:40:49,212] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:40:49,362] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.896 seconds
+[2021-12-31 16:41:20,063] {processor.py:163} INFO - Started process (PID=7990) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:20,082] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:41:20,098] {logging_mixin.py:109} INFO - [2021-12-31 16:41:20,098] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:20,705] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:20,844] {logging_mixin.py:109} INFO - [2021-12-31 16:41:20,843] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:41:21,075] {logging_mixin.py:109} INFO - [2021-12-31 16:41:21,074] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:41:21,248] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.209 seconds
+[2021-12-31 16:41:51,649] {processor.py:163} INFO - Started process (PID=8029) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:51,672] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:41:51,686] {logging_mixin.py:109} INFO - [2021-12-31 16:41:51,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:52,419] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:41:52,616] {logging_mixin.py:109} INFO - [2021-12-31 16:41:52,615] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:41:52,941] {logging_mixin.py:109} INFO - [2021-12-31 16:41:52,940] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:41:53,096] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.482 seconds
+[2021-12-31 16:42:23,525] {processor.py:163} INFO - Started process (PID=8077) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:23,543] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:42:23,556] {logging_mixin.py:109} INFO - [2021-12-31 16:42:23,555] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:24,332] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:24,557] {logging_mixin.py:109} INFO - [2021-12-31 16:42:24,556] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:42:24,801] {logging_mixin.py:109} INFO - [2021-12-31 16:42:24,800] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:42:24,936] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.482 seconds
+[2021-12-31 16:42:55,185] {processor.py:163} INFO - Started process (PID=8113) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:55,202] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:42:55,214] {logging_mixin.py:109} INFO - [2021-12-31 16:42:55,211] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:55,745] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:42:55,852] {logging_mixin.py:109} INFO - [2021-12-31 16:42:55,852] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:42:56,055] {logging_mixin.py:109} INFO - [2021-12-31 16:42:56,055] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:42:56,173] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.021 seconds
+[2021-12-31 16:43:27,262] {processor.py:163} INFO - Started process (PID=8161) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:43:27,294] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:43:27,322] {logging_mixin.py:109} INFO - [2021-12-31 16:43:27,321] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:43:28,080] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:43:28,247] {logging_mixin.py:109} INFO - [2021-12-31 16:43:28,247] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:43:28,456] {logging_mixin.py:109} INFO - [2021-12-31 16:43:28,455] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:43:28,566] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.345 seconds
+[2021-12-31 16:43:58,999] {processor.py:163} INFO - Started process (PID=8198) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:43:59,017] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:43:59,048] {logging_mixin.py:109} INFO - [2021-12-31 16:43:59,045] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:43:59,861] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:44:00,083] {logging_mixin.py:109} INFO - [2021-12-31 16:44:00,082] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:44:00,357] {logging_mixin.py:109} INFO - [2021-12-31 16:44:00,357] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:44:00,567] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.613 seconds
+[2021-12-31 16:44:31,005] {processor.py:163} INFO - Started process (PID=8246) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:44:31,025] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:44:31,034] {logging_mixin.py:109} INFO - [2021-12-31 16:44:31,033] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:44:31,551] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:44:31,685] {logging_mixin.py:109} INFO - [2021-12-31 16:44:31,684] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:44:31,934] {logging_mixin.py:109} INFO - [2021-12-31 16:44:31,930] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:44:32,100] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.122 seconds
+[2021-12-31 16:45:02,986] {processor.py:163} INFO - Started process (PID=8293) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:03,005] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:45:03,018] {logging_mixin.py:109} INFO - [2021-12-31 16:45:03,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:03,823] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:03,990] {logging_mixin.py:109} INFO - [2021-12-31 16:45:03,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:45:04,226] {logging_mixin.py:109} INFO - [2021-12-31 16:45:04,224] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:45:04,405] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.461 seconds
+[2021-12-31 16:45:35,036] {processor.py:163} INFO - Started process (PID=8329) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:35,059] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:45:35,072] {logging_mixin.py:109} INFO - [2021-12-31 16:45:35,071] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:35,707] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:45:35,820] {logging_mixin.py:109} INFO - [2021-12-31 16:45:35,819] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:45:36,062] {logging_mixin.py:109} INFO - [2021-12-31 16:45:36,061] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:45:36,206] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.205 seconds
+[2021-12-31 16:46:06,604] {processor.py:163} INFO - Started process (PID=8378) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:06,621] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:46:06,645] {logging_mixin.py:109} INFO - [2021-12-31 16:46:06,644] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:07,599] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:07,869] {logging_mixin.py:109} INFO - [2021-12-31 16:46:07,868] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:46:08,190] {logging_mixin.py:109} INFO - [2021-12-31 16:46:08,188] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:46:08,351] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.785 seconds
+[2021-12-31 16:46:38,949] {processor.py:163} INFO - Started process (PID=8414) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:38,967] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:46:38,977] {logging_mixin.py:109} INFO - [2021-12-31 16:46:38,976] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:39,584] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:46:39,762] {logging_mixin.py:109} INFO - [2021-12-31 16:46:39,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:46:40,007] {logging_mixin.py:109} INFO - [2021-12-31 16:46:40,006] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:46:40,117] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.239 seconds
+[2021-12-31 16:47:10,416] {processor.py:163} INFO - Started process (PID=8464) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:10,435] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:47:10,445] {logging_mixin.py:109} INFO - [2021-12-31 16:47:10,444] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:11,079] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:11,239] {logging_mixin.py:109} INFO - [2021-12-31 16:47:11,238] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:47:11,462] {logging_mixin.py:109} INFO - [2021-12-31 16:47:11,462] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:47:11,633] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.244 seconds
+[2021-12-31 16:47:41,896] {processor.py:163} INFO - Started process (PID=8509) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:41,914] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:47:41,924] {logging_mixin.py:109} INFO - [2021-12-31 16:47:41,923] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:42,627] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:47:42,874] {logging_mixin.py:109} INFO - [2021-12-31 16:47:42,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:47:43,225] {logging_mixin.py:109} INFO - [2021-12-31 16:47:43,224] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:47:43,377] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.522 seconds
+[2021-12-31 16:48:14,349] {processor.py:163} INFO - Started process (PID=8547) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:14,365] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:48:14,376] {logging_mixin.py:109} INFO - [2021-12-31 16:48:14,375] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:14,971] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:15,115] {logging_mixin.py:109} INFO - [2021-12-31 16:48:15,114] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:48:15,324] {logging_mixin.py:109} INFO - [2021-12-31 16:48:15,323] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:48:15,420] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.114 seconds
+[2021-12-31 16:48:47,426] {processor.py:163} INFO - Started process (PID=8594) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:47,457] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:48:47,500] {logging_mixin.py:109} INFO - [2021-12-31 16:48:47,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:48,429] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:48:48,700] {logging_mixin.py:109} INFO - [2021-12-31 16:48:48,699] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:48:49,074] {logging_mixin.py:109} INFO - [2021-12-31 16:48:49,074] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:48:49,259] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.876 seconds
+[2021-12-31 16:49:20,763] {processor.py:163} INFO - Started process (PID=8639) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:20,783] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:49:20,796] {logging_mixin.py:109} INFO - [2021-12-31 16:49:20,795] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:21,707] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:21,865] {logging_mixin.py:109} INFO - [2021-12-31 16:49:21,865] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:49:22,253] {logging_mixin.py:109} INFO - [2021-12-31 16:49:22,248] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:49:22,562] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.845 seconds
+[2021-12-31 16:49:53,079] {processor.py:163} INFO - Started process (PID=8680) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:53,112] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:49:53,129] {logging_mixin.py:109} INFO - [2021-12-31 16:49:53,127] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:53,845] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:49:54,140] {logging_mixin.py:109} INFO - [2021-12-31 16:49:54,137] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:49:54,464] {logging_mixin.py:109} INFO - [2021-12-31 16:49:54,463] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:49:54,610] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.587 seconds
+[2021-12-31 16:50:25,571] {processor.py:163} INFO - Started process (PID=8727) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:25,592] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:50:25,605] {logging_mixin.py:109} INFO - [2021-12-31 16:50:25,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:26,241] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:26,394] {logging_mixin.py:109} INFO - [2021-12-31 16:50:26,394] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:50:26,716] {logging_mixin.py:109} INFO - [2021-12-31 16:50:26,715] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:50:26,877] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.349 seconds
+[2021-12-31 16:50:57,713] {processor.py:163} INFO - Started process (PID=8764) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:57,740] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:50:57,752] {logging_mixin.py:109} INFO - [2021-12-31 16:50:57,751] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:58,640] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:50:58,885] {logging_mixin.py:109} INFO - [2021-12-31 16:50:58,884] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:50:59,264] {logging_mixin.py:109} INFO - [2021-12-31 16:50:59,263] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:50:59,481] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.813 seconds
+[2021-12-31 16:51:30,137] {processor.py:163} INFO - Started process (PID=8812) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:51:30,156] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:51:30,167] {logging_mixin.py:109} INFO - [2021-12-31 16:51:30,166] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:51:31,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:51:31,364] {logging_mixin.py:109} INFO - [2021-12-31 16:51:31,363] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:51:31,726] {logging_mixin.py:109} INFO - [2021-12-31 16:51:31,725] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:51:31,874] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.798 seconds
+[2021-12-31 16:52:02,385] {processor.py:163} INFO - Started process (PID=8860) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:02,401] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:52:02,419] {logging_mixin.py:109} INFO - [2021-12-31 16:52:02,416] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:03,363] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:03,564] {logging_mixin.py:109} INFO - [2021-12-31 16:52:03,563] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:52:04,059] {logging_mixin.py:109} INFO - [2021-12-31 16:52:04,058] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:52:04,260] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.919 seconds
+[2021-12-31 16:52:34,892] {processor.py:163} INFO - Started process (PID=8899) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:34,909] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:52:34,917] {logging_mixin.py:109} INFO - [2021-12-31 16:52:34,916] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:35,404] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:52:35,550] {logging_mixin.py:109} INFO - [2021-12-31 16:52:35,549] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:52:35,791] {logging_mixin.py:109} INFO - [2021-12-31 16:52:35,791] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:52:35,933] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.102 seconds
+[2021-12-31 16:53:06,232] {processor.py:163} INFO - Started process (PID=8946) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:06,258] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:53:06,270] {logging_mixin.py:109} INFO - [2021-12-31 16:53:06,269] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:06,854] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:06,955] {logging_mixin.py:109} INFO - [2021-12-31 16:53:06,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:53:07,220] {logging_mixin.py:109} INFO - [2021-12-31 16:53:07,219] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:53:07,441] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.234 seconds
+[2021-12-31 16:53:39,884] {processor.py:163} INFO - Started process (PID=8990) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:39,902] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:53:39,912] {logging_mixin.py:109} INFO - [2021-12-31 16:53:39,911] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:40,642] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:53:40,835] {logging_mixin.py:109} INFO - [2021-12-31 16:53:40,835] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:53:41,288] {logging_mixin.py:109} INFO - [2021-12-31 16:53:41,288] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:53:41,480] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.625 seconds
+[2021-12-31 16:54:11,784] {processor.py:163} INFO - Started process (PID=9032) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:11,796] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:54:11,806] {logging_mixin.py:109} INFO - [2021-12-31 16:54:11,804] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:12,390] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:12,558] {logging_mixin.py:109} INFO - [2021-12-31 16:54:12,558] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:54:12,816] {logging_mixin.py:109} INFO - [2021-12-31 16:54:12,814] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:54:12,978] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.219 seconds
+[2021-12-31 16:54:45,669] {processor.py:163} INFO - Started process (PID=9079) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:45,690] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:54:45,703] {logging_mixin.py:109} INFO - [2021-12-31 16:54:45,702] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:46,601] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:54:46,880] {logging_mixin.py:109} INFO - [2021-12-31 16:54:46,879] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:54:47,198] {logging_mixin.py:109} INFO - [2021-12-31 16:54:47,197] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:54:47,360] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.741 seconds
+[2021-12-31 16:55:17,625] {processor.py:163} INFO - Started process (PID=9117) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:17,641] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:55:17,653] {logging_mixin.py:109} INFO - [2021-12-31 16:55:17,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:18,458] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:18,729] {logging_mixin.py:109} INFO - [2021-12-31 16:55:18,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:55:19,107] {logging_mixin.py:109} INFO - [2021-12-31 16:55:19,106] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:55:19,299] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.705 seconds
+[2021-12-31 16:55:49,891] {processor.py:163} INFO - Started process (PID=9168) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:49,895] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 16:55:49,897] {logging_mixin.py:109} INFO - [2021-12-31 16:55:49,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:49,965] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 16:55:49,981] {logging_mixin.py:109} INFO - [2021-12-31 16:55:49,981] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 16:55:50,009] {logging_mixin.py:109} INFO - [2021-12-31 16:55:50,009] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 16:55:50,025] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.140 seconds
+[2021-12-31 17:02:35,734] {processor.py:163} INFO - Started process (PID=9221) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:02:35,760] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 17:02:35,778] {logging_mixin.py:109} INFO - [2021-12-31 17:02:35,777] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:02:36,662] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:02:36,870] {logging_mixin.py:109} INFO - [2021-12-31 17:02:36,869] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 17:02:37,199] {logging_mixin.py:109} INFO - [2021-12-31 17:02:37,196] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 17:02:37,361] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.692 seconds
+[2021-12-31 17:03:10,015] {processor.py:163} INFO - Started process (PID=9268) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:10,037] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 17:03:10,056] {logging_mixin.py:109} INFO - [2021-12-31 17:03:10,055] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:11,154] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:11,298] {logging_mixin.py:109} INFO - [2021-12-31 17:03:11,297] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 17:03:11,805] {logging_mixin.py:109} INFO - [2021-12-31 17:03:11,797] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 17:03:11,968] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.029 seconds
+[2021-12-31 17:03:45,000] {processor.py:163} INFO - Started process (PID=9313) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:45,034] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 17:03:45,071] {logging_mixin.py:109} INFO - [2021-12-31 17:03:45,071] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:45,660] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 17:03:45,822] {logging_mixin.py:109} INFO - [2021-12-31 17:03:45,821] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 17:03:46,439] {logging_mixin.py:109} INFO - [2021-12-31 17:03:46,439] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 17:03:46,683] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.755 seconds
+[2021-12-31 18:44:41,931] {processor.py:163} INFO - Started process (PID=9374) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:44:42,005] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 18:44:42,035] {logging_mixin.py:109} INFO - [2021-12-31 18:44:42,024] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:44:43,160] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:44:43,394] {logging_mixin.py:109} INFO - [2021-12-31 18:44:43,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 18:44:43,767] {logging_mixin.py:109} INFO - [2021-12-31 18:44:43,766] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 18:44:43,979] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 2.132 seconds
+[2021-12-31 18:45:14,867] {processor.py:163} INFO - Started process (PID=9422) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:45:14,889] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 18:45:14,912] {logging_mixin.py:109} INFO - [2021-12-31 18:45:14,907] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:45:15,542] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 18:45:15,682] {logging_mixin.py:109} INFO - [2021-12-31 18:45:15,681] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 18:45:16,078] {logging_mixin.py:109} INFO - [2021-12-31 18:45:16,075] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 18:45:16,231] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.399 seconds
+[2021-12-31 19:19:20,884] {processor.py:163} INFO - Started process (PID=9454) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:20,933] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 19:19:20,948] {logging_mixin.py:109} INFO - [2021-12-31 19:19:20,947] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:21,580] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:21,773] {logging_mixin.py:109} INFO - [2021-12-31 19:19:21,771] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 19:19:22,013] {logging_mixin.py:109} INFO - [2021-12-31 19:19:22,011] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 19:19:22,168] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.323 seconds
+[2021-12-31 19:19:55,347] {processor.py:163} INFO - Started process (PID=9503) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:55,382] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 19:19:55,402] {logging_mixin.py:109} INFO - [2021-12-31 19:19:55,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:56,288] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:19:56,567] {logging_mixin.py:109} INFO - [2021-12-31 19:19:56,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 19:19:56,929] {logging_mixin.py:109} INFO - [2021-12-31 19:19:56,928] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 19:19:57,118] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.837 seconds
+[2021-12-31 19:20:27,764] {processor.py:163} INFO - Started process (PID=9547) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:20:27,780] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 19:20:27,805] {logging_mixin.py:109} INFO - [2021-12-31 19:20:27,803] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:20:28,531] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 19:20:28,636] {logging_mixin.py:109} INFO - [2021-12-31 19:20:28,636] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 19:20:28,834] {logging_mixin.py:109} INFO - [2021-12-31 19:20:28,834] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 19:20:28,957] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 1.248 seconds
+[2021-12-31 20:35:57,593] {processor.py:163} INFO - Started process (PID=9610) to work on /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 20:35:57,604] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_mayo.py for tasks to queue
+[2021-12-31 20:35:57,633] {logging_mixin.py:109} INFO - [2021-12-31 20:35:57,633] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 20:35:57,846] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_mayo']) retrieved from /opt/airflow/dags/scraping_daft_mayo.py
+[2021-12-31 20:35:57,903] {logging_mixin.py:109} INFO - [2021-12-31 20:35:57,902] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-31 20:35:57,975] {logging_mixin.py:109} INFO - [2021-12-31 20:35:57,974] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_mayo to 2021-12-31T10:20:00+00:00
+[2021-12-31 20:35:58,020] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_mayo.py took 0.435 seconds

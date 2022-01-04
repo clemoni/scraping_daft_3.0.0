@@ -1,0 +1,25 @@
+[2022-01-02 12:33:00,483] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_leitrim.notify_slack scheduled__2022-01-01T10:00:00+00:00 [queued]>
+[2022-01-02 12:33:00,665] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_leitrim.notify_slack scheduled__2022-01-01T10:00:00+00:00 [queued]>
+[2022-01-02 12:33:00,681] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:33:00,688] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2022-01-02 12:33:00,693] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:33:01,064] {taskinstance.py:1262} INFO - Executing <Task(SlackWebhookOperator): notify_slack> on 2022-01-01 10:00:00+00:00
+[2022-01-02 12:33:01,123] {standard_task_runner.py:52} INFO - Started process 13733 to run task
+[2022-01-02 12:33:01,204] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_leitrim', 'notify_slack', 'scheduled__2022-01-01T10:00:00+00:00', '--job-id', '6247', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_leitrim.py', '--cfg-path', '/tmp/tmp0_9kx11d', '--error-file', '/tmp/tmp3hnqdmm2']
+[2022-01-02 12:33:01,261] {standard_task_runner.py:77} INFO - Job 6247: Subtask notify_slack
+[2022-01-02 12:33:02,014] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_leitrim.notify_slack scheduled__2022-01-01T10:00:00+00:00 [running]> on host bbddfc72aeab
+[2022-01-02 12:33:03,012] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_leitrim
+AIRFLOW_CTX_TASK_ID=notify_slack
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-01T10:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-01T10:00:00+00:00
+[2022-01-02 12:33:03,079] {base.py:79} INFO - Using connection to: id: slack_connect. Host: https://hooks.slack.com/services/, Port: None, Schema: , Login: , Password: ***, extra: {}
+[2022-01-02 12:33:03,133] {base.py:79} INFO - Using connection to: id: slack_connect. Host: https://hooks.slack.com/services/, Port: None, Schema: , Login: , Password: ***, extra: {}
+[2022-01-02 12:33:03,202] {http.py:140} INFO - Sending 'POST' to url: https://hooks.slack.com/services/***
+[2022-01-02 12:33:04,664] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_leitrim, task_id=notify_slack, execution_date=20220101T100000, start_date=20220102T123300, end_date=20220102T123304
+[2022-01-02 12:33:04,808] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-02 12:33:05,504] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,23 @@
+[2021-12-29 11:57:35,013] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-28T10:30:00+00:00 [queued]>
+[2021-12-29 11:57:35,196] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-28T10:30:00+00:00 [queued]>
+[2021-12-29 11:57:35,245] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 11:57:35,252] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-29 11:57:35,275] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-29 11:57:35,710] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): run_init_county> on 2021-12-28 10:30:00+00:00
+[2021-12-29 11:57:35,954] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_monaghan', 'run_init_county', 'scheduled__2021-12-28T10:30:00+00:00', '--job-id', '5329', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_monaghan.py', '--cfg-path', '/tmp/tmp71wqw2s2', '--error-file', '/tmp/tmpjpbzb7q6']
+[2021-12-29 11:57:36,020] {standard_task_runner.py:77} INFO - Job 5329: Subtask run_init_county
+[2021-12-29 11:57:35,774] {standard_task_runner.py:52} INFO - Started process 24729 to run task
+[2021-12-29 11:57:37,854] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_monaghan.run_init_county scheduled__2021-12-28T10:30:00+00:00 [running]> on host 6bdda4c19a85
+[2021-12-29 11:57:38,869] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_monaghan
+AIRFLOW_CTX_TASK_ID=run_init_county
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-28T10:30:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-28T10:30:00+00:00
+[2021-12-29 11:57:38,987] {python.py:152} INFO - Done. Returned value was: None
+[2021-12-29 11:57:40,585] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_monaghan, task_id=run_init_county, execution_date=20211228T103000, start_date=20211229T115735, end_date=20211229T115740
+[2021-12-29 11:57:41,044] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-29 11:57:43,943] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

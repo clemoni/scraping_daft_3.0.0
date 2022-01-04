@@ -1,0 +1,25 @@
+[2022-01-02 12:29:26,367] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_tipperary.get_reporting scheduled__2022-01-01T10:50:00+00:00 [queued]>
+[2022-01-02 12:29:26,911] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_tipperary.get_reporting scheduled__2022-01-01T10:50:00+00:00 [queued]>
+[2022-01-02 12:29:26,923] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:29:26,934] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2022-01-02 12:29:26,943] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-02 12:29:27,531] {taskinstance.py:1262} INFO - Executing <Task(_PythonDecoratedOperator): get_reporting> on 2022-01-01 10:50:00+00:00
+[2022-01-02 12:29:27,739] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_tipperary', 'get_reporting', 'scheduled__2022-01-01T10:50:00+00:00', '--job-id', '6193', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_tipperary.py', '--cfg-path', '/tmp/tmp9w394imt', '--error-file', '/tmp/tmp3gsi5b98']
+[2022-01-02 12:29:27,754] {standard_task_runner.py:77} INFO - Job 6193: Subtask get_reporting
+[2022-01-02 12:29:27,663] {standard_task_runner.py:52} INFO - Started process 10249 to run task
+[2022-01-02 12:29:28,750] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_tipperary.get_reporting scheduled__2022-01-01T10:50:00+00:00 [running]> on host bbddfc72aeab
+[2022-01-02 12:29:30,039] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_tipperary
+AIRFLOW_CTX_TASK_ID=get_reporting
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-01T10:50:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-01T10:50:00+00:00
+[2022-01-02 12:29:30,189] {logging_mixin.py:109} INFO - tipperary
+[2022-01-02 12:29:30,290] {base.py:79} INFO - Using connection to: id: postgres_db. Host: postgres, Port: 5432, Schema: scraping_daft, Login: ***, Password: ***, extra: {}
+[2022-01-02 12:29:30,475] {python.py:152} INFO - Done. Returned value was: None
+[2022-01-02 12:29:31,599] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_tipperary, task_id=get_reporting, execution_date=20220101T105000, start_date=20220102T122926, end_date=20220102T122931
+[2022-01-02 12:29:31,992] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-02 12:29:32,315] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

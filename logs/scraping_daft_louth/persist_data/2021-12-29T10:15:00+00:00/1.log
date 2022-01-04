@@ -1,0 +1,135 @@
+[2021-12-30 11:49:49,720] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_louth.persist_data scheduled__2021-12-29T10:15:00+00:00 [queued]>
+[2021-12-30 11:49:50,047] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_louth.persist_data scheduled__2021-12-29T10:15:00+00:00 [queued]>
+[2021-12-30 11:49:50,054] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-30 11:49:50,059] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-30 11:49:50,063] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-30 11:49:50,334] {taskinstance.py:1262} INFO - Executing <Task(SparkSubmitOperator): persist_data> on 2021-12-29 10:15:00+00:00
+[2021-12-30 11:49:50,359] {standard_task_runner.py:52} INFO - Started process 6947 to run task
+[2021-12-30 11:49:50,442] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_louth', 'persist_data', 'scheduled__2021-12-29T10:15:00+00:00', '--job-id', '5597', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_louth.py', '--cfg-path', '/tmp/tmp_wf75_tn', '--error-file', '/tmp/tmprx__jhw4']
+[2021-12-30 11:49:50,469] {standard_task_runner.py:77} INFO - Job 5597: Subtask persist_data
+[2021-12-30 11:49:51,027] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_louth.persist_data scheduled__2021-12-29T10:15:00+00:00 [running]> on host 5ddf2477c0dd
+[2021-12-30 11:49:52,121] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_louth
+AIRFLOW_CTX_TASK_ID=persist_data
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-29T10:15:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-29T10:15:00+00:00
+[2021-12-30 11:49:52,231] {base.py:79} INFO - Using connection to: id: spark_default. Host: spark://spark:7077, Port: None, Schema: , Login: ***, Password: ***, extra: {}
+[2021-12-30 11:49:52,412] {spark_submit.py:360} INFO - Spark-Submit cmd: spark-submit --master spark://spark:7077 --conf spark.master=spark://spark:7077 --name persist data --verbose /opt/***/jobs/persist_db.py louth
+[2021-12-30 11:50:24,077] {spark_submit.py:514} INFO - Using properties file: null
+[2021-12-30 11:50:26,235] {spark_submit.py:514} INFO - WARNING: An illegal reflective access operation has occurred
+[2021-12-30 11:50:26,249] {spark_submit.py:514} INFO - WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/home/***/.local/lib/python3.6/site-packages/pyspark/jars/spark-unsafe_2.12-3.2.0.jar) to constructor java.nio.DirectByteBuffer(long,int)
+[2021-12-30 11:50:26,251] {spark_submit.py:514} INFO - WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+[2021-12-30 11:50:26,253] {spark_submit.py:514} INFO - WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+[2021-12-30 11:50:26,260] {spark_submit.py:514} INFO - WARNING: All illegal access operations will be denied in a future release
+[2021-12-30 11:50:27,175] {spark_submit.py:514} INFO - Parsed arguments:
+[2021-12-30 11:50:27,195] {spark_submit.py:514} INFO - master                  spark://spark:7077
+[2021-12-30 11:50:27,205] {spark_submit.py:514} INFO - deployMode              null
+[2021-12-30 11:50:27,213] {spark_submit.py:514} INFO - executorMemory          null
+[2021-12-30 11:50:27,263] {spark_submit.py:514} INFO - executorCores           null
+[2021-12-30 11:50:27,265] {spark_submit.py:514} INFO - totalExecutorCores      null
+[2021-12-30 11:50:27,274] {spark_submit.py:514} INFO - propertiesFile          null
+[2021-12-30 11:50:27,284] {spark_submit.py:514} INFO - driverMemory            null
+[2021-12-30 11:50:27,306] {spark_submit.py:514} INFO - driverCores             null
+[2021-12-30 11:50:27,318] {spark_submit.py:514} INFO - driverExtraClassPath    null
+[2021-12-30 11:50:27,324] {spark_submit.py:514} INFO - driverExtraLibraryPath  null
+[2021-12-30 11:50:27,388] {spark_submit.py:514} INFO - driverExtraJavaOptions  null
+[2021-12-30 11:50:27,394] {spark_submit.py:514} INFO - supervise               false
+[2021-12-30 11:50:27,399] {spark_submit.py:514} INFO - queue                   null
+[2021-12-30 11:50:27,403] {spark_submit.py:514} INFO - numExecutors            null
+[2021-12-30 11:50:27,408] {spark_submit.py:514} INFO - files                   null
+[2021-12-30 11:50:27,443] {spark_submit.py:514} INFO - pyFiles                 null
+[2021-12-30 11:50:27,445] {spark_submit.py:514} INFO - archives                null
+[2021-12-30 11:50:27,447] {spark_submit.py:514} INFO - mainClass               null
+[2021-12-30 11:50:27,452] {spark_submit.py:514} INFO - primaryResource         file:/opt/***/jobs/persist_db.py
+[2021-12-30 11:50:27,460] {spark_submit.py:514} INFO - name                    persist data
+[2021-12-30 11:50:27,462] {spark_submit.py:514} INFO - childArgs               [louth]
+[2021-12-30 11:50:27,480] {spark_submit.py:514} INFO - jars                    null
+[2021-12-30 11:50:27,482] {spark_submit.py:514} INFO - packages                null
+[2021-12-30 11:50:27,484] {spark_submit.py:514} INFO - packagesExclusions      null
+[2021-12-30 11:50:27,495] {spark_submit.py:514} INFO - repositories            null
+[2021-12-30 11:50:27,511] {spark_submit.py:514} INFO - verbose                 true
+[2021-12-30 11:50:27,521] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:27,534] {spark_submit.py:514} INFO - Spark properties used, including those specified through
+[2021-12-30 11:50:27,553] {spark_submit.py:514} INFO - --conf and those from the properties file null:
+[2021-12-30 11:50:27,555] {spark_submit.py:514} INFO - (spark.master,spark://spark:7077)
+[2021-12-30 11:50:27,563] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:27,574] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:32,731] {spark_submit.py:514} INFO - Main class:
+[2021-12-30 11:50:32,732] {spark_submit.py:514} INFO - org.apache.spark.deploy.PythonRunner
+[2021-12-30 11:50:32,734] {spark_submit.py:514} INFO - Arguments:
+[2021-12-30 11:50:32,743] {spark_submit.py:514} INFO - file:/opt/***/jobs/persist_db.py
+[2021-12-30 11:50:32,744] {spark_submit.py:514} INFO - null
+[2021-12-30 11:50:32,746] {spark_submit.py:514} INFO - louth
+[2021-12-30 11:50:32,753] {spark_submit.py:514} INFO - --verbose
+[2021-12-30 11:50:32,857] {spark_submit.py:514} INFO - Spark config:
+[2021-12-30 11:50:32,858] {spark_submit.py:514} INFO - (spark.master,spark://spark:7077)
+[2021-12-30 11:50:32,862] {spark_submit.py:514} INFO - (spark.app.name,persist data)
+[2021-12-30 11:50:32,872] {spark_submit.py:514} INFO - (spark.submit.pyFiles,)
+[2021-12-30 11:50:32,873] {spark_submit.py:514} INFO - (spark.submit.deployMode,client)
+[2021-12-30 11:50:32,875] {spark_submit.py:514} INFO - Classpath elements:
+[2021-12-30 11:50:32,885] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:32,886] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:32,887] {spark_submit.py:514} INFO - 
+[2021-12-30 11:50:43,633] {spark_submit.py:514} INFO - Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+[2021-12-30 11:50:43,830] {spark_submit.py:514} INFO - 21/12/30 11:50:43 INFO SparkContext: Running Spark version 3.2.0
+[2021-12-30 11:50:46,244] {spark_submit.py:514} INFO - 21/12/30 11:50:46 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2021-12-30 11:50:49,840] {spark_submit.py:514} INFO - 21/12/30 11:50:49 INFO ResourceUtils: ==============================================================
+[2021-12-30 11:50:49,843] {spark_submit.py:514} INFO - 21/12/30 11:50:49 INFO ResourceUtils: No custom resources configured for spark.driver.
+[2021-12-30 11:50:49,860] {spark_submit.py:514} INFO - 21/12/30 11:50:49 INFO ResourceUtils: ==============================================================
+[2021-12-30 11:50:49,873] {spark_submit.py:514} INFO - 21/12/30 11:50:49 INFO SparkContext: Submitted application: Persist DB
+[2021-12-30 11:50:50,909] {spark_submit.py:514} INFO - 21/12/30 11:50:50 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+[2021-12-30 11:50:51,083] {spark_submit.py:514} INFO - 21/12/30 11:50:51 INFO ResourceProfile: Limiting resource is cpu
+[2021-12-30 11:50:51,101] {spark_submit.py:514} INFO - 21/12/30 11:50:51 INFO ResourceProfileManager: Added ResourceProfile id: 0
+[2021-12-30 11:50:51,998] {spark_submit.py:514} INFO - 21/12/30 11:50:51 INFO SecurityManager: Changing view acls to: ***
+[2021-12-30 11:50:52,131] {spark_submit.py:514} INFO - 21/12/30 11:50:52 INFO SecurityManager: Changing modify acls to: ***
+[2021-12-30 11:50:52,153] {spark_submit.py:514} INFO - 21/12/30 11:50:52 INFO SecurityManager: Changing view acls groups to:
+[2021-12-30 11:50:52,171] {spark_submit.py:514} INFO - 21/12/30 11:50:52 INFO SecurityManager: Changing modify acls groups to:
+[2021-12-30 11:50:52,174] {spark_submit.py:514} INFO - 21/12/30 11:50:52 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(***); groups with view permissions: Set(); users  with modify permissions: Set(***); groups with modify permissions: Set()
+[2021-12-30 11:50:55,519] {spark_submit.py:514} INFO - 21/12/30 11:50:55 INFO Utils: Successfully started service 'sparkDriver' on port 38681.
+[2021-12-30 11:50:56,026] {spark_submit.py:514} INFO - 21/12/30 11:50:56 INFO SparkEnv: Registering MapOutputTracker
+[2021-12-30 11:50:57,091] {spark_submit.py:514} INFO - 21/12/30 11:50:57 INFO SparkEnv: Registering BlockManagerMaster
+[2021-12-30 11:50:57,720] {spark_submit.py:514} INFO - 21/12/30 11:50:57 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+[2021-12-30 11:50:57,722] {spark_submit.py:514} INFO - 21/12/30 11:50:57 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+[2021-12-30 11:50:57,838] {spark_submit.py:514} INFO - 21/12/30 11:50:57 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+[2021-12-30 11:50:58,172] {spark_submit.py:514} INFO - 21/12/30 11:50:58 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-bdbe7021-0d9e-4bd2-bd9f-9074695cee3e
+[2021-12-30 11:50:58,690] {spark_submit.py:514} INFO - 21/12/30 11:50:58 INFO MemoryStore: MemoryStore started with capacity 434.4 MiB
+[2021-12-30 11:50:58,820] {spark_submit.py:514} INFO - 21/12/30 11:50:58 INFO SparkEnv: Registering OutputCommitCoordinator
+[2021-12-30 11:51:01,903] {spark_submit.py:514} INFO - 21/12/30 11:51:01 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+[2021-12-30 11:51:02,130] {spark_submit.py:514} INFO - 21/12/30 11:51:02 INFO Utils: Successfully started service 'SparkUI' on port 4041.
+[2021-12-30 11:51:02,666] {spark_submit.py:514} INFO - 21/12/30 11:51:02 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://5ddf2477c0dd:4041
+[2021-12-30 11:51:07,077] {spark_submit.py:514} INFO - 21/12/30 11:51:07 INFO StandaloneAppClient$ClientEndpoint: Connecting to master spark://spark:7077...
+[2021-12-30 11:51:08,542] {spark_submit.py:514} INFO - 21/12/30 11:51:08 INFO TransportClientFactory: Successfully created connection to spark/172.19.0.4:7077 after 710 ms (0 ms spent in bootstraps)
+[2021-12-30 11:51:10,112] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO StandaloneSchedulerBackend: Connected to Spark cluster with app ID app-20211230115110-0049
+[2021-12-30 11:51:10,175] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 36945.
+[2021-12-30 11:51:10,177] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO NettyBlockTransferService: Server created on 5ddf2477c0dd:36945
+[2021-12-30 11:51:10,180] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+[2021-12-30 11:51:10,451] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 5ddf2477c0dd, 36945, None)
+[2021-12-30 11:51:10,472] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO BlockManagerMasterEndpoint: Registering block manager 5ddf2477c0dd:36945 with 434.4 MiB RAM, BlockManagerId(driver, 5ddf2477c0dd, 36945, None)
+[2021-12-30 11:51:10,496] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 5ddf2477c0dd, 36945, None)
+[2021-12-30 11:51:10,588] {spark_submit.py:514} INFO - 21/12/30 11:51:10 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 5ddf2477c0dd, 36945, None)
+[2021-12-30 11:51:15,088] {spark_submit.py:514} INFO - 21/12/30 11:51:15 INFO StandaloneSchedulerBackend: SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: 0.0
+[2021-12-30 11:51:15,533] {spark_submit.py:514} INFO - /home/***/.local/lib/python3.6/site-packages/pyspark/python/lib/pyspark.zip/pyspark/context.py:238: FutureWarning: Python 3.6 support is deprecated in Spark 3.2.
+[2021-12-30 11:51:15,543] {spark_submit.py:514} INFO - FutureWarning
+[2021-12-30 11:51:20,074] {spark_submit.py:514} INFO - 21/12/30 11:51:20 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir.
+[2021-12-30 11:51:20,144] {spark_submit.py:514} INFO - 21/12/30 11:51:20 INFO SharedState: Warehouse path is 'file:/opt/***/spark-warehouse'.
+[2021-12-30 11:51:33,125] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO SparkContext: Invoking stop() from shutdown hook
+[2021-12-30 11:51:33,235] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO SparkUI: Stopped Spark web UI at http://5ddf2477c0dd:4041
+[2021-12-30 11:51:33,257] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO StandaloneSchedulerBackend: Shutting down all executors
+[2021-12-30 11:51:33,277] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO CoarseGrainedSchedulerBackend$DriverEndpoint: Asking each executor to shut down
+[2021-12-30 11:51:33,454] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+[2021-12-30 11:51:33,601] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO MemoryStore: MemoryStore cleared
+[2021-12-30 11:51:33,602] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO BlockManager: BlockManager stopped
+[2021-12-30 11:51:33,640] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO BlockManagerMaster: BlockManagerMaster stopped
+[2021-12-30 11:51:33,678] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+[2021-12-30 11:51:33,859] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO SparkContext: Successfully stopped SparkContext
+[2021-12-30 11:51:33,861] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO ShutdownHookManager: Shutdown hook called
+[2021-12-30 11:51:33,863] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO ShutdownHookManager: Deleting directory /tmp/spark-7f6f1ffa-7652-4886-bcdf-90d409106480
+[2021-12-30 11:51:33,890] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO ShutdownHookManager: Deleting directory /tmp/spark-60461f8d-895f-4de6-971b-c8bea7d1bc34/pyspark-4fc14949-c1f3-4b7d-9194-96cffedae087
+[2021-12-30 11:51:33,941] {spark_submit.py:514} INFO - 21/12/30 11:51:33 INFO ShutdownHookManager: Deleting directory /tmp/spark-60461f8d-895f-4de6-971b-c8bea7d1bc34
+[2021-12-30 11:51:36,274] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_louth, task_id=persist_data, execution_date=20211229T101500, start_date=20211230T114949, end_date=20211230T115136
+[2021-12-30 11:51:37,150] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-30 11:51:38,353] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

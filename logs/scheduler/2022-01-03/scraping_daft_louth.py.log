@@ -1,0 +1,1337 @@
+[2022-01-03 11:42:23,159] {processor.py:163} INFO - Started process (PID=60) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:23,166] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:42:23,168] {logging_mixin.py:109} INFO - [2022-01-03 11:42:23,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:23,330] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:23,356] {logging_mixin.py:109} INFO - [2022-01-03 11:42:23,356] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:42:23,425] {logging_mixin.py:109} INFO - [2022-01-03 11:42:23,425] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-02T10:15:00+00:00
+[2022-01-03 11:42:23,465] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.320 seconds
+[2022-01-03 11:42:55,849] {processor.py:163} INFO - Started process (PID=143) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:55,861] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:42:55,866] {logging_mixin.py:109} INFO - [2022-01-03 11:42:55,866] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:56,452] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:42:56,588] {logging_mixin.py:109} INFO - [2022-01-03 11:42:56,587] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:42:56,757] {logging_mixin.py:109} INFO - [2022-01-03 11:42:56,757] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:42:56,812] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.003 seconds
+[2022-01-03 11:43:35,060] {processor.py:163} INFO - Started process (PID=199) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:43:35,138] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:43:35,203] {logging_mixin.py:109} INFO - [2022-01-03 11:43:35,199] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:43:35,959] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:43:36,084] {logging_mixin.py:109} INFO - [2022-01-03 11:43:36,084] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:43:36,314] {logging_mixin.py:109} INFO - [2022-01-03 11:43:36,314] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:43:36,410] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.392 seconds
+[2022-01-03 11:44:09,461] {processor.py:163} INFO - Started process (PID=243) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:09,474] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:44:09,507] {logging_mixin.py:109} INFO - [2022-01-03 11:44:09,507] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:10,374] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:10,565] {logging_mixin.py:109} INFO - [2022-01-03 11:44:10,564] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:44:11,027] {logging_mixin.py:109} INFO - [2022-01-03 11:44:11,012] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:44:11,188] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.752 seconds
+[2022-01-03 11:44:51,942] {processor.py:163} INFO - Started process (PID=294) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:51,968] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:44:51,976] {logging_mixin.py:109} INFO - [2022-01-03 11:44:51,976] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:52,803] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:44:52,906] {logging_mixin.py:109} INFO - [2022-01-03 11:44:52,906] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:44:53,132] {logging_mixin.py:109} INFO - [2022-01-03 11:44:53,132] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:44:53,281] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.393 seconds
+[2022-01-03 11:45:28,855] {processor.py:163} INFO - Started process (PID=331) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:45:28,864] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:45:28,882] {logging_mixin.py:109} INFO - [2022-01-03 11:45:28,882] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:45:29,742] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:45:29,894] {logging_mixin.py:109} INFO - [2022-01-03 11:45:29,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:45:30,857] {logging_mixin.py:109} INFO - [2022-01-03 11:45:30,855] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:45:31,055] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.239 seconds
+[2022-01-03 11:46:03,761] {processor.py:163} INFO - Started process (PID=379) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:46:03,767] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:46:03,774] {logging_mixin.py:109} INFO - [2022-01-03 11:46:03,773] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:46:04,417] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:46:04,512] {logging_mixin.py:109} INFO - [2022-01-03 11:46:04,511] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:46:04,822] {logging_mixin.py:109} INFO - [2022-01-03 11:46:04,821] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:46:04,963] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.217 seconds
+[2022-01-03 11:47:56,207] {processor.py:163} INFO - Started process (PID=445) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:47:56,225] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:47:56,229] {logging_mixin.py:109} INFO - [2022-01-03 11:47:56,229] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:47:56,982] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:47:57,180] {logging_mixin.py:109} INFO - [2022-01-03 11:47:57,179] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:47:57,621] {logging_mixin.py:109} INFO - [2022-01-03 11:47:57,621] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:47:57,863] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.672 seconds
+[2022-01-03 11:48:29,040] {processor.py:163} INFO - Started process (PID=492) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:48:29,055] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:48:29,147] {logging_mixin.py:109} INFO - [2022-01-03 11:48:29,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:48:31,215] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:48:31,441] {logging_mixin.py:109} INFO - [2022-01-03 11:48:31,441] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:48:31,994] {logging_mixin.py:109} INFO - [2022-01-03 11:48:31,963] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:48:32,326] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 3.808 seconds
+[2022-01-03 11:49:18,492] {processor.py:163} INFO - Started process (PID=542) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:18,510] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:49:18,515] {logging_mixin.py:109} INFO - [2022-01-03 11:49:18,514] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:19,939] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:20,274] {logging_mixin.py:109} INFO - [2022-01-03 11:49:20,274] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:49:20,747] {logging_mixin.py:109} INFO - [2022-01-03 11:49:20,743] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:49:20,870] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.373 seconds
+[2022-01-03 11:49:51,435] {processor.py:163} INFO - Started process (PID=590) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:51,443] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:49:51,446] {logging_mixin.py:109} INFO - [2022-01-03 11:49:51,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:51,777] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:49:51,882] {logging_mixin.py:109} INFO - [2022-01-03 11:49:51,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:49:52,083] {logging_mixin.py:109} INFO - [2022-01-03 11:49:52,083] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:49:52,148] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.720 seconds
+[2022-01-03 11:50:26,896] {processor.py:163} INFO - Started process (PID=621) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:50:26,906] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:50:26,910] {logging_mixin.py:109} INFO - [2022-01-03 11:50:26,910] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:50:27,180] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:50:27,275] {logging_mixin.py:109} INFO - [2022-01-03 11:50:27,274] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:50:27,406] {logging_mixin.py:109} INFO - [2022-01-03 11:50:27,405] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:50:27,503] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.638 seconds
+[2022-01-03 11:51:12,638] {processor.py:163} INFO - Started process (PID=668) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:12,646] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:51:12,652] {logging_mixin.py:109} INFO - [2022-01-03 11:51:12,651] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:13,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:13,293] {logging_mixin.py:109} INFO - [2022-01-03 11:51:13,292] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:51:13,400] {logging_mixin.py:109} INFO - [2022-01-03 11:51:13,399] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:51:13,471] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.852 seconds
+[2022-01-03 11:51:43,675] {processor.py:163} INFO - Started process (PID=716) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:43,685] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:51:43,697] {logging_mixin.py:109} INFO - [2022-01-03 11:51:43,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:44,165] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:51:44,337] {logging_mixin.py:109} INFO - [2022-01-03 11:51:44,337] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:51:44,677] {logging_mixin.py:109} INFO - [2022-01-03 11:51:44,677] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:51:44,931] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.262 seconds
+[2022-01-03 11:52:17,893] {processor.py:163} INFO - Started process (PID=764) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:17,927] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:52:17,939] {logging_mixin.py:109} INFO - [2022-01-03 11:52:17,938] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:18,396] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:18,522] {logging_mixin.py:109} INFO - [2022-01-03 11:52:18,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:52:18,793] {logging_mixin.py:109} INFO - [2022-01-03 11:52:18,793] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:52:18,860] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.008 seconds
+[2022-01-03 11:52:57,577] {processor.py:163} INFO - Started process (PID=808) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:57,609] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:52:57,634] {logging_mixin.py:109} INFO - [2022-01-03 11:52:57,634] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:58,471] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:52:58,525] {logging_mixin.py:109} INFO - [2022-01-03 11:52:58,525] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:52:58,659] {logging_mixin.py:109} INFO - [2022-01-03 11:52:58,656] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:52:58,720] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.225 seconds
+[2022-01-03 11:53:29,045] {processor.py:163} INFO - Started process (PID=860) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:53:29,051] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:53:29,057] {logging_mixin.py:109} INFO - [2022-01-03 11:53:29,056] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:53:29,520] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:53:29,643] {logging_mixin.py:109} INFO - [2022-01-03 11:53:29,643] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:53:29,839] {logging_mixin.py:109} INFO - [2022-01-03 11:53:29,839] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:53:29,914] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.885 seconds
+[2022-01-03 11:54:00,650] {processor.py:163} INFO - Started process (PID=913) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:00,664] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:54:00,671] {logging_mixin.py:109} INFO - [2022-01-03 11:54:00,671] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:01,285] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:01,365] {logging_mixin.py:109} INFO - [2022-01-03 11:54:01,365] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:54:01,498] {logging_mixin.py:109} INFO - [2022-01-03 11:54:01,497] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:54:01,540] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.911 seconds
+[2022-01-03 11:54:32,182] {processor.py:163} INFO - Started process (PID=953) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:32,186] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:54:32,189] {logging_mixin.py:109} INFO - [2022-01-03 11:54:32,188] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:32,546] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:54:32,611] {logging_mixin.py:109} INFO - [2022-01-03 11:54:32,610] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:54:32,813] {logging_mixin.py:109} INFO - [2022-01-03 11:54:32,812] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:54:32,872] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.708 seconds
+[2022-01-03 11:55:29,548] {processor.py:163} INFO - Started process (PID=1010) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:55:29,562] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:55:29,570] {logging_mixin.py:109} INFO - [2022-01-03 11:55:29,569] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:55:30,966] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:55:31,098] {logging_mixin.py:109} INFO - [2022-01-03 11:55:31,094] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:55:31,347] {logging_mixin.py:109} INFO - [2022-01-03 11:55:31,347] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:55:31,468] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.944 seconds
+[2022-01-03 11:56:02,407] {processor.py:163} INFO - Started process (PID=1059) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:02,417] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:56:02,420] {logging_mixin.py:109} INFO - [2022-01-03 11:56:02,420] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:02,938] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:03,251] {logging_mixin.py:109} INFO - [2022-01-03 11:56:03,251] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:56:03,475] {logging_mixin.py:109} INFO - [2022-01-03 11:56:03,475] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:56:03,607] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.225 seconds
+[2022-01-03 11:56:34,461] {processor.py:163} INFO - Started process (PID=1097) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:34,486] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:56:34,514] {logging_mixin.py:109} INFO - [2022-01-03 11:56:34,514] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:36,690] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:56:36,795] {logging_mixin.py:109} INFO - [2022-01-03 11:56:36,794] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:56:37,126] {logging_mixin.py:109} INFO - [2022-01-03 11:56:37,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:56:37,265] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.835 seconds
+[2022-01-03 11:57:07,796] {processor.py:163} INFO - Started process (PID=1149) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:07,808] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:57:07,813] {logging_mixin.py:109} INFO - [2022-01-03 11:57:07,812] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:08,980] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:09,063] {logging_mixin.py:109} INFO - [2022-01-03 11:57:09,063] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:57:09,258] {logging_mixin.py:109} INFO - [2022-01-03 11:57:09,258] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:57:09,346] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.565 seconds
+[2022-01-03 11:57:40,815] {processor.py:163} INFO - Started process (PID=1189) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:40,832] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:57:40,853] {logging_mixin.py:109} INFO - [2022-01-03 11:57:40,853] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:41,624] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:57:42,666] {logging_mixin.py:109} INFO - [2022-01-03 11:57:42,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:57:43,274] {logging_mixin.py:109} INFO - [2022-01-03 11:57:43,273] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:57:43,390] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.688 seconds
+[2022-01-03 11:58:13,751] {processor.py:163} INFO - Started process (PID=1241) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:13,766] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:58:13,782] {logging_mixin.py:109} INFO - [2022-01-03 11:58:13,781] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:14,222] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:14,312] {logging_mixin.py:109} INFO - [2022-01-03 11:58:14,312] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:58:14,471] {logging_mixin.py:109} INFO - [2022-01-03 11:58:14,470] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:58:14,513] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.770 seconds
+[2022-01-03 11:58:44,820] {processor.py:163} INFO - Started process (PID=1305) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:44,825] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:58:44,829] {logging_mixin.py:109} INFO - [2022-01-03 11:58:44,829] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:45,044] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:58:45,096] {logging_mixin.py:109} INFO - [2022-01-03 11:58:45,096] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:58:45,197] {logging_mixin.py:109} INFO - [2022-01-03 11:58:45,197] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:58:45,235] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.430 seconds
+[2022-01-03 11:59:15,984] {processor.py:163} INFO - Started process (PID=1345) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:16,042] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:59:16,056] {logging_mixin.py:109} INFO - [2022-01-03 11:59:16,056] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:16,418] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:16,458] {logging_mixin.py:109} INFO - [2022-01-03 11:59:16,458] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:59:16,605] {logging_mixin.py:109} INFO - [2022-01-03 11:59:16,605] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:59:16,635] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.727 seconds
+[2022-01-03 11:59:48,653] {processor.py:163} INFO - Started process (PID=1395) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:48,722] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 11:59:48,750] {logging_mixin.py:109} INFO - [2022-01-03 11:59:48,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:49,804] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 11:59:49,915] {logging_mixin.py:109} INFO - [2022-01-03 11:59:49,915] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:59:50,182] {logging_mixin.py:109} INFO - [2022-01-03 11:59:50,181] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 11:59:50,344] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.763 seconds
+[2022-01-03 12:00:20,730] {processor.py:163} INFO - Started process (PID=1444) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:00:20,739] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:00:20,753] {logging_mixin.py:109} INFO - [2022-01-03 12:00:20,753] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:00:21,645] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:00:21,823] {logging_mixin.py:109} INFO - [2022-01-03 12:00:21,819] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:00:31,791] {logging_mixin.py:109} INFO - [2022-01-03 12:00:31,789] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:00:32,994] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 12.288 seconds
+[2022-01-03 12:01:21,133] {processor.py:163} INFO - Started process (PID=1473) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:01:21,139] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:01:21,142] {logging_mixin.py:109} INFO - [2022-01-03 12:01:21,142] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:01:22,144] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:01:22,549] {logging_mixin.py:109} INFO - [2022-01-03 12:01:22,548] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:01:22,929] {logging_mixin.py:109} INFO - [2022-01-03 12:01:22,929] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:01:23,034] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.915 seconds
+[2022-01-03 12:02:07,643] {processor.py:163} INFO - Started process (PID=1530) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:07,655] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:02:07,666] {logging_mixin.py:109} INFO - [2022-01-03 12:02:07,665] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:08,552] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:08,674] {logging_mixin.py:109} INFO - [2022-01-03 12:02:08,674] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:02:08,782] {logging_mixin.py:109} INFO - [2022-01-03 12:02:08,782] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:02:08,843] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.211 seconds
+[2022-01-03 12:02:39,439] {processor.py:163} INFO - Started process (PID=1577) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:39,448] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:02:39,454] {logging_mixin.py:109} INFO - [2022-01-03 12:02:39,453] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:39,684] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:02:39,754] {logging_mixin.py:109} INFO - [2022-01-03 12:02:39,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:02:39,878] {logging_mixin.py:109} INFO - [2022-01-03 12:02:39,877] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:02:39,961] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.540 seconds
+[2022-01-03 12:03:10,602] {processor.py:163} INFO - Started process (PID=1630) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:10,613] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:03:10,616] {logging_mixin.py:109} INFO - [2022-01-03 12:03:10,616] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:10,980] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:11,051] {logging_mixin.py:109} INFO - [2022-01-03 12:03:11,051] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:03:11,175] {logging_mixin.py:109} INFO - [2022-01-03 12:03:11,175] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:03:11,228] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.633 seconds
+[2022-01-03 12:03:41,905] {processor.py:163} INFO - Started process (PID=1672) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:41,917] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:03:41,921] {logging_mixin.py:109} INFO - [2022-01-03 12:03:41,920] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:42,250] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:03:42,310] {logging_mixin.py:109} INFO - [2022-01-03 12:03:42,310] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:03:42,474] {logging_mixin.py:109} INFO - [2022-01-03 12:03:42,474] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:03:42,540] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.651 seconds
+[2022-01-03 12:04:15,938] {processor.py:163} INFO - Started process (PID=1724) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:15,946] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:04:15,953] {logging_mixin.py:109} INFO - [2022-01-03 12:04:15,953] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:16,749] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:16,848] {logging_mixin.py:109} INFO - [2022-01-03 12:04:16,847] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:04:17,041] {logging_mixin.py:109} INFO - [2022-01-03 12:04:17,041] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:04:17,166] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.277 seconds
+[2022-01-03 12:04:47,290] {processor.py:163} INFO - Started process (PID=1782) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:47,295] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:04:47,300] {logging_mixin.py:109} INFO - [2022-01-03 12:04:47,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:47,652] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:04:47,727] {logging_mixin.py:109} INFO - [2022-01-03 12:04:47,727] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:04:47,880] {logging_mixin.py:109} INFO - [2022-01-03 12:04:47,880] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:04:47,946] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.664 seconds
+[2022-01-03 12:05:18,283] {processor.py:163} INFO - Started process (PID=1818) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:18,294] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:05:18,300] {logging_mixin.py:109} INFO - [2022-01-03 12:05:18,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:18,623] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:18,686] {logging_mixin.py:109} INFO - [2022-01-03 12:05:18,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:05:18,780] {logging_mixin.py:109} INFO - [2022-01-03 12:05:18,779] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:05:18,856] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.580 seconds
+[2022-01-03 12:05:49,667] {processor.py:163} INFO - Started process (PID=1868) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:49,692] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:05:49,695] {logging_mixin.py:109} INFO - [2022-01-03 12:05:49,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:50,228] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:05:50,305] {logging_mixin.py:109} INFO - [2022-01-03 12:05:50,304] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:05:50,476] {logging_mixin.py:109} INFO - [2022-01-03 12:05:50,475] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:05:50,539] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.911 seconds
+[2022-01-03 12:06:20,624] {processor.py:163} INFO - Started process (PID=1914) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:20,629] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:06:20,633] {logging_mixin.py:109} INFO - [2022-01-03 12:06:20,633] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:20,897] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:20,939] {logging_mixin.py:109} INFO - [2022-01-03 12:06:20,938] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:06:21,134] {logging_mixin.py:109} INFO - [2022-01-03 12:06:21,131] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:06:21,184] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.570 seconds
+[2022-01-03 12:06:51,719] {processor.py:163} INFO - Started process (PID=1960) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:51,723] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:06:51,725] {logging_mixin.py:109} INFO - [2022-01-03 12:06:51,725] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:52,038] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:06:52,120] {logging_mixin.py:109} INFO - [2022-01-03 12:06:52,120] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:06:52,301] {logging_mixin.py:109} INFO - [2022-01-03 12:06:52,301] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:06:52,399] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.698 seconds
+[2022-01-03 12:07:23,085] {processor.py:163} INFO - Started process (PID=2008) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:23,109] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:07:23,121] {logging_mixin.py:109} INFO - [2022-01-03 12:07:23,118] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:23,451] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:23,499] {logging_mixin.py:109} INFO - [2022-01-03 12:07:23,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:07:23,579] {logging_mixin.py:109} INFO - [2022-01-03 12:07:23,579] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:07:23,615] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.554 seconds
+[2022-01-03 12:07:54,199] {processor.py:163} INFO - Started process (PID=2059) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:54,205] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:07:54,212] {logging_mixin.py:109} INFO - [2022-01-03 12:07:54,212] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:54,557] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:07:54,622] {logging_mixin.py:109} INFO - [2022-01-03 12:07:54,621] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:07:54,768] {logging_mixin.py:109} INFO - [2022-01-03 12:07:54,767] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:07:54,841] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.650 seconds
+[2022-01-03 12:08:25,337] {processor.py:163} INFO - Started process (PID=2119) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:25,343] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:08:25,349] {logging_mixin.py:109} INFO - [2022-01-03 12:08:25,348] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:25,605] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:25,655] {logging_mixin.py:109} INFO - [2022-01-03 12:08:25,654] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:08:25,851] {logging_mixin.py:109} INFO - [2022-01-03 12:08:25,850] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:08:25,941] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.613 seconds
+[2022-01-03 12:08:56,061] {processor.py:163} INFO - Started process (PID=2166) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:56,064] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:08:56,067] {logging_mixin.py:109} INFO - [2022-01-03 12:08:56,067] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:56,247] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:08:56,291] {logging_mixin.py:109} INFO - [2022-01-03 12:08:56,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:08:56,379] {logging_mixin.py:109} INFO - [2022-01-03 12:08:56,378] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:08:56,433] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.381 seconds
+[2022-01-03 12:09:28,132] {processor.py:163} INFO - Started process (PID=2215) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:28,140] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:09:28,146] {logging_mixin.py:109} INFO - [2022-01-03 12:09:28,146] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:28,577] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:28,718] {logging_mixin.py:109} INFO - [2022-01-03 12:09:28,717] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:09:28,845] {logging_mixin.py:109} INFO - [2022-01-03 12:09:28,845] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:09:28,886] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.769 seconds
+[2022-01-03 12:09:59,450] {processor.py:163} INFO - Started process (PID=2264) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:59,453] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:09:59,457] {logging_mixin.py:109} INFO - [2022-01-03 12:09:59,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:59,595] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:09:59,626] {logging_mixin.py:109} INFO - [2022-01-03 12:09:59,626] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:09:59,695] {logging_mixin.py:109} INFO - [2022-01-03 12:09:59,695] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:09:59,747] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.306 seconds
+[2022-01-03 12:10:32,020] {processor.py:163} INFO - Started process (PID=2313) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:10:32,030] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:10:32,037] {logging_mixin.py:109} INFO - [2022-01-03 12:10:32,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:10:32,312] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:10:32,385] {logging_mixin.py:109} INFO - [2022-01-03 12:10:32,385] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:10:32,486] {logging_mixin.py:109} INFO - [2022-01-03 12:10:32,485] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:10:32,531] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.585 seconds
+[2022-01-03 12:11:02,689] {processor.py:163} INFO - Started process (PID=2363) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:02,692] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:11:02,695] {logging_mixin.py:109} INFO - [2022-01-03 12:11:02,694] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:02,804] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:02,833] {logging_mixin.py:109} INFO - [2022-01-03 12:11:02,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:11:02,897] {logging_mixin.py:109} INFO - [2022-01-03 12:11:02,896] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:11:02,931] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.248 seconds
+[2022-01-03 12:11:33,628] {processor.py:163} INFO - Started process (PID=2412) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:33,630] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:11:33,632] {logging_mixin.py:109} INFO - [2022-01-03 12:11:33,632] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:33,742] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:11:33,778] {logging_mixin.py:109} INFO - [2022-01-03 12:11:33,777] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:11:33,820] {logging_mixin.py:109} INFO - [2022-01-03 12:11:33,820] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:11:33,846] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.223 seconds
+[2022-01-03 12:12:04,243] {processor.py:163} INFO - Started process (PID=2471) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:04,248] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:12:04,251] {logging_mixin.py:109} INFO - [2022-01-03 12:12:04,251] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:04,381] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:04,406] {logging_mixin.py:109} INFO - [2022-01-03 12:12:04,406] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:12:04,451] {logging_mixin.py:109} INFO - [2022-01-03 12:12:04,451] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:12:04,473] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.240 seconds
+[2022-01-03 12:12:34,704] {processor.py:163} INFO - Started process (PID=2518) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:34,706] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:12:34,708] {logging_mixin.py:109} INFO - [2022-01-03 12:12:34,708] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:34,791] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:12:34,809] {logging_mixin.py:109} INFO - [2022-01-03 12:12:34,809] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:12:34,849] {logging_mixin.py:109} INFO - [2022-01-03 12:12:34,849] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:12:34,868] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.168 seconds
+[2022-01-03 12:13:04,956] {processor.py:163} INFO - Started process (PID=2565) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:04,959] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:13:04,961] {logging_mixin.py:109} INFO - [2022-01-03 12:13:04,961] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:05,050] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:05,067] {logging_mixin.py:109} INFO - [2022-01-03 12:13:05,067] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:13:05,103] {logging_mixin.py:109} INFO - [2022-01-03 12:13:05,103] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:13:05,119] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.167 seconds
+[2022-01-03 12:13:35,443] {processor.py:163} INFO - Started process (PID=2624) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:35,445] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:13:35,447] {logging_mixin.py:109} INFO - [2022-01-03 12:13:35,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:35,517] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:13:35,533] {logging_mixin.py:109} INFO - [2022-01-03 12:13:35,533] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:13:35,567] {logging_mixin.py:109} INFO - [2022-01-03 12:13:35,566] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:13:35,588] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.149 seconds
+[2022-01-03 12:14:05,860] {processor.py:163} INFO - Started process (PID=2671) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:05,862] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:14:05,864] {logging_mixin.py:109} INFO - [2022-01-03 12:14:05,864] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:05,942] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:05,959] {logging_mixin.py:109} INFO - [2022-01-03 12:14:05,958] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:14:06,000] {logging_mixin.py:109} INFO - [2022-01-03 12:14:06,000] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:14:06,022] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.166 seconds
+[2022-01-03 12:14:36,127] {processor.py:163} INFO - Started process (PID=2730) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:36,131] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:14:36,133] {logging_mixin.py:109} INFO - [2022-01-03 12:14:36,133] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:36,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:14:36,229] {logging_mixin.py:109} INFO - [2022-01-03 12:14:36,229] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:14:36,263] {logging_mixin.py:109} INFO - [2022-01-03 12:14:36,263] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:14:36,282] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.161 seconds
+[2022-01-03 12:15:06,393] {processor.py:163} INFO - Started process (PID=2778) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:06,395] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:15:06,396] {logging_mixin.py:109} INFO - [2022-01-03 12:15:06,396] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:06,468] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:06,483] {logging_mixin.py:109} INFO - [2022-01-03 12:15:06,483] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:15:06,515] {logging_mixin.py:109} INFO - [2022-01-03 12:15:06,515] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:15:06,529] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.141 seconds
+[2022-01-03 12:15:36,816] {processor.py:163} INFO - Started process (PID=2834) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:36,818] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:15:36,820] {logging_mixin.py:109} INFO - [2022-01-03 12:15:36,820] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:36,922] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:15:36,940] {logging_mixin.py:109} INFO - [2022-01-03 12:15:36,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:15:36,977] {logging_mixin.py:109} INFO - [2022-01-03 12:15:36,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:15:36,994] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.185 seconds
+[2022-01-03 12:16:07,281] {processor.py:163} INFO - Started process (PID=2882) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:07,283] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:16:07,285] {logging_mixin.py:109} INFO - [2022-01-03 12:16:07,285] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:07,355] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:07,370] {logging_mixin.py:109} INFO - [2022-01-03 12:16:07,370] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:16:07,403] {logging_mixin.py:109} INFO - [2022-01-03 12:16:07,403] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:16:07,417] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.141 seconds
+[2022-01-03 12:16:37,648] {processor.py:163} INFO - Started process (PID=2941) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:37,651] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:16:37,653] {logging_mixin.py:109} INFO - [2022-01-03 12:16:37,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:37,753] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:16:37,778] {logging_mixin.py:109} INFO - [2022-01-03 12:16:37,778] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:16:37,830] {logging_mixin.py:109} INFO - [2022-01-03 12:16:37,830] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:16:37,852] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.208 seconds
+[2022-01-03 12:17:08,052] {processor.py:163} INFO - Started process (PID=2989) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:08,054] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:17:08,056] {logging_mixin.py:109} INFO - [2022-01-03 12:17:08,055] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:08,120] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:08,135] {logging_mixin.py:109} INFO - [2022-01-03 12:17:08,135] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:17:08,165] {logging_mixin.py:109} INFO - [2022-01-03 12:17:08,165] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:17:08,178] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.130 seconds
+[2022-01-03 12:17:38,485] {processor.py:163} INFO - Started process (PID=3048) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:38,487] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:17:38,489] {logging_mixin.py:109} INFO - [2022-01-03 12:17:38,489] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:38,568] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:17:38,586] {logging_mixin.py:109} INFO - [2022-01-03 12:17:38,586] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:17:38,624] {logging_mixin.py:109} INFO - [2022-01-03 12:17:38,624] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:17:38,643] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.161 seconds
+[2022-01-03 12:18:08,782] {processor.py:163} INFO - Started process (PID=3095) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:08,784] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:18:08,786] {logging_mixin.py:109} INFO - [2022-01-03 12:18:08,786] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:08,863] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:08,881] {logging_mixin.py:109} INFO - [2022-01-03 12:18:08,880] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:18:08,926] {logging_mixin.py:109} INFO - [2022-01-03 12:18:08,926] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:18:08,946] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.168 seconds
+[2022-01-03 12:18:39,103] {processor.py:163} INFO - Started process (PID=3153) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:39,105] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:18:39,107] {logging_mixin.py:109} INFO - [2022-01-03 12:18:39,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:39,187] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:18:39,205] {logging_mixin.py:109} INFO - [2022-01-03 12:18:39,205] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:18:39,240] {logging_mixin.py:109} INFO - [2022-01-03 12:18:39,240] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:18:39,265] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.165 seconds
+[2022-01-03 12:19:09,440] {processor.py:163} INFO - Started process (PID=3201) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:09,443] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:19:09,444] {logging_mixin.py:109} INFO - [2022-01-03 12:19:09,444] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:09,515] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:09,530] {logging_mixin.py:109} INFO - [2022-01-03 12:19:09,530] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:19:09,564] {logging_mixin.py:109} INFO - [2022-01-03 12:19:09,564] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:19:09,581] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.148 seconds
+[2022-01-03 12:19:40,212] {processor.py:163} INFO - Started process (PID=3249) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:40,215] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:19:40,216] {logging_mixin.py:109} INFO - [2022-01-03 12:19:40,216] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:40,305] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:19:40,324] {logging_mixin.py:109} INFO - [2022-01-03 12:19:40,324] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:19:40,368] {logging_mixin.py:109} INFO - [2022-01-03 12:19:40,368] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:19:40,392] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.185 seconds
+[2022-01-03 12:20:10,954] {processor.py:163} INFO - Started process (PID=3309) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:10,957] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:20:10,959] {logging_mixin.py:109} INFO - [2022-01-03 12:20:10,959] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:11,035] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:11,052] {logging_mixin.py:109} INFO - [2022-01-03 12:20:11,052] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:20:11,096] {logging_mixin.py:109} INFO - [2022-01-03 12:20:11,096] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:20:11,116] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.166 seconds
+[2022-01-03 12:20:41,505] {processor.py:163} INFO - Started process (PID=3356) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:41,508] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:20:41,509] {logging_mixin.py:109} INFO - [2022-01-03 12:20:41,509] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:41,595] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:20:41,618] {logging_mixin.py:109} INFO - [2022-01-03 12:20:41,617] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:20:41,657] {logging_mixin.py:109} INFO - [2022-01-03 12:20:41,657] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:20:41,678] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.177 seconds
+[2022-01-03 12:21:11,758] {processor.py:163} INFO - Started process (PID=3414) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:11,761] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:21:11,762] {logging_mixin.py:109} INFO - [2022-01-03 12:21:11,762] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:11,851] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:11,873] {logging_mixin.py:109} INFO - [2022-01-03 12:21:11,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:21:11,917] {logging_mixin.py:109} INFO - [2022-01-03 12:21:11,917] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:21:11,945] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.191 seconds
+[2022-01-03 12:21:42,220] {processor.py:163} INFO - Started process (PID=3462) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:42,221] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:21:42,223] {logging_mixin.py:109} INFO - [2022-01-03 12:21:42,223] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:42,293] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:21:42,313] {logging_mixin.py:109} INFO - [2022-01-03 12:21:42,313] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:21:42,364] {logging_mixin.py:109} INFO - [2022-01-03 12:21:42,364] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:21:42,379] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.163 seconds
+[2022-01-03 12:22:13,402] {processor.py:163} INFO - Started process (PID=3520) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:13,405] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:22:13,407] {logging_mixin.py:109} INFO - [2022-01-03 12:22:13,406] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:13,496] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:13,515] {logging_mixin.py:109} INFO - [2022-01-03 12:22:13,515] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:22:13,555] {logging_mixin.py:109} INFO - [2022-01-03 12:22:13,555] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:22:13,573] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.175 seconds
+[2022-01-03 12:22:43,996] {processor.py:163} INFO - Started process (PID=3568) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:43,999] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:22:44,000] {logging_mixin.py:109} INFO - [2022-01-03 12:22:44,000] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:44,100] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:22:44,125] {logging_mixin.py:109} INFO - [2022-01-03 12:22:44,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:22:44,179] {logging_mixin.py:109} INFO - [2022-01-03 12:22:44,179] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:22:44,218] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.226 seconds
+[2022-01-03 12:23:14,458] {processor.py:163} INFO - Started process (PID=3615) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:14,460] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:23:14,462] {logging_mixin.py:109} INFO - [2022-01-03 12:23:14,462] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:14,547] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:14,564] {logging_mixin.py:109} INFO - [2022-01-03 12:23:14,563] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:23:14,605] {logging_mixin.py:109} INFO - [2022-01-03 12:23:14,605] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:23:14,625] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.171 seconds
+[2022-01-03 12:23:44,962] {processor.py:163} INFO - Started process (PID=3663) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:44,965] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:23:44,967] {logging_mixin.py:109} INFO - [2022-01-03 12:23:44,967] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:45,069] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:23:45,090] {logging_mixin.py:109} INFO - [2022-01-03 12:23:45,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:23:45,131] {logging_mixin.py:109} INFO - [2022-01-03 12:23:45,130] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:23:45,149] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.192 seconds
+[2022-01-03 12:24:23,569] {processor.py:163} INFO - Started process (PID=3686) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:23,571] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:24:23,573] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,573] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:23,657] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:23,676] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,676] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:24:23,715] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,715] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:24:23,733] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.169 seconds
+[2022-01-03 12:24:54,393] {processor.py:163} INFO - Started process (PID=3733) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:54,396] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:24:54,398] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,398] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:54,483] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:24:54,504] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,504] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:24:54,544] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,544] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:24:54,562] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.172 seconds
+[2022-01-03 12:25:25,144] {processor.py:163} INFO - Started process (PID=3790) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:25,146] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:25:25,148] {logging_mixin.py:109} INFO - [2022-01-03 12:25:25,148] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:25,228] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:25,250] {logging_mixin.py:109} INFO - [2022-01-03 12:25:25,250] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:25:25,285] {logging_mixin.py:109} INFO - [2022-01-03 12:25:25,285] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:25:25,303] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.163 seconds
+[2022-01-03 12:25:55,971] {processor.py:163} INFO - Started process (PID=3836) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:55,973] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:25:55,974] {logging_mixin.py:109} INFO - [2022-01-03 12:25:55,974] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:56,076] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:25:56,099] {logging_mixin.py:109} INFO - [2022-01-03 12:25:56,099] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:25:56,143] {logging_mixin.py:109} INFO - [2022-01-03 12:25:56,143] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:25:56,167] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.203 seconds
+[2022-01-03 12:26:26,897] {processor.py:163} INFO - Started process (PID=3892) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:26,900] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:26:26,904] {logging_mixin.py:109} INFO - [2022-01-03 12:26:26,903] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:26,995] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:27,010] {logging_mixin.py:109} INFO - [2022-01-03 12:26:27,010] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:26:27,045] {logging_mixin.py:109} INFO - [2022-01-03 12:26:27,045] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:26:27,070] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.177 seconds
+[2022-01-03 12:26:57,763] {processor.py:163} INFO - Started process (PID=3939) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:57,765] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:26:57,768] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,768] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:57,858] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:26:57,876] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,876] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:26:57,914] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,914] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:26:57,937] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.179 seconds
+[2022-01-03 12:27:28,463] {processor.py:163} INFO - Started process (PID=3996) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:28,465] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:27:28,467] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,467] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:28,546] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:28,562] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,562] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:27:28,598] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,598] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:27:28,621] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.162 seconds
+[2022-01-03 12:27:59,428] {processor.py:163} INFO - Started process (PID=4042) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:59,430] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:27:59,431] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,431] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:59,515] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:27:59,535] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,535] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:27:59,576] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,576] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:27:59,595] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.172 seconds
+[2022-01-03 12:28:30,315] {processor.py:163} INFO - Started process (PID=4099) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:28:30,318] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:28:30,319] {logging_mixin.py:109} INFO - [2022-01-03 12:28:30,319] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:28:30,398] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:28:30,418] {logging_mixin.py:109} INFO - [2022-01-03 12:28:30,417] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:28:30,467] {logging_mixin.py:109} INFO - [2022-01-03 12:28:30,467] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:28:30,490] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.179 seconds
+[2022-01-03 12:29:01,190] {processor.py:163} INFO - Started process (PID=4145) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:01,195] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:29:01,198] {logging_mixin.py:109} INFO - [2022-01-03 12:29:01,197] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:01,298] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:01,323] {logging_mixin.py:109} INFO - [2022-01-03 12:29:01,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:29:01,363] {logging_mixin.py:109} INFO - [2022-01-03 12:29:01,363] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:29:01,383] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.198 seconds
+[2022-01-03 12:29:31,463] {processor.py:163} INFO - Started process (PID=4203) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:31,466] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:29:31,468] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,467] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:31,545] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:29:31,560] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,560] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:29:31,592] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,592] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:29:31,609] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.150 seconds
+[2022-01-03 12:30:01,812] {processor.py:163} INFO - Started process (PID=4252) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:01,814] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:30:01,815] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,815] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:01,911] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:01,938] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,937] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:30:01,969] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,969] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:30:01,984] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.176 seconds
+[2022-01-03 12:30:32,127] {processor.py:163} INFO - Started process (PID=4309) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:32,129] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:30:32,132] {logging_mixin.py:109} INFO - [2022-01-03 12:30:32,132] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:32,220] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:30:32,240] {logging_mixin.py:109} INFO - [2022-01-03 12:30:32,240] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:30:32,280] {logging_mixin.py:109} INFO - [2022-01-03 12:30:32,280] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:30:32,297] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.180 seconds
+[2022-01-03 12:31:02,428] {processor.py:163} INFO - Started process (PID=4355) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:02,431] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:31:02,433] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,433] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:02,523] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:02,540] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,540] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:31:02,577] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,577] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:31:02,595] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.172 seconds
+[2022-01-03 12:31:32,679] {processor.py:163} INFO - Started process (PID=4413) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:32,680] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:31:32,682] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,682] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:32,787] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:31:32,809] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,809] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:31:32,855] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,855] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:31:32,877] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.202 seconds
+[2022-01-03 12:32:02,935] {processor.py:163} INFO - Started process (PID=4460) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:02,937] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:32:02,939] {logging_mixin.py:109} INFO - [2022-01-03 12:32:02,938] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:03,024] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:03,044] {logging_mixin.py:109} INFO - [2022-01-03 12:32:03,044] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:32:03,084] {logging_mixin.py:109} INFO - [2022-01-03 12:32:03,084] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:32:03,104] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.173 seconds
+[2022-01-03 12:32:33,408] {processor.py:163} INFO - Started process (PID=4519) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:33,411] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:32:33,412] {logging_mixin.py:109} INFO - [2022-01-03 12:32:33,412] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:33,527] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:32:33,561] {logging_mixin.py:109} INFO - [2022-01-03 12:32:33,561] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:32:33,618] {logging_mixin.py:109} INFO - [2022-01-03 12:32:33,618] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:32:33,647] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.242 seconds
+[2022-01-03 12:33:04,186] {processor.py:163} INFO - Started process (PID=4567) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:04,190] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:33:04,192] {logging_mixin.py:109} INFO - [2022-01-03 12:33:04,191] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:04,269] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:04,285] {logging_mixin.py:109} INFO - [2022-01-03 12:33:04,285] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:33:04,316] {logging_mixin.py:109} INFO - [2022-01-03 12:33:04,316] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:33:04,332] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.155 seconds
+[2022-01-03 12:33:35,070] {processor.py:163} INFO - Started process (PID=4626) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:35,073] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:33:35,075] {logging_mixin.py:109} INFO - [2022-01-03 12:33:35,074] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:35,162] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:33:35,181] {logging_mixin.py:109} INFO - [2022-01-03 12:33:35,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:33:35,221] {logging_mixin.py:109} INFO - [2022-01-03 12:33:35,221] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:33:35,247] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.180 seconds
+[2022-01-03 12:34:05,685] {processor.py:163} INFO - Started process (PID=4674) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:05,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:34:05,689] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,688] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:05,756] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:05,772] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,772] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:34:05,806] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,805] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:34:05,824] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.143 seconds
+[2022-01-03 12:34:36,742] {processor.py:163} INFO - Started process (PID=4731) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:36,744] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:34:36,746] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,746] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:36,849] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:34:36,873] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:34:36,916] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,916] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:34:36,944] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.206 seconds
+[2022-01-03 12:35:07,935] {processor.py:163} INFO - Started process (PID=4779) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:07,938] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:35:07,940] {logging_mixin.py:109} INFO - [2022-01-03 12:35:07,940] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:08,018] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:08,034] {logging_mixin.py:109} INFO - [2022-01-03 12:35:08,034] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:35:08,070] {logging_mixin.py:109} INFO - [2022-01-03 12:35:08,070] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:35:08,091] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.162 seconds
+[2022-01-03 12:35:38,507] {processor.py:163} INFO - Started process (PID=4837) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:38,509] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:35:38,512] {logging_mixin.py:109} INFO - [2022-01-03 12:35:38,512] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:38,595] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:35:38,615] {logging_mixin.py:109} INFO - [2022-01-03 12:35:38,615] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:35:38,656] {logging_mixin.py:109} INFO - [2022-01-03 12:35:38,656] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:35:38,682] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.179 seconds
+[2022-01-03 12:36:09,258] {processor.py:163} INFO - Started process (PID=4883) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:09,260] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:36:09,262] {logging_mixin.py:109} INFO - [2022-01-03 12:36:09,262] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:09,355] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:09,373] {logging_mixin.py:109} INFO - [2022-01-03 12:36:09,373] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:36:09,407] {logging_mixin.py:109} INFO - [2022-01-03 12:36:09,407] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:36:09,422] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.169 seconds
+[2022-01-03 12:36:39,826] {processor.py:163} INFO - Started process (PID=4942) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:39,828] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:36:39,830] {logging_mixin.py:109} INFO - [2022-01-03 12:36:39,830] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:39,909] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:36:39,934] {logging_mixin.py:109} INFO - [2022-01-03 12:36:39,934] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:36:39,980] {logging_mixin.py:109} INFO - [2022-01-03 12:36:39,980] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:36:40,001] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.179 seconds
+[2022-01-03 12:37:10,581] {processor.py:163} INFO - Started process (PID=4988) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:10,583] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:37:10,584] {logging_mixin.py:109} INFO - [2022-01-03 12:37:10,584] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:10,678] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:10,700] {logging_mixin.py:109} INFO - [2022-01-03 12:37:10,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:37:10,743] {logging_mixin.py:109} INFO - [2022-01-03 12:37:10,743] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:37:10,779] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.203 seconds
+[2022-01-03 12:37:41,447] {processor.py:163} INFO - Started process (PID=5046) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:41,449] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:37:41,451] {logging_mixin.py:109} INFO - [2022-01-03 12:37:41,451] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:41,531] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:37:41,551] {logging_mixin.py:109} INFO - [2022-01-03 12:37:41,551] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:37:41,588] {logging_mixin.py:109} INFO - [2022-01-03 12:37:41,588] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:37:41,606] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.163 seconds
+[2022-01-03 12:38:12,155] {processor.py:163} INFO - Started process (PID=5095) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:12,159] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:38:12,161] {logging_mixin.py:109} INFO - [2022-01-03 12:38:12,161] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:12,279] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:12,300] {logging_mixin.py:109} INFO - [2022-01-03 12:38:12,300] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:38:12,342] {logging_mixin.py:109} INFO - [2022-01-03 12:38:12,342] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:38:12,365] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.217 seconds
+[2022-01-03 12:38:43,039] {processor.py:163} INFO - Started process (PID=5155) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:43,044] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:38:43,046] {logging_mixin.py:109} INFO - [2022-01-03 12:38:43,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:43,124] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:38:43,141] {logging_mixin.py:109} INFO - [2022-01-03 12:38:43,141] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:38:43,178] {logging_mixin.py:109} INFO - [2022-01-03 12:38:43,177] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:38:43,200] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.166 seconds
+[2022-01-03 12:39:13,819] {processor.py:163} INFO - Started process (PID=5202) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:13,821] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:39:13,822] {logging_mixin.py:109} INFO - [2022-01-03 12:39:13,822] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:13,893] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:13,910] {logging_mixin.py:109} INFO - [2022-01-03 12:39:13,910] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:39:13,946] {logging_mixin.py:109} INFO - [2022-01-03 12:39:13,946] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:39:13,970] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.154 seconds
+[2022-01-03 12:39:44,516] {processor.py:163} INFO - Started process (PID=5260) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:44,519] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:39:44,521] {logging_mixin.py:109} INFO - [2022-01-03 12:39:44,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:44,634] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:39:44,651] {logging_mixin.py:109} INFO - [2022-01-03 12:39:44,651] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:39:44,696] {logging_mixin.py:109} INFO - [2022-01-03 12:39:44,696] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:39:44,719] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.210 seconds
+[2022-01-03 12:40:15,375] {processor.py:163} INFO - Started process (PID=5307) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:15,377] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:40:15,378] {logging_mixin.py:109} INFO - [2022-01-03 12:40:15,378] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:15,455] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:15,472] {logging_mixin.py:109} INFO - [2022-01-03 12:40:15,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:40:15,515] {logging_mixin.py:109} INFO - [2022-01-03 12:40:15,515] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:40:15,531] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.160 seconds
+[2022-01-03 12:40:46,329] {processor.py:163} INFO - Started process (PID=5354) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:46,333] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:40:46,337] {logging_mixin.py:109} INFO - [2022-01-03 12:40:46,337] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:46,444] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:40:46,467] {logging_mixin.py:109} INFO - [2022-01-03 12:40:46,467] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:40:46,512] {logging_mixin.py:109} INFO - [2022-01-03 12:40:46,512] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:40:46,534] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.209 seconds
+[2022-01-03 12:41:17,056] {processor.py:163} INFO - Started process (PID=5413) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:17,059] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:41:17,061] {logging_mixin.py:109} INFO - [2022-01-03 12:41:17,060] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:17,162] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:17,177] {logging_mixin.py:109} INFO - [2022-01-03 12:41:17,177] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:41:17,208] {logging_mixin.py:109} INFO - [2022-01-03 12:41:17,208] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:41:17,224] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.172 seconds
+[2022-01-03 12:41:47,797] {processor.py:163} INFO - Started process (PID=5460) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:47,800] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:41:47,801] {logging_mixin.py:109} INFO - [2022-01-03 12:41:47,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:47,873] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:41:47,892] {logging_mixin.py:109} INFO - [2022-01-03 12:41:47,892] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:41:47,926] {logging_mixin.py:109} INFO - [2022-01-03 12:41:47,926] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:41:47,945] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.153 seconds
+[2022-01-03 12:42:18,580] {processor.py:163} INFO - Started process (PID=5520) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:18,583] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:42:18,585] {logging_mixin.py:109} INFO - [2022-01-03 12:42:18,585] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:18,659] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:18,679] {logging_mixin.py:109} INFO - [2022-01-03 12:42:18,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:42:18,723] {logging_mixin.py:109} INFO - [2022-01-03 12:42:18,723] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:42:18,745] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.170 seconds
+[2022-01-03 12:42:49,333] {processor.py:163} INFO - Started process (PID=5570) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:49,335] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:42:49,336] {logging_mixin.py:109} INFO - [2022-01-03 12:42:49,336] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:49,423] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:42:49,439] {logging_mixin.py:109} INFO - [2022-01-03 12:42:49,439] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:42:49,475] {logging_mixin.py:109} INFO - [2022-01-03 12:42:49,475] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:42:49,491] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.161 seconds
+[2022-01-03 12:43:19,932] {processor.py:163} INFO - Started process (PID=5630) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:19,934] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:43:19,936] {logging_mixin.py:109} INFO - [2022-01-03 12:43:19,936] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:20,013] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:20,028] {logging_mixin.py:109} INFO - [2022-01-03 12:43:20,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:43:20,065] {logging_mixin.py:109} INFO - [2022-01-03 12:43:20,065] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:43:20,086] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.159 seconds
+[2022-01-03 12:43:50,656] {processor.py:163} INFO - Started process (PID=5677) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:50,659] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:43:50,661] {logging_mixin.py:109} INFO - [2022-01-03 12:43:50,660] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:50,751] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:43:50,767] {logging_mixin.py:109} INFO - [2022-01-03 12:43:50,767] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:43:50,812] {logging_mixin.py:109} INFO - [2022-01-03 12:43:50,812] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:43:50,832] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.179 seconds
+[2022-01-03 12:44:21,334] {processor.py:163} INFO - Started process (PID=5735) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:21,340] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:44:21,342] {logging_mixin.py:109} INFO - [2022-01-03 12:44:21,342] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:21,426] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:21,443] {logging_mixin.py:109} INFO - [2022-01-03 12:44:21,442] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:44:21,478] {logging_mixin.py:109} INFO - [2022-01-03 12:44:21,478] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:44:21,494] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.164 seconds
+[2022-01-03 12:44:52,089] {processor.py:163} INFO - Started process (PID=5782) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:52,091] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:44:52,092] {logging_mixin.py:109} INFO - [2022-01-03 12:44:52,092] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:52,169] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:44:52,185] {logging_mixin.py:109} INFO - [2022-01-03 12:44:52,185] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:44:52,221] {logging_mixin.py:109} INFO - [2022-01-03 12:44:52,221] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:44:52,242] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.158 seconds
+[2022-01-03 12:45:22,272] {processor.py:163} INFO - Started process (PID=5840) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:22,275] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:45:22,276] {logging_mixin.py:109} INFO - [2022-01-03 12:45:22,276] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:22,357] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:22,376] {logging_mixin.py:109} INFO - [2022-01-03 12:45:22,376] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:45:22,411] {logging_mixin.py:109} INFO - [2022-01-03 12:45:22,411] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:45:22,427] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.159 seconds
+[2022-01-03 12:45:52,605] {processor.py:163} INFO - Started process (PID=5888) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:52,608] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:45:52,611] {logging_mixin.py:109} INFO - [2022-01-03 12:45:52,611] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:52,696] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:45:52,710] {logging_mixin.py:109} INFO - [2022-01-03 12:45:52,710] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:45:52,741] {logging_mixin.py:109} INFO - [2022-01-03 12:45:52,741] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:45:52,756] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.157 seconds
+[2022-01-03 12:46:23,115] {processor.py:163} INFO - Started process (PID=5948) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:23,123] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:46:23,128] {logging_mixin.py:109} INFO - [2022-01-03 12:46:23,127] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:23,323] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:23,352] {logging_mixin.py:109} INFO - [2022-01-03 12:46:23,352] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:46:23,419] {logging_mixin.py:109} INFO - [2022-01-03 12:46:23,419] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:46:23,450] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.343 seconds
+[2022-01-03 12:46:54,368] {processor.py:163} INFO - Started process (PID=5995) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:54,371] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:46:54,373] {logging_mixin.py:109} INFO - [2022-01-03 12:46:54,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:54,457] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:46:54,472] {logging_mixin.py:109} INFO - [2022-01-03 12:46:54,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:46:54,513] {logging_mixin.py:109} INFO - [2022-01-03 12:46:54,513] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:46:54,531] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.170 seconds
+[2022-01-03 12:47:24,837] {processor.py:163} INFO - Started process (PID=6055) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:24,840] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:47:24,841] {logging_mixin.py:109} INFO - [2022-01-03 12:47:24,841] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:24,927] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:24,942] {logging_mixin.py:109} INFO - [2022-01-03 12:47:24,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:47:24,977] {logging_mixin.py:109} INFO - [2022-01-03 12:47:24,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:47:24,992] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.160 seconds
+[2022-01-03 12:47:55,736] {processor.py:163} INFO - Started process (PID=6102) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:55,739] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:47:55,741] {logging_mixin.py:109} INFO - [2022-01-03 12:47:55,741] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:55,814] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:47:55,830] {logging_mixin.py:109} INFO - [2022-01-03 12:47:55,830] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:47:55,862] {logging_mixin.py:109} INFO - [2022-01-03 12:47:55,861] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:47:55,877] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.146 seconds
+[2022-01-03 12:48:26,223] {processor.py:163} INFO - Started process (PID=6159) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:26,225] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:48:26,227] {logging_mixin.py:109} INFO - [2022-01-03 12:48:26,227] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:26,309] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:26,325] {logging_mixin.py:109} INFO - [2022-01-03 12:48:26,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:48:26,362] {logging_mixin.py:109} INFO - [2022-01-03 12:48:26,362] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:48:26,379] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.160 seconds
+[2022-01-03 12:48:56,868] {processor.py:163} INFO - Started process (PID=6206) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:56,869] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:48:56,871] {logging_mixin.py:109} INFO - [2022-01-03 12:48:56,871] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:56,943] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:48:56,962] {logging_mixin.py:109} INFO - [2022-01-03 12:48:56,961] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:48:56,997] {logging_mixin.py:109} INFO - [2022-01-03 12:48:56,996] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:48:57,012] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.148 seconds
+[2022-01-03 12:49:27,823] {processor.py:163} INFO - Started process (PID=6266) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:27,826] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:49:27,829] {logging_mixin.py:109} INFO - [2022-01-03 12:49:27,828] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:27,933] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:27,948] {logging_mixin.py:109} INFO - [2022-01-03 12:49:27,948] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:49:27,980] {logging_mixin.py:109} INFO - [2022-01-03 12:49:27,979] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:49:27,997] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.180 seconds
+[2022-01-03 12:49:58,373] {processor.py:163} INFO - Started process (PID=6313) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:58,375] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:49:58,377] {logging_mixin.py:109} INFO - [2022-01-03 12:49:58,377] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:58,463] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:49:58,478] {logging_mixin.py:109} INFO - [2022-01-03 12:49:58,478] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:49:58,512] {logging_mixin.py:109} INFO - [2022-01-03 12:49:58,512] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:49:58,528] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.160 seconds
+[2022-01-03 12:50:29,030] {processor.py:163} INFO - Started process (PID=6372) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:29,032] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:50:29,034] {logging_mixin.py:109} INFO - [2022-01-03 12:50:29,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:29,111] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:29,126] {logging_mixin.py:109} INFO - [2022-01-03 12:50:29,126] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:50:29,160] {logging_mixin.py:109} INFO - [2022-01-03 12:50:29,160] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:50:29,175] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.150 seconds
+[2022-01-03 12:50:59,793] {processor.py:163} INFO - Started process (PID=6419) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:59,796] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:50:59,797] {logging_mixin.py:109} INFO - [2022-01-03 12:50:59,797] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:59,884] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:50:59,900] {logging_mixin.py:109} INFO - [2022-01-03 12:50:59,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:50:59,933] {logging_mixin.py:109} INFO - [2022-01-03 12:50:59,932] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:50:59,951] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.162 seconds
+[2022-01-03 12:51:30,837] {processor.py:163} INFO - Started process (PID=6477) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:51:30,842] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:51:30,843] {logging_mixin.py:109} INFO - [2022-01-03 12:51:30,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:51:30,962] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:51:30,983] {logging_mixin.py:109} INFO - [2022-01-03 12:51:30,983] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:51:31,042] {logging_mixin.py:109} INFO - [2022-01-03 12:51:31,041] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:51:31,062] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.229 seconds
+[2022-01-03 12:52:02,333] {processor.py:163} INFO - Started process (PID=6523) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:02,338] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:52:02,341] {logging_mixin.py:109} INFO - [2022-01-03 12:52:02,340] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:02,478] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:02,508] {logging_mixin.py:109} INFO - [2022-01-03 12:52:02,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:52:02,561] {logging_mixin.py:109} INFO - [2022-01-03 12:52:02,561] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:52:02,595] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.272 seconds
+[2022-01-03 12:52:35,437] {processor.py:163} INFO - Started process (PID=6582) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:35,439] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 12:52:35,443] {logging_mixin.py:109} INFO - [2022-01-03 12:52:35,443] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:35,641] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 12:52:35,672] {logging_mixin.py:109} INFO - [2022-01-03 12:52:35,672] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:52:35,733] {logging_mixin.py:109} INFO - [2022-01-03 12:52:35,732] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 12:52:35,763] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.334 seconds
+[2022-01-03 13:26:38,942] {processor.py:163} INFO - Started process (PID=6688) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:26:38,975] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:26:39,006] {logging_mixin.py:109} INFO - [2022-01-03 13:26:39,004] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:26:42,740] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:26:43,568] {logging_mixin.py:109} INFO - [2022-01-03 13:26:43,568] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:26:44,271] {logging_mixin.py:109} INFO - [2022-01-03 13:26:44,258] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:26:44,610] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 5.814 seconds
+[2022-01-03 13:28:23,923] {processor.py:163} INFO - Started process (PID=6768) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:28:23,992] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:28:24,093] {logging_mixin.py:109} INFO - [2022-01-03 13:28:24,077] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:28:27,177] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:28:28,136] {logging_mixin.py:109} INFO - [2022-01-03 13:28:28,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:28:29,578] {logging_mixin.py:109} INFO - [2022-01-03 13:28:29,541] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:28:30,049] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 6.334 seconds
+[2022-01-03 13:29:23,725] {processor.py:163} INFO - Started process (PID=6818) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:29:23,766] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:29:23,818] {logging_mixin.py:109} INFO - [2022-01-03 13:29:23,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:29:26,829] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:29:27,448] {logging_mixin.py:109} INFO - [2022-01-03 13:29:27,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:29:28,160] {logging_mixin.py:109} INFO - [2022-01-03 13:29:28,159] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:29:28,515] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 5.013 seconds
+[2022-01-03 13:30:25,230] {processor.py:163} INFO - Started process (PID=6878) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:30:25,313] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:30:25,325] {logging_mixin.py:109} INFO - [2022-01-03 13:30:25,325] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:30:27,358] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:30:27,774] {logging_mixin.py:109} INFO - [2022-01-03 13:30:27,773] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:30:28,703] {logging_mixin.py:109} INFO - [2022-01-03 13:30:28,702] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:30:29,084] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 4.058 seconds
+[2022-01-03 13:31:15,868] {processor.py:163} INFO - Started process (PID=6931) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:31:15,932] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:31:16,001] {logging_mixin.py:109} INFO - [2022-01-03 13:31:15,999] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:31:19,244] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:31:19,763] {logging_mixin.py:109} INFO - [2022-01-03 13:31:19,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:31:20,418] {logging_mixin.py:109} INFO - [2022-01-03 13:31:20,417] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:31:21,268] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 5.576 seconds
+[2022-01-03 13:32:10,910] {processor.py:163} INFO - Started process (PID=6985) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:10,953] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:32:10,995] {logging_mixin.py:109} INFO - [2022-01-03 13:32:10,977] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:12,831] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:13,386] {logging_mixin.py:109} INFO - [2022-01-03 13:32:13,386] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:32:14,093] {logging_mixin.py:109} INFO - [2022-01-03 13:32:14,092] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:32:14,387] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 3.627 seconds
+[2022-01-03 13:32:55,360] {processor.py:163} INFO - Started process (PID=7033) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:55,394] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:32:55,409] {logging_mixin.py:109} INFO - [2022-01-03 13:32:55,407] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:57,139] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:32:57,343] {logging_mixin.py:109} INFO - [2022-01-03 13:32:57,342] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:32:57,912] {logging_mixin.py:109} INFO - [2022-01-03 13:32:57,911] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:32:58,070] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.812 seconds
+[2022-01-03 13:33:43,604] {processor.py:163} INFO - Started process (PID=7082) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:33:43,719] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:33:43,770] {logging_mixin.py:109} INFO - [2022-01-03 13:33:43,769] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:33:45,655] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:33:46,456] {logging_mixin.py:109} INFO - [2022-01-03 13:33:46,444] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:33:47,427] {logging_mixin.py:109} INFO - [2022-01-03 13:33:47,414] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:33:47,947] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 4.624 seconds
+[2022-01-03 13:34:26,625] {processor.py:163} INFO - Started process (PID=7129) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:34:26,659] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:34:26,673] {logging_mixin.py:109} INFO - [2022-01-03 13:34:26,672] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:34:28,360] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:34:28,712] {logging_mixin.py:109} INFO - [2022-01-03 13:34:28,712] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:34:29,379] {logging_mixin.py:109} INFO - [2022-01-03 13:34:29,362] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:34:29,689] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 3.232 seconds
+[2022-01-03 13:35:06,761] {processor.py:163} INFO - Started process (PID=7175) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:06,779] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:35:06,790] {logging_mixin.py:109} INFO - [2022-01-03 13:35:06,789] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:08,455] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:08,663] {logging_mixin.py:109} INFO - [2022-01-03 13:35:08,662] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:35:09,055] {logging_mixin.py:109} INFO - [2022-01-03 13:35:09,054] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:35:09,358] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.653 seconds
+[2022-01-03 13:35:45,074] {processor.py:163} INFO - Started process (PID=7224) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:45,127] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:35:45,148] {logging_mixin.py:109} INFO - [2022-01-03 13:35:45,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:46,751] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:35:47,047] {logging_mixin.py:109} INFO - [2022-01-03 13:35:47,046] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:35:47,456] {logging_mixin.py:109} INFO - [2022-01-03 13:35:47,456] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:35:47,704] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.754 seconds
+[2022-01-03 13:36:18,506] {processor.py:163} INFO - Started process (PID=7273) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:18,552] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:36:18,564] {logging_mixin.py:109} INFO - [2022-01-03 13:36:18,563] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:19,388] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:19,508] {logging_mixin.py:109} INFO - [2022-01-03 13:36:19,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:36:19,760] {logging_mixin.py:109} INFO - [2022-01-03 13:36:19,760] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:36:19,888] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.496 seconds
+[2022-01-03 13:36:50,755] {processor.py:163} INFO - Started process (PID=7318) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:50,780] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:36:50,791] {logging_mixin.py:109} INFO - [2022-01-03 13:36:50,790] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:51,640] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:36:51,874] {logging_mixin.py:109} INFO - [2022-01-03 13:36:51,873] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:36:52,201] {logging_mixin.py:109} INFO - [2022-01-03 13:36:52,200] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:36:52,367] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.683 seconds
+[2022-01-03 13:37:22,792] {processor.py:163} INFO - Started process (PID=7358) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:22,810] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:37:22,821] {logging_mixin.py:109} INFO - [2022-01-03 13:37:22,819] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:23,448] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:23,588] {logging_mixin.py:109} INFO - [2022-01-03 13:37:23,587] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:37:23,866] {logging_mixin.py:109} INFO - [2022-01-03 13:37:23,864] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:37:24,005] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.245 seconds
+[2022-01-03 13:37:55,199] {processor.py:163} INFO - Started process (PID=7404) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:55,227] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:37:55,235] {logging_mixin.py:109} INFO - [2022-01-03 13:37:55,234] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:55,749] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:37:55,876] {logging_mixin.py:109} INFO - [2022-01-03 13:37:55,875] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:37:56,053] {logging_mixin.py:109} INFO - [2022-01-03 13:37:56,053] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:37:56,156] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.016 seconds
+[2022-01-03 13:38:26,896] {processor.py:163} INFO - Started process (PID=7441) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:26,908] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:38:26,918] {logging_mixin.py:109} INFO - [2022-01-03 13:38:26,916] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:27,394] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:27,531] {logging_mixin.py:109} INFO - [2022-01-03 13:38:27,529] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:38:27,774] {logging_mixin.py:109} INFO - [2022-01-03 13:38:27,773] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:38:27,894] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.018 seconds
+[2022-01-03 13:38:58,273] {processor.py:163} INFO - Started process (PID=7487) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:58,292] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:38:58,306] {logging_mixin.py:109} INFO - [2022-01-03 13:38:58,305] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:59,209] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:38:59,476] {logging_mixin.py:109} INFO - [2022-01-03 13:38:59,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:38:59,880] {logging_mixin.py:109} INFO - [2022-01-03 13:38:59,871] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:39:00,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.930 seconds
+[2022-01-03 13:39:30,845] {processor.py:163} INFO - Started process (PID=7532) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:39:30,877] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:39:30,907] {logging_mixin.py:109} INFO - [2022-01-03 13:39:30,899] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:39:31,800] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:39:32,135] {logging_mixin.py:109} INFO - [2022-01-03 13:39:32,134] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:39:32,502] {logging_mixin.py:109} INFO - [2022-01-03 13:39:32,501] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:39:32,619] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.807 seconds
+[2022-01-03 13:40:03,543] {processor.py:163} INFO - Started process (PID=7571) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:03,554] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:40:03,565] {logging_mixin.py:109} INFO - [2022-01-03 13:40:03,564] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:04,086] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:04,220] {logging_mixin.py:109} INFO - [2022-01-03 13:40:04,220] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:40:04,450] {logging_mixin.py:109} INFO - [2022-01-03 13:40:04,449] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:40:04,588] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.086 seconds
+[2022-01-03 13:40:35,514] {processor.py:163} INFO - Started process (PID=7619) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:35,542] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:40:35,566] {logging_mixin.py:109} INFO - [2022-01-03 13:40:35,565] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:36,351] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:40:36,489] {logging_mixin.py:109} INFO - [2022-01-03 13:40:36,488] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:40:36,816] {logging_mixin.py:109} INFO - [2022-01-03 13:40:36,814] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:40:36,973] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.507 seconds
+[2022-01-03 13:41:07,511] {processor.py:163} INFO - Started process (PID=7655) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:07,541] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:41:07,552] {logging_mixin.py:109} INFO - [2022-01-03 13:41:07,551] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:08,321] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:08,527] {logging_mixin.py:109} INFO - [2022-01-03 13:41:08,525] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:41:08,821] {logging_mixin.py:109} INFO - [2022-01-03 13:41:08,815] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:41:09,019] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.551 seconds
+[2022-01-03 13:41:39,566] {processor.py:163} INFO - Started process (PID=7701) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:39,580] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:41:39,597] {logging_mixin.py:109} INFO - [2022-01-03 13:41:39,596] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:40,042] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:41:40,192] {logging_mixin.py:109} INFO - [2022-01-03 13:41:40,191] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:41:40,381] {logging_mixin.py:109} INFO - [2022-01-03 13:41:40,380] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:41:40,493] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.953 seconds
+[2022-01-03 13:42:11,468] {processor.py:163} INFO - Started process (PID=7746) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:11,489] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:42:11,502] {logging_mixin.py:109} INFO - [2022-01-03 13:42:11,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:12,227] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:12,427] {logging_mixin.py:109} INFO - [2022-01-03 13:42:12,426] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:42:12,745] {logging_mixin.py:109} INFO - [2022-01-03 13:42:12,744] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:42:12,864] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.446 seconds
+[2022-01-03 13:42:43,595] {processor.py:163} INFO - Started process (PID=7786) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:43,606] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:42:43,631] {logging_mixin.py:109} INFO - [2022-01-03 13:42:43,630] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:44,093] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:42:44,195] {logging_mixin.py:109} INFO - [2022-01-03 13:42:44,190] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:42:44,426] {logging_mixin.py:109} INFO - [2022-01-03 13:42:44,425] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:42:44,523] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.961 seconds
+[2022-01-03 13:43:15,290] {processor.py:163} INFO - Started process (PID=7833) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:15,304] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:43:15,314] {logging_mixin.py:109} INFO - [2022-01-03 13:43:15,313] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:15,764] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:15,883] {logging_mixin.py:109} INFO - [2022-01-03 13:43:15,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:43:16,103] {logging_mixin.py:109} INFO - [2022-01-03 13:43:16,102] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:43:16,225] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.972 seconds
+[2022-01-03 13:43:47,065] {processor.py:163} INFO - Started process (PID=7869) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:47,084] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:43:47,097] {logging_mixin.py:109} INFO - [2022-01-03 13:43:47,096] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:47,819] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:43:47,997] {logging_mixin.py:109} INFO - [2022-01-03 13:43:47,996] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:43:48,257] {logging_mixin.py:109} INFO - [2022-01-03 13:43:48,256] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:43:48,372] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.339 seconds
+[2022-01-03 13:44:18,723] {processor.py:163} INFO - Started process (PID=7917) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:18,737] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:44:18,750] {logging_mixin.py:109} INFO - [2022-01-03 13:44:18,748] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:19,227] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:19,388] {logging_mixin.py:109} INFO - [2022-01-03 13:44:19,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:44:19,615] {logging_mixin.py:109} INFO - [2022-01-03 13:44:19,615] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:44:19,776] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.074 seconds
+[2022-01-03 13:44:51,258] {processor.py:163} INFO - Started process (PID=7962) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:51,286] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:44:51,310] {logging_mixin.py:109} INFO - [2022-01-03 13:44:51,308] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:52,402] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:44:52,565] {logging_mixin.py:109} INFO - [2022-01-03 13:44:52,565] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:44:52,851] {logging_mixin.py:109} INFO - [2022-01-03 13:44:52,850] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:44:52,988] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.777 seconds
+[2022-01-03 13:45:23,501] {processor.py:163} INFO - Started process (PID=8001) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:23,513] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:45:23,524] {logging_mixin.py:109} INFO - [2022-01-03 13:45:23,522] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:24,053] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:24,173] {logging_mixin.py:109} INFO - [2022-01-03 13:45:24,172] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:45:24,405] {logging_mixin.py:109} INFO - [2022-01-03 13:45:24,405] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:45:24,550] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.078 seconds
+[2022-01-03 13:45:55,406] {processor.py:163} INFO - Started process (PID=8050) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:55,422] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:45:55,437] {logging_mixin.py:109} INFO - [2022-01-03 13:45:55,435] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:56,096] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:45:56,275] {logging_mixin.py:109} INFO - [2022-01-03 13:45:56,274] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:45:56,889] {logging_mixin.py:109} INFO - [2022-01-03 13:45:56,888] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:45:57,063] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.716 seconds
+[2022-01-03 13:46:27,424] {processor.py:163} INFO - Started process (PID=8087) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:27,460] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:46:27,497] {logging_mixin.py:109} INFO - [2022-01-03 13:46:27,487] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:28,179] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:28,299] {logging_mixin.py:109} INFO - [2022-01-03 13:46:28,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:46:28,613] {logging_mixin.py:109} INFO - [2022-01-03 13:46:28,612] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:46:28,772] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.383 seconds
+[2022-01-03 13:46:58,993] {processor.py:163} INFO - Started process (PID=8135) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:59,011] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:46:59,024] {logging_mixin.py:109} INFO - [2022-01-03 13:46:59,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:59,589] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:46:59,712] {logging_mixin.py:109} INFO - [2022-01-03 13:46:59,712] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:46:59,976] {logging_mixin.py:109} INFO - [2022-01-03 13:46:59,975] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:47:00,179] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.210 seconds
+[2022-01-03 13:47:30,956] {processor.py:163} INFO - Started process (PID=8179) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:47:30,982] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:47:31,004] {logging_mixin.py:109} INFO - [2022-01-03 13:47:31,003] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:47:31,855] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:47:32,006] {logging_mixin.py:109} INFO - [2022-01-03 13:47:32,005] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:47:32,379] {logging_mixin.py:109} INFO - [2022-01-03 13:47:32,378] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:47:32,527] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.648 seconds
+[2022-01-03 13:48:03,347] {processor.py:163} INFO - Started process (PID=8218) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:03,369] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:48:03,381] {logging_mixin.py:109} INFO - [2022-01-03 13:48:03,380] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:04,048] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:04,172] {logging_mixin.py:109} INFO - [2022-01-03 13:48:04,171] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:48:04,481] {logging_mixin.py:109} INFO - [2022-01-03 13:48:04,477] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:48:04,615] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.303 seconds
+[2022-01-03 13:48:35,327] {processor.py:163} INFO - Started process (PID=8264) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:35,357] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:48:35,369] {logging_mixin.py:109} INFO - [2022-01-03 13:48:35,368] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:36,730] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:48:36,992] {logging_mixin.py:109} INFO - [2022-01-03 13:48:36,990] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:48:37,375] {logging_mixin.py:109} INFO - [2022-01-03 13:48:37,374] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:48:37,510] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.223 seconds
+[2022-01-03 13:49:08,200] {processor.py:163} INFO - Started process (PID=8302) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:08,243] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:49:08,256] {logging_mixin.py:109} INFO - [2022-01-03 13:49:08,255] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:08,908] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:09,020] {logging_mixin.py:109} INFO - [2022-01-03 13:49:09,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:49:09,241] {logging_mixin.py:109} INFO - [2022-01-03 13:49:09,241] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:49:09,343] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.174 seconds
+[2022-01-03 13:49:39,912] {processor.py:163} INFO - Started process (PID=8349) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:39,943] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:49:39,971] {logging_mixin.py:109} INFO - [2022-01-03 13:49:39,969] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:40,574] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:49:40,710] {logging_mixin.py:109} INFO - [2022-01-03 13:49:40,709] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:49:41,047] {logging_mixin.py:109} INFO - [2022-01-03 13:49:41,046] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:49:41,207] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.320 seconds
+[2022-01-03 13:50:13,328] {processor.py:163} INFO - Started process (PID=8396) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:13,360] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:50:13,376] {logging_mixin.py:109} INFO - [2022-01-03 13:50:13,375] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:14,220] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:14,526] {logging_mixin.py:109} INFO - [2022-01-03 13:50:14,525] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:50:14,800] {logging_mixin.py:109} INFO - [2022-01-03 13:50:14,799] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:50:14,956] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.734 seconds
+[2022-01-03 13:50:45,610] {processor.py:163} INFO - Started process (PID=8433) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:45,625] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:50:45,636] {logging_mixin.py:109} INFO - [2022-01-03 13:50:45,635] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:46,302] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:50:46,437] {logging_mixin.py:109} INFO - [2022-01-03 13:50:46,437] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:50:46,755] {logging_mixin.py:109} INFO - [2022-01-03 13:50:46,755] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:50:46,924] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.341 seconds
+[2022-01-03 13:51:17,408] {processor.py:163} INFO - Started process (PID=8480) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:17,424] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:51:17,437] {logging_mixin.py:109} INFO - [2022-01-03 13:51:17,435] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:18,081] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:18,216] {logging_mixin.py:109} INFO - [2022-01-03 13:51:18,215] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:51:18,535] {logging_mixin.py:109} INFO - [2022-01-03 13:51:18,534] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:51:18,721] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.347 seconds
+[2022-01-03 13:51:49,062] {processor.py:163} INFO - Started process (PID=8516) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:49,083] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:51:49,105] {logging_mixin.py:109} INFO - [2022-01-03 13:51:49,104] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:49,811] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:51:49,988] {logging_mixin.py:109} INFO - [2022-01-03 13:51:49,987] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:51:50,371] {logging_mixin.py:109} INFO - [2022-01-03 13:51:50,370] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:51:50,531] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.506 seconds
+[2022-01-03 13:52:21,160] {processor.py:163} INFO - Started process (PID=8563) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:21,174] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:52:21,187] {logging_mixin.py:109} INFO - [2022-01-03 13:52:21,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:21,792] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:21,936] {logging_mixin.py:109} INFO - [2022-01-03 13:52:21,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:52:22,226] {logging_mixin.py:109} INFO - [2022-01-03 13:52:22,225] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:52:22,409] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.284 seconds
+[2022-01-03 13:52:54,006] {processor.py:163} INFO - Started process (PID=8613) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:54,046] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:52:54,059] {logging_mixin.py:109} INFO - [2022-01-03 13:52:54,059] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:55,360] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:52:55,561] {logging_mixin.py:109} INFO - [2022-01-03 13:52:55,560] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:52:55,898] {logging_mixin.py:109} INFO - [2022-01-03 13:52:55,897] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:52:56,076] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.175 seconds
+[2022-01-03 13:53:26,808] {processor.py:163} INFO - Started process (PID=8652) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:53:26,832] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:53:26,845] {logging_mixin.py:109} INFO - [2022-01-03 13:53:26,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:53:27,612] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:53:27,765] {logging_mixin.py:109} INFO - [2022-01-03 13:53:27,764] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:53:28,045] {logging_mixin.py:109} INFO - [2022-01-03 13:53:28,045] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:53:28,238] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.494 seconds
+[2022-01-03 13:53:59,488] {processor.py:163} INFO - Started process (PID=8699) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:53:59,526] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:53:59,538] {logging_mixin.py:109} INFO - [2022-01-03 13:53:59,536] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:54:00,390] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:54:00,542] {logging_mixin.py:109} INFO - [2022-01-03 13:54:00,542] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:54:01,038] {logging_mixin.py:109} INFO - [2022-01-03 13:54:01,031] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:54:01,217] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.782 seconds
+[2022-01-03 13:54:31,670] {processor.py:163} INFO - Started process (PID=8744) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:54:31,703] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:54:31,761] {logging_mixin.py:109} INFO - [2022-01-03 13:54:31,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:54:32,517] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:54:32,669] {logging_mixin.py:109} INFO - [2022-01-03 13:54:32,667] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:54:32,961] {logging_mixin.py:109} INFO - [2022-01-03 13:54:32,959] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:54:33,071] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.460 seconds
+[2022-01-03 13:55:03,993] {processor.py:163} INFO - Started process (PID=8783) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:04,010] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:55:04,020] {logging_mixin.py:109} INFO - [2022-01-03 13:55:04,019] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:04,629] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:04,752] {logging_mixin.py:109} INFO - [2022-01-03 13:55:04,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:55:05,010] {logging_mixin.py:109} INFO - [2022-01-03 13:55:05,009] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:55:05,143] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.190 seconds
+[2022-01-03 13:55:35,449] {processor.py:163} INFO - Started process (PID=8829) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:35,462] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 13:55:35,474] {logging_mixin.py:109} INFO - [2022-01-03 13:55:35,470] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:35,990] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 13:55:36,230] {logging_mixin.py:109} INFO - [2022-01-03 13:55:36,229] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:55:36,613] {logging_mixin.py:109} INFO - [2022-01-03 13:55:36,602] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 13:55:36,768] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.360 seconds
+[2022-01-03 14:38:26,736] {processor.py:163} INFO - Started process (PID=8866) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:38:26,768] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 14:38:26,803] {logging_mixin.py:109} INFO - [2022-01-03 14:38:26,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:38:28,019] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:38:28,242] {logging_mixin.py:109} INFO - [2022-01-03 14:38:28,241] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 14:38:28,712] {logging_mixin.py:109} INFO - [2022-01-03 14:38:28,711] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 14:38:28,894] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.198 seconds
+[2022-01-03 14:39:08,626] {processor.py:163} INFO - Started process (PID=8914) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:39:08,681] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 14:39:08,717] {logging_mixin.py:109} INFO - [2022-01-03 14:39:08,716] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:39:11,188] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 14:39:11,612] {logging_mixin.py:109} INFO - [2022-01-03 14:39:11,611] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 14:39:12,038] {logging_mixin.py:109} INFO - [2022-01-03 14:39:12,036] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 14:39:12,217] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 3.788 seconds
+[2022-01-03 15:37:22,773] {processor.py:163} INFO - Started process (PID=8946) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:22,779] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 15:37:22,782] {logging_mixin.py:109} INFO - [2022-01-03 15:37:22,782] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:22,970] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:23,035] {logging_mixin.py:109} INFO - [2022-01-03 15:37:23,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:37:23,119] {logging_mixin.py:109} INFO - [2022-01-03 15:37:23,118] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 15:37:23,167] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.403 seconds
+[2022-01-03 15:37:57,664] {processor.py:163} INFO - Started process (PID=8994) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:57,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 15:37:57,699] {logging_mixin.py:109} INFO - [2022-01-03 15:37:57,697] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:58,323] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:37:58,483] {logging_mixin.py:109} INFO - [2022-01-03 15:37:58,482] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:37:58,821] {logging_mixin.py:109} INFO - [2022-01-03 15:37:58,820] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 15:37:58,933] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.291 seconds
+[2022-01-03 15:38:29,889] {processor.py:163} INFO - Started process (PID=9041) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:38:29,899] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 15:38:29,912] {logging_mixin.py:109} INFO - [2022-01-03 15:38:29,911] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:38:30,553] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:38:30,670] {logging_mixin.py:109} INFO - [2022-01-03 15:38:30,669] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:38:30,903] {logging_mixin.py:109} INFO - [2022-01-03 15:38:30,902] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 15:38:31,028] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.176 seconds
+[2022-01-03 15:39:01,215] {processor.py:163} INFO - Started process (PID=9077) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:39:01,218] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 15:39:01,219] {logging_mixin.py:109} INFO - [2022-01-03 15:39:01,219] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:39:01,303] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 15:39:01,324] {logging_mixin.py:109} INFO - [2022-01-03 15:39:01,324] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:39:01,356] {logging_mixin.py:109} INFO - [2022-01-03 15:39:01,356] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 15:39:01,376] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.166 seconds
+[2022-01-03 16:54:59,014] {processor.py:163} INFO - Started process (PID=9126) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:54:59,101] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 16:54:59,133] {logging_mixin.py:109} INFO - [2022-01-03 16:54:59,130] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:55:00,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:55:00,673] {logging_mixin.py:109} INFO - [2022-01-03 16:55:00,662] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 16:55:01,143] {logging_mixin.py:109} INFO - [2022-01-03 16:55:01,142] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 16:55:01,436] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 2.538 seconds
+[2022-01-03 16:55:32,258] {processor.py:163} INFO - Started process (PID=9174) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:55:32,270] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 16:55:32,277] {logging_mixin.py:109} INFO - [2022-01-03 16:55:32,277] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:55:32,833] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 16:55:32,941] {logging_mixin.py:109} INFO - [2022-01-03 16:55:32,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 16:55:33,135] {logging_mixin.py:109} INFO - [2022-01-03 16:55:33,134] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 16:55:33,244] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.005 seconds
+[2022-01-03 17:11:40,877] {processor.py:163} INFO - Started process (PID=9196) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 17:11:40,901] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 17:11:40,913] {logging_mixin.py:109} INFO - [2022-01-03 17:11:40,908] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 17:11:41,870] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 17:11:42,164] {logging_mixin.py:109} INFO - [2022-01-03 17:11:42,162] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 17:11:42,606] {logging_mixin.py:109} INFO - [2022-01-03 17:11:42,605] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 17:11:42,779] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.950 seconds
+[2022-01-03 18:14:30,092] {processor.py:163} INFO - Started process (PID=9236) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:14:30,095] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 18:14:30,098] {logging_mixin.py:109} INFO - [2022-01-03 18:14:30,098] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:14:30,239] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:14:30,277] {logging_mixin.py:109} INFO - [2022-01-03 18:14:30,277] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:14:30,359] {logging_mixin.py:109} INFO - [2022-01-03 18:14:30,358] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 18:14:30,394] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.309 seconds
+[2022-01-03 18:15:07,139] {processor.py:163} INFO - Started process (PID=9283) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:07,160] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 18:15:07,168] {logging_mixin.py:109} INFO - [2022-01-03 18:15:07,168] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:07,821] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:08,060] {logging_mixin.py:109} INFO - [2022-01-03 18:15:08,059] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:15:08,519] {logging_mixin.py:109} INFO - [2022-01-03 18:15:08,518] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 18:15:08,634] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.609 seconds
+[2022-01-03 18:15:39,001] {processor.py:163} INFO - Started process (PID=9322) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:39,015] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 18:15:39,023] {logging_mixin.py:109} INFO - [2022-01-03 18:15:39,022] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:39,546] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:15:39,728] {logging_mixin.py:109} INFO - [2022-01-03 18:15:39,727] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:15:39,959] {logging_mixin.py:109} INFO - [2022-01-03 18:15:39,958] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 18:15:40,113] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 1.136 seconds
+[2022-01-03 18:16:10,801] {processor.py:163} INFO - Started process (PID=9370) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:16:10,804] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 18:16:10,806] {logging_mixin.py:109} INFO - [2022-01-03 18:16:10,806] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:16:10,938] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:16:10,972] {logging_mixin.py:109} INFO - [2022-01-03 18:16:10,972] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:16:11,030] {logging_mixin.py:109} INFO - [2022-01-03 18:16:11,029] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 18:16:11,071] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.275 seconds
+[2022-01-03 18:21:26,177] {processor.py:163} INFO - Started process (PID=9405) to work on /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:21:26,182] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_louth.py for tasks to queue
+[2022-01-03 18:21:26,185] {logging_mixin.py:109} INFO - [2022-01-03 18:21:26,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:21:26,408] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_louth']) retrieved from /opt/airflow/dags/scraping_daft_louth.py
+[2022-01-03 18:21:26,445] {logging_mixin.py:109} INFO - [2022-01-03 18:21:26,445] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:21:26,526] {logging_mixin.py:109} INFO - [2022-01-03 18:21:26,525] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_louth to 2022-01-03T10:15:00+00:00
+[2022-01-03 18:21:26,581] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_louth.py took 0.415 seconds

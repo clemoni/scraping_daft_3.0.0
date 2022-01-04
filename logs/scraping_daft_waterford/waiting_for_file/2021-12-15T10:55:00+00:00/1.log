@@ -1,0 +1,25 @@
+[2021-12-16 11:03:33,248] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.waiting_for_file scheduled__2021-12-15T10:55:00+00:00 [queued]>
+[2021-12-16 11:03:33,356] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_waterford.waiting_for_file scheduled__2021-12-15T10:55:00+00:00 [queued]>
+[2021-12-16 11:03:33,367] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-16 11:03:33,373] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-16 11:03:33,378] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-16 11:03:33,458] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-15 10:55:00+00:00
+[2021-12-16 11:03:33,506] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_waterford', 'waiting_for_file', 'scheduled__2021-12-15T10:55:00+00:00', '--job-id', '2716', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_waterford.py', '--cfg-path', '/tmp/tmp8g863gi3', '--error-file', '/tmp/tmpe5v9yvr7']
+[2021-12-16 11:03:33,511] {standard_task_runner.py:77} INFO - Job 2716: Subtask waiting_for_file
+[2021-12-16 11:03:33,471] {standard_task_runner.py:52} INFO - Started process 11917 to run task
+[2021-12-16 11:03:33,742] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_waterford.waiting_for_file scheduled__2021-12-15T10:55:00+00:00 [running]> on host 10035bfec3db
+[2021-12-16 11:03:34,173] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_waterford
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-15T10:55:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-15T10:55:00+00:00
+[2021-12-16 11:03:34,309] {filesystem.py:59} INFO - Poking for file data/waterford_rent.json
+[2021-12-16 11:03:34,314] {filesystem.py:65} INFO - Found File data/waterford_rent.json last modified: 20211216110327
+[2021-12-16 11:03:34,315] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-16 11:03:34,650] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_waterford, task_id=waiting_for_file, execution_date=20211215T105500, start_date=20211216T110333, end_date=20211216T110334
+[2021-12-16 11:03:34,789] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-16 11:03:35,128] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

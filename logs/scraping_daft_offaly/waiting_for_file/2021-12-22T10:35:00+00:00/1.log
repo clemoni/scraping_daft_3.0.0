@@ -1,0 +1,25 @@
+[2021-12-23 12:25:54,835] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_offaly.waiting_for_file scheduled__2021-12-22T10:35:00+00:00 [queued]>
+[2021-12-23 12:25:54,899] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_offaly.waiting_for_file scheduled__2021-12-22T10:35:00+00:00 [queued]>
+[2021-12-23 12:25:54,902] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-23 12:25:54,904] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-23 12:25:54,908] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-23 12:25:54,981] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-22 10:35:00+00:00
+[2021-12-23 12:25:55,004] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_offaly', 'waiting_for_file', 'scheduled__2021-12-22T10:35:00+00:00', '--job-id', '4108', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_offaly.py', '--cfg-path', '/tmp/tmp_kiwmbky', '--error-file', '/tmp/tmpe7j1sui3']
+[2021-12-23 12:25:55,007] {standard_task_runner.py:77} INFO - Job 4108: Subtask waiting_for_file
+[2021-12-23 12:25:55,004] {standard_task_runner.py:52} INFO - Started process 8614 to run task
+[2021-12-23 12:25:55,312] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_offaly.waiting_for_file scheduled__2021-12-22T10:35:00+00:00 [running]> on host eecc602ed8f2
+[2021-12-23 12:25:55,644] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_offaly
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-22T10:35:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-22T10:35:00+00:00
+[2021-12-23 12:25:55,777] {filesystem.py:59} INFO - Poking for file data/offaly_rent.json
+[2021-12-23 12:25:55,782] {filesystem.py:65} INFO - Found File data/offaly_rent.json last modified: 20211223112457
+[2021-12-23 12:25:55,785] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-23 12:25:55,891] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_offaly, task_id=waiting_for_file, execution_date=20211222T103500, start_date=20211223T122554, end_date=20211223T122555
+[2021-12-23 12:25:55,985] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-23 12:25:56,199] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

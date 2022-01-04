@@ -1,0 +1,1349 @@
+[2022-01-03 11:42:22,296] {processor.py:163} INFO - Started process (PID=48) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:22,299] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:42:22,302] {logging_mixin.py:109} INFO - [2022-01-03 11:42:22,301] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:22,471] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:22,510] {logging_mixin.py:109} INFO - [2022-01-03 11:42:22,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:42:22,626] {logging_mixin.py:109} INFO - [2022-01-03 11:42:22,626] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:42:22,676] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.392 seconds
+[2022-01-03 11:42:53,750] {processor.py:163} INFO - Started process (PID=140) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:53,766] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:42:53,776] {logging_mixin.py:109} INFO - [2022-01-03 11:42:53,775] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:54,270] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:42:54,394] {logging_mixin.py:109} INFO - [2022-01-03 11:42:54,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:42:54,577] {logging_mixin.py:109} INFO - [2022-01-03 11:42:54,577] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:42:54,763] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.026 seconds
+[2022-01-03 11:43:28,899] {processor.py:163} INFO - Started process (PID=192) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:43:28,931] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:43:28,952] {logging_mixin.py:109} INFO - [2022-01-03 11:43:28,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:43:30,958] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:43:31,431] {logging_mixin.py:109} INFO - [2022-01-03 11:43:31,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:43:31,817] {logging_mixin.py:109} INFO - [2022-01-03 11:43:31,817] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:43:32,372] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.524 seconds
+[2022-01-03 11:44:07,477] {processor.py:163} INFO - Started process (PID=232) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:07,488] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:44:07,492] {logging_mixin.py:109} INFO - [2022-01-03 11:44:07,492] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:08,145] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:08,246] {logging_mixin.py:109} INFO - [2022-01-03 11:44:08,245] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:44:08,511] {logging_mixin.py:109} INFO - [2022-01-03 11:44:08,511] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:44:08,642] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.185 seconds
+[2022-01-03 11:44:42,778] {processor.py:163} INFO - Started process (PID=274) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:42,792] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:44:42,802] {logging_mixin.py:109} INFO - [2022-01-03 11:44:42,802] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:43,906] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:44:44,026] {logging_mixin.py:109} INFO - [2022-01-03 11:44:44,025] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:44:44,500] {logging_mixin.py:109} INFO - [2022-01-03 11:44:44,499] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:44:45,121] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.386 seconds
+[2022-01-03 11:45:16,643] {processor.py:163} INFO - Started process (PID=321) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:16,661] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:45:16,664] {logging_mixin.py:109} INFO - [2022-01-03 11:45:16,664] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:16,951] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:16,995] {logging_mixin.py:109} INFO - [2022-01-03 11:45:16,994] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:45:17,112] {logging_mixin.py:109} INFO - [2022-01-03 11:45:17,112] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:45:17,174] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.566 seconds
+[2022-01-03 11:45:49,397] {processor.py:163} INFO - Started process (PID=358) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:49,405] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:45:49,415] {logging_mixin.py:109} INFO - [2022-01-03 11:45:49,414] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:50,696] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:45:50,844] {logging_mixin.py:109} INFO - [2022-01-03 11:45:50,839] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:45:51,044] {logging_mixin.py:109} INFO - [2022-01-03 11:45:51,044] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:45:51,112] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.842 seconds
+[2022-01-03 11:46:30,734] {processor.py:163} INFO - Started process (PID=407) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:46:30,783] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:46:30,848] {logging_mixin.py:109} INFO - [2022-01-03 11:46:30,844] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:46:32,379] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:46:32,811] {logging_mixin.py:109} INFO - [2022-01-03 11:46:32,811] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:46:33,601] {logging_mixin.py:109} INFO - [2022-01-03 11:46:33,600] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:46:33,707] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.187 seconds
+[2022-01-03 11:47:50,557] {processor.py:163} INFO - Started process (PID=440) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:47:50,567] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:47:50,579] {logging_mixin.py:109} INFO - [2022-01-03 11:47:50,579] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:47:51,973] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:47:52,511] {logging_mixin.py:109} INFO - [2022-01-03 11:47:52,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:47:54,047] {logging_mixin.py:109} INFO - [2022-01-03 11:47:54,030] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:47:54,723] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 4.169 seconds
+[2022-01-03 11:48:25,743] {processor.py:163} INFO - Started process (PID=481) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:48:25,748] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:48:25,751] {logging_mixin.py:109} INFO - [2022-01-03 11:48:25,751] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:48:26,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:48:26,156] {logging_mixin.py:109} INFO - [2022-01-03 11:48:26,156] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:48:26,265] {logging_mixin.py:109} INFO - [2022-01-03 11:48:26,265] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:48:26,309] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.576 seconds
+[2022-01-03 11:49:07,507] {processor.py:163} INFO - Started process (PID=525) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:07,520] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:49:07,531] {logging_mixin.py:109} INFO - [2022-01-03 11:49:07,529] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:10,551] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:10,913] {logging_mixin.py:109} INFO - [2022-01-03 11:49:10,825] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:49:11,658] {logging_mixin.py:109} INFO - [2022-01-03 11:49:11,657] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:49:11,857] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 4.374 seconds
+[2022-01-03 11:49:42,725] {processor.py:163} INFO - Started process (PID=571) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:42,747] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:49:42,759] {logging_mixin.py:109} INFO - [2022-01-03 11:49:42,759] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:43,384] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:49:43,499] {logging_mixin.py:109} INFO - [2022-01-03 11:49:43,498] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:49:43,775] {logging_mixin.py:109} INFO - [2022-01-03 11:49:43,768] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:49:43,920] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.239 seconds
+[2022-01-03 11:50:25,330] {processor.py:163} INFO - Started process (PID=617) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:25,337] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:50:25,344] {logging_mixin.py:109} INFO - [2022-01-03 11:50:25,344] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:26,094] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:26,282] {logging_mixin.py:109} INFO - [2022-01-03 11:50:26,282] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:50:26,559] {logging_mixin.py:109} INFO - [2022-01-03 11:50:26,559] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:50:26,631] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.330 seconds
+[2022-01-03 11:50:58,677] {processor.py:163} INFO - Started process (PID=664) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:58,681] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:50:58,684] {logging_mixin.py:109} INFO - [2022-01-03 11:50:58,683] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:59,422] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:50:59,759] {logging_mixin.py:109} INFO - [2022-01-03 11:50:59,751] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:51:00,785] {logging_mixin.py:109} INFO - [2022-01-03 11:51:00,775] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:51:10,095] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 11.427 seconds
+[2022-01-03 11:51:40,622] {processor.py:163} INFO - Started process (PID=712) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:51:40,647] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:51:40,668] {logging_mixin.py:109} INFO - [2022-01-03 11:51:40,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:51:41,818] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:51:42,147] {logging_mixin.py:109} INFO - [2022-01-03 11:51:42,147] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:51:42,777] {logging_mixin.py:109} INFO - [2022-01-03 11:51:42,777] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:51:42,941] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.425 seconds
+[2022-01-03 11:52:14,402] {processor.py:163} INFO - Started process (PID=751) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:14,416] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:52:14,423] {logging_mixin.py:109} INFO - [2022-01-03 11:52:14,423] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:15,229] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:15,601] {logging_mixin.py:109} INFO - [2022-01-03 11:52:15,593] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:52:16,420] {logging_mixin.py:109} INFO - [2022-01-03 11:52:16,420] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:52:16,569] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.204 seconds
+[2022-01-03 11:52:52,718] {processor.py:163} INFO - Started process (PID=797) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:52,740] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:52:52,749] {logging_mixin.py:109} INFO - [2022-01-03 11:52:52,749] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:54,970] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:52:55,477] {logging_mixin.py:109} INFO - [2022-01-03 11:52:55,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:52:55,774] {logging_mixin.py:109} INFO - [2022-01-03 11:52:55,774] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:52:55,939] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.250 seconds
+[2022-01-03 11:53:26,540] {processor.py:163} INFO - Started process (PID=853) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:26,549] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:53:26,553] {logging_mixin.py:109} INFO - [2022-01-03 11:53:26,553] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:26,884] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:26,937] {logging_mixin.py:109} INFO - [2022-01-03 11:53:26,937] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:53:27,088] {logging_mixin.py:109} INFO - [2022-01-03 11:53:27,086] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:53:27,150] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.636 seconds
+[2022-01-03 11:53:58,070] {processor.py:163} INFO - Started process (PID=909) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:58,080] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:53:58,391] {logging_mixin.py:109} INFO - [2022-01-03 11:53:58,389] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:59,677] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:53:59,922] {logging_mixin.py:109} INFO - [2022-01-03 11:53:59,921] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:54:00,310] {logging_mixin.py:109} INFO - [2022-01-03 11:54:00,309] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:54:00,424] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.391 seconds
+[2022-01-03 11:54:31,126] {processor.py:163} INFO - Started process (PID=950) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:54:31,134] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:54:31,137] {logging_mixin.py:109} INFO - [2022-01-03 11:54:31,137] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:54:31,501] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:54:31,612] {logging_mixin.py:109} INFO - [2022-01-03 11:54:31,612] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:54:31,803] {logging_mixin.py:109} INFO - [2022-01-03 11:54:31,803] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:54:31,831] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.723 seconds
+[2022-01-03 11:55:19,777] {processor.py:163} INFO - Started process (PID=998) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:19,791] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:55:19,817] {logging_mixin.py:109} INFO - [2022-01-03 11:55:19,810] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:21,851] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:22,225] {logging_mixin.py:109} INFO - [2022-01-03 11:55:22,224] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:55:23,172] {logging_mixin.py:109} INFO - [2022-01-03 11:55:23,171] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:55:23,403] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.678 seconds
+[2022-01-03 11:55:54,191] {processor.py:163} INFO - Started process (PID=1046) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:54,201] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:55:54,208] {logging_mixin.py:109} INFO - [2022-01-03 11:55:54,208] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:54,722] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:55:54,876] {logging_mixin.py:109} INFO - [2022-01-03 11:55:54,876] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:55:54,995] {logging_mixin.py:109} INFO - [2022-01-03 11:55:54,995] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:55:55,260] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.085 seconds
+[2022-01-03 11:56:28,442] {processor.py:163} INFO - Started process (PID=1094) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:56:28,448] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:56:28,455] {logging_mixin.py:109} INFO - [2022-01-03 11:56:28,455] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:56:29,267] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:56:29,340] {logging_mixin.py:109} INFO - [2022-01-03 11:56:29,340] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:56:29,482] {logging_mixin.py:109} INFO - [2022-01-03 11:56:29,482] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:56:29,554] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.132 seconds
+[2022-01-03 11:56:59,975] {processor.py:163} INFO - Started process (PID=1145) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:56:59,991] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:56:59,996] {logging_mixin.py:109} INFO - [2022-01-03 11:56:59,995] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:57:00,433] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:57:00,519] {logging_mixin.py:109} INFO - [2022-01-03 11:57:00,519] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:57:00,620] {logging_mixin.py:109} INFO - [2022-01-03 11:57:00,620] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:57:00,668] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.712 seconds
+[2022-01-03 11:57:30,743] {processor.py:163} INFO - Started process (PID=1183) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:57:30,750] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:57:30,758] {logging_mixin.py:109} INFO - [2022-01-03 11:57:30,758] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:57:30,924] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:57:30,958] {logging_mixin.py:109} INFO - [2022-01-03 11:57:30,958] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:57:31,050] {logging_mixin.py:109} INFO - [2022-01-03 11:57:31,049] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:57:31,101] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.365 seconds
+[2022-01-03 11:58:02,195] {processor.py:163} INFO - Started process (PID=1233) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:02,205] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:58:02,208] {logging_mixin.py:109} INFO - [2022-01-03 11:58:02,208] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:02,577] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:02,616] {logging_mixin.py:109} INFO - [2022-01-03 11:58:02,615] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:58:02,789] {logging_mixin.py:109} INFO - [2022-01-03 11:58:02,789] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:58:02,877] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.692 seconds
+[2022-01-03 11:58:33,471] {processor.py:163} INFO - Started process (PID=1284) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:33,478] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:58:33,489] {logging_mixin.py:109} INFO - [2022-01-03 11:58:33,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:33,819] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:58:33,903] {logging_mixin.py:109} INFO - [2022-01-03 11:58:33,903] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:58:34,098] {logging_mixin.py:109} INFO - [2022-01-03 11:58:34,098] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:58:34,161] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.714 seconds
+[2022-01-03 11:59:05,017] {processor.py:163} INFO - Started process (PID=1337) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:05,022] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:59:05,048] {logging_mixin.py:109} INFO - [2022-01-03 11:59:05,047] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:05,543] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:05,644] {logging_mixin.py:109} INFO - [2022-01-03 11:59:05,644] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:59:05,959] {logging_mixin.py:109} INFO - [2022-01-03 11:59:05,959] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:59:06,026] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.021 seconds
+[2022-01-03 11:59:36,890] {processor.py:163} INFO - Started process (PID=1374) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:36,895] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 11:59:36,904] {logging_mixin.py:109} INFO - [2022-01-03 11:59:36,903] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:37,157] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 11:59:37,217] {logging_mixin.py:109} INFO - [2022-01-03 11:59:37,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 11:59:37,361] {logging_mixin.py:109} INFO - [2022-01-03 11:59:37,360] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 11:59:37,404] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.521 seconds
+[2022-01-03 12:00:09,132] {processor.py:163} INFO - Started process (PID=1424) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:00:09,140] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:00:09,149] {logging_mixin.py:109} INFO - [2022-01-03 12:00:09,149] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:00:09,703] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:00:09,827] {logging_mixin.py:109} INFO - [2022-01-03 12:00:09,826] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:00:10,029] {logging_mixin.py:109} INFO - [2022-01-03 12:00:10,029] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:00:10,104] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.988 seconds
+[2022-01-03 12:01:18,695] {processor.py:163} INFO - Started process (PID=1470) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:18,704] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:01:18,720] {logging_mixin.py:109} INFO - [2022-01-03 12:01:18,720] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:19,353] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:19,476] {logging_mixin.py:109} INFO - [2022-01-03 12:01:19,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:01:19,693] {logging_mixin.py:109} INFO - [2022-01-03 12:01:19,692] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:01:19,782] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.095 seconds
+[2022-01-03 12:01:55,154] {processor.py:163} INFO - Started process (PID=1519) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:55,181] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:01:55,184] {logging_mixin.py:109} INFO - [2022-01-03 12:01:55,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:55,695] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:01:55,812] {logging_mixin.py:109} INFO - [2022-01-03 12:01:55,809] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:01:56,268] {logging_mixin.py:109} INFO - [2022-01-03 12:01:56,253] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:02:02,393] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 7.258 seconds
+[2022-01-03 12:02:34,606] {processor.py:163} INFO - Started process (PID=1570) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:02:34,612] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:02:34,631] {logging_mixin.py:109} INFO - [2022-01-03 12:02:34,630] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:02:35,069] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:02:35,220] {logging_mixin.py:109} INFO - [2022-01-03 12:02:35,220] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:02:35,365] {logging_mixin.py:109} INFO - [2022-01-03 12:02:35,362] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:02:35,424] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.883 seconds
+[2022-01-03 12:03:05,608] {processor.py:163} INFO - Started process (PID=1626) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:05,617] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:03:05,627] {logging_mixin.py:109} INFO - [2022-01-03 12:03:05,626] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:06,196] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:06,323] {logging_mixin.py:109} INFO - [2022-01-03 12:03:06,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:03:06,515] {logging_mixin.py:109} INFO - [2022-01-03 12:03:06,515] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:03:06,613] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.016 seconds
+[2022-01-03 12:03:37,320] {processor.py:163} INFO - Started process (PID=1663) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:37,323] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:03:37,329] {logging_mixin.py:109} INFO - [2022-01-03 12:03:37,328] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:37,965] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:03:38,097] {logging_mixin.py:109} INFO - [2022-01-03 12:03:38,094] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:03:38,261] {logging_mixin.py:109} INFO - [2022-01-03 12:03:38,261] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:03:38,347] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.038 seconds
+[2022-01-03 12:04:08,726] {processor.py:163} INFO - Started process (PID=1715) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:08,730] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:04:08,734] {logging_mixin.py:109} INFO - [2022-01-03 12:04:08,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:09,424] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:09,661] {logging_mixin.py:109} INFO - [2022-01-03 12:04:09,661] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:04:10,001] {logging_mixin.py:109} INFO - [2022-01-03 12:04:09,986] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:04:10,092] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.390 seconds
+[2022-01-03 12:04:40,613] {processor.py:163} INFO - Started process (PID=1762) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:40,626] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:04:40,632] {logging_mixin.py:109} INFO - [2022-01-03 12:04:40,632] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:41,251] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:04:41,367] {logging_mixin.py:109} INFO - [2022-01-03 12:04:41,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:04:41,592] {logging_mixin.py:109} INFO - [2022-01-03 12:04:41,592] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:04:41,664] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.084 seconds
+[2022-01-03 12:05:12,016] {processor.py:163} INFO - Started process (PID=1810) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:12,026] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:05:12,030] {logging_mixin.py:109} INFO - [2022-01-03 12:05:12,029] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:12,711] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:12,846] {logging_mixin.py:109} INFO - [2022-01-03 12:05:12,846] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:05:13,089] {logging_mixin.py:109} INFO - [2022-01-03 12:05:13,089] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:05:13,266] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.266 seconds
+[2022-01-03 12:05:43,682] {processor.py:163} INFO - Started process (PID=1859) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:43,686] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:05:43,695] {logging_mixin.py:109} INFO - [2022-01-03 12:05:43,695] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:44,985] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:05:45,112] {logging_mixin.py:109} INFO - [2022-01-03 12:05:45,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:05:45,357] {logging_mixin.py:109} INFO - [2022-01-03 12:05:45,356] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:05:45,456] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.793 seconds
+[2022-01-03 12:06:15,790] {processor.py:163} INFO - Started process (PID=1895) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:15,796] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:06:15,808] {logging_mixin.py:109} INFO - [2022-01-03 12:06:15,804] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:16,185] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:16,242] {logging_mixin.py:109} INFO - [2022-01-03 12:06:16,241] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:06:16,406] {logging_mixin.py:109} INFO - [2022-01-03 12:06:16,406] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:06:16,510] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.739 seconds
+[2022-01-03 12:06:46,659] {processor.py:163} INFO - Started process (PID=1951) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:46,672] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:06:46,706] {logging_mixin.py:109} INFO - [2022-01-03 12:06:46,706] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:47,023] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:06:47,100] {logging_mixin.py:109} INFO - [2022-01-03 12:06:47,100] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:06:47,312] {logging_mixin.py:109} INFO - [2022-01-03 12:06:47,311] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:06:47,378] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.729 seconds
+[2022-01-03 12:07:17,603] {processor.py:163} INFO - Started process (PID=1987) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:17,608] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:07:17,611] {logging_mixin.py:109} INFO - [2022-01-03 12:07:17,610] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:17,973] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:18,014] {logging_mixin.py:109} INFO - [2022-01-03 12:07:18,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:07:18,087] {logging_mixin.py:109} INFO - [2022-01-03 12:07:18,087] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:07:18,120] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.536 seconds
+[2022-01-03 12:07:48,257] {processor.py:163} INFO - Started process (PID=2046) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:48,279] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:07:48,287] {logging_mixin.py:109} INFO - [2022-01-03 12:07:48,287] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:48,679] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:07:48,758] {logging_mixin.py:109} INFO - [2022-01-03 12:07:48,758] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:07:48,867] {logging_mixin.py:109} INFO - [2022-01-03 12:07:48,867] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:07:48,935] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.700 seconds
+[2022-01-03 12:08:19,388] {processor.py:163} INFO - Started process (PID=2110) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:19,391] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:08:19,397] {logging_mixin.py:109} INFO - [2022-01-03 12:08:19,397] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:19,581] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:19,621] {logging_mixin.py:109} INFO - [2022-01-03 12:08:19,621] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:08:19,712] {logging_mixin.py:109} INFO - [2022-01-03 12:08:19,712] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:08:19,755] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.408 seconds
+[2022-01-03 12:08:50,159] {processor.py:163} INFO - Started process (PID=2148) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:50,163] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:08:50,166] {logging_mixin.py:109} INFO - [2022-01-03 12:08:50,165] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:50,318] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:08:50,350] {logging_mixin.py:109} INFO - [2022-01-03 12:08:50,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:08:50,454] {logging_mixin.py:109} INFO - [2022-01-03 12:08:50,454] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:08:50,518] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.366 seconds
+[2022-01-03 12:09:20,677] {processor.py:163} INFO - Started process (PID=2196) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:20,686] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:09:20,691] {logging_mixin.py:109} INFO - [2022-01-03 12:09:20,691] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:21,011] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:21,075] {logging_mixin.py:109} INFO - [2022-01-03 12:09:21,075] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:09:21,259] {logging_mixin.py:109} INFO - [2022-01-03 12:09:21,259] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:09:21,336] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.685 seconds
+[2022-01-03 12:09:51,592] {processor.py:163} INFO - Started process (PID=2244) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:51,597] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:09:51,603] {logging_mixin.py:109} INFO - [2022-01-03 12:09:51,602] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:51,781] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:09:51,822] {logging_mixin.py:109} INFO - [2022-01-03 12:09:51,822] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:09:51,884] {logging_mixin.py:109} INFO - [2022-01-03 12:09:51,884] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:09:51,921] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.334 seconds
+[2022-01-03 12:10:22,173] {processor.py:163} INFO - Started process (PID=2291) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:22,175] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:10:22,177] {logging_mixin.py:109} INFO - [2022-01-03 12:10:22,177] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:22,308] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:22,336] {logging_mixin.py:109} INFO - [2022-01-03 12:10:22,336] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:10:22,389] {logging_mixin.py:109} INFO - [2022-01-03 12:10:22,389] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:10:22,412] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.246 seconds
+[2022-01-03 12:10:53,079] {processor.py:163} INFO - Started process (PID=2342) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:53,082] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:10:53,084] {logging_mixin.py:109} INFO - [2022-01-03 12:10:53,084] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:53,180] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:10:53,201] {logging_mixin.py:109} INFO - [2022-01-03 12:10:53,201] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:10:53,246] {logging_mixin.py:109} INFO - [2022-01-03 12:10:53,246] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:10:53,267] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.192 seconds
+[2022-01-03 12:11:23,385] {processor.py:163} INFO - Started process (PID=2391) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:23,387] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:11:23,391] {logging_mixin.py:109} INFO - [2022-01-03 12:11:23,391] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:23,479] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:23,499] {logging_mixin.py:109} INFO - [2022-01-03 12:11:23,499] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:11:23,542] {logging_mixin.py:109} INFO - [2022-01-03 12:11:23,541] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:11:23,571] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.191 seconds
+[2022-01-03 12:11:54,214] {processor.py:163} INFO - Started process (PID=2451) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:54,216] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:11:54,218] {logging_mixin.py:109} INFO - [2022-01-03 12:11:54,218] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:54,296] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:11:54,311] {logging_mixin.py:109} INFO - [2022-01-03 12:11:54,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:11:54,354] {logging_mixin.py:109} INFO - [2022-01-03 12:11:54,353] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:11:54,373] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.163 seconds
+[2022-01-03 12:12:24,800] {processor.py:163} INFO - Started process (PID=2498) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:24,802] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:12:24,804] {logging_mixin.py:109} INFO - [2022-01-03 12:12:24,804] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:24,887] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:24,908] {logging_mixin.py:109} INFO - [2022-01-03 12:12:24,908] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:12:24,954] {logging_mixin.py:109} INFO - [2022-01-03 12:12:24,954] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:12:24,975] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.181 seconds
+[2022-01-03 12:12:55,058] {processor.py:163} INFO - Started process (PID=2557) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:55,073] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:12:55,075] {logging_mixin.py:109} INFO - [2022-01-03 12:12:55,075] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:55,214] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:12:55,242] {logging_mixin.py:109} INFO - [2022-01-03 12:12:55,242] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:12:55,309] {logging_mixin.py:109} INFO - [2022-01-03 12:12:55,309] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:12:55,337] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.290 seconds
+[2022-01-03 12:13:25,652] {processor.py:163} INFO - Started process (PID=2605) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:25,654] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:13:25,656] {logging_mixin.py:109} INFO - [2022-01-03 12:13:25,656] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:25,740] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:25,762] {logging_mixin.py:109} INFO - [2022-01-03 12:13:25,762] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:13:25,811] {logging_mixin.py:109} INFO - [2022-01-03 12:13:25,811] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:13:25,836] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.188 seconds
+[2022-01-03 12:13:55,901] {processor.py:163} INFO - Started process (PID=2652) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:55,903] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:13:55,905] {logging_mixin.py:109} INFO - [2022-01-03 12:13:55,905] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:55,997] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:13:56,019] {logging_mixin.py:109} INFO - [2022-01-03 12:13:56,019] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:13:56,054] {logging_mixin.py:109} INFO - [2022-01-03 12:13:56,054] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:13:56,072] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.176 seconds
+[2022-01-03 12:14:26,298] {processor.py:163} INFO - Started process (PID=2711) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:26,301] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:14:26,303] {logging_mixin.py:109} INFO - [2022-01-03 12:14:26,302] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:26,385] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:26,401] {logging_mixin.py:109} INFO - [2022-01-03 12:14:26,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:14:26,435] {logging_mixin.py:109} INFO - [2022-01-03 12:14:26,435] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:14:26,451] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.158 seconds
+[2022-01-03 12:14:56,609] {processor.py:163} INFO - Started process (PID=2759) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:56,611] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:14:56,612] {logging_mixin.py:109} INFO - [2022-01-03 12:14:56,612] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:56,692] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:14:56,707] {logging_mixin.py:109} INFO - [2022-01-03 12:14:56,707] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:14:56,740] {logging_mixin.py:109} INFO - [2022-01-03 12:14:56,740] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:14:56,757] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.153 seconds
+[2022-01-03 12:15:27,120] {processor.py:163} INFO - Started process (PID=2816) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:27,122] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:15:27,124] {logging_mixin.py:109} INFO - [2022-01-03 12:15:27,123] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:27,194] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:27,210] {logging_mixin.py:109} INFO - [2022-01-03 12:15:27,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:15:27,250] {logging_mixin.py:109} INFO - [2022-01-03 12:15:27,250] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:15:27,264] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.148 seconds
+[2022-01-03 12:15:57,397] {processor.py:163} INFO - Started process (PID=2863) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:57,400] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:15:57,402] {logging_mixin.py:109} INFO - [2022-01-03 12:15:57,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:57,468] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:15:57,483] {logging_mixin.py:109} INFO - [2022-01-03 12:15:57,483] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:15:57,515] {logging_mixin.py:109} INFO - [2022-01-03 12:15:57,515] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:15:57,528] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.135 seconds
+[2022-01-03 12:16:27,835] {processor.py:163} INFO - Started process (PID=2922) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:27,837] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:16:27,838] {logging_mixin.py:109} INFO - [2022-01-03 12:16:27,838] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:27,907] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:27,922] {logging_mixin.py:109} INFO - [2022-01-03 12:16:27,922] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:16:27,953] {logging_mixin.py:109} INFO - [2022-01-03 12:16:27,953] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:16:27,968] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.137 seconds
+[2022-01-03 12:16:58,361] {processor.py:163} INFO - Started process (PID=2970) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:58,363] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:16:58,365] {logging_mixin.py:109} INFO - [2022-01-03 12:16:58,364] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:58,431] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:16:58,447] {logging_mixin.py:109} INFO - [2022-01-03 12:16:58,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:16:58,478] {logging_mixin.py:109} INFO - [2022-01-03 12:16:58,478] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:16:58,492] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.135 seconds
+[2022-01-03 12:17:28,695] {processor.py:163} INFO - Started process (PID=3029) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:28,697] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:17:28,699] {logging_mixin.py:109} INFO - [2022-01-03 12:17:28,699] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:28,784] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:28,801] {logging_mixin.py:109} INFO - [2022-01-03 12:17:28,801] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:17:28,836] {logging_mixin.py:109} INFO - [2022-01-03 12:17:28,836] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:17:28,855] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.164 seconds
+[2022-01-03 12:17:59,084] {processor.py:163} INFO - Started process (PID=3078) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:59,086] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:17:59,088] {logging_mixin.py:109} INFO - [2022-01-03 12:17:59,088] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:59,156] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:17:59,173] {logging_mixin.py:109} INFO - [2022-01-03 12:17:59,173] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:17:59,207] {logging_mixin.py:109} INFO - [2022-01-03 12:17:59,206] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:17:59,226] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.146 seconds
+[2022-01-03 12:18:29,369] {processor.py:163} INFO - Started process (PID=3135) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:29,372] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:18:29,375] {logging_mixin.py:109} INFO - [2022-01-03 12:18:29,374] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:29,447] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:29,464] {logging_mixin.py:109} INFO - [2022-01-03 12:18:29,463] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:18:29,498] {logging_mixin.py:109} INFO - [2022-01-03 12:18:29,498] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:18:29,515] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.150 seconds
+[2022-01-03 12:18:59,648] {processor.py:163} INFO - Started process (PID=3182) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:59,650] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:18:59,652] {logging_mixin.py:109} INFO - [2022-01-03 12:18:59,651] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:59,726] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:18:59,741] {logging_mixin.py:109} INFO - [2022-01-03 12:18:59,741] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:18:59,774] {logging_mixin.py:109} INFO - [2022-01-03 12:18:59,774] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:18:59,789] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.146 seconds
+[2022-01-03 12:19:30,431] {processor.py:163} INFO - Started process (PID=3241) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:19:30,436] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:19:30,438] {logging_mixin.py:109} INFO - [2022-01-03 12:19:30,438] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:19:30,562] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:19:30,590] {logging_mixin.py:109} INFO - [2022-01-03 12:19:30,590] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:19:30,643] {logging_mixin.py:109} INFO - [2022-01-03 12:19:30,643] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:19:30,680] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.263 seconds
+[2022-01-03 12:20:01,129] {processor.py:163} INFO - Started process (PID=3290) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:01,136] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:20:01,139] {logging_mixin.py:109} INFO - [2022-01-03 12:20:01,139] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:01,425] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:01,475] {logging_mixin.py:109} INFO - [2022-01-03 12:20:01,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:20:01,576] {logging_mixin.py:109} INFO - [2022-01-03 12:20:01,575] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:20:01,620] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.504 seconds
+[2022-01-03 12:20:32,603] {processor.py:163} INFO - Started process (PID=3348) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:32,606] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:20:32,608] {logging_mixin.py:109} INFO - [2022-01-03 12:20:32,608] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:32,703] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:20:32,725] {logging_mixin.py:109} INFO - [2022-01-03 12:20:32,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:20:32,774] {logging_mixin.py:109} INFO - [2022-01-03 12:20:32,774] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:20:32,797] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.201 seconds
+[2022-01-03 12:21:03,124] {processor.py:163} INFO - Started process (PID=3395) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:03,127] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:21:03,128] {logging_mixin.py:109} INFO - [2022-01-03 12:21:03,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:03,208] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:03,224] {logging_mixin.py:109} INFO - [2022-01-03 12:21:03,224] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:21:03,257] {logging_mixin.py:109} INFO - [2022-01-03 12:21:03,257] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:21:03,272] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.153 seconds
+[2022-01-03 12:21:33,433] {processor.py:163} INFO - Started process (PID=3454) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:33,435] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:21:33,436] {logging_mixin.py:109} INFO - [2022-01-03 12:21:33,436] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:33,513] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:21:33,530] {logging_mixin.py:109} INFO - [2022-01-03 12:21:33,530] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:21:33,570] {logging_mixin.py:109} INFO - [2022-01-03 12:21:33,570] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:21:33,587] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.158 seconds
+[2022-01-03 12:22:03,627] {processor.py:163} INFO - Started process (PID=3502) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:03,629] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:22:03,631] {logging_mixin.py:109} INFO - [2022-01-03 12:22:03,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:03,714] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:03,729] {logging_mixin.py:109} INFO - [2022-01-03 12:22:03,729] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:22:03,762] {logging_mixin.py:109} INFO - [2022-01-03 12:22:03,762] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:22:03,783] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.161 seconds
+[2022-01-03 12:22:34,549] {processor.py:163} INFO - Started process (PID=3549) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:34,551] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:22:34,553] {logging_mixin.py:109} INFO - [2022-01-03 12:22:34,552] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:34,635] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:22:34,653] {logging_mixin.py:109} INFO - [2022-01-03 12:22:34,653] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:22:34,687] {logging_mixin.py:109} INFO - [2022-01-03 12:22:34,687] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:22:34,706] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.161 seconds
+[2022-01-03 12:23:05,520] {processor.py:163} INFO - Started process (PID=3607) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:05,523] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:23:05,525] {logging_mixin.py:109} INFO - [2022-01-03 12:23:05,525] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:05,636] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:05,669] {logging_mixin.py:109} INFO - [2022-01-03 12:23:05,669] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:23:05,718] {logging_mixin.py:109} INFO - [2022-01-03 12:23:05,717] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:23:05,749] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.234 seconds
+[2022-01-03 12:23:35,926] {processor.py:163} INFO - Started process (PID=3655) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:35,930] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:23:35,931] {logging_mixin.py:109} INFO - [2022-01-03 12:23:35,931] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:36,090] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:23:36,140] {logging_mixin.py:109} INFO - [2022-01-03 12:23:36,140] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:23:36,228] {logging_mixin.py:109} INFO - [2022-01-03 12:23:36,228] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:23:36,289] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.369 seconds
+[2022-01-03 12:24:23,169] {processor.py:163} INFO - Started process (PID=3683) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:23,171] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:24:23,172] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,172] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:23,259] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:23,281] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,280] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:24:23,324] {logging_mixin.py:109} INFO - [2022-01-03 12:24:23,324] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:24:23,346] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.181 seconds
+[2022-01-03 12:24:54,042] {processor.py:163} INFO - Started process (PID=3730) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:54,044] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:24:54,045] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,045] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:54,118] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:24:54,134] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,134] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:24:54,170] {logging_mixin.py:109} INFO - [2022-01-03 12:24:54,170] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:24:54,188] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.151 seconds
+[2022-01-03 12:25:24,759] {processor.py:163} INFO - Started process (PID=3787) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:24,762] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:25:24,763] {logging_mixin.py:109} INFO - [2022-01-03 12:25:24,763] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:24,847] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:24,866] {logging_mixin.py:109} INFO - [2022-01-03 12:25:24,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:25:24,904] {logging_mixin.py:109} INFO - [2022-01-03 12:25:24,904] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:25:24,926] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.171 seconds
+[2022-01-03 12:25:55,789] {processor.py:163} INFO - Started process (PID=3833) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:55,791] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:25:55,792] {logging_mixin.py:109} INFO - [2022-01-03 12:25:55,792] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:55,864] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:25:55,880] {logging_mixin.py:109} INFO - [2022-01-03 12:25:55,880] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:25:55,911] {logging_mixin.py:109} INFO - [2022-01-03 12:25:55,911] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:25:55,926] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.141 seconds
+[2022-01-03 12:26:26,503] {processor.py:163} INFO - Started process (PID=3889) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:26,505] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:26:26,507] {logging_mixin.py:109} INFO - [2022-01-03 12:26:26,506] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:26,591] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:26,608] {logging_mixin.py:109} INFO - [2022-01-03 12:26:26,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:26:26,645] {logging_mixin.py:109} INFO - [2022-01-03 12:26:26,645] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:26:26,665] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.166 seconds
+[2022-01-03 12:26:57,368] {processor.py:163} INFO - Started process (PID=3936) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:57,370] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:26:57,371] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,371] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:57,485] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:26:57,508] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,507] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:26:57,546] {logging_mixin.py:109} INFO - [2022-01-03 12:26:57,546] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:26:57,565] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.206 seconds
+[2022-01-03 12:27:28,254] {processor.py:163} INFO - Started process (PID=3993) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:28,256] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:27:28,258] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,257] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:28,347] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:28,367] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:27:28,402] {logging_mixin.py:109} INFO - [2022-01-03 12:27:28,401] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:27:28,423] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.173 seconds
+[2022-01-03 12:27:59,029] {processor.py:163} INFO - Started process (PID=4039) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:59,031] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:27:59,032] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,032] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:59,115] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:27:59,137] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,137] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:27:59,188] {logging_mixin.py:109} INFO - [2022-01-03 12:27:59,187] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:27:59,224] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.199 seconds
+[2022-01-03 12:28:29,971] {processor.py:163} INFO - Started process (PID=4096) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:28:29,973] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:28:29,974] {logging_mixin.py:109} INFO - [2022-01-03 12:28:29,974] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:28:30,043] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:28:30,058] {logging_mixin.py:109} INFO - [2022-01-03 12:28:30,058] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:28:30,092] {logging_mixin.py:109} INFO - [2022-01-03 12:28:30,092] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:28:30,111] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.144 seconds
+[2022-01-03 12:29:00,779] {processor.py:163} INFO - Started process (PID=4142) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:00,781] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:29:00,783] {logging_mixin.py:109} INFO - [2022-01-03 12:29:00,783] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:00,862] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:00,881] {logging_mixin.py:109} INFO - [2022-01-03 12:29:00,881] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:29:00,927] {logging_mixin.py:109} INFO - [2022-01-03 12:29:00,927] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:29:00,953] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.178 seconds
+[2022-01-03 12:29:31,069] {processor.py:163} INFO - Started process (PID=4200) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:31,071] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:29:31,072] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,072] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:31,154] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:29:31,171] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,171] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:29:31,220] {logging_mixin.py:109} INFO - [2022-01-03 12:29:31,220] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:29:31,245] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.180 seconds
+[2022-01-03 12:30:01,440] {processor.py:163} INFO - Started process (PID=4249) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:01,442] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:30:01,444] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,443] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:01,542] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:01,563] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,562] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:30:01,594] {logging_mixin.py:109} INFO - [2022-01-03 12:30:01,593] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:30:01,608] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.172 seconds
+[2022-01-03 12:30:31,674] {processor.py:163} INFO - Started process (PID=4306) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:31,676] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:30:31,678] {logging_mixin.py:109} INFO - [2022-01-03 12:30:31,678] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:31,777] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:30:31,811] {logging_mixin.py:109} INFO - [2022-01-03 12:30:31,811] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:30:31,865] {logging_mixin.py:109} INFO - [2022-01-03 12:30:31,865] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:30:31,893] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.224 seconds
+[2022-01-03 12:31:02,083] {processor.py:163} INFO - Started process (PID=4352) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:02,085] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:31:02,086] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,086] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:02,151] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:02,167] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,166] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:31:02,197] {logging_mixin.py:109} INFO - [2022-01-03 12:31:02,197] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:31:02,214] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.135 seconds
+[2022-01-03 12:31:32,310] {processor.py:163} INFO - Started process (PID=4410) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:32,312] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:31:32,315] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,314] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:32,392] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:31:32,407] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,407] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:31:32,441] {logging_mixin.py:109} INFO - [2022-01-03 12:31:32,441] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:31:32,458] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.152 seconds
+[2022-01-03 12:32:02,575] {processor.py:163} INFO - Started process (PID=4457) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:02,577] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:32:02,579] {logging_mixin.py:109} INFO - [2022-01-03 12:32:02,578] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:02,648] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:02,663] {logging_mixin.py:109} INFO - [2022-01-03 12:32:02,663] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:32:02,698] {logging_mixin.py:109} INFO - [2022-01-03 12:32:02,698] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:32:02,714] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.143 seconds
+[2022-01-03 12:32:32,827] {processor.py:163} INFO - Started process (PID=4516) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:32,832] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:32:32,834] {logging_mixin.py:109} INFO - [2022-01-03 12:32:32,834] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:32,915] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:32:32,940] {logging_mixin.py:109} INFO - [2022-01-03 12:32:32,940] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:32:32,977] {logging_mixin.py:109} INFO - [2022-01-03 12:32:32,977] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:32:32,996] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.176 seconds
+[2022-01-03 12:33:03,842] {processor.py:163} INFO - Started process (PID=4564) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:03,844] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:33:03,846] {logging_mixin.py:109} INFO - [2022-01-03 12:33:03,846] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:03,912] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:03,927] {logging_mixin.py:109} INFO - [2022-01-03 12:33:03,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:33:03,958] {logging_mixin.py:109} INFO - [2022-01-03 12:33:03,958] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:33:03,972] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.134 seconds
+[2022-01-03 12:33:34,850] {processor.py:163} INFO - Started process (PID=4623) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:34,852] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:33:34,854] {logging_mixin.py:109} INFO - [2022-01-03 12:33:34,853] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:34,945] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:33:34,966] {logging_mixin.py:109} INFO - [2022-01-03 12:33:34,966] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:33:35,007] {logging_mixin.py:109} INFO - [2022-01-03 12:33:35,007] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:33:35,026] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.182 seconds
+[2022-01-03 12:34:05,365] {processor.py:163} INFO - Started process (PID=4671) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:05,367] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:34:05,368] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,368] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:05,439] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:05,455] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,455] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:34:05,486] {logging_mixin.py:109} INFO - [2022-01-03 12:34:05,486] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:34:05,501] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.140 seconds
+[2022-01-03 12:34:36,496] {processor.py:163} INFO - Started process (PID=4728) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:36,498] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:34:36,500] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,500] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:36,588] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:34:36,611] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,611] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:34:36,658] {logging_mixin.py:109} INFO - [2022-01-03 12:34:36,658] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:34:36,678] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.186 seconds
+[2022-01-03 12:35:06,751] {processor.py:163} INFO - Started process (PID=4776) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:06,753] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:35:06,754] {logging_mixin.py:109} INFO - [2022-01-03 12:35:06,754] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:06,837] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:06,854] {logging_mixin.py:109} INFO - [2022-01-03 12:35:06,854] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:35:06,891] {logging_mixin.py:109} INFO - [2022-01-03 12:35:06,891] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:35:06,909] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.163 seconds
+[2022-01-03 12:35:37,310] {processor.py:163} INFO - Started process (PID=4822) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:37,312] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:35:37,314] {logging_mixin.py:109} INFO - [2022-01-03 12:35:37,313] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:37,396] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:35:37,412] {logging_mixin.py:109} INFO - [2022-01-03 12:35:37,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:35:37,453] {logging_mixin.py:109} INFO - [2022-01-03 12:35:37,453] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:35:37,470] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.166 seconds
+[2022-01-03 12:36:08,056] {processor.py:163} INFO - Started process (PID=4880) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:08,059] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:36:08,061] {logging_mixin.py:109} INFO - [2022-01-03 12:36:08,061] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:08,143] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:08,159] {logging_mixin.py:109} INFO - [2022-01-03 12:36:08,159] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:36:08,196] {logging_mixin.py:109} INFO - [2022-01-03 12:36:08,196] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:36:08,217] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.165 seconds
+[2022-01-03 12:36:38,815] {processor.py:163} INFO - Started process (PID=4927) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:38,817] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:36:38,818] {logging_mixin.py:109} INFO - [2022-01-03 12:36:38,818] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:38,912] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:36:38,928] {logging_mixin.py:109} INFO - [2022-01-03 12:36:38,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:36:38,972] {logging_mixin.py:109} INFO - [2022-01-03 12:36:38,971] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:36:38,991] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.179 seconds
+[2022-01-03 12:37:09,398] {processor.py:163} INFO - Started process (PID=4985) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:09,400] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:37:09,401] {logging_mixin.py:109} INFO - [2022-01-03 12:37:09,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:09,483] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:09,498] {logging_mixin.py:109} INFO - [2022-01-03 12:37:09,498] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:37:09,528] {logging_mixin.py:109} INFO - [2022-01-03 12:37:09,528] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:37:09,544] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.151 seconds
+[2022-01-03 12:37:40,254] {processor.py:163} INFO - Started process (PID=5040) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:40,256] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:37:40,258] {logging_mixin.py:109} INFO - [2022-01-03 12:37:40,257] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:40,339] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:37:40,358] {logging_mixin.py:109} INFO - [2022-01-03 12:37:40,357] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:37:40,395] {logging_mixin.py:109} INFO - [2022-01-03 12:37:40,395] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:37:40,413] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.163 seconds
+[2022-01-03 12:38:11,131] {processor.py:163} INFO - Started process (PID=5092) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:11,133] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:38:11,135] {logging_mixin.py:109} INFO - [2022-01-03 12:38:11,135] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:11,221] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:11,242] {logging_mixin.py:109} INFO - [2022-01-03 12:38:11,242] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:38:11,282] {logging_mixin.py:109} INFO - [2022-01-03 12:38:11,282] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:38:11,297] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.171 seconds
+[2022-01-03 12:38:41,775] {processor.py:163} INFO - Started process (PID=5151) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:41,778] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:38:41,781] {logging_mixin.py:109} INFO - [2022-01-03 12:38:41,780] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:41,902] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:38:41,933] {logging_mixin.py:109} INFO - [2022-01-03 12:38:41,933] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:38:41,985] {logging_mixin.py:109} INFO - [2022-01-03 12:38:41,985] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:38:42,004] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.234 seconds
+[2022-01-03 12:39:12,640] {processor.py:163} INFO - Started process (PID=5199) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:12,642] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:39:12,644] {logging_mixin.py:109} INFO - [2022-01-03 12:39:12,643] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:12,720] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:12,735] {logging_mixin.py:109} INFO - [2022-01-03 12:39:12,735] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:39:12,766] {logging_mixin.py:109} INFO - [2022-01-03 12:39:12,766] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:39:12,784] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.149 seconds
+[2022-01-03 12:39:43,279] {processor.py:163} INFO - Started process (PID=5246) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:43,282] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:39:43,283] {logging_mixin.py:109} INFO - [2022-01-03 12:39:43,283] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:43,379] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:39:43,397] {logging_mixin.py:109} INFO - [2022-01-03 12:39:43,397] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:39:43,439] {logging_mixin.py:109} INFO - [2022-01-03 12:39:43,439] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:39:43,459] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.184 seconds
+[2022-01-03 12:40:14,170] {processor.py:163} INFO - Started process (PID=5304) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:14,172] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:40:14,173] {logging_mixin.py:109} INFO - [2022-01-03 12:40:14,173] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:14,245] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:14,266] {logging_mixin.py:109} INFO - [2022-01-03 12:40:14,266] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:40:14,310] {logging_mixin.py:109} INFO - [2022-01-03 12:40:14,309] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:40:14,336] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.170 seconds
+[2022-01-03 12:40:45,002] {processor.py:163} INFO - Started process (PID=5351) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:45,006] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:40:45,012] {logging_mixin.py:109} INFO - [2022-01-03 12:40:45,012] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:45,145] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:40:45,177] {logging_mixin.py:109} INFO - [2022-01-03 12:40:45,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:40:45,252] {logging_mixin.py:109} INFO - [2022-01-03 12:40:45,252] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:40:45,286] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.292 seconds
+[2022-01-03 12:41:15,870] {processor.py:163} INFO - Started process (PID=5410) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:15,872] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:41:15,874] {logging_mixin.py:109} INFO - [2022-01-03 12:41:15,874] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:15,952] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:15,969] {logging_mixin.py:109} INFO - [2022-01-03 12:41:15,968] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:41:16,005] {logging_mixin.py:109} INFO - [2022-01-03 12:41:16,004] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:41:16,019] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.154 seconds
+[2022-01-03 12:41:46,597] {processor.py:163} INFO - Started process (PID=5457) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:46,599] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:41:46,601] {logging_mixin.py:109} INFO - [2022-01-03 12:41:46,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:46,671] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:41:46,688] {logging_mixin.py:109} INFO - [2022-01-03 12:41:46,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:41:46,730] {logging_mixin.py:109} INFO - [2022-01-03 12:41:46,730] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:41:46,758] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.165 seconds
+[2022-01-03 12:42:17,372] {processor.py:163} INFO - Started process (PID=5517) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:17,374] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:42:17,376] {logging_mixin.py:109} INFO - [2022-01-03 12:42:17,376] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:17,482] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:17,497] {logging_mixin.py:109} INFO - [2022-01-03 12:42:17,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:42:17,530] {logging_mixin.py:109} INFO - [2022-01-03 12:42:17,530] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:42:17,545] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.178 seconds
+[2022-01-03 12:42:48,033] {processor.py:163} INFO - Started process (PID=5567) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:48,035] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:42:48,037] {logging_mixin.py:109} INFO - [2022-01-03 12:42:48,036] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:48,104] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:42:48,119] {logging_mixin.py:109} INFO - [2022-01-03 12:42:48,119] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:42:48,153] {logging_mixin.py:109} INFO - [2022-01-03 12:42:48,153] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:42:48,177] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.150 seconds
+[2022-01-03 12:43:18,757] {processor.py:163} INFO - Started process (PID=5627) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:18,758] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:43:18,760] {logging_mixin.py:109} INFO - [2022-01-03 12:43:18,760] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:18,834] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:18,849] {logging_mixin.py:109} INFO - [2022-01-03 12:43:18,849] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:43:18,883] {logging_mixin.py:109} INFO - [2022-01-03 12:43:18,883] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:43:18,902] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.149 seconds
+[2022-01-03 12:43:49,432] {processor.py:163} INFO - Started process (PID=5674) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:49,434] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:43:49,436] {logging_mixin.py:109} INFO - [2022-01-03 12:43:49,436] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:49,531] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:43:49,550] {logging_mixin.py:109} INFO - [2022-01-03 12:43:49,550] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:43:49,591] {logging_mixin.py:109} INFO - [2022-01-03 12:43:49,591] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:43:49,612] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.186 seconds
+[2022-01-03 12:44:20,139] {processor.py:163} INFO - Started process (PID=5732) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:20,141] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:44:20,142] {logging_mixin.py:109} INFO - [2022-01-03 12:44:20,142] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:20,217] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:20,237] {logging_mixin.py:109} INFO - [2022-01-03 12:44:20,236] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:44:20,277] {logging_mixin.py:109} INFO - [2022-01-03 12:44:20,277] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:44:20,299] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.165 seconds
+[2022-01-03 12:44:50,947] {processor.py:163} INFO - Started process (PID=5779) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:50,949] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:44:50,951] {logging_mixin.py:109} INFO - [2022-01-03 12:44:50,950] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:51,021] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:44:51,038] {logging_mixin.py:109} INFO - [2022-01-03 12:44:51,038] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:44:51,073] {logging_mixin.py:109} INFO - [2022-01-03 12:44:51,072] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:44:51,092] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.149 seconds
+[2022-01-03 12:45:21,135] {processor.py:163} INFO - Started process (PID=5838) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:21,137] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:45:21,138] {logging_mixin.py:109} INFO - [2022-01-03 12:45:21,138] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:21,208] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:21,223] {logging_mixin.py:109} INFO - [2022-01-03 12:45:21,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:45:21,257] {logging_mixin.py:109} INFO - [2022-01-03 12:45:21,257] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:45:21,274] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.143 seconds
+[2022-01-03 12:45:51,454] {processor.py:163} INFO - Started process (PID=5886) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:51,456] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:45:51,458] {logging_mixin.py:109} INFO - [2022-01-03 12:45:51,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:51,529] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:45:51,547] {logging_mixin.py:109} INFO - [2022-01-03 12:45:51,547] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:45:51,586] {logging_mixin.py:109} INFO - [2022-01-03 12:45:51,586] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:45:51,571] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.156 seconds
+[2022-01-03 12:46:21,862] {processor.py:163} INFO - Started process (PID=5945) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:21,864] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:46:21,866] {logging_mixin.py:109} INFO - [2022-01-03 12:46:21,866] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:21,975] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:21,997] {logging_mixin.py:109} INFO - [2022-01-03 12:46:21,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:46:22,041] {logging_mixin.py:109} INFO - [2022-01-03 12:46:22,041] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:46:22,062] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.205 seconds
+[2022-01-03 12:46:52,181] {processor.py:163} INFO - Started process (PID=5992) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:52,183] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:46:52,184] {logging_mixin.py:109} INFO - [2022-01-03 12:46:52,184] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:52,255] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:46:52,271] {logging_mixin.py:109} INFO - [2022-01-03 12:46:52,271] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:46:52,308] {logging_mixin.py:109} INFO - [2022-01-03 12:46:52,307] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:46:52,327] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.150 seconds
+[2022-01-03 12:47:22,592] {processor.py:163} INFO - Started process (PID=6052) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:22,594] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:47:22,595] {logging_mixin.py:109} INFO - [2022-01-03 12:47:22,595] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:22,690] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:22,718] {logging_mixin.py:109} INFO - [2022-01-03 12:47:22,717] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:47:22,769] {logging_mixin.py:109} INFO - [2022-01-03 12:47:22,769] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:47:22,785] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.197 seconds
+[2022-01-03 12:47:53,535] {processor.py:163} INFO - Started process (PID=6099) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:53,538] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:47:53,539] {logging_mixin.py:109} INFO - [2022-01-03 12:47:53,539] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:53,616] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:47:53,634] {logging_mixin.py:109} INFO - [2022-01-03 12:47:53,634] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:47:53,671] {logging_mixin.py:109} INFO - [2022-01-03 12:47:53,671] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:47:53,692] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.161 seconds
+[2022-01-03 12:48:24,031] {processor.py:163} INFO - Started process (PID=6156) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:24,032] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:48:24,034] {logging_mixin.py:109} INFO - [2022-01-03 12:48:24,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:24,109] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:24,126] {logging_mixin.py:109} INFO - [2022-01-03 12:48:24,126] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:48:24,164] {logging_mixin.py:109} INFO - [2022-01-03 12:48:24,164] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:48:24,180] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.153 seconds
+[2022-01-03 12:48:54,685] {processor.py:163} INFO - Started process (PID=6203) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:54,687] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:48:54,689] {logging_mixin.py:109} INFO - [2022-01-03 12:48:54,689] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:54,758] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:48:54,773] {logging_mixin.py:109} INFO - [2022-01-03 12:48:54,773] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:48:54,813] {logging_mixin.py:109} INFO - [2022-01-03 12:48:54,812] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:48:54,835] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.154 seconds
+[2022-01-03 12:49:25,609] {processor.py:163} INFO - Started process (PID=6263) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:25,611] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:49:25,612] {logging_mixin.py:109} INFO - [2022-01-03 12:49:25,612] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:25,692] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:25,709] {logging_mixin.py:109} INFO - [2022-01-03 12:49:25,709] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:49:25,746] {logging_mixin.py:109} INFO - [2022-01-03 12:49:25,746] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:49:25,766] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.162 seconds
+[2022-01-03 12:49:56,140] {processor.py:163} INFO - Started process (PID=6310) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:56,142] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:49:56,143] {logging_mixin.py:109} INFO - [2022-01-03 12:49:56,143] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:56,225] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:49:56,262] {logging_mixin.py:109} INFO - [2022-01-03 12:49:56,262] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:49:56,313] {logging_mixin.py:109} INFO - [2022-01-03 12:49:56,313] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:49:56,332] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.197 seconds
+[2022-01-03 12:50:26,798] {processor.py:163} INFO - Started process (PID=6369) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:26,801] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:50:26,802] {logging_mixin.py:109} INFO - [2022-01-03 12:50:26,802] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:26,893] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:26,916] {logging_mixin.py:109} INFO - [2022-01-03 12:50:26,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:50:26,960] {logging_mixin.py:109} INFO - [2022-01-03 12:50:26,960] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:50:26,982] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.188 seconds
+[2022-01-03 12:50:57,618] {processor.py:163} INFO - Started process (PID=6416) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:57,620] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:50:57,622] {logging_mixin.py:109} INFO - [2022-01-03 12:50:57,622] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:57,690] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:50:57,705] {logging_mixin.py:109} INFO - [2022-01-03 12:50:57,705] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:50:57,738] {logging_mixin.py:109} INFO - [2022-01-03 12:50:57,738] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:50:57,753] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.138 seconds
+[2022-01-03 12:51:28,538] {processor.py:163} INFO - Started process (PID=6474) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:51:28,541] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:51:28,544] {logging_mixin.py:109} INFO - [2022-01-03 12:51:28,544] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:51:28,655] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:51:28,693] {logging_mixin.py:109} INFO - [2022-01-03 12:51:28,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:51:28,755] {logging_mixin.py:109} INFO - [2022-01-03 12:51:28,755] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:51:28,781] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.252 seconds
+[2022-01-03 12:52:01,895] {processor.py:163} INFO - Started process (PID=6520) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:01,898] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:52:01,902] {logging_mixin.py:109} INFO - [2022-01-03 12:52:01,901] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:02,071] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:02,112] {logging_mixin.py:109} INFO - [2022-01-03 12:52:02,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:52:02,189] {logging_mixin.py:109} INFO - [2022-01-03 12:52:02,188] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:52:02,234] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.349 seconds
+[2022-01-03 12:52:33,888] {processor.py:163} INFO - Started process (PID=6579) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:33,928] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 12:52:33,947] {logging_mixin.py:109} INFO - [2022-01-03 12:52:33,945] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:34,818] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 12:52:34,888] {logging_mixin.py:109} INFO - [2022-01-03 12:52:34,888] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 12:52:35,007] {logging_mixin.py:109} INFO - [2022-01-03 12:52:35,007] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 12:52:35,057] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.185 seconds
+[2022-01-03 13:24:53,470] {processor.py:163} INFO - Started process (PID=6645) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:24:53,606] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:24:53,802] {logging_mixin.py:109} INFO - [2022-01-03 13:24:53,799] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:25:24,220] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:26:06,395] {logging_mixin.py:109} INFO - [2022-01-03 13:26:06,279] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:26:23,202] {processor.py:163} INFO - Started process (PID=6675) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:26:23,290] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:26:23,338] {logging_mixin.py:109} INFO - [2022-01-03 13:26:23,337] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:26:30,305] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:26:31,387] {logging_mixin.py:109} INFO - [2022-01-03 13:26:31,386] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:26:32,430] {logging_mixin.py:109} INFO - [2022-01-03 13:26:32,408] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:26:32,833] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 10.557 seconds
+[2022-01-03 13:28:10,256] {processor.py:163} INFO - Started process (PID=6762) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:28:10,416] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:28:10,472] {logging_mixin.py:109} INFO - [2022-01-03 13:28:10,471] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:28:14,034] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:28:15,451] {logging_mixin.py:109} INFO - [2022-01-03 13:28:15,450] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:28:16,672] {logging_mixin.py:109} INFO - [2022-01-03 13:28:16,639] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:28:17,183] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 7.204 seconds
+[2022-01-03 13:29:13,498] {processor.py:163} INFO - Started process (PID=6812) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:29:13,538] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:29:13,587] {logging_mixin.py:109} INFO - [2022-01-03 13:29:13,586] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:29:16,750] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:29:17,589] {logging_mixin.py:109} INFO - [2022-01-03 13:29:17,588] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:29:18,581] {logging_mixin.py:109} INFO - [2022-01-03 13:29:18,579] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:29:18,882] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 5.458 seconds
+[2022-01-03 13:30:20,525] {processor.py:163} INFO - Started process (PID=6875) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:30:20,564] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:30:20,604] {logging_mixin.py:109} INFO - [2022-01-03 13:30:20,603] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:30:21,994] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:30:22,514] {logging_mixin.py:109} INFO - [2022-01-03 13:30:22,492] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:30:23,212] {logging_mixin.py:109} INFO - [2022-01-03 13:30:23,200] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:30:23,501] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.108 seconds
+[2022-01-03 13:31:08,872] {processor.py:163} INFO - Started process (PID=6920) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:31:08,920] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:31:08,949] {logging_mixin.py:109} INFO - [2022-01-03 13:31:08,939] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:31:11,570] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:31:12,292] {logging_mixin.py:109} INFO - [2022-01-03 13:31:12,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:31:13,063] {logging_mixin.py:109} INFO - [2022-01-03 13:31:13,047] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:31:13,347] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 4.617 seconds
+[2022-01-03 13:32:04,110] {processor.py:163} INFO - Started process (PID=6975) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:04,163] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:32:04,184] {logging_mixin.py:109} INFO - [2022-01-03 13:32:04,183] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:05,947] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:06,541] {logging_mixin.py:109} INFO - [2022-01-03 13:32:06,522] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:32:07,119] {logging_mixin.py:109} INFO - [2022-01-03 13:32:07,118] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:32:07,337] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.331 seconds
+[2022-01-03 13:32:49,775] {processor.py:163} INFO - Started process (PID=7017) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:49,824] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:32:49,851] {logging_mixin.py:109} INFO - [2022-01-03 13:32:49,850] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:52,112] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:32:52,450] {logging_mixin.py:109} INFO - [2022-01-03 13:32:52,449] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:32:52,965] {logging_mixin.py:109} INFO - [2022-01-03 13:32:52,964] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:32:53,223] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.535 seconds
+[2022-01-03 13:33:37,483] {processor.py:163} INFO - Started process (PID=7078) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:33:37,524] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:33:37,542] {logging_mixin.py:109} INFO - [2022-01-03 13:33:37,541] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:33:39,280] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:33:39,816] {logging_mixin.py:109} INFO - [2022-01-03 13:33:39,815] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:33:40,329] {logging_mixin.py:109} INFO - [2022-01-03 13:33:40,319] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:33:40,632] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.240 seconds
+[2022-01-03 13:34:22,369] {processor.py:163} INFO - Started process (PID=7126) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:22,414] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:34:22,425] {logging_mixin.py:109} INFO - [2022-01-03 13:34:22,424] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:23,483] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:23,672] {logging_mixin.py:109} INFO - [2022-01-03 13:34:23,671] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:34:24,096] {logging_mixin.py:109} INFO - [2022-01-03 13:34:24,096] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:34:24,326] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.086 seconds
+[2022-01-03 13:34:57,907] {processor.py:163} INFO - Started process (PID=7168) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:57,941] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:34:57,953] {logging_mixin.py:109} INFO - [2022-01-03 13:34:57,951] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:59,059] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:34:59,326] {logging_mixin.py:109} INFO - [2022-01-03 13:34:59,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:34:59,688] {logging_mixin.py:109} INFO - [2022-01-03 13:34:59,688] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:34:59,899] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.040 seconds
+[2022-01-03 13:35:33,433] {processor.py:163} INFO - Started process (PID=7213) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:35:33,469] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:35:33,482] {logging_mixin.py:109} INFO - [2022-01-03 13:35:33,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:35:35,096] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:35:35,476] {logging_mixin.py:109} INFO - [2022-01-03 13:35:35,463] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:35:36,009] {logging_mixin.py:109} INFO - [2022-01-03 13:35:36,008] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:35:36,241] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.886 seconds
+[2022-01-03 13:36:08,527] {processor.py:163} INFO - Started process (PID=7253) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:08,547] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:36:08,557] {logging_mixin.py:109} INFO - [2022-01-03 13:36:08,556] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:09,238] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:09,446] {logging_mixin.py:109} INFO - [2022-01-03 13:36:09,445] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:36:09,833] {logging_mixin.py:109} INFO - [2022-01-03 13:36:09,832] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:36:10,004] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.513 seconds
+[2022-01-03 13:36:40,503] {processor.py:163} INFO - Started process (PID=7300) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:40,515] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:36:40,524] {logging_mixin.py:109} INFO - [2022-01-03 13:36:40,523] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:41,007] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:36:41,112] {logging_mixin.py:109} INFO - [2022-01-03 13:36:41,111] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:36:41,358] {logging_mixin.py:109} INFO - [2022-01-03 13:36:41,357] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:36:41,490] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.014 seconds
+[2022-01-03 13:37:12,075] {processor.py:163} INFO - Started process (PID=7348) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:12,088] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:37:12,100] {logging_mixin.py:109} INFO - [2022-01-03 13:37:12,100] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:12,601] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:12,701] {logging_mixin.py:109} INFO - [2022-01-03 13:37:12,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:37:12,896] {logging_mixin.py:109} INFO - [2022-01-03 13:37:12,896] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:37:13,002] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.960 seconds
+[2022-01-03 13:37:44,539] {processor.py:163} INFO - Started process (PID=7385) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:44,555] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:37:44,566] {logging_mixin.py:109} INFO - [2022-01-03 13:37:44,565] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:45,219] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:37:45,384] {logging_mixin.py:109} INFO - [2022-01-03 13:37:45,383] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:37:45,685] {logging_mixin.py:109} INFO - [2022-01-03 13:37:45,683] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:37:45,968] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.465 seconds
+[2022-01-03 13:38:16,911] {processor.py:163} INFO - Started process (PID=7432) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:16,927] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:38:16,943] {logging_mixin.py:109} INFO - [2022-01-03 13:38:16,942] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:17,730] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:17,868] {logging_mixin.py:109} INFO - [2022-01-03 13:38:17,867] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:38:18,927] {logging_mixin.py:109} INFO - [2022-01-03 13:38:18,926] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:38:19,085] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.210 seconds
+[2022-01-03 13:38:49,775] {processor.py:163} INFO - Started process (PID=7475) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:49,794] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:38:49,816] {logging_mixin.py:109} INFO - [2022-01-03 13:38:49,811] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:50,620] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:38:50,963] {logging_mixin.py:109} INFO - [2022-01-03 13:38:50,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:38:51,516] {logging_mixin.py:109} INFO - [2022-01-03 13:38:51,515] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:38:51,762] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.040 seconds
+[2022-01-03 13:39:22,032] {processor.py:163} INFO - Started process (PID=7516) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:22,049] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:39:22,062] {logging_mixin.py:109} INFO - [2022-01-03 13:39:22,061] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:22,721] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:22,943] {logging_mixin.py:109} INFO - [2022-01-03 13:39:22,941] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:39:23,483] {logging_mixin.py:109} INFO - [2022-01-03 13:39:23,481] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:39:23,632] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.624 seconds
+[2022-01-03 13:39:53,961] {processor.py:163} INFO - Started process (PID=7562) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:53,979] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:39:53,989] {logging_mixin.py:109} INFO - [2022-01-03 13:39:53,988] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:54,943] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:39:55,175] {logging_mixin.py:109} INFO - [2022-01-03 13:39:55,174] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:39:55,753] {logging_mixin.py:109} INFO - [2022-01-03 13:39:55,737] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:39:55,969] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.101 seconds
+[2022-01-03 13:40:26,258] {processor.py:163} INFO - Started process (PID=7600) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:26,275] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:40:26,285] {logging_mixin.py:109} INFO - [2022-01-03 13:40:26,284] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:26,872] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:26,987] {logging_mixin.py:109} INFO - [2022-01-03 13:40:26,987] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:40:27,218] {logging_mixin.py:109} INFO - [2022-01-03 13:40:27,217] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:40:27,410] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.182 seconds
+[2022-01-03 13:40:58,130] {processor.py:163} INFO - Started process (PID=7647) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:58,145] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:40:58,153] {logging_mixin.py:109} INFO - [2022-01-03 13:40:58,152] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:58,741] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:40:58,847] {logging_mixin.py:109} INFO - [2022-01-03 13:40:58,847] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:40:59,059] {logging_mixin.py:109} INFO - [2022-01-03 13:40:59,058] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:40:59,204] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.120 seconds
+[2022-01-03 13:41:30,376] {processor.py:163} INFO - Started process (PID=7690) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:41:30,393] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:41:30,406] {logging_mixin.py:109} INFO - [2022-01-03 13:41:30,405] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:41:31,263] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:41:31,495] {logging_mixin.py:109} INFO - [2022-01-03 13:41:31,494] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:41:31,826] {logging_mixin.py:109} INFO - [2022-01-03 13:41:31,825] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:41:32,050] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.703 seconds
+[2022-01-03 13:42:02,641] {processor.py:163} INFO - Started process (PID=7730) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:02,655] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:42:02,662] {logging_mixin.py:109} INFO - [2022-01-03 13:42:02,661] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:03,188] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:03,300] {logging_mixin.py:109} INFO - [2022-01-03 13:42:03,299] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:42:03,508] {logging_mixin.py:109} INFO - [2022-01-03 13:42:03,507] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:42:03,617] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.002 seconds
+[2022-01-03 13:42:34,146] {processor.py:163} INFO - Started process (PID=7778) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:34,177] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:42:34,191] {logging_mixin.py:109} INFO - [2022-01-03 13:42:34,189] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:34,873] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:42:35,036] {logging_mixin.py:109} INFO - [2022-01-03 13:42:35,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:42:35,433] {logging_mixin.py:109} INFO - [2022-01-03 13:42:35,433] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:42:35,621] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.568 seconds
+[2022-01-03 13:43:06,456] {processor.py:163} INFO - Started process (PID=7814) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:06,469] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:43:06,482] {logging_mixin.py:109} INFO - [2022-01-03 13:43:06,478] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:06,968] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:07,107] {logging_mixin.py:109} INFO - [2022-01-03 13:43:07,107] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:43:07,354] {logging_mixin.py:109} INFO - [2022-01-03 13:43:07,354] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:43:07,493] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.065 seconds
+[2022-01-03 13:43:37,707] {processor.py:163} INFO - Started process (PID=7861) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:37,718] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:43:37,727] {logging_mixin.py:109} INFO - [2022-01-03 13:43:37,725] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:38,158] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:43:38,253] {logging_mixin.py:109} INFO - [2022-01-03 13:43:38,253] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:43:38,443] {logging_mixin.py:109} INFO - [2022-01-03 13:43:38,442] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:43:38,543] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.865 seconds
+[2022-01-03 13:44:09,171] {processor.py:163} INFO - Started process (PID=7898) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:09,207] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:44:09,218] {logging_mixin.py:109} INFO - [2022-01-03 13:44:09,217] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:10,023] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:10,323] {logging_mixin.py:109} INFO - [2022-01-03 13:44:10,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:44:10,761] {logging_mixin.py:109} INFO - [2022-01-03 13:44:10,748] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:44:10,938] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.807 seconds
+[2022-01-03 13:44:41,236] {processor.py:163} INFO - Started process (PID=7945) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:41,252] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:44:41,260] {logging_mixin.py:109} INFO - [2022-01-03 13:44:41,259] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:41,883] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:44:42,029] {logging_mixin.py:109} INFO - [2022-01-03 13:44:42,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:44:42,374] {logging_mixin.py:109} INFO - [2022-01-03 13:44:42,373] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:44:42,506] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.304 seconds
+[2022-01-03 13:45:12,887] {processor.py:163} INFO - Started process (PID=7991) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:12,911] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:45:12,918] {logging_mixin.py:109} INFO - [2022-01-03 13:45:12,918] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:13,408] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:13,555] {logging_mixin.py:109} INFO - [2022-01-03 13:45:13,554] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:45:13,864] {logging_mixin.py:109} INFO - [2022-01-03 13:45:13,863] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:45:14,059] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.231 seconds
+[2022-01-03 13:45:44,868] {processor.py:163} INFO - Started process (PID=8029) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:44,881] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:45:44,890] {logging_mixin.py:109} INFO - [2022-01-03 13:45:44,889] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:45,492] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:45:45,650] {logging_mixin.py:109} INFO - [2022-01-03 13:45:45,649] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:45:45,926] {logging_mixin.py:109} INFO - [2022-01-03 13:45:45,925] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:45:46,133] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.292 seconds
+[2022-01-03 13:46:17,424] {processor.py:163} INFO - Started process (PID=8078) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:17,443] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:46:17,454] {logging_mixin.py:109} INFO - [2022-01-03 13:46:17,453] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:18,150] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:18,295] {logging_mixin.py:109} INFO - [2022-01-03 13:46:18,294] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:46:18,732] {logging_mixin.py:109} INFO - [2022-01-03 13:46:18,731] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:46:18,855] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.459 seconds
+[2022-01-03 13:46:49,440] {processor.py:163} INFO - Started process (PID=8115) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:49,459] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:46:49,486] {logging_mixin.py:109} INFO - [2022-01-03 13:46:49,485] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:50,194] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:46:50,405] {logging_mixin.py:109} INFO - [2022-01-03 13:46:50,404] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:46:50,876] {logging_mixin.py:109} INFO - [2022-01-03 13:46:50,876] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:46:51,101] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.706 seconds
+[2022-01-03 13:47:21,467] {processor.py:163} INFO - Started process (PID=8162) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:21,488] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:47:21,514] {logging_mixin.py:109} INFO - [2022-01-03 13:47:21,511] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:22,338] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:22,480] {logging_mixin.py:109} INFO - [2022-01-03 13:47:22,479] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:47:22,757] {logging_mixin.py:109} INFO - [2022-01-03 13:47:22,754] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:47:22,911] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.492 seconds
+[2022-01-03 13:47:53,511] {processor.py:163} INFO - Started process (PID=8208) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:53,549] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:47:53,569] {logging_mixin.py:109} INFO - [2022-01-03 13:47:53,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:54,441] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:47:54,616] {logging_mixin.py:109} INFO - [2022-01-03 13:47:54,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:47:55,106] {logging_mixin.py:109} INFO - [2022-01-03 13:47:55,105] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:47:55,397] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.956 seconds
+[2022-01-03 13:48:25,800] {processor.py:163} INFO - Started process (PID=8245) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:25,816] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:48:25,828] {logging_mixin.py:109} INFO - [2022-01-03 13:48:25,827] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:26,452] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:26,607] {logging_mixin.py:109} INFO - [2022-01-03 13:48:26,606] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:48:26,887] {logging_mixin.py:109} INFO - [2022-01-03 13:48:26,886] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:48:27,017] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.245 seconds
+[2022-01-03 13:48:57,974] {processor.py:163} INFO - Started process (PID=8293) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:57,991] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:48:57,999] {logging_mixin.py:109} INFO - [2022-01-03 13:48:57,998] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:58,692] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:48:58,973] {logging_mixin.py:109} INFO - [2022-01-03 13:48:58,967] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:48:59,376] {logging_mixin.py:109} INFO - [2022-01-03 13:48:59,374] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:48:59,559] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.648 seconds
+[2022-01-03 13:49:29,981] {processor.py:163} INFO - Started process (PID=8336) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:49:29,995] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:49:30,015] {logging_mixin.py:109} INFO - [2022-01-03 13:49:30,014] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:49:30,830] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:49:31,016] {logging_mixin.py:109} INFO - [2022-01-03 13:49:31,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:49:31,297] {logging_mixin.py:109} INFO - [2022-01-03 13:49:31,296] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:49:31,430] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.487 seconds
+[2022-01-03 13:50:02,827] {processor.py:163} INFO - Started process (PID=8377) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:02,849] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:50:02,866] {logging_mixin.py:109} INFO - [2022-01-03 13:50:02,865] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:03,472] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:03,587] {logging_mixin.py:109} INFO - [2022-01-03 13:50:03,587] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:50:03,772] {logging_mixin.py:109} INFO - [2022-01-03 13:50:03,771] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:50:03,901] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.110 seconds
+[2022-01-03 13:50:34,118] {processor.py:163} INFO - Started process (PID=8424) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:34,135] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:50:34,145] {logging_mixin.py:109} INFO - [2022-01-03 13:50:34,144] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:34,772] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:50:34,918] {logging_mixin.py:109} INFO - [2022-01-03 13:50:34,917] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:50:35,171] {logging_mixin.py:109} INFO - [2022-01-03 13:50:35,170] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:50:35,337] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.273 seconds
+[2022-01-03 13:51:06,056] {processor.py:163} INFO - Started process (PID=8460) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:06,082] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:51:06,098] {logging_mixin.py:109} INFO - [2022-01-03 13:51:06,096] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:06,876] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:07,136] {logging_mixin.py:109} INFO - [2022-01-03 13:51:07,135] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:51:07,509] {logging_mixin.py:109} INFO - [2022-01-03 13:51:07,506] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:51:07,673] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.759 seconds
+[2022-01-03 13:51:38,344] {processor.py:163} INFO - Started process (PID=8508) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:38,377] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:51:38,390] {logging_mixin.py:109} INFO - [2022-01-03 13:51:38,389] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:38,952] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:51:39,117] {logging_mixin.py:109} INFO - [2022-01-03 13:51:39,117] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:51:39,408] {logging_mixin.py:109} INFO - [2022-01-03 13:51:39,407] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:51:39,547] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.237 seconds
+[2022-01-03 13:52:10,549] {processor.py:163} INFO - Started process (PID=8552) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:10,581] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:52:10,603] {logging_mixin.py:109} INFO - [2022-01-03 13:52:10,602] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:11,466] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:11,616] {logging_mixin.py:109} INFO - [2022-01-03 13:52:11,615] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:52:11,911] {logging_mixin.py:109} INFO - [2022-01-03 13:52:11,910] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:52:12,075] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.579 seconds
+[2022-01-03 13:52:42,954] {processor.py:163} INFO - Started process (PID=8591) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:43,002] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:52:43,015] {logging_mixin.py:109} INFO - [2022-01-03 13:52:43,013] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:43,584] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:52:43,704] {logging_mixin.py:109} INFO - [2022-01-03 13:52:43,703] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:52:43,889] {logging_mixin.py:109} INFO - [2022-01-03 13:52:43,888] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:52:43,985] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.070 seconds
+[2022-01-03 13:53:14,529] {processor.py:163} INFO - Started process (PID=8643) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:14,574] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:53:14,634] {logging_mixin.py:109} INFO - [2022-01-03 13:53:14,626] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:15,670] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:15,855] {logging_mixin.py:109} INFO - [2022-01-03 13:53:15,854] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:53:16,162] {logging_mixin.py:109} INFO - [2022-01-03 13:53:16,161] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:53:16,326] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.874 seconds
+[2022-01-03 13:53:46,928] {processor.py:163} INFO - Started process (PID=8680) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:46,948] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:53:46,960] {logging_mixin.py:109} INFO - [2022-01-03 13:53:46,958] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:47,628] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:53:47,799] {logging_mixin.py:109} INFO - [2022-01-03 13:53:47,798] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:53:47,989] {logging_mixin.py:109} INFO - [2022-01-03 13:53:47,989] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:53:48,088] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.246 seconds
+[2022-01-03 13:54:18,813] {processor.py:163} INFO - Started process (PID=8729) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:18,844] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:54:18,856] {logging_mixin.py:109} INFO - [2022-01-03 13:54:18,856] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:19,460] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:19,652] {logging_mixin.py:109} INFO - [2022-01-03 13:54:19,652] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:54:19,866] {logging_mixin.py:109} INFO - [2022-01-03 13:54:19,865] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:54:19,995] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.234 seconds
+[2022-01-03 13:54:50,234] {processor.py:163} INFO - Started process (PID=8771) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:50,267] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:54:50,278] {logging_mixin.py:109} INFO - [2022-01-03 13:54:50,277] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:50,929] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:54:51,082] {logging_mixin.py:109} INFO - [2022-01-03 13:54:51,081] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:54:51,338] {logging_mixin.py:109} INFO - [2022-01-03 13:54:51,337] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:54:51,473] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.271 seconds
+[2022-01-03 13:55:22,115] {processor.py:163} INFO - Started process (PID=8810) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:55:22,131] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 13:55:22,139] {logging_mixin.py:109} INFO - [2022-01-03 13:55:22,138] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:55:22,797] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 13:55:22,914] {logging_mixin.py:109} INFO - [2022-01-03 13:55:22,914] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 13:55:23,127] {logging_mixin.py:109} INFO - [2022-01-03 13:55:23,126] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 13:55:23,325] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.242 seconds
+[2022-01-03 14:38:21,430] {processor.py:163} INFO - Started process (PID=8861) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:38:21,526] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 14:38:21,554] {logging_mixin.py:109} INFO - [2022-01-03 14:38:21,552] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:38:23,114] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:38:23,513] {logging_mixin.py:109} INFO - [2022-01-03 14:38:23,505] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 14:38:24,160] {logging_mixin.py:109} INFO - [2022-01-03 14:38:24,150] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 14:38:24,348] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 3.072 seconds
+[2022-01-03 14:39:01,975] {processor.py:163} INFO - Started process (PID=8909) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:39:02,028] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 14:39:02,053] {logging_mixin.py:109} INFO - [2022-01-03 14:39:02,051] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:39:04,280] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 14:39:04,951] {logging_mixin.py:109} INFO - [2022-01-03 14:39:04,949] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 14:39:05,785] {logging_mixin.py:109} INFO - [2022-01-03 14:39:05,758] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 14:39:06,034] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 4.234 seconds
+[2022-01-03 15:37:21,742] {processor.py:163} INFO - Started process (PID=8943) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:21,746] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 15:37:21,750] {logging_mixin.py:109} INFO - [2022-01-03 15:37:21,749] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:22,024] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:22,084] {logging_mixin.py:109} INFO - [2022-01-03 15:37:22,083] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:37:22,148] {logging_mixin.py:109} INFO - [2022-01-03 15:37:22,148] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 15:37:22,228] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.498 seconds
+[2022-01-03 15:37:55,258] {processor.py:163} INFO - Started process (PID=8991) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:55,292] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 15:37:55,303] {logging_mixin.py:109} INFO - [2022-01-03 15:37:55,302] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:55,897] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:37:56,093] {logging_mixin.py:109} INFO - [2022-01-03 15:37:56,092] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:37:56,339] {logging_mixin.py:109} INFO - [2022-01-03 15:37:56,339] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 15:37:56,449] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.222 seconds
+[2022-01-03 15:38:26,961] {processor.py:163} INFO - Started process (PID=9037) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:26,977] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 15:38:26,997] {logging_mixin.py:109} INFO - [2022-01-03 15:38:26,993] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:28,119] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:28,353] {logging_mixin.py:109} INFO - [2022-01-03 15:38:28,352] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:38:28,825] {logging_mixin.py:109} INFO - [2022-01-03 15:38:28,824] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 15:38:29,011] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.097 seconds
+[2022-01-03 15:38:59,633] {processor.py:163} INFO - Started process (PID=9074) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:59,640] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 15:38:59,643] {logging_mixin.py:109} INFO - [2022-01-03 15:38:59,643] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:59,804] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 15:38:59,841] {logging_mixin.py:109} INFO - [2022-01-03 15:38:59,841] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 15:38:59,920] {logging_mixin.py:109} INFO - [2022-01-03 15:38:59,919] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 15:38:59,955] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.330 seconds
+[2022-01-03 16:54:54,467] {processor.py:163} INFO - Started process (PID=9122) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:54:54,491] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 16:54:54,511] {logging_mixin.py:109} INFO - [2022-01-03 16:54:54,510] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:54:55,409] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:54:55,668] {logging_mixin.py:109} INFO - [2022-01-03 16:54:55,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 16:54:56,136] {logging_mixin.py:109} INFO - [2022-01-03 16:54:56,136] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 16:54:56,425] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.987 seconds
+[2022-01-03 16:55:27,109] {processor.py:163} INFO - Started process (PID=9159) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:55:27,120] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 16:55:27,128] {logging_mixin.py:109} INFO - [2022-01-03 16:55:27,127] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:55:27,613] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 16:55:27,762] {logging_mixin.py:109} INFO - [2022-01-03 16:55:27,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 16:55:27,988] {logging_mixin.py:109} INFO - [2022-01-03 16:55:27,988] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 16:55:28,077] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.989 seconds
+[2022-01-03 17:11:37,119] {processor.py:163} INFO - Started process (PID=9185) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 17:11:37,142] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 17:11:37,158] {logging_mixin.py:109} INFO - [2022-01-03 17:11:37,156] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 17:11:37,984] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 17:11:38,242] {logging_mixin.py:109} INFO - [2022-01-03 17:11:38,240] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 17:11:38,524] {logging_mixin.py:109} INFO - [2022-01-03 17:11:38,522] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 17:11:38,667] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.590 seconds
+[2022-01-03 18:14:29,264] {processor.py:163} INFO - Started process (PID=9233) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:14:29,271] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 18:14:29,278] {logging_mixin.py:109} INFO - [2022-01-03 18:14:29,275] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:14:29,508] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:14:29,561] {logging_mixin.py:109} INFO - [2022-01-03 18:14:29,561] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:14:29,645] {logging_mixin.py:109} INFO - [2022-01-03 18:14:29,644] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 18:14:29,695] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.444 seconds
+[2022-01-03 18:15:02,916] {processor.py:163} INFO - Started process (PID=9278) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:02,962] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 18:15:02,990] {logging_mixin.py:109} INFO - [2022-01-03 18:15:02,980] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:03,940] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:04,269] {logging_mixin.py:109} INFO - [2022-01-03 18:15:04,268] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:15:04,659] {logging_mixin.py:109} INFO - [2022-01-03 18:15:04,658] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 18:15:04,898] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 2.043 seconds
+[2022-01-03 18:15:35,456] {processor.py:163} INFO - Started process (PID=9319) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:35,468] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 18:15:35,479] {logging_mixin.py:109} INFO - [2022-01-03 18:15:35,478] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:36,072] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:15:36,202] {logging_mixin.py:109} INFO - [2022-01-03 18:15:36,201] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:15:36,411] {logging_mixin.py:109} INFO - [2022-01-03 18:15:36,410] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 18:15:36,532] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 1.098 seconds
+[2022-01-03 18:16:07,175] {processor.py:163} INFO - Started process (PID=9367) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:16:07,180] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 18:16:07,186] {logging_mixin.py:109} INFO - [2022-01-03 18:16:07,186] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:16:07,370] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:16:07,411] {logging_mixin.py:109} INFO - [2022-01-03 18:16:07,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:16:07,503] {logging_mixin.py:109} INFO - [2022-01-03 18:16:07,502] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 18:16:07,541] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.375 seconds
+[2022-01-03 18:21:25,355] {processor.py:163} INFO - Started process (PID=9402) to work on /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:21:25,361] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_kilkenny.py for tasks to queue
+[2022-01-03 18:21:25,363] {logging_mixin.py:109} INFO - [2022-01-03 18:21:25,363] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:21:25,534] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_kilkenny']) retrieved from /opt/airflow/dags/scraping_daft_kilkenny.py
+[2022-01-03 18:21:25,589] {logging_mixin.py:109} INFO - [2022-01-03 18:21:25,589] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-01-03 18:21:25,658] {logging_mixin.py:109} INFO - [2022-01-03 18:21:25,658] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_kilkenny to 2022-01-03T09:50:00+00:00
+[2022-01-03 18:21:25,704] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_kilkenny.py took 0.359 seconds

@@ -579,3 +579,1004 @@
 [2021-12-15 09:47:53,544] {logging_mixin.py:109} INFO - [2021-12-15 09:47:53,544] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-12-15 09:47:53,572] {logging_mixin.py:109} INFO - [2021-12-15 09:47:53,572] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
 [2021-12-15 09:47:53,596] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.447 seconds
+[2021-12-15 09:48:23,982] {processor.py:163} INFO - Started process (PID=4401) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:23,984] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:48:23,986] {logging_mixin.py:109} INFO - [2021-12-15 09:48:23,986] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:24,080] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:24,113] {logging_mixin.py:109} INFO - [2021-12-15 09:48:24,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:48:24,175] {logging_mixin.py:109} INFO - [2021-12-15 09:48:24,174] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:48:24,199] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.223 seconds
+[2021-12-15 09:48:54,430] {processor.py:163} INFO - Started process (PID=4449) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:54,433] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:48:54,435] {logging_mixin.py:109} INFO - [2021-12-15 09:48:54,435] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:54,534] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:48:54,554] {logging_mixin.py:109} INFO - [2021-12-15 09:48:54,554] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:48:54,588] {logging_mixin.py:109} INFO - [2021-12-15 09:48:54,587] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:48:54,606] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.181 seconds
+[2021-12-15 09:49:25,030] {processor.py:163} INFO - Started process (PID=4505) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:25,032] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:49:25,034] {logging_mixin.py:109} INFO - [2021-12-15 09:49:25,034] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:25,114] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:25,132] {logging_mixin.py:109} INFO - [2021-12-15 09:49:25,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:49:25,162] {logging_mixin.py:109} INFO - [2021-12-15 09:49:25,162] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:49:25,179] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.152 seconds
+[2021-12-15 09:49:55,577] {processor.py:163} INFO - Started process (PID=4554) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:55,580] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:49:55,581] {logging_mixin.py:109} INFO - [2021-12-15 09:49:55,581] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:55,681] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:49:55,704] {logging_mixin.py:109} INFO - [2021-12-15 09:49:55,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:49:55,745] {logging_mixin.py:109} INFO - [2021-12-15 09:49:55,745] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:49:55,774] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.201 seconds
+[2021-12-15 09:50:26,828] {processor.py:163} INFO - Started process (PID=4610) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:26,831] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:50:26,834] {logging_mixin.py:109} INFO - [2021-12-15 09:50:26,833] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:26,913] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:26,942] {logging_mixin.py:109} INFO - [2021-12-15 09:50:26,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:50:26,983] {logging_mixin.py:109} INFO - [2021-12-15 09:50:26,983] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:50:27,010] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.222 seconds
+[2021-12-15 09:50:57,275] {processor.py:163} INFO - Started process (PID=4658) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:57,278] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:50:57,280] {logging_mixin.py:109} INFO - [2021-12-15 09:50:57,280] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:57,365] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:50:57,383] {logging_mixin.py:109} INFO - [2021-12-15 09:50:57,382] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:50:57,413] {logging_mixin.py:109} INFO - [2021-12-15 09:50:57,413] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:50:57,437] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.166 seconds
+[2021-12-15 09:51:27,736] {processor.py:163} INFO - Started process (PID=4706) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:27,739] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:51:27,741] {logging_mixin.py:109} INFO - [2021-12-15 09:51:27,741] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:27,826] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:27,843] {logging_mixin.py:109} INFO - [2021-12-15 09:51:27,843] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:51:27,871] {logging_mixin.py:109} INFO - [2021-12-15 09:51:27,871] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:51:27,890] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.162 seconds
+[2021-12-15 09:51:58,236] {processor.py:163} INFO - Started process (PID=4765) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:58,239] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:51:58,241] {logging_mixin.py:109} INFO - [2021-12-15 09:51:58,241] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:58,315] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:51:58,332] {logging_mixin.py:109} INFO - [2021-12-15 09:51:58,332] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:51:58,380] {logging_mixin.py:109} INFO - [2021-12-15 09:51:58,379] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:51:58,406] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.176 seconds
+[2021-12-15 09:52:28,665] {processor.py:163} INFO - Started process (PID=4813) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:28,667] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:52:28,668] {logging_mixin.py:109} INFO - [2021-12-15 09:52:28,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:28,751] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:28,768] {logging_mixin.py:109} INFO - [2021-12-15 09:52:28,768] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:52:28,797] {logging_mixin.py:109} INFO - [2021-12-15 09:52:28,797] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:52:28,816] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.156 seconds
+[2021-12-15 09:52:59,628] {processor.py:163} INFO - Started process (PID=4872) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:59,631] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:52:59,633] {logging_mixin.py:109} INFO - [2021-12-15 09:52:59,633] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:59,725] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:52:59,745] {logging_mixin.py:109} INFO - [2021-12-15 09:52:59,745] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:52:59,781] {logging_mixin.py:109} INFO - [2021-12-15 09:52:59,781] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:52:59,809] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.185 seconds
+[2021-12-15 09:53:29,896] {processor.py:163} INFO - Started process (PID=4918) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:53:29,898] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:53:29,900] {logging_mixin.py:109} INFO - [2021-12-15 09:53:29,900] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:53:29,996] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:53:30,017] {logging_mixin.py:109} INFO - [2021-12-15 09:53:30,017] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:53:30,054] {logging_mixin.py:109} INFO - [2021-12-15 09:53:30,053] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:53:30,075] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.184 seconds
+[2021-12-15 09:54:00,500] {processor.py:163} INFO - Started process (PID=4976) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:00,502] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:54:00,504] {logging_mixin.py:109} INFO - [2021-12-15 09:54:00,504] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:00,583] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:00,604] {logging_mixin.py:109} INFO - [2021-12-15 09:54:00,604] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:54:00,634] {logging_mixin.py:109} INFO - [2021-12-15 09:54:00,634] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:54:00,652] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.157 seconds
+[2021-12-15 09:54:30,938] {processor.py:163} INFO - Started process (PID=5024) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:30,940] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:54:30,942] {logging_mixin.py:109} INFO - [2021-12-15 09:54:30,942] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:31,027] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:54:31,045] {logging_mixin.py:109} INFO - [2021-12-15 09:54:31,044] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:54:31,080] {logging_mixin.py:109} INFO - [2021-12-15 09:54:31,080] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:54:31,099] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.165 seconds
+[2021-12-15 09:55:01,882] {processor.py:163} INFO - Started process (PID=5084) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:01,885] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:55:01,886] {logging_mixin.py:109} INFO - [2021-12-15 09:55:01,886] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:01,974] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:01,989] {logging_mixin.py:109} INFO - [2021-12-15 09:55:01,989] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:55:02,022] {logging_mixin.py:109} INFO - [2021-12-15 09:55:02,022] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:55:02,042] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.164 seconds
+[2021-12-15 09:55:33,067] {processor.py:163} INFO - Started process (PID=5132) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:33,070] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:55:33,072] {logging_mixin.py:109} INFO - [2021-12-15 09:55:33,072] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:33,184] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:55:33,207] {logging_mixin.py:109} INFO - [2021-12-15 09:55:33,207] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:55:33,249] {logging_mixin.py:109} INFO - [2021-12-15 09:55:33,249] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:55:33,278] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.216 seconds
+[2021-12-15 09:56:04,275] {processor.py:163} INFO - Started process (PID=5189) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:04,278] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:56:04,280] {logging_mixin.py:109} INFO - [2021-12-15 09:56:04,280] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:04,369] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:04,385] {logging_mixin.py:109} INFO - [2021-12-15 09:56:04,385] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:56:04,414] {logging_mixin.py:109} INFO - [2021-12-15 09:56:04,413] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:56:04,429] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.158 seconds
+[2021-12-15 09:56:35,309] {processor.py:163} INFO - Started process (PID=5237) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:35,313] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:56:35,314] {logging_mixin.py:109} INFO - [2021-12-15 09:56:35,314] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:35,385] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:56:35,401] {logging_mixin.py:109} INFO - [2021-12-15 09:56:35,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:56:35,428] {logging_mixin.py:109} INFO - [2021-12-15 09:56:35,428] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:56:35,445] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.141 seconds
+[2021-12-15 09:57:05,875] {processor.py:163} INFO - Started process (PID=5296) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:05,878] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:57:05,879] {logging_mixin.py:109} INFO - [2021-12-15 09:57:05,879] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:05,946] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:05,962] {logging_mixin.py:109} INFO - [2021-12-15 09:57:05,962] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:57:05,990] {logging_mixin.py:109} INFO - [2021-12-15 09:57:05,990] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:57:06,010] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.138 seconds
+[2021-12-15 09:57:36,229] {processor.py:163} INFO - Started process (PID=5344) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:36,232] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:57:36,233] {logging_mixin.py:109} INFO - [2021-12-15 09:57:36,233] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:36,313] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:57:36,328] {logging_mixin.py:109} INFO - [2021-12-15 09:57:36,328] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:57:36,354] {logging_mixin.py:109} INFO - [2021-12-15 09:57:36,354] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:57:36,369] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.145 seconds
+[2021-12-15 09:58:06,684] {processor.py:163} INFO - Started process (PID=5403) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:06,688] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:58:06,689] {logging_mixin.py:109} INFO - [2021-12-15 09:58:06,689] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:06,782] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:06,798] {logging_mixin.py:109} INFO - [2021-12-15 09:58:06,798] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:58:06,836] {logging_mixin.py:109} INFO - [2021-12-15 09:58:06,836] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:58:06,867] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.189 seconds
+[2021-12-15 09:58:37,629] {processor.py:163} INFO - Started process (PID=5450) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:37,633] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:58:37,634] {logging_mixin.py:109} INFO - [2021-12-15 09:58:37,634] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:37,716] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:58:37,732] {logging_mixin.py:109} INFO - [2021-12-15 09:58:37,732] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:58:37,758] {logging_mixin.py:109} INFO - [2021-12-15 09:58:37,758] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:58:37,773] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.148 seconds
+[2021-12-15 09:59:08,306] {processor.py:163} INFO - Started process (PID=5506) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:08,309] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:59:08,311] {logging_mixin.py:109} INFO - [2021-12-15 09:59:08,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:08,381] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:08,398] {logging_mixin.py:109} INFO - [2021-12-15 09:59:08,398] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:59:08,433] {logging_mixin.py:109} INFO - [2021-12-15 09:59:08,433] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:59:08,452] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.150 seconds
+[2021-12-15 09:59:39,182] {processor.py:163} INFO - Started process (PID=5553) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:39,185] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 09:59:39,187] {logging_mixin.py:109} INFO - [2021-12-15 09:59:39,187] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:39,264] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 09:59:39,297] {logging_mixin.py:109} INFO - [2021-12-15 09:59:39,297] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 09:59:39,333] {logging_mixin.py:109} INFO - [2021-12-15 09:59:39,333] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 09:59:39,357] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.179 seconds
+[2021-12-15 10:00:26,366] {processor.py:163} INFO - Started process (PID=5611) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:26,387] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:00:26,399] {logging_mixin.py:109} INFO - [2021-12-15 10:00:26,397] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:26,998] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:27,162] {logging_mixin.py:109} INFO - [2021-12-15 10:00:27,161] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:00:27,448] {logging_mixin.py:109} INFO - [2021-12-15 10:00:27,447] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 10:00:27,577] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 1.264 seconds
+[2021-12-15 10:00:57,833] {processor.py:163} INFO - Started process (PID=5657) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:57,837] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:00:57,840] {logging_mixin.py:109} INFO - [2021-12-15 10:00:57,840] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:58,178] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:00:58,270] {logging_mixin.py:109} INFO - [2021-12-15 10:00:58,270] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:00:58,394] {logging_mixin.py:109} INFO - [2021-12-15 10:00:58,394] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-14T10:15:00+00:00
+[2021-12-15 10:00:58,451] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.627 seconds
+[2021-12-15 10:10:04,379] {processor.py:163} INFO - Started process (PID=5686) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:04,384] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:10:04,386] {logging_mixin.py:109} INFO - [2021-12-15 10:10:04,386] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:04,586] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:04,630] {logging_mixin.py:109} INFO - [2021-12-15 10:10:04,630] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:10:04,708] {logging_mixin.py:109} INFO - [2021-12-15 10:10:04,708] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:10:04,749] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.378 seconds
+[2021-12-15 10:10:34,799] {processor.py:163} INFO - Started process (PID=5734) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:34,801] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:10:34,803] {logging_mixin.py:109} INFO - [2021-12-15 10:10:34,803] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:34,883] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:10:34,900] {logging_mixin.py:109} INFO - [2021-12-15 10:10:34,900] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:10:34,929] {logging_mixin.py:109} INFO - [2021-12-15 10:10:34,929] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:10:34,943] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.148 seconds
+[2021-12-15 10:11:05,937] {processor.py:163} INFO - Started process (PID=5792) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:05,940] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:11:05,943] {logging_mixin.py:109} INFO - [2021-12-15 10:11:05,943] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:06,070] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:06,106] {logging_mixin.py:109} INFO - [2021-12-15 10:11:06,106] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:11:06,163] {logging_mixin.py:109} INFO - [2021-12-15 10:11:06,163] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:11:06,199] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.268 seconds
+[2021-12-15 10:11:36,705] {processor.py:163} INFO - Started process (PID=5840) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:36,708] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:11:36,710] {logging_mixin.py:109} INFO - [2021-12-15 10:11:36,710] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:36,785] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:11:36,802] {logging_mixin.py:109} INFO - [2021-12-15 10:11:36,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:11:36,833] {logging_mixin.py:109} INFO - [2021-12-15 10:11:36,833] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:11:36,851] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.151 seconds
+[2021-12-15 10:12:07,023] {processor.py:163} INFO - Started process (PID=5899) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:07,025] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:12:07,027] {logging_mixin.py:109} INFO - [2021-12-15 10:12:07,027] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:07,104] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:07,121] {logging_mixin.py:109} INFO - [2021-12-15 10:12:07,121] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:12:07,152] {logging_mixin.py:109} INFO - [2021-12-15 10:12:07,152] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:12:07,170] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.152 seconds
+[2021-12-15 10:12:37,450] {processor.py:163} INFO - Started process (PID=5946) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:37,453] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:12:37,455] {logging_mixin.py:109} INFO - [2021-12-15 10:12:37,454] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:37,529] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:12:37,546] {logging_mixin.py:109} INFO - [2021-12-15 10:12:37,545] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:12:37,575] {logging_mixin.py:109} INFO - [2021-12-15 10:12:37,575] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:12:37,595] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.149 seconds
+[2021-12-15 10:13:07,955] {processor.py:163} INFO - Started process (PID=6003) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:07,958] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:13:07,959] {logging_mixin.py:109} INFO - [2021-12-15 10:13:07,959] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:08,060] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:08,078] {logging_mixin.py:109} INFO - [2021-12-15 10:13:08,077] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:13:08,109] {logging_mixin.py:109} INFO - [2021-12-15 10:13:08,109] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:13:08,124] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.174 seconds
+[2021-12-15 10:13:38,595] {processor.py:163} INFO - Started process (PID=6051) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:38,597] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:13:38,599] {logging_mixin.py:109} INFO - [2021-12-15 10:13:38,599] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:38,665] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:13:38,679] {logging_mixin.py:109} INFO - [2021-12-15 10:13:38,679] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:13:38,706] {logging_mixin.py:109} INFO - [2021-12-15 10:13:38,706] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:13:38,723] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.131 seconds
+[2021-12-15 10:14:08,951] {processor.py:163} INFO - Started process (PID=6109) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:08,953] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:14:08,955] {logging_mixin.py:109} INFO - [2021-12-15 10:14:08,955] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:09,017] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:09,034] {logging_mixin.py:109} INFO - [2021-12-15 10:14:09,034] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:14:09,066] {logging_mixin.py:109} INFO - [2021-12-15 10:14:09,066] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:14:09,084] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.137 seconds
+[2021-12-15 10:14:39,419] {processor.py:163} INFO - Started process (PID=6156) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:39,422] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:14:39,423] {logging_mixin.py:109} INFO - [2021-12-15 10:14:39,423] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:39,495] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:14:39,509] {logging_mixin.py:109} INFO - [2021-12-15 10:14:39,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:14:39,544] {logging_mixin.py:109} INFO - [2021-12-15 10:14:39,544] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:14:39,559] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.143 seconds
+[2021-12-15 10:15:10,482] {processor.py:163} INFO - Started process (PID=6219) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:10,486] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:15:10,488] {logging_mixin.py:109} INFO - [2021-12-15 10:15:10,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:10,687] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:10,750] {logging_mixin.py:109} INFO - [2021-12-15 10:15:10,750] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:15:10,805] {logging_mixin.py:109} INFO - [2021-12-15 10:15:10,805] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:15:10,862] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.387 seconds
+[2021-12-15 10:15:42,182] {processor.py:163} INFO - Started process (PID=6266) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:42,187] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:15:42,190] {logging_mixin.py:109} INFO - [2021-12-15 10:15:42,189] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:42,357] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:15:42,416] {logging_mixin.py:109} INFO - [2021-12-15 10:15:42,416] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:15:42,483] {logging_mixin.py:109} INFO - [2021-12-15 10:15:42,482] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:15:42,512] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.337 seconds
+[2021-12-15 10:16:12,764] {processor.py:163} INFO - Started process (PID=6313) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:12,766] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:16:12,768] {logging_mixin.py:109} INFO - [2021-12-15 10:16:12,768] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:12,874] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:12,900] {logging_mixin.py:109} INFO - [2021-12-15 10:16:12,899] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:16:12,952] {logging_mixin.py:109} INFO - [2021-12-15 10:16:12,952] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:16:12,988] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.229 seconds
+[2021-12-15 10:16:43,979] {processor.py:163} INFO - Started process (PID=6370) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:43,983] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:16:43,986] {logging_mixin.py:109} INFO - [2021-12-15 10:16:43,985] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:44,079] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:16:44,101] {logging_mixin.py:109} INFO - [2021-12-15 10:16:44,101] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:16:44,154] {logging_mixin.py:109} INFO - [2021-12-15 10:16:44,154] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:16:44,192] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.217 seconds
+[2021-12-15 10:17:14,935] {processor.py:163} INFO - Started process (PID=6417) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:14,938] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:17:14,940] {logging_mixin.py:109} INFO - [2021-12-15 10:17:14,940] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:15,028] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:15,049] {logging_mixin.py:109} INFO - [2021-12-15 10:17:15,049] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:17:15,089] {logging_mixin.py:109} INFO - [2021-12-15 10:17:15,089] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:17:15,112] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.181 seconds
+[2021-12-15 10:17:45,387] {processor.py:163} INFO - Started process (PID=6463) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:45,389] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:17:45,391] {logging_mixin.py:109} INFO - [2021-12-15 10:17:45,391] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:45,456] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:17:45,472] {logging_mixin.py:109} INFO - [2021-12-15 10:17:45,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:17:45,499] {logging_mixin.py:109} INFO - [2021-12-15 10:17:45,499] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:17:45,514] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.131 seconds
+[2021-12-15 10:18:16,061] {processor.py:163} INFO - Started process (PID=6523) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:16,064] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:18:16,065] {logging_mixin.py:109} INFO - [2021-12-15 10:18:16,065] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:16,135] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:16,150] {logging_mixin.py:109} INFO - [2021-12-15 10:18:16,150] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:18:16,177] {logging_mixin.py:109} INFO - [2021-12-15 10:18:16,177] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:18:16,193] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.136 seconds
+[2021-12-15 10:18:46,669] {processor.py:163} INFO - Started process (PID=6570) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:46,672] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:18:46,674] {logging_mixin.py:109} INFO - [2021-12-15 10:18:46,673] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:46,763] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:18:46,783] {logging_mixin.py:109} INFO - [2021-12-15 10:18:46,783] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:18:46,820] {logging_mixin.py:109} INFO - [2021-12-15 10:18:46,820] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:18:46,844] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.180 seconds
+[2021-12-15 10:19:17,421] {processor.py:163} INFO - Started process (PID=6629) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:17,423] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:19:17,424] {logging_mixin.py:109} INFO - [2021-12-15 10:19:17,424] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:17,500] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:17,515] {logging_mixin.py:109} INFO - [2021-12-15 10:19:17,515] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:19:17,546] {logging_mixin.py:109} INFO - [2021-12-15 10:19:17,546] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:19:17,566] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.149 seconds
+[2021-12-15 10:19:48,074] {processor.py:163} INFO - Started process (PID=6677) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:48,077] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:19:48,079] {logging_mixin.py:109} INFO - [2021-12-15 10:19:48,079] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:48,184] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:19:48,209] {logging_mixin.py:109} INFO - [2021-12-15 10:19:48,209] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:19:48,246] {logging_mixin.py:109} INFO - [2021-12-15 10:19:48,246] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:19:48,263] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.194 seconds
+[2021-12-15 10:20:19,159] {processor.py:163} INFO - Started process (PID=6738) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:19,162] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:20:19,165] {logging_mixin.py:109} INFO - [2021-12-15 10:20:19,164] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:19,293] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:19,316] {logging_mixin.py:109} INFO - [2021-12-15 10:20:19,316] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:20:19,357] {logging_mixin.py:109} INFO - [2021-12-15 10:20:19,357] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:20:19,386] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.236 seconds
+[2021-12-15 10:20:49,550] {processor.py:163} INFO - Started process (PID=6785) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:49,553] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:20:49,555] {logging_mixin.py:109} INFO - [2021-12-15 10:20:49,555] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:49,657] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:20:49,676] {logging_mixin.py:109} INFO - [2021-12-15 10:20:49,676] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:20:49,714] {logging_mixin.py:109} INFO - [2021-12-15 10:20:49,713] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:20:49,732] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.188 seconds
+[2021-12-15 10:21:20,238] {processor.py:163} INFO - Started process (PID=6832) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:20,241] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:21:20,243] {logging_mixin.py:109} INFO - [2021-12-15 10:21:20,242] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:20,316] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:20,332] {logging_mixin.py:109} INFO - [2021-12-15 10:21:20,332] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:21:20,359] {logging_mixin.py:109} INFO - [2021-12-15 10:21:20,358] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:21:20,373] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.139 seconds
+[2021-12-15 10:21:50,523] {processor.py:163} INFO - Started process (PID=6891) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:50,527] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:21:50,528] {logging_mixin.py:109} INFO - [2021-12-15 10:21:50,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:50,615] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:21:50,632] {logging_mixin.py:109} INFO - [2021-12-15 10:21:50,632] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:21:50,665] {logging_mixin.py:109} INFO - [2021-12-15 10:21:50,664] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:21:50,690] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.171 seconds
+[2021-12-15 10:22:21,132] {processor.py:163} INFO - Started process (PID=6938) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:21,135] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:22:21,137] {logging_mixin.py:109} INFO - [2021-12-15 10:22:21,137] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:21,250] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:21,293] {logging_mixin.py:109} INFO - [2021-12-15 10:22:21,293] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:22:21,327] {logging_mixin.py:109} INFO - [2021-12-15 10:22:21,326] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:22:21,349] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.222 seconds
+[2021-12-15 10:22:51,759] {processor.py:163} INFO - Started process (PID=6996) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:51,763] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:22:51,765] {logging_mixin.py:109} INFO - [2021-12-15 10:22:51,765] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:51,855] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:22:51,876] {logging_mixin.py:109} INFO - [2021-12-15 10:22:51,876] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:22:51,910] {logging_mixin.py:109} INFO - [2021-12-15 10:22:51,910] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:22:51,932] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.179 seconds
+[2021-12-15 10:23:22,848] {processor.py:163} INFO - Started process (PID=7044) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:22,853] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:23:22,856] {logging_mixin.py:109} INFO - [2021-12-15 10:23:22,856] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:23,072] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:23,129] {logging_mixin.py:109} INFO - [2021-12-15 10:23:23,129] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:23:23,226] {logging_mixin.py:109} INFO - [2021-12-15 10:23:23,226] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:23:23,275] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.436 seconds
+[2021-12-15 10:23:53,730] {processor.py:163} INFO - Started process (PID=7103) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:53,733] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:23:53,735] {logging_mixin.py:109} INFO - [2021-12-15 10:23:53,734] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:53,834] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:23:53,862] {logging_mixin.py:109} INFO - [2021-12-15 10:23:53,862] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:23:53,910] {logging_mixin.py:109} INFO - [2021-12-15 10:23:53,910] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:23:53,937] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.212 seconds
+[2021-12-15 10:24:25,059] {processor.py:163} INFO - Started process (PID=7152) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:25,090] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:24:25,094] {logging_mixin.py:109} INFO - [2021-12-15 10:24:25,094] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:25,219] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:25,241] {logging_mixin.py:109} INFO - [2021-12-15 10:24:25,241] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:24:25,312] {logging_mixin.py:109} INFO - [2021-12-15 10:24:25,312] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:24:25,377] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.328 seconds
+[2021-12-15 10:24:55,988] {processor.py:163} INFO - Started process (PID=7202) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:55,993] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:24:55,997] {logging_mixin.py:109} INFO - [2021-12-15 10:24:55,996] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:56,128] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:24:56,150] {logging_mixin.py:109} INFO - [2021-12-15 10:24:56,150] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:24:56,188] {logging_mixin.py:109} INFO - [2021-12-15 10:24:56,188] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:24:56,209] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.226 seconds
+[2021-12-15 10:25:26,807] {processor.py:163} INFO - Started process (PID=7258) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:26,811] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:25:26,812] {logging_mixin.py:109} INFO - [2021-12-15 10:25:26,812] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:26,929] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:26,964] {logging_mixin.py:109} INFO - [2021-12-15 10:25:26,962] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:25:27,021] {logging_mixin.py:109} INFO - [2021-12-15 10:25:27,021] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:25:27,053] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.251 seconds
+[2021-12-15 10:25:57,405] {processor.py:163} INFO - Started process (PID=7305) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:57,409] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:25:57,410] {logging_mixin.py:109} INFO - [2021-12-15 10:25:57,410] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:57,525] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:25:57,553] {logging_mixin.py:109} INFO - [2021-12-15 10:25:57,553] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:25:57,596] {logging_mixin.py:109} INFO - [2021-12-15 10:25:57,595] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:25:57,622] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.222 seconds
+[2021-12-15 10:26:28,431] {processor.py:163} INFO - Started process (PID=7363) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:28,434] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:26:28,436] {logging_mixin.py:109} INFO - [2021-12-15 10:26:28,436] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:28,513] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:28,533] {logging_mixin.py:109} INFO - [2021-12-15 10:26:28,532] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:26:28,569] {logging_mixin.py:109} INFO - [2021-12-15 10:26:28,569] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:26:28,589] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.162 seconds
+[2021-12-15 10:26:58,960] {processor.py:163} INFO - Started process (PID=7409) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:58,964] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:26:58,966] {logging_mixin.py:109} INFO - [2021-12-15 10:26:58,966] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:59,092] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:26:59,120] {logging_mixin.py:109} INFO - [2021-12-15 10:26:59,120] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:26:59,156] {logging_mixin.py:109} INFO - [2021-12-15 10:26:59,156] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:26:59,179] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.224 seconds
+[2021-12-15 10:27:29,529] {processor.py:163} INFO - Started process (PID=7467) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:27:29,532] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:27:29,535] {logging_mixin.py:109} INFO - [2021-12-15 10:27:29,534] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:27:29,648] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:27:29,670] {logging_mixin.py:109} INFO - [2021-12-15 10:27:29,670] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:27:29,708] {logging_mixin.py:109} INFO - [2021-12-15 10:27:29,708] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:27:29,729] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.205 seconds
+[2021-12-15 10:28:00,034] {processor.py:163} INFO - Started process (PID=7515) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:00,039] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:28:00,041] {logging_mixin.py:109} INFO - [2021-12-15 10:28:00,041] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:00,153] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:00,196] {logging_mixin.py:109} INFO - [2021-12-15 10:28:00,196] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:28:00,240] {logging_mixin.py:109} INFO - [2021-12-15 10:28:00,240] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:28:00,264] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.235 seconds
+[2021-12-15 10:28:30,709] {processor.py:163} INFO - Started process (PID=7561) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:30,712] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:28:30,714] {logging_mixin.py:109} INFO - [2021-12-15 10:28:30,713] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:30,813] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:28:30,835] {logging_mixin.py:109} INFO - [2021-12-15 10:28:30,834] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:28:30,873] {logging_mixin.py:109} INFO - [2021-12-15 10:28:30,872] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:28:30,896] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.192 seconds
+[2021-12-15 10:29:00,964] {processor.py:163} INFO - Started process (PID=7620) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:00,969] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:29:00,971] {logging_mixin.py:109} INFO - [2021-12-15 10:29:00,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:01,072] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:01,099] {logging_mixin.py:109} INFO - [2021-12-15 10:29:01,099] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:29:01,159] {logging_mixin.py:109} INFO - [2021-12-15 10:29:01,158] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:29:01,197] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.238 seconds
+[2021-12-15 10:29:31,319] {processor.py:163} INFO - Started process (PID=7668) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:31,325] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:29:31,327] {logging_mixin.py:109} INFO - [2021-12-15 10:29:31,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:31,432] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:29:31,457] {logging_mixin.py:109} INFO - [2021-12-15 10:29:31,457] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:29:31,493] {logging_mixin.py:109} INFO - [2021-12-15 10:29:31,492] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:29:31,515] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.201 seconds
+[2021-12-15 10:30:02,351] {processor.py:163} INFO - Started process (PID=7716) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:02,358] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:30:02,362] {logging_mixin.py:109} INFO - [2021-12-15 10:30:02,361] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:02,532] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:02,581] {logging_mixin.py:109} INFO - [2021-12-15 10:30:02,576] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:30:02,634] {logging_mixin.py:109} INFO - [2021-12-15 10:30:02,634] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:30:02,669] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.327 seconds
+[2021-12-15 10:30:33,241] {processor.py:163} INFO - Started process (PID=7763) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:33,245] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:30:33,248] {logging_mixin.py:109} INFO - [2021-12-15 10:30:33,247] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:33,335] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:30:33,351] {logging_mixin.py:109} INFO - [2021-12-15 10:30:33,351] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:30:33,403] {logging_mixin.py:109} INFO - [2021-12-15 10:30:33,402] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:30:33,434] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.201 seconds
+[2021-12-15 10:31:03,658] {processor.py:163} INFO - Started process (PID=7821) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:03,661] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:31:03,662] {logging_mixin.py:109} INFO - [2021-12-15 10:31:03,662] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:03,730] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:03,745] {logging_mixin.py:109} INFO - [2021-12-15 10:31:03,745] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:31:03,770] {logging_mixin.py:109} INFO - [2021-12-15 10:31:03,769] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:31:03,784] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.130 seconds
+[2021-12-15 10:31:34,132] {processor.py:163} INFO - Started process (PID=7869) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:34,134] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:31:34,136] {logging_mixin.py:109} INFO - [2021-12-15 10:31:34,136] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:34,219] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:31:34,238] {logging_mixin.py:109} INFO - [2021-12-15 10:31:34,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:31:34,270] {logging_mixin.py:109} INFO - [2021-12-15 10:31:34,270] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:31:34,290] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.163 seconds
+[2021-12-15 10:32:04,999] {processor.py:163} INFO - Started process (PID=7927) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:05,002] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:32:05,004] {logging_mixin.py:109} INFO - [2021-12-15 10:32:05,003] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:05,102] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:05,119] {logging_mixin.py:109} INFO - [2021-12-15 10:32:05,119] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:32:05,151] {logging_mixin.py:109} INFO - [2021-12-15 10:32:05,151] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:32:05,165] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.170 seconds
+[2021-12-15 10:32:35,321] {processor.py:163} INFO - Started process (PID=7975) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:35,324] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:32:35,326] {logging_mixin.py:109} INFO - [2021-12-15 10:32:35,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:35,432] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:32:35,454] {logging_mixin.py:109} INFO - [2021-12-15 10:32:35,453] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:32:35,493] {logging_mixin.py:109} INFO - [2021-12-15 10:32:35,493] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:32:35,518] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.202 seconds
+[2021-12-15 10:33:06,037] {processor.py:163} INFO - Started process (PID=8032) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:06,042] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:33:06,044] {logging_mixin.py:109} INFO - [2021-12-15 10:33:06,044] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:06,156] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:06,177] {logging_mixin.py:109} INFO - [2021-12-15 10:33:06,177] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:33:06,211] {logging_mixin.py:109} INFO - [2021-12-15 10:33:06,211] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:33:06,233] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.201 seconds
+[2021-12-15 10:33:36,741] {processor.py:163} INFO - Started process (PID=8080) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:36,743] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:33:36,744] {logging_mixin.py:109} INFO - [2021-12-15 10:33:36,744] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:36,834] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:33:36,851] {logging_mixin.py:109} INFO - [2021-12-15 10:33:36,851] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:33:36,881] {logging_mixin.py:109} INFO - [2021-12-15 10:33:36,880] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:33:36,904] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.167 seconds
+[2021-12-15 10:34:07,282] {processor.py:163} INFO - Started process (PID=8127) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:07,285] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:34:07,286] {logging_mixin.py:109} INFO - [2021-12-15 10:34:07,286] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:07,367] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:07,385] {logging_mixin.py:109} INFO - [2021-12-15 10:34:07,384] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:34:07,415] {logging_mixin.py:109} INFO - [2021-12-15 10:34:07,415] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:34:07,438] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.160 seconds
+[2021-12-15 10:34:37,935] {processor.py:163} INFO - Started process (PID=8184) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:37,939] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:34:37,941] {logging_mixin.py:109} INFO - [2021-12-15 10:34:37,940] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:38,023] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:34:38,046] {logging_mixin.py:109} INFO - [2021-12-15 10:34:38,046] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:34:38,102] {logging_mixin.py:109} INFO - [2021-12-15 10:34:38,102] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:34:38,129] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.197 seconds
+[2021-12-15 10:35:08,510] {processor.py:163} INFO - Started process (PID=8232) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:08,515] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:35:08,518] {logging_mixin.py:109} INFO - [2021-12-15 10:35:08,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:08,664] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:08,697] {logging_mixin.py:109} INFO - [2021-12-15 10:35:08,697] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:35:08,765] {logging_mixin.py:109} INFO - [2021-12-15 10:35:08,765] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:35:08,790] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.290 seconds
+[2021-12-15 10:35:39,506] {processor.py:163} INFO - Started process (PID=8279) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:39,509] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:35:39,511] {logging_mixin.py:109} INFO - [2021-12-15 10:35:39,511] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:39,611] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:35:39,633] {logging_mixin.py:109} INFO - [2021-12-15 10:35:39,633] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:35:39,676] {logging_mixin.py:109} INFO - [2021-12-15 10:35:39,676] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:35:39,704] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 10:36:10,055] {processor.py:163} INFO - Started process (PID=8337) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:10,058] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:36:10,059] {logging_mixin.py:109} INFO - [2021-12-15 10:36:10,059] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:10,140] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:10,156] {logging_mixin.py:109} INFO - [2021-12-15 10:36:10,156] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:36:10,185] {logging_mixin.py:109} INFO - [2021-12-15 10:36:10,185] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:36:10,204] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.154 seconds
+[2021-12-15 10:36:40,703] {processor.py:163} INFO - Started process (PID=8385) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:40,706] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:36:40,707] {logging_mixin.py:109} INFO - [2021-12-15 10:36:40,707] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:40,784] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:36:40,803] {logging_mixin.py:109} INFO - [2021-12-15 10:36:40,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:36:40,844] {logging_mixin.py:109} INFO - [2021-12-15 10:36:40,844] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:36:40,864] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.165 seconds
+[2021-12-15 10:37:11,602] {processor.py:163} INFO - Started process (PID=8444) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:11,605] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:37:11,607] {logging_mixin.py:109} INFO - [2021-12-15 10:37:11,607] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:11,694] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:11,717] {logging_mixin.py:109} INFO - [2021-12-15 10:37:11,717] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:37:11,759] {logging_mixin.py:109} INFO - [2021-12-15 10:37:11,759] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:37:11,785] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.187 seconds
+[2021-12-15 10:37:42,155] {processor.py:163} INFO - Started process (PID=8492) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:42,159] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:37:42,161] {logging_mixin.py:109} INFO - [2021-12-15 10:37:42,161] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:42,291] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:37:42,315] {logging_mixin.py:109} INFO - [2021-12-15 10:37:42,314] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:37:42,351] {logging_mixin.py:109} INFO - [2021-12-15 10:37:42,351] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:37:42,371] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.224 seconds
+[2021-12-15 10:38:12,604] {processor.py:163} INFO - Started process (PID=8539) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:12,607] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:38:12,609] {logging_mixin.py:109} INFO - [2021-12-15 10:38:12,609] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:12,687] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:12,705] {logging_mixin.py:109} INFO - [2021-12-15 10:38:12,705] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:38:12,742] {logging_mixin.py:109} INFO - [2021-12-15 10:38:12,742] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:38:12,760] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.160 seconds
+[2021-12-15 10:38:42,914] {processor.py:163} INFO - Started process (PID=8596) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:42,916] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:38:42,918] {logging_mixin.py:109} INFO - [2021-12-15 10:38:42,918] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:43,021] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:38:43,047] {logging_mixin.py:109} INFO - [2021-12-15 10:38:43,046] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:38:43,116] {logging_mixin.py:109} INFO - [2021-12-15 10:38:43,116] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:38:43,147] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.238 seconds
+[2021-12-15 10:39:14,024] {processor.py:163} INFO - Started process (PID=8644) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:14,028] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:39:14,030] {logging_mixin.py:109} INFO - [2021-12-15 10:39:14,030] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:14,116] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:14,131] {logging_mixin.py:109} INFO - [2021-12-15 10:39:14,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:39:14,163] {logging_mixin.py:109} INFO - [2021-12-15 10:39:14,163] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:39:14,179] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.161 seconds
+[2021-12-15 10:39:44,961] {processor.py:163} INFO - Started process (PID=8702) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:44,964] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:39:44,966] {logging_mixin.py:109} INFO - [2021-12-15 10:39:44,966] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:45,098] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:39:45,128] {logging_mixin.py:109} INFO - [2021-12-15 10:39:45,128] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:39:45,182] {logging_mixin.py:109} INFO - [2021-12-15 10:39:45,182] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:39:45,205] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.249 seconds
+[2021-12-15 10:40:15,676] {processor.py:163} INFO - Started process (PID=8750) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:15,682] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:40:15,687] {logging_mixin.py:109} INFO - [2021-12-15 10:40:15,687] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:15,882] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:15,917] {logging_mixin.py:109} INFO - [2021-12-15 10:40:15,917] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:40:16,007] {logging_mixin.py:109} INFO - [2021-12-15 10:40:16,006] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:40:16,058] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.396 seconds
+[2021-12-15 10:40:46,166] {processor.py:163} INFO - Started process (PID=8798) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:46,172] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:40:46,175] {logging_mixin.py:109} INFO - [2021-12-15 10:40:46,175] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:46,286] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:40:46,317] {logging_mixin.py:109} INFO - [2021-12-15 10:40:46,317] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:40:46,383] {logging_mixin.py:109} INFO - [2021-12-15 10:40:46,383] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:40:46,417] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.262 seconds
+[2021-12-15 10:41:16,682] {processor.py:163} INFO - Started process (PID=8852) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:16,685] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:41:16,689] {logging_mixin.py:109} INFO - [2021-12-15 10:41:16,689] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:16,792] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:16,815] {logging_mixin.py:109} INFO - [2021-12-15 10:41:16,815] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:41:16,858] {logging_mixin.py:109} INFO - [2021-12-15 10:41:16,858] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:41:16,881] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 10:41:47,705] {processor.py:163} INFO - Started process (PID=8902) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:47,708] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:41:47,710] {logging_mixin.py:109} INFO - [2021-12-15 10:41:47,710] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:47,795] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:41:47,814] {logging_mixin.py:109} INFO - [2021-12-15 10:41:47,814] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:41:47,847] {logging_mixin.py:109} INFO - [2021-12-15 10:41:47,847] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:41:47,867] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.167 seconds
+[2021-12-15 10:42:17,979] {processor.py:163} INFO - Started process (PID=8949) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:17,982] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:42:17,985] {logging_mixin.py:109} INFO - [2021-12-15 10:42:17,985] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:18,095] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:18,118] {logging_mixin.py:109} INFO - [2021-12-15 10:42:18,118] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:42:18,148] {logging_mixin.py:109} INFO - [2021-12-15 10:42:18,148] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:42:18,167] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.195 seconds
+[2021-12-15 10:42:48,970] {processor.py:163} INFO - Started process (PID=9009) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:48,973] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:42:48,976] {logging_mixin.py:109} INFO - [2021-12-15 10:42:48,975] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:49,089] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:42:49,117] {logging_mixin.py:109} INFO - [2021-12-15 10:42:49,117] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:42:49,176] {logging_mixin.py:109} INFO - [2021-12-15 10:42:49,176] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:42:49,222] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.259 seconds
+[2021-12-15 10:43:19,580] {processor.py:163} INFO - Started process (PID=9057) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:19,583] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:43:19,585] {logging_mixin.py:109} INFO - [2021-12-15 10:43:19,585] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:19,657] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:19,672] {logging_mixin.py:109} INFO - [2021-12-15 10:43:19,672] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:43:19,700] {logging_mixin.py:109} INFO - [2021-12-15 10:43:19,699] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:43:19,717] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.141 seconds
+[2021-12-15 10:43:52,135] {processor.py:163} INFO - Started process (PID=9116) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:52,142] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:43:52,147] {logging_mixin.py:109} INFO - [2021-12-15 10:43:52,147] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:52,491] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:43:52,545] {logging_mixin.py:109} INFO - [2021-12-15 10:43:52,545] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:43:52,696] {logging_mixin.py:109} INFO - [2021-12-15 10:43:52,696] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:43:52,780] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.659 seconds
+[2021-12-15 10:44:22,912] {processor.py:163} INFO - Started process (PID=9164) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:22,916] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:44:22,917] {logging_mixin.py:109} INFO - [2021-12-15 10:44:22,917] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:23,029] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:23,056] {logging_mixin.py:109} INFO - [2021-12-15 10:44:23,055] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:44:23,108] {logging_mixin.py:109} INFO - [2021-12-15 10:44:23,108] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:44:23,152] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.245 seconds
+[2021-12-15 10:44:53,395] {processor.py:163} INFO - Started process (PID=9211) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:53,399] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:44:53,401] {logging_mixin.py:109} INFO - [2021-12-15 10:44:53,401] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:53,520] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:44:53,551] {logging_mixin.py:109} INFO - [2021-12-15 10:44:53,551] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:44:53,611] {logging_mixin.py:109} INFO - [2021-12-15 10:44:53,611] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:44:53,777] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.388 seconds
+[2021-12-15 10:45:24,558] {processor.py:163} INFO - Started process (PID=9259) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:24,562] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:45:24,566] {logging_mixin.py:109} INFO - [2021-12-15 10:45:24,566] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:24,787] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:24,832] {logging_mixin.py:109} INFO - [2021-12-15 10:45:24,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:45:24,899] {logging_mixin.py:109} INFO - [2021-12-15 10:45:24,899] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:45:24,933] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.388 seconds
+[2021-12-15 10:45:55,175] {processor.py:163} INFO - Started process (PID=9317) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:55,178] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:45:55,179] {logging_mixin.py:109} INFO - [2021-12-15 10:45:55,179] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:55,262] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:45:55,281] {logging_mixin.py:109} INFO - [2021-12-15 10:45:55,281] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:45:55,315] {logging_mixin.py:109} INFO - [2021-12-15 10:45:55,315] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:45:55,342] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.171 seconds
+[2021-12-15 10:46:25,646] {processor.py:163} INFO - Started process (PID=9365) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:25,653] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:46:25,660] {logging_mixin.py:109} INFO - [2021-12-15 10:46:25,659] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:25,783] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:25,808] {logging_mixin.py:109} INFO - [2021-12-15 10:46:25,808] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:46:25,850] {logging_mixin.py:109} INFO - [2021-12-15 10:46:25,850] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:46:25,881] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.243 seconds
+[2021-12-15 10:46:56,136] {processor.py:163} INFO - Started process (PID=9411) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:56,139] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:46:56,140] {logging_mixin.py:109} INFO - [2021-12-15 10:46:56,140] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:56,221] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:46:56,242] {logging_mixin.py:109} INFO - [2021-12-15 10:46:56,242] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:46:56,278] {logging_mixin.py:109} INFO - [2021-12-15 10:46:56,277] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:46:56,302] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.169 seconds
+[2021-12-15 10:47:27,307] {processor.py:163} INFO - Started process (PID=9469) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:27,316] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:47:27,322] {logging_mixin.py:109} INFO - [2021-12-15 10:47:27,321] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:27,541] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:27,583] {logging_mixin.py:109} INFO - [2021-12-15 10:47:27,582] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:47:27,695] {logging_mixin.py:109} INFO - [2021-12-15 10:47:27,695] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:47:27,744] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.453 seconds
+[2021-12-15 10:47:58,158] {processor.py:163} INFO - Started process (PID=9516) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:58,162] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:47:58,164] {logging_mixin.py:109} INFO - [2021-12-15 10:47:58,164] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:58,265] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:47:58,291] {logging_mixin.py:109} INFO - [2021-12-15 10:47:58,291] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:47:58,332] {logging_mixin.py:109} INFO - [2021-12-15 10:47:58,332] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:47:58,356] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 10:48:28,964] {processor.py:163} INFO - Started process (PID=9573) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:28,968] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:48:28,971] {logging_mixin.py:109} INFO - [2021-12-15 10:48:28,971] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:29,066] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:29,084] {logging_mixin.py:109} INFO - [2021-12-15 10:48:29,084] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:48:29,119] {logging_mixin.py:109} INFO - [2021-12-15 10:48:29,119] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:48:29,145] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.188 seconds
+[2021-12-15 10:48:59,547] {processor.py:163} INFO - Started process (PID=9619) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:59,553] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:48:59,558] {logging_mixin.py:109} INFO - [2021-12-15 10:48:59,558] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:59,667] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:48:59,702] {logging_mixin.py:109} INFO - [2021-12-15 10:48:59,701] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:48:59,739] {logging_mixin.py:109} INFO - [2021-12-15 10:48:59,739] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:48:59,758] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.217 seconds
+[2021-12-15 10:49:30,596] {processor.py:163} INFO - Started process (PID=9666) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:49:30,599] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:49:30,602] {logging_mixin.py:109} INFO - [2021-12-15 10:49:30,601] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:49:30,703] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:49:30,725] {logging_mixin.py:109} INFO - [2021-12-15 10:49:30,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:49:30,763] {logging_mixin.py:109} INFO - [2021-12-15 10:49:30,762] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:49:30,788] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.198 seconds
+[2021-12-15 10:50:01,504] {processor.py:163} INFO - Started process (PID=9725) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:01,523] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:50:01,529] {logging_mixin.py:109} INFO - [2021-12-15 10:50:01,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:01,637] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:01,661] {logging_mixin.py:109} INFO - [2021-12-15 10:50:01,661] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:50:01,705] {logging_mixin.py:109} INFO - [2021-12-15 10:50:01,705] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:50:01,734] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.234 seconds
+[2021-12-15 10:50:32,480] {processor.py:163} INFO - Started process (PID=9773) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:32,484] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:50:32,486] {logging_mixin.py:109} INFO - [2021-12-15 10:50:32,486] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:32,591] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:50:32,623] {logging_mixin.py:109} INFO - [2021-12-15 10:50:32,623] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:50:32,676] {logging_mixin.py:109} INFO - [2021-12-15 10:50:32,676] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:50:32,706] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.233 seconds
+[2021-12-15 10:51:03,453] {processor.py:163} INFO - Started process (PID=9821) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:03,456] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:51:03,458] {logging_mixin.py:109} INFO - [2021-12-15 10:51:03,458] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:03,526] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:03,541] {logging_mixin.py:109} INFO - [2021-12-15 10:51:03,541] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:51:03,568] {logging_mixin.py:109} INFO - [2021-12-15 10:51:03,568] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:51:03,588] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.139 seconds
+[2021-12-15 10:51:33,926] {processor.py:163} INFO - Started process (PID=9880) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:33,930] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:51:33,933] {logging_mixin.py:109} INFO - [2021-12-15 10:51:33,932] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:34,079] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:51:34,113] {logging_mixin.py:109} INFO - [2021-12-15 10:51:34,113] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:51:34,176] {logging_mixin.py:109} INFO - [2021-12-15 10:51:34,175] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:51:34,201] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.280 seconds
+[2021-12-15 10:52:04,382] {processor.py:163} INFO - Started process (PID=9929) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:04,386] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:52:04,388] {logging_mixin.py:109} INFO - [2021-12-15 10:52:04,388] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:04,492] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:04,513] {logging_mixin.py:109} INFO - [2021-12-15 10:52:04,512] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:52:04,549] {logging_mixin.py:109} INFO - [2021-12-15 10:52:04,549] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:52:04,568] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.190 seconds
+[2021-12-15 10:52:35,117] {processor.py:163} INFO - Started process (PID=9976) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:35,120] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:52:35,121] {logging_mixin.py:109} INFO - [2021-12-15 10:52:35,121] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:35,218] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:52:35,237] {logging_mixin.py:109} INFO - [2021-12-15 10:52:35,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:52:35,274] {logging_mixin.py:109} INFO - [2021-12-15 10:52:35,273] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:52:35,294] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.183 seconds
+[2021-12-15 10:53:05,905] {processor.py:163} INFO - Started process (PID=10033) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:05,908] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:53:05,910] {logging_mixin.py:109} INFO - [2021-12-15 10:53:05,909] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:05,982] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:05,997] {logging_mixin.py:109} INFO - [2021-12-15 10:53:05,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:53:06,026] {logging_mixin.py:109} INFO - [2021-12-15 10:53:06,026] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:53:06,040] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.140 seconds
+[2021-12-15 10:53:36,859] {processor.py:163} INFO - Started process (PID=10081) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:36,865] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:53:36,867] {logging_mixin.py:109} INFO - [2021-12-15 10:53:36,867] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:37,021] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:53:37,047] {logging_mixin.py:109} INFO - [2021-12-15 10:53:37,047] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:53:37,108] {logging_mixin.py:109} INFO - [2021-12-15 10:53:37,108] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:53:37,141] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.289 seconds
+[2021-12-15 10:54:08,168] {processor.py:163} INFO - Started process (PID=10141) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:08,171] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:54:08,173] {logging_mixin.py:109} INFO - [2021-12-15 10:54:08,173] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:08,275] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:08,298] {logging_mixin.py:109} INFO - [2021-12-15 10:54:08,298] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:54:08,338] {logging_mixin.py:109} INFO - [2021-12-15 10:54:08,338] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:54:08,363] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.200 seconds
+[2021-12-15 10:54:38,463] {processor.py:163} INFO - Started process (PID=10188) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:38,466] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:54:38,468] {logging_mixin.py:109} INFO - [2021-12-15 10:54:38,468] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:38,558] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:54:38,573] {logging_mixin.py:109} INFO - [2021-12-15 10:54:38,573] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:54:38,603] {logging_mixin.py:109} INFO - [2021-12-15 10:54:38,602] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:54:38,628] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.170 seconds
+[2021-12-15 10:55:09,110] {processor.py:163} INFO - Started process (PID=10245) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:09,118] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:55:09,122] {logging_mixin.py:109} INFO - [2021-12-15 10:55:09,121] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:09,374] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:09,412] {logging_mixin.py:109} INFO - [2021-12-15 10:55:09,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:55:09,484] {logging_mixin.py:109} INFO - [2021-12-15 10:55:09,483] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:55:09,516] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.420 seconds
+[2021-12-15 10:55:39,862] {processor.py:163} INFO - Started process (PID=10292) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:39,865] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:55:39,867] {logging_mixin.py:109} INFO - [2021-12-15 10:55:39,867] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:39,953] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:55:39,971] {logging_mixin.py:109} INFO - [2021-12-15 10:55:39,971] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:55:40,011] {logging_mixin.py:109} INFO - [2021-12-15 10:55:40,010] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:55:40,033] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.176 seconds
+[2021-12-15 10:56:10,255] {processor.py:163} INFO - Started process (PID=10341) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:56:10,258] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:56:10,260] {logging_mixin.py:109} INFO - [2021-12-15 10:56:10,260] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:56:10,393] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:56:10,419] {logging_mixin.py:109} INFO - [2021-12-15 10:56:10,419] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:56:10,470] {logging_mixin.py:109} INFO - [2021-12-15 10:56:10,470] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:56:10,498] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.249 seconds
+[2021-12-15 10:58:23,740] {processor.py:163} INFO - Started process (PID=70) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:23,744] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:58:23,746] {logging_mixin.py:109} INFO - [2021-12-15 10:58:23,746] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:23,863] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:23,901] {logging_mixin.py:109} INFO - [2021-12-15 10:58:23,901] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:58:23,966] {logging_mixin.py:109} INFO - [2021-12-15 10:58:23,965] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:58:23,988] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.254 seconds
+[2021-12-15 10:58:54,396] {processor.py:163} INFO - Started process (PID=117) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:54,400] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:58:54,404] {logging_mixin.py:109} INFO - [2021-12-15 10:58:54,404] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:54,560] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:58:54,599] {logging_mixin.py:109} INFO - [2021-12-15 10:58:54,598] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:58:54,669] {logging_mixin.py:109} INFO - [2021-12-15 10:58:54,669] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:58:54,698] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.311 seconds
+[2021-12-15 10:59:25,376] {processor.py:163} INFO - Started process (PID=177) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:25,378] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:59:25,380] {logging_mixin.py:109} INFO - [2021-12-15 10:59:25,380] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:25,479] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:25,514] {logging_mixin.py:109} INFO - [2021-12-15 10:59:25,514] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:59:25,554] {logging_mixin.py:109} INFO - [2021-12-15 10:59:25,554] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:59:25,575] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 10:59:56,809] {processor.py:163} INFO - Started process (PID=225) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:56,811] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 10:59:56,813] {logging_mixin.py:109} INFO - [2021-12-15 10:59:56,813] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:56,937] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 10:59:56,978] {logging_mixin.py:109} INFO - [2021-12-15 10:59:56,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 10:59:57,018] {logging_mixin.py:109} INFO - [2021-12-15 10:59:57,018] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 10:59:57,049] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.244 seconds
+[2021-12-15 11:00:27,596] {processor.py:163} INFO - Started process (PID=272) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:27,598] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:00:27,601] {logging_mixin.py:109} INFO - [2021-12-15 11:00:27,600] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:27,706] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:27,729] {logging_mixin.py:109} INFO - [2021-12-15 11:00:27,728] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:00:27,773] {logging_mixin.py:109} INFO - [2021-12-15 11:00:27,773] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:00:27,796] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 11:00:57,872] {processor.py:163} INFO - Started process (PID=331) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:57,873] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:00:57,875] {logging_mixin.py:109} INFO - [2021-12-15 11:00:57,874] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:57,949] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:00:57,964] {logging_mixin.py:109} INFO - [2021-12-15 11:00:57,964] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:00:57,998] {logging_mixin.py:109} INFO - [2021-12-15 11:00:57,998] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:00:58,016] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.148 seconds
+[2021-12-15 11:01:28,726] {processor.py:163} INFO - Started process (PID=377) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:28,728] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:01:28,729] {logging_mixin.py:109} INFO - [2021-12-15 11:01:28,729] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:28,830] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:28,851] {logging_mixin.py:109} INFO - [2021-12-15 11:01:28,851] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:01:28,891] {logging_mixin.py:109} INFO - [2021-12-15 11:01:28,890] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:01:28,916] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.194 seconds
+[2021-12-15 11:01:59,616] {processor.py:163} INFO - Started process (PID=434) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:59,631] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:01:59,632] {logging_mixin.py:109} INFO - [2021-12-15 11:01:59,632] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:59,718] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:01:59,738] {logging_mixin.py:109} INFO - [2021-12-15 11:01:59,738] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:01:59,780] {logging_mixin.py:109} INFO - [2021-12-15 11:01:59,780] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:01:59,802] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.190 seconds
+[2021-12-15 11:02:30,570] {processor.py:163} INFO - Started process (PID=482) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:02:30,572] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:02:30,574] {logging_mixin.py:109} INFO - [2021-12-15 11:02:30,574] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:02:30,664] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:02:30,682] {logging_mixin.py:109} INFO - [2021-12-15 11:02:30,682] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:02:30,716] {logging_mixin.py:109} INFO - [2021-12-15 11:02:30,716] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:02:30,732] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.175 seconds
+[2021-12-15 11:03:01,044] {processor.py:163} INFO - Started process (PID=539) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:01,047] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:03:01,049] {logging_mixin.py:109} INFO - [2021-12-15 11:03:01,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:01,147] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:01,170] {logging_mixin.py:109} INFO - [2021-12-15 11:03:01,169] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:03:01,220] {logging_mixin.py:109} INFO - [2021-12-15 11:03:01,220] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:03:01,241] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.203 seconds
+[2021-12-15 11:03:31,645] {processor.py:163} INFO - Started process (PID=587) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:31,648] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:03:31,649] {logging_mixin.py:109} INFO - [2021-12-15 11:03:31,649] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:31,738] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:03:31,757] {logging_mixin.py:109} INFO - [2021-12-15 11:03:31,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:03:31,795] {logging_mixin.py:109} INFO - [2021-12-15 11:03:31,795] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:03:31,812] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.171 seconds
+[2021-12-15 11:04:02,598] {processor.py:163} INFO - Started process (PID=646) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:02,602] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:04:02,604] {logging_mixin.py:109} INFO - [2021-12-15 11:04:02,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:02,712] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:02,735] {logging_mixin.py:109} INFO - [2021-12-15 11:04:02,735] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:04:02,787] {logging_mixin.py:109} INFO - [2021-12-15 11:04:02,787] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:04:02,810] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.217 seconds
+[2021-12-15 11:04:32,901] {processor.py:163} INFO - Started process (PID=693) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:32,903] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:04:32,905] {logging_mixin.py:109} INFO - [2021-12-15 11:04:32,905] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:32,984] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:04:32,998] {logging_mixin.py:109} INFO - [2021-12-15 11:04:32,998] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:04:33,041] {logging_mixin.py:109} INFO - [2021-12-15 11:04:33,041] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:04:33,059] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.163 seconds
+[2021-12-15 11:05:04,083] {processor.py:163} INFO - Started process (PID=754) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:04,087] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:05:04,089] {logging_mixin.py:109} INFO - [2021-12-15 11:05:04,089] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:04,194] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:04,217] {logging_mixin.py:109} INFO - [2021-12-15 11:05:04,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:05:04,259] {logging_mixin.py:109} INFO - [2021-12-15 11:05:04,259] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:05:04,281] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.204 seconds
+[2021-12-15 11:05:34,358] {processor.py:163} INFO - Started process (PID=802) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:34,361] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:05:34,362] {logging_mixin.py:109} INFO - [2021-12-15 11:05:34,362] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:34,470] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:05:34,494] {logging_mixin.py:109} INFO - [2021-12-15 11:05:34,494] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:05:34,534] {logging_mixin.py:109} INFO - [2021-12-15 11:05:34,534] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:05:34,557] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.202 seconds
+[2021-12-15 11:06:05,523] {processor.py:163} INFO - Started process (PID=848) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:05,526] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:06:05,527] {logging_mixin.py:109} INFO - [2021-12-15 11:06:05,527] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:05,610] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:05,629] {logging_mixin.py:109} INFO - [2021-12-15 11:06:05,629] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:06:05,667] {logging_mixin.py:109} INFO - [2021-12-15 11:06:05,667] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:06:05,693] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.174 seconds
+[2021-12-15 11:06:35,899] {processor.py:163} INFO - Started process (PID=906) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:35,902] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:06:35,904] {logging_mixin.py:109} INFO - [2021-12-15 11:06:35,904] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:35,983] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:06:36,001] {logging_mixin.py:109} INFO - [2021-12-15 11:06:36,001] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:06:36,042] {logging_mixin.py:109} INFO - [2021-12-15 11:06:36,042] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:06:36,063] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.168 seconds
+[2021-12-15 11:07:06,383] {processor.py:163} INFO - Started process (PID=954) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:06,385] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:07:06,387] {logging_mixin.py:109} INFO - [2021-12-15 11:07:06,387] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:06,471] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:06,494] {logging_mixin.py:109} INFO - [2021-12-15 11:07:06,494] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:07:06,539] {logging_mixin.py:109} INFO - [2021-12-15 11:07:06,539] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:07:06,559] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.181 seconds
+[2021-12-15 11:07:36,907] {processor.py:163} INFO - Started process (PID=1012) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:36,909] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:07:36,911] {logging_mixin.py:109} INFO - [2021-12-15 11:07:36,911] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:36,979] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:07:36,997] {logging_mixin.py:109} INFO - [2021-12-15 11:07:36,997] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:07:37,032] {logging_mixin.py:109} INFO - [2021-12-15 11:07:37,032] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:07:37,050] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.146 seconds
+[2021-12-15 11:08:07,122] {processor.py:163} INFO - Started process (PID=1059) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:07,125] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:08:07,126] {logging_mixin.py:109} INFO - [2021-12-15 11:08:07,126] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:07,198] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:07,213] {logging_mixin.py:109} INFO - [2021-12-15 11:08:07,213] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:08:07,245] {logging_mixin.py:109} INFO - [2021-12-15 11:08:07,245] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:08:07,260] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.142 seconds
+[2021-12-15 11:08:37,567] {processor.py:163} INFO - Started process (PID=1117) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:37,569] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:08:37,571] {logging_mixin.py:109} INFO - [2021-12-15 11:08:37,571] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:37,650] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:08:37,668] {logging_mixin.py:109} INFO - [2021-12-15 11:08:37,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:08:37,709] {logging_mixin.py:109} INFO - [2021-12-15 11:08:37,709] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:08:37,729] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.166 seconds
+[2021-12-15 11:09:08,501] {processor.py:163} INFO - Started process (PID=1164) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:08,503] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:09:08,505] {logging_mixin.py:109} INFO - [2021-12-15 11:09:08,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:08,575] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:08,590] {logging_mixin.py:109} INFO - [2021-12-15 11:09:08,589] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:09:08,621] {logging_mixin.py:109} INFO - [2021-12-15 11:09:08,621] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:09:08,637] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.139 seconds
+[2021-12-15 11:09:39,044] {processor.py:163} INFO - Started process (PID=1222) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:39,048] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:09:39,050] {logging_mixin.py:109} INFO - [2021-12-15 11:09:39,050] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:39,142] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:09:39,165] {logging_mixin.py:109} INFO - [2021-12-15 11:09:39,164] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:09:39,208] {logging_mixin.py:109} INFO - [2021-12-15 11:09:39,208] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:09:39,228] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.190 seconds
+[2021-12-15 11:10:11,020] {processor.py:163} INFO - Started process (PID=1270) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:11,023] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:10:11,026] {logging_mixin.py:109} INFO - [2021-12-15 11:10:11,025] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:11,179] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:11,222] {logging_mixin.py:109} INFO - [2021-12-15 11:10:11,222] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:10:11,303] {logging_mixin.py:109} INFO - [2021-12-15 11:10:11,303] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:10:11,353] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.341 seconds
+[2021-12-15 11:10:41,643] {processor.py:163} INFO - Started process (PID=1330) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:41,646] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:10:41,648] {logging_mixin.py:109} INFO - [2021-12-15 11:10:41,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:41,742] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:10:41,765] {logging_mixin.py:109} INFO - [2021-12-15 11:10:41,764] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:10:41,808] {logging_mixin.py:109} INFO - [2021-12-15 11:10:41,808] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:10:41,831] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.193 seconds
+[2021-12-15 11:11:13,137] {processor.py:163} INFO - Started process (PID=1377) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:13,142] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:11:13,145] {logging_mixin.py:109} INFO - [2021-12-15 11:11:13,145] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:13,318] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:13,350] {logging_mixin.py:109} INFO - [2021-12-15 11:11:13,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:11:13,417] {logging_mixin.py:109} INFO - [2021-12-15 11:11:13,417] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:11:13,445] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.316 seconds
+[2021-12-15 11:11:43,724] {processor.py:163} INFO - Started process (PID=1434) to work on /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:43,728] {processor.py:625} INFO - Processing file /opt/airflow/dags/scraping_daft_limerick.py for tasks to queue
+[2021-12-15 11:11:43,731] {logging_mixin.py:109} INFO - [2021-12-15 11:11:43,731] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:43,896] {processor.py:637} INFO - DAG(s) dict_keys(['scraping_daft_limerick']) retrieved from /opt/airflow/dags/scraping_daft_limerick.py
+[2021-12-15 11:11:44,008] {logging_mixin.py:109} INFO - [2021-12-15 11:11:44,008] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-12-15 11:11:44,106] {logging_mixin.py:109} INFO - [2021-12-15 11:11:44,105] {dag.py:2928} INFO - Setting next_dagrun for scraping_daft_limerick to 2021-12-15T10:05:00+00:00
+[2021-12-15 11:11:44,148] {processor.py:171} INFO - Processing /opt/airflow/dags/scraping_daft_limerick.py took 0.431 seconds

@@ -1,0 +1,26 @@
+[2021-12-19 12:43:03,893] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_wicklow.waiting_for_file scheduled__2021-12-18T11:10:00+00:00 [queued]>
+[2021-12-19 12:43:05,169] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_wicklow.waiting_for_file scheduled__2021-12-18T11:10:00+00:00 [queued]>
+[2021-12-19 12:43:05,180] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-19 12:43:05,186] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-19 12:43:05,191] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-19 12:43:06,013] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-18 11:10:00+00:00
+[2021-12-19 12:43:08,365] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_wicklow', 'waiting_for_file', 'scheduled__2021-12-18T11:10:00+00:00', '--job-id', '3240', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_wicklow.py', '--cfg-path', '/tmp/tmp647hq5_q', '--error-file', '/tmp/tmpt7x31fih']
+[2021-12-19 12:43:08,407] {standard_task_runner.py:77} INFO - Job 3240: Subtask waiting_for_file
+[2021-12-19 12:43:08,346] {standard_task_runner.py:52} INFO - Started process 6758 to run task
+[2021-12-19 12:43:09,555] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_wicklow.waiting_for_file scheduled__2021-12-18T11:10:00+00:00 [running]> on host 358a7891c658
+[2021-12-19 12:43:12,145] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_wicklow
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-18T11:10:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-18T11:10:00+00:00
+[2021-12-19 12:43:12,645] {filesystem.py:59} INFO - Poking for file data/wicklow_rent.json
+[2021-12-19 12:43:12,651] {filesystem.py:65} INFO - Found File data/wicklow_rent.json last modified: 20211219124156
+[2021-12-19 12:43:12,652] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-19 12:43:13,590] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_wicklow, task_id=waiting_for_file, execution_date=20211218T111000, start_date=20211219T124303, end_date=20211219T124313
+[2021-12-19 12:43:14,794] {local_task_job.py:212} WARNING - State of this instance has been externally set to success. Terminating instance.
+[2021-12-19 12:43:15,872] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 6758
+[2021-12-19 12:43:16,019] {process_utils.py:66} INFO - Process psutil.Process(pid=6758, status='terminated', exitcode=0, started='12:43:07') (6758) terminated with exit code 0

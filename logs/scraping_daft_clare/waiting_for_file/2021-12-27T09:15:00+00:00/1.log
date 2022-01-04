@@ -1,0 +1,25 @@
+[2021-12-28 13:36:46,213] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_clare.waiting_for_file scheduled__2021-12-27T09:15:00+00:00 [queued]>
+[2021-12-28 13:36:46,253] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: scraping_daft_clare.waiting_for_file scheduled__2021-12-27T09:15:00+00:00 [queued]>
+[2021-12-28 13:36:46,255] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-28 13:36:46,257] {taskinstance.py:1242} INFO - Starting attempt 1 of 4
+[2021-12-28 13:36:46,258] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-12-28 13:36:46,334] {taskinstance.py:1262} INFO - Executing <Task(FileSensor): waiting_for_file> on 2021-12-27 09:15:00+00:00
+[2021-12-28 13:36:46,353] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'scraping_daft_clare', 'waiting_for_file', 'scheduled__2021-12-27T09:15:00+00:00', '--job-id', '5083', '--raw', '--subdir', 'DAGS_FOLDER/scraping_daft_clare.py', '--cfg-path', '/tmp/tmprtkv4xdu', '--error-file', '/tmp/tmpons2jtdq']
+[2021-12-28 13:36:46,357] {standard_task_runner.py:77} INFO - Job 5083: Subtask waiting_for_file
+[2021-12-28 13:36:46,344] {standard_task_runner.py:52} INFO - Started process 50736 to run task
+[2021-12-28 13:36:46,590] {logging_mixin.py:109} INFO - Running <TaskInstance: scraping_daft_clare.waiting_for_file scheduled__2021-12-27T09:15:00+00:00 [running]> on host 0c125a5bba95
+[2021-12-28 13:36:46,933] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=clement.liscoet@gmail.com
+AIRFLOW_CTX_DAG_OWNER=clemoni
+AIRFLOW_CTX_DAG_ID=scraping_daft_clare
+AIRFLOW_CTX_TASK_ID=waiting_for_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-12-27T09:15:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-12-27T09:15:00+00:00
+[2021-12-28 13:36:47,056] {filesystem.py:59} INFO - Poking for file data/clare_rent.json
+[2021-12-28 13:36:47,059] {filesystem.py:65} INFO - Found File data/clare_rent.json last modified: 20211228133640
+[2021-12-28 13:36:47,061] {base.py:249} INFO - Success criteria met. Exiting.
+[2021-12-28 13:36:47,158] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=scraping_daft_clare, task_id=waiting_for_file, execution_date=20211227T091500, start_date=20211228T133646, end_date=20211228T133647
+[2021-12-28 13:36:47,213] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-12-28 13:36:47,446] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
