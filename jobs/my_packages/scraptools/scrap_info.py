@@ -34,12 +34,14 @@ from my_packages.scraptools.test_geocode import is_latitude, is_longitude
 # then text
 # Alternative : ad.find('p', {'class':'iWkymm'}).get_text()
 def extract_id(ad):
-    return ad.find('p', {'class': re.compile('DaftIDText.')}).get_text()
-
+    ad_id = ad.find('p', {'class': re.compile('DaftIDText.')})
+    return ad_id.get_text() if ad_id else None
 
 # format from Daft ID: 26369624 to 26369624
+
+
 def format_id(ad_id):
-    return int(ad_id.lstrip('Daft ID: '))
+    return int(ad_id.lstrip('Daft ID: ')) if ad_id else None
 
 
 get_ad_id = fp.compose(format_id, extract_id)
@@ -112,12 +114,14 @@ def get_property_type(ad):
 # </li>
 def extract_overview(ad):
     overview = ad.find('div', {'data-testid': 'overview'})
-    return overview.ul.children if overview else None
-
+    return overview.ul.children if overview != None else [None]
 
 # Iterate thought map() when curry with filter_map_4
 # ie retrive [['Double Bedroom', ' 4'], ['Available From', ' Immediately'], ...]
-def format_overview(overview_li): return overview_li.get_text().split(':')
+
+
+def format_overview(overview_li):
+    return overview_li.get_text().split(':') if overview_li != None else [None]
 
 
 # Filter with fitler() when curry in filter_map_4.
@@ -261,9 +265,10 @@ get_ber = fp.init_format_compose(
 ##############################
 
 
-def get_ad_author(ad): return ad.find(
-    'p', {'class': re.compile('ContactPanel__ImageLabel.')}).get_text()
-
+def get_ad_author(ad):
+    author = ad.find('p', {'class': re.compile(
+        'ContactPanel__ImageLabel.')})
+    return author.get_text() if author else None
 
 ##############################
 #     ADVERT DESCRIPTION     #
@@ -274,12 +279,13 @@ def get_ad_author(ad): return ad.find(
 # We tried to clean the text as best as possible
 
 
-def extract_description(ad): return ad.find(
-    'div', {'data-testid': 'description'}).get_text()
+def extract_description(ad):
+    desc = ad.find('div', {'data-testid': 'description'})
+    return desc.get_text() if desc else None
 
 
-def format_description(description): return description.lstrip(
-    'Description**').replace('\r', '').replace('\n', ' ')
+def format_description(description):
+    return description.lstrip('Description**').replace('\r', '').replace('\n', ' ') if description else None
 
 
 # compose follow the classic form of
@@ -300,12 +306,20 @@ get_description = fp.compose(format_description, extract_description)
 
 #     ADVERT GEOLOCATION LAT/LONG     #
 
-def extract_geo(ad): return ad.find(
-    'a', {'data-testid': 'streetview-button'})['href']
+def extract_geo(ad):
+    res = ad.find('a', {'data-testid': 'streetview-button'})
+    return res['href'] if res else None
 
 
-def format_geo(geo): return geo.lstrip(
-    'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=').split(',')
+def format_geo(geo):
+    if geo:
+        res = geo.lstrip(
+            'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=').split(',')
+        res.reverse()
+    else:
+        res = None
+
+    return res
 
 
 def init_test_geo(func_1, func_2):
@@ -318,16 +332,21 @@ def init_test_geo(func_1, func_2):
     return test_geo
 
 
-test_geo = init_test_geo(is_latitude, is_longitude)
+# test_geo = init_test_geo(is_latitude, is_longitude)
 
 
 def format_tested_geo(tested_geo):
-    latitute, longitude = tested_geo
-    return {'latitude': float(latitute), 'longitude': float(longitude)}
+    if tested_geo:
+        latitute, longitude = tested_geo
+        res = {'latitude': float(latitute), 'longitude': float(longitude)}
+    else:
+        res = {'latitude': None, 'longitude': None}
+
+    return res
 
 
-get_tested_geo = fp.compose_4(
-    format_tested_geo, test_geo, format_geo, extract_geo)
+get_tested_geo = fp.compose_3(
+    format_tested_geo, format_geo, extract_geo)
 
 
 #     ADVERT ADDRESS FRON DAFT     #
