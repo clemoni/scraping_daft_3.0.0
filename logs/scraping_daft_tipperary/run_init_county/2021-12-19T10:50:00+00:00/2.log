@@ -1,2 +1,0 @@
-[2021-12-20 11:12:06,755] {taskinstance.py:1029} INFO - Dependencies not met for <TaskInstance: scraping_daft_tipperary.run_init_county scheduled__2021-12-19T10:50:00+00:00 [success]>, dependency 'Task Instance State' FAILED: Task is in the 'success' state which is not a valid state for execution. The task must be cleared in order to be run.
-[2021-12-20 11:12:06,878] {local_task_job.py:99} INFO - Task is not able to be run

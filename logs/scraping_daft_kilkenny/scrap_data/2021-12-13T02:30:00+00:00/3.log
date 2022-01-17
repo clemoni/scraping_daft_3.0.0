@@ -1,2 +1,0 @@
-[2021-12-14 07:08:00,361] {taskinstance.py:1029} INFO - Dependencies not met for <TaskInstance: scraping_daft_kilkenny.scrap_data scheduled__2021-12-13T02:30:00+00:00 [up_for_retry]>, dependency 'Not In Retry Period' FAILED: Task is not ready for retry yet but will be retried automatically. Current date is 2021-12-14T07:08:00.008496+00:00 and task will be retried at 2021-12-14T07:09:37.680041+00:00.
-[2021-12-14 07:10:02,087] {local_task_job.py:99} INFO - Task is not able to be run
