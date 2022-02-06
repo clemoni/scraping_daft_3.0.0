@@ -11,7 +11,7 @@ I thought it would be interesting to compare their observation with our own find
 
 People when looking for a house mainly goes to one website Daft.com. There is, unfortunately, no accessible data regarding rent advertisements.  The first step of this project was to remedy this by creating a database. 
 
-This project runs on Docker, it uses Airflow to run Spark jobs. Basically, for each country, Airflow is used to schedule everyday tasks.  that consist of scraping a webpage and persisting the data in a database (Postgres). Every time, the data has been successfully persisted in the database a notification is sent to a dedicated slack channel.
+This project runs on Docker, it uses Airflow to run Spark jobs. Basically, for each county, Airflow is used to schedule everyday tasks.  It consists of scraping a webpage and persisting the data in a database (PostgreSQL). Every time, the data has been successfully persisted in the database a notification is sent to a dedicated slack channel.
 
 ## Running the Project
 
