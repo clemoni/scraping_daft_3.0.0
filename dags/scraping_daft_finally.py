@@ -79,7 +79,7 @@ def get_reporting_all(ti=None):
 
 
 with DAG('finally_scraping_daft',
-         schedule_interval='45 11 * * *',
+         schedule_interval='30 11 * * *',
          catchup=False, tags=['scraping daft', 'finally'],
          default_args=DEFAULT_ARGS) as dag:
 

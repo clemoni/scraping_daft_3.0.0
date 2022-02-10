@@ -1,7 +1,7 @@
 import my_packages.fptools.fptools as fp
 
-from urllib.request import HTTPPasswordMgrWithDefaultRealm, urlopen
-from bs4 import BeautifulSoup, BeautifulStoneSoup
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
 
 # from tqdm import tqdm
 # from time import sleep
@@ -28,6 +28,24 @@ import my_packages.scraptools.scrap_info as si
 
 
 def init_url(county, page=0):
+    """Initialize a dictionary from a specific page
+    from the ads from a given County.
+    Each entries is a part of the url to retrieve 
+    the page result of the adverts of a County. 
+
+    Parameters
+    ----------
+    county : [str]
+        One county from Ireland.
+    page : int, optional
+        the page number of list of ads, by default 0
+
+    Returns
+    -------
+    [dic]
+        The different part of an url of the 
+        result of the adverts of a County.
+    """
     return {
         'base': 'https://www.daft.ie',
         'general_search': '/property-for-rent/',
@@ -39,8 +57,27 @@ def init_url(county, page=0):
 # Get HTML APP
 
 def init_get_app(parser):
+    """Initialise the function get_app with a specific 
+    parser for beautifulSoup.
 
+    Parameters
+    ----------
+    parser : [str]
+        A parser available for beautifulSoup
+    """
     def get_app(*urls):
+        """Retrieve the HTML of given url
+
+        Parameters
+        ----------
+        urls : [dic]
+        A dictionary where entries reprensent the url
+
+        Returns
+        -------
+        [str]
+            The HTML page
+        """
         url = ''.join(urls)
         html = urlopen(url)
         return BeautifulSoup(html.read(), parser)
@@ -49,8 +86,23 @@ def init_get_app(parser):
 
 
 def try_action(func):
+    """Encapuslts a function into a Try Cath
+
+    Parameters
+    ----------
+    func : [fun]
+        A given function that might raise error message 
+    """
 
     def init_action(*args):
+        """Parse kwarg parameter
+
+        Returns
+        -------
+        res : [dic]
+            paramerts later parse into a function
+
+        """
 
         try:
             res = func(*args)
@@ -68,19 +120,44 @@ def try_action(func):
 # After grabing ul.children
 # need to filter to keep only li
 def extract_ads(daft):
+    """On list of advertisments, 
+    under structure ul > li.
+    After grabing ul.children, filter to keep only li
+
+    Parameters
+    ----------
+    daft : [str]
+        the HTML retrieved from beautifulSoup.
+
+    Returns
+    -------
+    [list]
+        A list of all adverts
+    """
     children = daft.find('ul', {'data-testid': 'results'}).children
     return list(filter(lambda el: el.name == 'li', children))
 
-# Some advert in property list
-# advert a main buidling (ie: the Altus complex)
-# and then list available type of property
-# available within this complex
-# required to test if advert is unique advert of
-# "wrapper" of differnet subs advert
-# happend to Dublin ++
-
 
 def get_sub(ad):
+    """Some advert in property list
+    advert a main buidling (ie: the Altus complex)
+    and then list available type of property
+    available within this complex  
+    required to test if advert is unique advert of
+    "wrapper" of differnet subs advert
+    happend to Dublin ++
+
+    Parameters
+    ----------
+    ad : [str]
+        The HTML from a list reresenting the 
+        summarized information of an ad.
+
+    Returns
+    -------
+    [str]
+        The potential sub-ads of a main ads
+    """
     return ad.find('div', {'data-testid': 'sub-units-container'})
 
 # After if statement
@@ -89,6 +166,18 @@ def get_sub(ad):
 
 
 def if_sub_get_lis(sub):
+    """Retrieves the sub-adverts of a given main ads
+
+    Parameters
+    ----------
+    sub : [str]
+        The HTML container of all sub-adverts.
+
+    Returns
+    -------
+    [str]
+        The HTML li's of the sub-adverts.
+    """
     return sub.find('ul', {'data-testid': 'sub-units'}).find_all('li')
 
 
