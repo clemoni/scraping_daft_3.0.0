@@ -1,8 +1,7 @@
 """
 This the main scraper
 """
-
-# import pandas as pd
+import pandas as pd
 import my_packages.scraptools.scrap_main as sm
 import my_packages.fptools.fptools as fp
 import json
