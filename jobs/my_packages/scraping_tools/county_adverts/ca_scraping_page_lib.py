@@ -1,6 +1,7 @@
-import fp_tools.fp_lib as fp
+# modules
 
-from scraping_tools import global_lib
+import my_packages.fp_tools.fp_lib as fp
+from my_packages.scraping_tools import global_lib
 
 
 #  ________________________________________________________________

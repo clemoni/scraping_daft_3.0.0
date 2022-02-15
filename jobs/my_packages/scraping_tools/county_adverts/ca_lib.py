@@ -1,7 +1,8 @@
-import fp_tools.fp_lib as fp
+# module
 
-from scraping_tools import global_lib
-from scraping_tools.scraping_advert import sa_main as sam
+import my_packages.fp_tools.fp_lib as fp
+import my_packages.scraping_tools.global_lib as global_lib
+from my_packages.scraping_tools.scraping_advert import sa_main as sam
 
 
 def init_url(*, county, page=0):

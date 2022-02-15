@@ -1,6 +1,6 @@
-import scraping_tools.scraping_advert.sa_lib as sa
-import fp_tools.fp_lib as fp
-from test.fake_advert import FakeAdvert
+import my_packages.scraping_tools.scraping_advert.sa_lib as sa
+import my_packages.fp_tools.fp_lib as fp
+from my_packages.test.fake_advert import FakeAdvert
 import unittest
 
 
@@ -60,7 +60,7 @@ class TestScrapingAdvertLib(unittest.TestCase):
         self.assertEqual(sa.get_facilities(
             self.fake_advert.get_FACILITIES), '\n - Parking - \n - Central Heating - \n')
 
-    def test_get_overview_if_None_element(self):
+    def test_get_facilities_if_None_element(self):
         self.assertEqual(sa.get_facilities(None), None)
 
 # test BER id

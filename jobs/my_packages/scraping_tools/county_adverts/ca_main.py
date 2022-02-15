@@ -1,8 +1,8 @@
-from scraping_tools import global_lib
-from scraping_tools.county_adverts import ca_lib as lib
-from scraping_tools.county_adverts import ca_scraping_page_lib as scraping_lib
-
-from scraping_tools.bs4 import bs4_lib as bs4
+# modules
+import my_packages.scraping_tools.global_lib as global_lib
+from my_packages.scraping_tools.county_adverts import ca_lib as lib, ca_scraping_page_lib as scraping_lib
+# from my_packages.scraping_tools.county_adverts import ca_scraping_page_lib as scraping_lib
+from my_packages.scraping_tools.bs4 import bs4_lib as bs4
 
 
 class CountyAdverts():

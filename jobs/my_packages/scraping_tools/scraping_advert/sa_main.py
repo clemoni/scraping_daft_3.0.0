@@ -1,5 +1,6 @@
-from scraping_tools.scraping_advert import sa_lib as lib
-from scraping_tools.bs4 import bs4_lib as bs4
+# modules
+from my_packages.scraping_tools.scraping_advert import sa_lib as lib
+from my_packages.scraping_tools.bs4 import bs4_lib as bs4
 from datetime import date
 
 

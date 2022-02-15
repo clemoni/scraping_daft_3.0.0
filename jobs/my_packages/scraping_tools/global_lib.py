@@ -1,5 +1,6 @@
+# modules
 import functools
-import fp_tools.fp_lib as fp
+import my_packages.fp_tools.fp_lib as fp
 
 
 def is_element_available(fn):

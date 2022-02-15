@@ -1,12 +1,8 @@
-# from urllib.request import urlopen
-# from bs4 import BeautifulSoup, BeautifulStoneSoup
+# modules
 import re
-
-import fp_tools.fp_lib as fp
-
+import my_packages.fp_tools.fp_lib as fp
 import functools
-
-from scraping_tools import global_lib
+from my_packages.scraping_tools import global_lib
 
 
 #########################################
