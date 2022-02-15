@@ -1,13 +1,9 @@
-"""
-This the main scraper
-"""
+from my_packages.scraping_tools.county_adverts import ca_main as cam
+import my_packages.fp_tools.fp_lib as fp
 import pandas as pd
-import my_packages.scraptools.scrap_main as sm
-import my_packages.fptools.fptools as fp
 import json
 import os
 
-# this has been added to test
 
 COUNTIES = ['carlow', 'cavan', 'clare', 'cork', 'donegal',
             'dublin', 'galway', 'kerry', 'kildare', 'kilkenny', 'laois', 'leitrim',
@@ -15,38 +11,24 @@ COUNTIES = ['carlow', 'cavan', 'clare', 'cork', 'donegal',
             'roscommon', 'sligo', 'tipperary', 'waterford', 'westmeath', 'wexford', 'wicklow']
 
 
-get_daft = sm.try_action(sm.init_get_app('lxml'))
+def get_adverts_per_county(county):
+    new_adverts_per_county = cam.CountyAdverts(investigated_county=county)
+    return new_adverts_per_county.get_all_adverts_for_county
 
 
-def run_get_ads_by_county(county):
-    url = sm.init_url(county)
-
-    daft = get_daft(url['base'],
-                    url['general_search'],
-                    url['county'],
-                    url['pages'])
-
-    limit = sm.get_calculated_limit(daft)
-
-    flatten_data_ads_county = sm.init_get_adds_by_page(
-        get_daft)(limit, county=county)
-
-    return sm.flatten_data_ads(flatten_data_ads_county)
-
-
-def parse_ads_county_json(ie_county, res):
+def create_json_from_adverts_county(ie_county, res):
     path_to_json = f"data/{ie_county}_rent.json"
     df_result = pd.DataFrame(res)
     df_result.to_json(path_to_json, orient="records")
 
 
-get_rent_parse_county_json = fp.compose_recyle(
-    parse_ads_county_json,
-    run_get_ads_by_county
+create_adverts_json_from_county = fp.compose_recyle(
+    create_json_from_adverts_county,
+    get_adverts_per_county
 )
 
 
-def get_ads_county_json(county):
+def get_adverts_county_from_json(county):
     path = f"/opt/airflow/data/{county}_rent.json"
     try:
         with open(path) as file:
@@ -74,4 +56,4 @@ def remove_json_file(county):
 
 if __name__ == "__main__":
 
-    get_rent_parse_county_json('wicklow')
+    get_adverts_per_county('wicklow')
