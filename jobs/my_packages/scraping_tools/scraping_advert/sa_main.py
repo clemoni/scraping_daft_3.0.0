@@ -32,7 +32,9 @@ class Advert():
 
     @property
     def get_advert(self):
-        return self.__dict__
+        advert = self.__dict__
+        overview = advert.pop('overview')
+        return {**advert, **overview}
 
 
 def get_advert_object_from_county_link(county, advert_url):
