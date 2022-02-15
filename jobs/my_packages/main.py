@@ -14,21 +14,21 @@ COUNTIES = ['carlow', 'cavan', 'clare', 'cork', 'donegal',
             'roscommon', 'sligo', 'tipperary', 'waterford', 'westmeath', 'wexford', 'wicklow']
 
 
-get_daft = sm.try_action(sm.init_get_app('lxml'))
+get_daft_page = sm.try_action(fn=sm.init_get_app(parser='lxml'))
 
 
 def run_get_ads_by_county(county):
     url = sm.init_url(county)
 
-    daft = get_daft(url['base'],
-                    url['general_search'],
-                    url['county'],
-                    url['pages'])
+    daft = get_daft_page(url['base'],
+                         url['general_search'],
+                         url['county'],
+                         url['pages'])
 
     limit = sm.get_calculated_limit(daft)
 
     flatten_data_ads_county = sm.init_get_adds_by_page(
-        get_daft)(limit, county=county)
+        get_daft_page)(limit, county=county)
 
     return sm.flatten_data_ads(flatten_data_ads_county)
 

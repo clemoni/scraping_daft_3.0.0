@@ -56,7 +56,7 @@ def init_url(county, page=0):
 
 # Get HTML APP
 
-def init_get_app(parser):
+def init_get_app(*, parser):
     """Initialise the function get_app with a specific 
     parser for beautifulSoup.
 
@@ -85,12 +85,12 @@ def init_get_app(parser):
     return get_app
 
 
-def try_action(func):
+def try_action(*, fn):
     """Encapuslts a function into a Try Cath
 
     Parameters
     ----------
-    func : [fun]
+    fn : [fun]
         A given function that might raise error message 
     """
 
@@ -105,7 +105,7 @@ def try_action(func):
         """
 
         try:
-            res = func(*args)
+            res = fn(*args)
 
         except Exception as e:
             print(e)
