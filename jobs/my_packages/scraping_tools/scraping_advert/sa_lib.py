@@ -224,7 +224,7 @@ get_property_type = fp.compose(
 ##############################
 
 
-@global_lib.is_element_available_NoneArray
+@global_lib.is_element_available
 def extract_element_overview(advert):
     """
     Retrieves the div element that contains the
@@ -243,9 +243,12 @@ def extract_element_overview(advert):
         If not property type retrieved, returns None
 
     """
-    overview = advert.find('div', {'data-testid': 'overview'})
+    return advert.find('div', {'data-testid': 'overview'})
 
-    return overview.ul.children
+
+@global_lib.is_element_available_NoneArray
+def get_li_from_element(element_overview):
+    return element_overview.ul.children
 
 
 @global_lib.apply_fn_to_list
@@ -313,12 +316,12 @@ def filter_useful_overview():
 
 format_filtered_overview = global_lib.convert_to_dic()
 
-get_overview = fp.compose_4(
+get_overview = fp.compose_5(
     format_filtered_overview,
     filter_useful_overview,
     format_overview,
+    get_li_from_element,
     extract_element_overview)
-
 
 ##############################
 #     ADVERT FACILITIES      #
