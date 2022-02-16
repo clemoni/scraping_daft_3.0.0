@@ -3,7 +3,7 @@ import sys
 import my_packages.dbtools.db_main as db
 import random
 from my_packages.main import COUNTIES, \
-    get_ads_county_json, \
+    get_adverts_county_from_json, \
     get_still_open_ads, \
     get_to_close_ads, \
     get_to_insert_ads, \
@@ -58,8 +58,8 @@ if __name__ == "__main__":
     db_select = db.init_select(path)
 
     # get newly scraped ads from county
-    new_ads = get_ads_county_json(county)
-    # new_ads = get_ads_county_json('dublin')
+    new_ads = get_adverts_county_from_json(county)
+    # new_ads = get_adverts_county_from_json('dublin')
 
     # filter to get list of advert_ids from newly scraped ads
     new_ads_ids = set([ad['advert_id']for ad in new_ads])

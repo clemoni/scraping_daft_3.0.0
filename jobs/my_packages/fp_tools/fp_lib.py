@@ -118,6 +118,24 @@ def compose_4(i, h, g, f):
     return j
 
 
+def compose_5(j, i, h, g, f):
+    def k(x):
+        return j(i(h(g(f(x)))))
+    return k
+
+
+def compose_6(k, j, i, h, g, f):
+    def l(x):
+        return k(j(i(h(g(f(x))))))
+    return l
+
+
+def compose_7(l, k, j, i, h, g, f):
+    def m(x):
+        return l(k(j(i(h(g(f(x)))))))
+    return m
+
+
 def compose_args(*funcs):
     """
     Curry function of *funcs paramters in the form:
@@ -189,6 +207,12 @@ def init_format_compose(*funcs, **keys):
 def compose_recyle(g, f):
     def h(x):
         return g(x, f(x))
+    return h
+
+
+def compose_parse_2(g, f):
+    def h(x, y):
+        return g(f(x, y))
     return h
 
 

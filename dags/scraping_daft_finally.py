@@ -69,6 +69,7 @@ ON t1.created_at = t3.created_at
 def get_reporting_all(ti=None):
     pg_hook = PostgresHook(postgres_conn_id='postgres_db')
     record = pg_hook.get_first(sql=get_reporting_sql),
+    print(record)
     exec_date, nbr_created, nbr_closed, nbr_fake = record[0]
 
     message = f'''Scraping Daft 

@@ -2,12 +2,6 @@ from pyspark.sql import SparkSession
 import sys
 import my_packages.dbtools.db_main as db
 import random
-from my_packages.main import COUNTIES, \
-    get_ads_county_json, \
-    get_still_open_ads, \
-    get_to_close_ads, \
-    get_to_insert_ads, \
-    remove_json_file \
 
 
 PSQL_HOST = "postgres"
