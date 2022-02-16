@@ -1,7 +1,7 @@
-from pyspark.sql import SparkSession
-import sys
 import my_packages.dbtools.db_main as db
+from pyspark.sql import SparkSession
 import random
+import sys
 from my_packages.main import COUNTIES, \
     get_adverts_county_from_json, \
     get_still_open_ads, \
