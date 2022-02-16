@@ -93,7 +93,7 @@ def get_advert_object_from_adverts_county_page(*,
         # print('running get new advert...')
 
         link = iter_links.pop(0)
-        print(link)
+
         advert_object = fn(county=county, advert_url=link)
 
         output.append(advert_object.get_advert)
