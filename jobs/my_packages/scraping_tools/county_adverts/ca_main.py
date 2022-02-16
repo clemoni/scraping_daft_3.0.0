@@ -1,3 +1,14 @@
+'''
+Main module of county advert 
+
+CountyAdvert is use a class 
+to represent all the adverts related 
+to a county in daft.ie.
+
+All the apps are display in results list 
+divided in different pages.
+'''
+
 # modules
 import my_packages.scraping_tools.global_lib as global_lib
 from my_packages.scraping_tools.county_adverts import ca_lib as lib, ca_scraping_page_lib as scraping_lib
@@ -6,6 +17,11 @@ from my_packages.scraping_tools.bs4 import bs4_lib as bs4
 
 
 class CountyAdverts():
+    """
+    Represent the search of all the adverts 
+    retlated to a specific county.
+    """
+
     def __init__(self, *, investigated_county):
         self.county = investigated_county
         self.url = lib.init_url(county=investigated_county)

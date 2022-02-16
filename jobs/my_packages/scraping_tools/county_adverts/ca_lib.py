@@ -1,5 +1,4 @@
 # module
-
 import my_packages.fp_tools.fp_lib as fp
 import my_packages.scraping_tools.global_lib as global_lib
 from my_packages.scraping_tools.scraping_advert import sa_main as sam
@@ -37,6 +36,22 @@ def init_url(*, county, page=0):
 
 
 def extract_element_adverts_count(county_adverts):
+    """
+    Retrieve the element h1 
+    that contains the total number
+    of adverts for a given county
+
+    Parameters
+    ----------
+    county_adverts : [class]
+        instanciated bs4 class of list of adverts
+        for a given county.
+
+    Returns
+    -------
+    [str]
+       Element html h1 that contains number
+    """
     return county_adverts.main.find('h1', {'data-testid': 'search-h1'})
 
 
@@ -44,6 +59,20 @@ get_encapsulated_adverts_count_from_element = global_lib.get_text_from_element
 
 
 def get_adverts_counts_number(extracted_counts):
+    """
+    Retrives the number of adverts per county 
+    the html element.
+
+    Parameters
+    ----------
+    extracted_counts : [str]
+        An HTML element that contains the nubmers of adverts.
+
+    Returns
+    -------
+    [str]
+        A string of the number of adverts for a given county.
+    """
     int_number = extracted_counts.split()[0]
     if int_number.find(',') != -1:
         int_number = int_number.replace(',', '')
@@ -80,6 +109,39 @@ def get_advert_object_from_adverts_county_page(*,
                                                iter_links=None,
                                                output=None,
                                                fn=sam.get_advert_object_from_county_link):
+    """
+    Recursive function.
+    For a given page result (ie. page 0 on 30 pages)
+    that contains a list of adverts a given county, 
+    the function get_advert_object_from_county_link
+    is applied. 
+
+    This function returns a dictionary of all the essential information 
+    related to the advert.
+
+    Parameters
+    ----------
+    links_from_county_page : [list]
+        list of all partial urls of all the adverts for a
+        given page results.
+    county : [str]
+        an irish county
+    iter_links : [list], optional
+        links_from_county_page is copy to this
+        variables in order to preserve integrity of it.
+        For each new function call the last index is poped out 
+        of inter_linls.
+    output : [list], optional
+        Return an list of dictionaries.
+    fn : [function], optional
+        the function that is used to
+        retrieved data from each advert,
+        by default sam.get_advert_object_from_county_link
+
+    Returns
+    -------
+    output [list]
+    """
 
     iter_links = iter_links if iter_links is not None else [
         *links_from_county_page]
