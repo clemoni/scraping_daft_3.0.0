@@ -43,7 +43,7 @@ class CountyAdverts():
 
     @staticmethod
     def get_all_adverts(self,
-                        current_page=760,
+                        current_page=0,
                         output=None,
                         fn_get_links=scraping_lib.get_links_for_county_adverts_page,
                         fn_get_advert=lib.get_advert_object_from_adverts_county_page,):
