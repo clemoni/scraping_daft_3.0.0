@@ -28,3 +28,9 @@ sh init-project.sh
 ```linux
 sh kill-project.sh
 ```
+
+## Some Insight
+
+### the script to scrapt advert for a county_name
+
+<img src='./img/schema_scraping_daft.png' width='100'>
