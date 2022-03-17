@@ -31,6 +31,6 @@ sh kill-project.sh
 
 ## Some Insights
 
-### the script to scrapt advert for a county
+### How scraping the adverts for county works: main functionalities
 
 <img src='./img/scraping_daft_schema.png'>
