@@ -29,8 +29,8 @@ sh init-project.sh
 sh kill-project.sh
 ```
 
-## Some Insight
+## Some Insights
 
-### the script to scrapt advert for a county_name
+### the script to scrapt advert for a county
 
 <img src='./img/schema_scraping_daft.png'>
