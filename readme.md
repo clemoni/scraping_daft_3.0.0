@@ -33,4 +33,4 @@ sh kill-project.sh
 
 ### the script to scrapt advert for a county_name
 
-<img src='./img/schema_scraping_daft.png' width='100'>
+<img src='./img/schema_scraping_daft.png' width='600'>
