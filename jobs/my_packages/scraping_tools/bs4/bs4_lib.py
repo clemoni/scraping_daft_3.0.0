@@ -41,7 +41,7 @@ def init_get_app(*, parser='lxml'):
         Parameters
         ----------
         urls : [dic]
-        A dictionary where entries reprensent the url
+        A dictionary where entries represent the url
 
         Returns
         -------

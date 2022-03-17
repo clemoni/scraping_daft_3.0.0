@@ -95,6 +95,8 @@ def get_link_from_advert(advert):
 
 # ________________________________________________________________
 # fn get_county_adverts to retrieve all adverts in a page
+# Return a list of all the partial urls of adverts for a page
+# for specific county
 
 get_links_for_county_adverts_page = fp.compose_7(
     get_link_from_advert,

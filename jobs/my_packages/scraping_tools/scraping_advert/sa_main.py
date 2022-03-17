@@ -70,7 +70,7 @@ class Advert():
 
 def get_advert_object_from_county_link(county, advert_url):
     '''
-    Return an instanciated class Advert 
+    Return an instantiated class Advert 
     given a county and the partial url of advert page 
     from daft.ie.
 

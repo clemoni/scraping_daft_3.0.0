@@ -111,7 +111,7 @@ def extract_element_price_frequency(advert):
         The span element that contains the price frequency
     """
     price = advert.find('div', {'data-testid': 'price'})
-    return price.p.span
+    return price.span
 
 
 get_price_frequency_from_element = global_lib.get_text_from_element

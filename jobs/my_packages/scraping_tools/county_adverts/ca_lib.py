@@ -34,6 +34,10 @@ def init_url(*, county, page=0):
 # ________________________________________________________________
 # CALCUL LIMIT
 
+# retrieves from the page results the maximun number of pages for a given county.
+# There is 20 advertismenents per page
+# Then extract the total number of advertisement to calculate the limit
+
 
 def extract_element_adverts_count(county_adverts):
     """

@@ -30,23 +30,22 @@ class CountyAdverts():
     def change_page(self, page_number):
         self.url['page'] = f'?from={page_number}&pageSize=20'
 
+    @staticmethod
+    def get_advertisements_per_page(*url):
+        return bs4.get_app(*url)
+
     def get_advertisements_per_page_given_a_page(self, page_number):
         self.change_page(page_number)
+
+        # TODO shouldn't we replace get_advertisements_per_page for bs4.get_app ?
+        # is bringing any additional clarity ?
+
         bas4_adverts_per_page = self.get_advertisements_per_page(
             self.url['base'],
             self.url['general_search'],
             self.url['county'],
             self.url['page'])
         return bas4_adverts_per_page
-
-    @property
-    def get_all_adverts_for_county(self):
-        all_adverts = self.get_all_adverts(self)
-        return global_lib.flatten_array(all_adverts)
-
-    @staticmethod
-    def get_advertisements_per_page(*url):
-        return bs4.get_app(*url)
 
     @staticmethod
     def get_limit(self):
@@ -84,3 +83,8 @@ class CountyAdverts():
             next_page = current_page+20
 
             return self.get_all_adverts(self, current_page=next_page, output=output)
+
+    @property
+    def get_all_adverts_for_county(self):
+        all_adverts = self.get_all_adverts(self)
+        return global_lib.flatten_array(all_adverts)
