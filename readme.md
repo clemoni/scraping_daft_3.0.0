@@ -37,4 +37,6 @@ sh kill-project.sh
 
 ### How scraping the adverts for county works: main functionalities
 
-<img src='./img/dag_example.png'>
+<!-- <img src='./img/dag_example.png'> -->
+
+![schema of scraping script]('../img/dag_example.png')
