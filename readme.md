@@ -35,6 +35,8 @@ sh kill-project.sh
 
 <img scr='./img/dag_example.png'>
 
+testing
+
 ### How scraping the adverts for county works: main functionalities
 
 <img src='./img/scraping_daft_schema.png'>
