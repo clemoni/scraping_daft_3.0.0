@@ -39,4 +39,4 @@ testing
 
 ### How scraping the adverts for county works: main functionalities
 
-<img src='./img/scraping_daft_schema.png'>
+<img src='./img/dag_example.png'>
