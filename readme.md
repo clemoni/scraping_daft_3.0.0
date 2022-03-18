@@ -31,6 +31,10 @@ sh kill-project.sh
 
 ## Some Insights
 
+### Example of a DAG (Directed Acyclic Graph) to scrap adverts
+
+<img scr='./img/dag_example.png'>
+
 ### How scraping the adverts for county works: main functionalities
 
 <img src='./img/scraping_daft_schema.png'>
