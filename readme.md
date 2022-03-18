@@ -31,6 +31,8 @@ sh kill-project.sh
 
 ## Some Insights
 
+### Docker architecture
+
 ### Example of a DAG (Directed Acyclic Graph) to scrap adverts
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
