@@ -35,8 +35,17 @@ sh kill-project.sh
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
 
-### How scraping the adverts for county works: main functionalities
+- **run_init_county**: initialises Xcom with a given county.
+- **scrap_data**: where most of the magic happens. The adverts are collected and inserted into a JSON file.
+- **waiting_for_file**: FileSensor, wait for the file containing the adverts to be created.
+- **persist_data**: compares the collected adverts with the open adverts in the database for this given county.
+  - Status “open” in the database but not scraped > they have been removed therefore, they must be closed.
+  - “Status “open” in the database and scraped > they are still available on daft.ie, we don’t do anything else.
+  - Not available in the datable but scraped > they have been created, they need to be inserted in the database.
+- **get_reporting**: triggers a Postgres SQL function that counts the number of adverts closed and inserted in the database for the given country on this day. Inserts the result to Xcom.
+- **notify_slack**: reads the Xcom to get the reporting and sent a message to the dedicated Slack channel.
+- **remove_file**: delete the file containing the scraped adverts.
 
-<!-- <img src='./img/dag_example.png'> -->
+### How scraping the adverts for county works: main functionalities
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
