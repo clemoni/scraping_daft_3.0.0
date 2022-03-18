@@ -49,3 +49,7 @@ sh kill-project.sh
 ### How scraping the adverts for county works: main functionalities
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
+
+## Slack Channel: Ireland Housing Market
+
+To access the slack channel, please click on the following [link](https://join.slack.com/t/irelandhousingmarket/shared_invite/zt-15sa2u18x-r6Cf0wxR2SVC2iF~aiH~XA).
