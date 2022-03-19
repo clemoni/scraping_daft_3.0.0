@@ -52,7 +52,8 @@ sh kill-project.sh
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
 
-![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema_2.png)
+![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/scraping_daft_schema_2.png)
+
 
 ## Slack Channel: Ireland Housing Market
 
