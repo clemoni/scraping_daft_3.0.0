@@ -31,8 +31,6 @@ sh kill-project.sh
 
 ## Some Insights
 
-### Docker architecture
-
 ### How scraping the adverts for county works: main functionalities
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
