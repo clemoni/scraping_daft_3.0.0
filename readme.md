@@ -31,7 +31,7 @@ sh kill-project.sh
 
 ## Some Insights
 
-## Architecture of Docker
+### Architecture of Docker
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/docker_architecture.png)
 
