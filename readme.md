@@ -37,11 +37,11 @@ sh kill-project.sh
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
 
-![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema_2.png)
+![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/scraping_daft_schema_2.png)
 
 ### Updating the database, 3 possible outcomes
 
-![3 outcomes](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
+![3 outcomes](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/updating_db_outcomes.png)
 
 ### Example of a DAG (Directed Acyclic Graph) to scrap adverts
 
