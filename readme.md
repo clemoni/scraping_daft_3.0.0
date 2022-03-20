@@ -34,10 +34,12 @@ sh kill-project.sh
 ### Architecture of Docker
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/docker_architecture.png)
+_image 1_
 
 ### Example of a DAG (Directed Acyclic Graph) to scrap adverts
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
+_image 2_
 
 - **run_init_county**: initialises Xcom with a given county.
 - **scrap_data**: where most of the magic happens. The adverts are collected and inserted into a JSON file.
@@ -53,12 +55,15 @@ sh kill-project.sh
 ### How scraping the adverts for a given county works: main functionalities
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
+_image 3_
 
 ![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/scraping_daft_schema_2.png)
+_image 4_
 
 ### Updating the database, 3 possible outcomes
 
 ![3 outcomes](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/updating_db_outcomes.png)
+_image 5_
 
 ## Slack Channel: Ireland Housing Market
 
