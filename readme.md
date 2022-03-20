@@ -31,16 +31,6 @@ sh kill-project.sh
 
 ## Some Insights
 
-### How scraping the adverts for county works: main functionalities
-
-![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
-
-![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/scraping_daft_schema_2.png)
-
-### Updating the database, 3 possible outcomes
-
-![3 outcomes](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/updating_db_outcomes.png)
-
 ### Example of a DAG (Directed Acyclic Graph) to scrap adverts
 
 ![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
@@ -55,6 +45,16 @@ sh kill-project.sh
 - **get_reporting**: triggers a Postgres SQL function that counts the number of adverts closed and inserted in the database for the given country on this day. Inserts the result to Xcom.
 - **notify_slack**: reads the Xcom to get the reporting and sent a message to the dedicated Slack channel.
 - **remove_file**: delete the file containing the scraped adverts.
+
+### How scraping the adverts for a given county works: main functionalities
+
+![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/scraping_daft_schema.png)
+
+![schema of scraping script](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/scraping_daft_schema_2.png)
+
+### Updating the database, 3 possible outcomes
+
+![3 outcomes](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/updating_db_outcomes.png)
 
 ## Slack Channel: Ireland Housing Market
 
