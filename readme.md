@@ -33,7 +33,7 @@ sh kill-project.sh
 
 ## Architecture of Docker
 
-![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/dev/img/dag_example.png)
+![example of dag](https://github.com/clemoni/scraping_daft_3.0.0/blob/main/img/docker_architecture.png)
 
 ### Example of a DAG (Directed Acyclic Graph) to scrap adverts
 
